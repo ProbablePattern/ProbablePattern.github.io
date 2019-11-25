@@ -5,12 +5,68 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Currency Risk</title>
+      <link>/tags/currency-risk/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/currency-risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Asymmetry</title>
+      <link>/tags/information-asymmetry/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/information-asymmetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Diffusion</title>
+      <link>/tags/information-diffusion/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/information-diffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Market Microstructure</title>
+      <link>/tags/market-microstructure/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/market-microstructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Analysis</title>
+      <link>/tags/network-analysis/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/network-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systemic Risk</title>
+      <link>/tags/systemic-risk/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/systemic-risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VPIN</title>
+      <link>/tags/vpin/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/vpin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fixed Income</title>

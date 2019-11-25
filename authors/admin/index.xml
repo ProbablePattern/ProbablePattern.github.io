@@ -5,12 +5,36 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Stephen Rush, CFA</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Dr. Stephen Rush, CFA</title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>A Network Analysis of Information Diffusion in the Financial Sector</title>
+      <link>/publication/preprint/networkfinancial/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/networkfinancial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Currency Risk and Information Diffusion</title>
+      <link>/publication/preprint/currencyrisk/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/currencyrisk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying and Pricing Adverse Selection Risk with VPIN</title>
+      <link>/publication/preprint/pricingvpin/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/pricingvpin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>

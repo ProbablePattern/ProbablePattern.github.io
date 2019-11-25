@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Currency Risk | Dr. Stephen Rush, CFA</title>
+    <link>/tags/currency-risk/</link>
+      <atom:link href="/tags/currency-risk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Currency Risk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Currency Risk</title>
+      <link>/tags/currency-risk/</link>
+    </image>
+    
+    <item>
+      <title>Currency Risk and Information Diffusion</title>
+      <link>/publication/preprint/currencyrisk/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/currencyrisk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
