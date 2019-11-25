@@ -13,72 +13,401 @@
     </image>
     
     <item>
-      <title>Example Page 1</title>
-      <link>/courses/example/example1/</link>
+      <title>Securities Markets</title>
+      <link>/courses/investments/securities_markets/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example1/</guid>
+      <guid>/courses/investments/securities_markets/</guid>
       <description>
 
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;the-principle-agent-problem&#34;&gt;The Principle-Agent Problem&lt;/h2&gt;
 
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;h2 id=&#34;adverse-selection&#34;&gt;Adverse Selection&lt;/h2&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;h2 id=&#34;asymmetric-information&#34;&gt;Asymmetric Information&lt;/h2&gt;
 
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/sXPXpJ5vMnU&#34;&gt;MRUniversity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;h2 id=&#34;role-of-the-financial-analyst&#34;&gt;Role of the Financial Analyst&lt;/h2&gt;
 
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/SZj8tYNgIJ4&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;sellside-vs-buyside-analysts&#34;&gt;Sellside vs Buyside Analysts&lt;/h2&gt;
 
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/dObgCdfP2Sc&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;h2 id=&#34;short-selling-a-stock&#34;&gt;Short Selling a Stock&lt;/h2&gt;
 
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds/shorting-stock/v/shorting-stock&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/AVXW95MyD54&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;h2 id=&#34;initial-public-offering-ipo&#34;&gt;Initial Public Offering (IPO)&lt;/h2&gt;
 
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds/venture-capital-and-capital-markets/v/raising-money-for-a-startup&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;market-capitalization&#34;&gt;Market Capitalization&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/KPDMn0gES44&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;what-is-an-etf&#34;&gt;What is an ETF?&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/83DoOBBsKYk?list=PLA33D9F40D19C5320&#34;&gt;APM&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;risk-and-return&#34;&gt;Risk and Return&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Arithmetic and Geometric Returns @ &lt;a href=&#34;https://youtu.be/e-C_QwBl3-8&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Effective Annual Rate @ &lt;a href=&#34;https://youtu.be/Fy8Zd6QvwnU&#34;&gt;Edspira&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/RuPMsK0mQC8&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Diversification and Portfolio Calculations @ &lt;a href=&#34;https://youtu.be/tL7Lcl90Sc0&#34;&gt;MIT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Uncertainty @ &lt;a href=&#34;https://youtu.be/yvcg_WE5O-o&#34;&gt;Yale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Value at Risk @ &lt;a href=&#34;https://youtu.be/92WaNz9mPeY&#34;&gt;MIT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Example Page 2</title>
-      <link>/courses/example/example2/</link>
+      <title>Risk, Returns, and History</title>
+      <link>/courses/investments/risk_returns_history/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example2/</guid>
+      <guid>/courses/investments/risk_returns_history/</guid>
       <description>
 
-&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;arithmetic-and-geometric-returns&#34;&gt;Arithmetic and Geometric Returns&lt;/h2&gt;
 
-&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/e-C_QwBl3-8&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;h2 id=&#34;effective-annual-rate&#34;&gt;Effective Annual Rate&lt;/h2&gt;
 
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/Fy8Zd6QvwnU&#34;&gt;Edspira&lt;/a&gt; | Video: &lt;a href=&#34;https://youtu.be/RuPMsK0mQC8&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;h2 id=&#34;diversification-and-portfolio-calculations&#34;&gt;Diversification and Portfolio Calculations&lt;/h2&gt;
 
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/tL7Lcl90Sc0&#34;&gt;MIT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;uncertainty&#34;&gt;Uncertainty&lt;/h2&gt;
 
-&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/yvcg_WE5O-o&#34;&gt;Yale&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;h2 id=&#34;value-at-risk&#34;&gt;Value at Risk&lt;/h2&gt;
 
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/92WaNz9mPeY&#34;&gt;MIT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Portfolio Theory</title>
+      <link>/courses/investments/portfoliotheory/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/investments/portfoliotheory/</guid>
+      <description>
 
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;h2 id=&#34;efficient-frontier&#34;&gt;Efficient Frontier&lt;/h2&gt;
 
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/J7d3vcaS9-o&#34;&gt;MIT(1)&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/z2oQe6B1Qa4&#34;&gt;MIT(2)&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/8TJQhQ2GZ0Y&#34;&gt;MIT(3)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;efficient-portfolios&#34;&gt;Efficient Portfolios&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/oAvx-l053Tk&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;portfolio-optimization&#34;&gt;Portfolio Optimization&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Linear Algebra Review
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/xyAuNHPsq-g&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Matrix Multiplication
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/aKhhYguY0DQ&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;portfolio-calculations-using-linear-algebra&#34;&gt;Portfolio Calculations using Linear Algebra&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Portfolio Expected Return&lt;/li&gt;
+&lt;li&gt;Portfolio Variance&lt;/li&gt;
+&lt;li&gt;Optimal Risky Portfolio&lt;/li&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/ywl3pq6yc54&#34;&gt;MIT&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/_B_24GUWdSM&#34;&gt;Yale&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CAPM and Factor Models</title>
+      <link>/courses/investments/capm_factors/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/investments/capm_factors/</guid>
+      <description>
+
+&lt;h2 id=&#34;the-capital-asset-pricing-model&#34;&gt;The Capital Asset Pricing Model&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/fDz_DgDJD5g&#34;&gt;Edspira&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/N8gtnbJuMoo&#34;&gt;MIT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;beta&#34;&gt;Beta&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/sYu8E8kjCT0&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;estimate-beta&#34;&gt;Estimate Beta:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/b4FsppHu3rE&#34;&gt;CAPM Regression&lt;/a&gt; and &lt;a href=&#34;https://youtu.be/ZfyYjC1Tcks&#34;&gt;Regression Results&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;systematic-vs-idiosyncratic-risk&#34;&gt;Systematic vs Idiosyncratic Risk&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/qPu4TEGIDYI&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;security-market-line&#34;&gt;Security Market Line&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/QtScOojh5z8&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;capital-market-line&#34;&gt;Capital Market Line&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/wOaKzthMUQ0&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;fama-and-french-models&#34;&gt;Fama and French Models&lt;/h2&gt;
+
+&lt;h2 id=&#34;arbitrage-pricing-theory-apt&#34;&gt;Arbitrage Pricing Theory (APT)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Multifactor Models
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/lJCvxrj-YtA&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Macroeconomic &amp; Industry Analysis</title>
+      <link>/courses/investments/macro_industry/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/investments/macro_industry/</guid>
+      <description>
+
+&lt;h2 id=&#34;macroeconomic-metrics&#34;&gt;Macroeconomic Metrics&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Gross Domestric Product (GDP)
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Unemployment
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/current-economics/unemployment-tutorial/v/unemployment&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Consumer Sentiment&lt;/li&gt;
+&lt;li&gt;Industrial Production&lt;/li&gt;
+&lt;li&gt;Interest Rates&lt;/li&gt;
+&lt;li&gt;Inflation&lt;/li&gt;
+&lt;li&gt;The Money Supply
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/monetary-system-topic/money-supply-tutorial/v/money-supply-m0-m1-and-m2&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Foreign Exchange
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/currency-tutorial/v/currency-exchange-introduction&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Balance of Payments
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/forex-trade-topic/current-capital-account/v/balance-of-payments-current-account&#34;&gt;Khan Academy&lt;/a&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;business-cycle-theory&#34;&gt;Business Cycle Theory&lt;/h2&gt;
+
+&lt;h2 id=&#34;industrial-organization&#34;&gt;Industrial Organization&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Financial Statement Analysis</title>
+      <link>/courses/investments/fsa/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/investments/fsa/</guid>
+      <description>
+
+&lt;h2 id=&#34;accounting-review&#34;&gt;Accounting Review&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: Additional Paid-in Capital @ &lt;a href=&#34;https://youtu.be/8GSdrqrbp8A&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video: Altman Z score @ &lt;a href=&#34;https://youtu.be/zKR0IKWcHNw&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video: Net Working Capital @ &lt;a href=&#34;https://youtu.be/EovKfDwRt9Q&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;dupont-analysis&#34;&gt;DuPont Analysis&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/YgZ4FnApo58&#34;&gt;ATM&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;earnings-management&#34;&gt;Earnings Management&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/JmC7uW0-9M8&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;earnings-quality&#34;&gt;Earnings Quality&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/FaY17jAD29Y&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Equity Valuation</title>
+      <link>/courses/investments/equityvaluation/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/investments/equityvaluation/</guid>
+      <description>
+
+&lt;h2 id=&#34;relative-valuation&#34;&gt;Relative Valuation&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/9rOeDOuvTUw&#34;&gt;Rush&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/Q3w3IqgC8sY&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-dividend-discount-model&#34;&gt;The Dividend Discount Model&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video Example: &lt;a href=&#34;https://youtu.be/XNFkOavBBmg&#34;&gt;Rush&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/TlH3_iOHX3s&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;discounted-cash-flow-valuation&#34;&gt;Discounted Cash Flow Valuation&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: The Weighted Average Cost of Capital (WACC) @ &lt;a href=&#34;https://youtu.be/46oLXwClvkw&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video: Free Cash Flow to the Firm @ &lt;a href=&#34;https://youtu.be/F5-VsVcbmCQ&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video: Sources and Uses of Cash @ &lt;a href=&#34;https://youtu.be/Fsj6EFXvMUc&#34;&gt;ATM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video: DCF using FCFF @ &lt;a href=&#34;https://youtu.be/7PpWneOBJls&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;DCF using Free Cash Flow to Equity
+
+&lt;ul&gt;
+&lt;li&gt;Video: Sustainable Growth Rate @ &lt;a href=&#34;https://youtu.be/2HD4e1jYulU&#34;&gt;ATM&lt;/a&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;alternative-models&#34;&gt;Alternative Models&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Economic Value Added (EVA)&lt;/li&gt;
+&lt;li&gt;Modified Residual Income&lt;/li&gt;
+&lt;li&gt;Equity as an Option&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Options</title>
+      <link>/courses/investments/options/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/investments/options/</guid>
+      <description>
+
+&lt;h2 id=&#34;what-is-a-derivative&#34;&gt;What is a Derivative?&lt;/h2&gt;
+
+&lt;h2 id=&#34;option-terminology&#34;&gt;Option Terminology&lt;/h2&gt;
+
+&lt;h2 id=&#34;put-and-call-options&#34;&gt;Put and Call Options&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities/put-call-options/v/american-call-options&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-binomial-option-pricing-model&#34;&gt;The Binomial Option Pricing Model&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/k_dCeLV_ilE&#34;&gt;Rush&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-black-scholes-option-pricing-model&#34;&gt;The Black-Scholes Option Pricing Model&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities/black-scholes/v/introduction-to-the-black-scholes-formula&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;option-strategies&#34;&gt;Option Strategies&lt;/h2&gt;
+
+&lt;h2 id=&#34;portfolio-insurance&#34;&gt;Portfolio Insurance&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Futures and Commodities</title>
+      <link>/courses/investments/futures/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/investments/futures/</guid>
+      <description>
+
+&lt;h2 id=&#34;history-of-forward-and-futures-contracts&#34;&gt;History of Forward and Futures Contracts&lt;/h2&gt;
+
+&lt;h2 id=&#34;futures-overview&#34;&gt;Futures Overview&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities/forward-futures-contracts/v/forward-contract-introduction&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;mark-to-market&#34;&gt;Mark-to-Market&lt;/h2&gt;
+
+&lt;h2 id=&#34;spot-futures-parity&#34;&gt;Spot-Futures Parity&lt;/h2&gt;
+
+&lt;h2 id=&#34;pricing-futures-contracts&#34;&gt;Pricing Futures Contracts&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cost of Carry&lt;/li&gt;
+&lt;li&gt;Convenience Yield&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;contango-and-backwardation&#34;&gt;Contango and Backwardation&lt;/h2&gt;
 </description>
     </item>
     
