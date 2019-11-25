@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Ethics</title>
+      <link>/courses/intro-markets/ethics/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/intro-markets/ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Introduction</title>
       <link>/courses/managerial_finance/introduction/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
@@ -41,6 +49,39 @@
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>/courses/seminar-corporatefinance/methods/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Outline</title>
+      <link>/courses/markets-institutions/outline/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/markets-institutions/outline/</guid>
+      <description>
+
+&lt;h2 id=&#34;bonds&#34;&gt;Bonds&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Overview&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bond-duration&#34;&gt;Bond Duration&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Macaulay Duration&lt;/li&gt;
+&lt;li&gt;Modified Duration&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bank-balance-sheet&#34;&gt;Bank Balance Sheet&lt;/h2&gt;
+
+&lt;h2 id=&#34;loan-performance&#34;&gt;Loan Performance&lt;/h2&gt;
+
+&lt;h2 id=&#34;gap-analysis&#34;&gt;Gap Analysis&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Interest Rate Gap&lt;/li&gt;
+&lt;li&gt;Duration Gap&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
