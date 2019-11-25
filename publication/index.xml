@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Dr. Stephen Rush, CFA</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>The Bond Coupon’s Impact on Liquidity</title>
+      <link>/publication/journal-article/bonds/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/bonds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tactical asset allocation for US pension investors: How tactical should the plan be?</title>
+      <link>/publication/journal-article/taa/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/taa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Increased Trade Prevent Conflict with China?</title>
+      <link>/publication/journal-article/chinatrade/</link>
+      <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/chinatrade/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
