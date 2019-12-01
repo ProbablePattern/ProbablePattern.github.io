@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Library | Dr. Stephen Rush, CFA</title>
+    <link>/courses/library/</link>
+      <atom:link href="/courses/library/index.xml" rel="self" type="application/rss+xml" />
+    <description>Library</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Library</title>
+      <link>/courses/library/</link>
+    </image>
+    
+    <item>
+      <title>Data Sources</title>
+      <link>/courses/library/data/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/library/data/</guid>
+      <description>
+
+&lt;p&gt;There are many sources of data available but in my class and in your job, you must use primary sources. This means original data that has as little filtering as possible. This page includes other sources that are of comparable quality and reliability. They are free to access as you move from the university to your career.&lt;/p&gt;
+
+&lt;h2 id=&#34;macroeconomic-data&#34;&gt;Macroeconomic Data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bis.org/index.htm&#34;&gt;Bank for International Settlements&lt;/a&gt; (BIS) – international banking statistics&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bea.gov/&#34;&gt;Bureau of Economic Analysis&lt;/a&gt; (BEA)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bls.gov/&#34;&gt;Bureau of Labor Statistics&lt;/a&gt; (BLS) – U.S. employment statistics&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.econ.yale.edu/~shiller/data.htm&#34;&gt;CAPE Ratio&lt;/a&gt; – Cyclically Adjusted Price/Earnings Ratio by Robert Shiller&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.conference-board.org/data/consumerdata.cfm&#34;&gt;Conference Board&lt;/a&gt; – consumer confidence data&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.businesscycle.com/home/&#34;&gt;Economic Cycle Research Institute&lt;/a&gt; (ECRI)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.eia.doe.gov/&#34;&gt;Energy Information Administration&lt;/a&gt; (EIA)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fdic.gov/bank/analytical/qbp/index.html&#34;&gt;Federal Deposit Insurance Corporation&lt;/a&gt; (FDIC) - banking data&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://research.stlouisfed.org/fred2/&#34;&gt;Federal Reserve Economic Data&lt;/a&gt; (FRED) – macroeconomic data and interest rates&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instituteforsupplymanagement.org/ISMReport&#34;&gt;Institute for Supply Management&lt;/a&gt; (ISM) - manufacturing activity&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://www.nber.org/&#34;&gt;National Bureau of Economic Research&lt;/a&gt; (NBER) – official U.S. recession periods&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sca.isr.umich.edu/&#34;&gt;University of Michigan&lt;/a&gt; - consumer sentiment index&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.census.gov/retail/index.html&#34;&gt;U.S. Census Bureau&lt;/a&gt; - monthly retail trade report&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;market-data&#34;&gt;Market Data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cboe.com/MktQuote/default.aspx&#34;&gt;Chicago Board Options Exchange&lt;/a&gt; (CBOE)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cmegroup.com/&#34;&gt;Chicago Mercantile Exchange&lt;/a&gt; (CME) – delayed quotes on commodities&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://finra-markets.morningstar.com/MarketData&#34;&gt;FINRA Market Data&lt;/a&gt; – hosted by Morningstar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.quandl.com/&#34;&gt;Quandl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sec.gov/edgar.shtml&#34;&gt;Securities and Exchange Commission&lt;/a&gt; (SEC) – EDGAR database of company filings / start with the 10-K for annual data and the 10-Q for quarterly data&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;reseach-data&#34;&gt;Reseach Data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html&#34;&gt;Fama-French Factors&lt;/a&gt; - asset pricing factors produced by Kenneth French&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://global-q.org&#34;&gt;q-Factor Model&lt;/a&gt; - asset pricing factors by Hou, Xue, and Zhang&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;premium-data-sources&#34;&gt;Premium Data Sources&lt;/h2&gt;
+
+&lt;p&gt;These are some of the data sources you should expect to encounter in the industry. Any experience with the sources would be useful to mention in an interview.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bloomberg&lt;/li&gt;
+&lt;li&gt;FactSet&lt;/li&gt;
+&lt;li&gt;Mergent&lt;/li&gt;
+&lt;li&gt;S&amp;amp;P Capital IQ&lt;/li&gt;
+&lt;li&gt;Thomson One&lt;/li&gt;
+&lt;li&gt;Thomson Reuters Datastream&lt;/li&gt;
+&lt;li&gt;Value Line&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Personal Finance</title>
+      <link>/courses/library/personal-finance/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/library/personal-finance/</guid>
+      <description>
+
+&lt;p&gt;I teach investments, portfolio management, and corporate finance but many people are more interested in personal finance. Here are some thoughts on budgets, using debt, paying off debt, student loans/college, and investing.&lt;/p&gt;
+
+&lt;h2 id=&#34;budgeting&#34;&gt;Budgeting&lt;/h2&gt;
+
+&lt;p&gt;Budgeting combines so many personal priorities that one set of guidelines will not work for everyone. I can offer some principles that would benefit most people.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Adjust anything necessary to save 3 months of income as soon as possible. This allows you to deal with emergencies that might interfere with your normal income or provide time to search for another job in the event of a layoff.&lt;/li&gt;
+&lt;li&gt;Max out your 401k plan if offered at your company. Company matching funds are lost forever if you don&amp;rsquo;t qualify and your contributions lower your taxable income. Saving early is more important than paying off your debt because your rate of return will likely be higher on your retirement savings than on your long-term debt.&lt;/li&gt;
+&lt;li&gt;Now we focus on paying off debt. Take a look at my suggestions below. There are no shortcuts but there are more efficient and less efficient ways of getting it done.&lt;/li&gt;
+&lt;li&gt;Identify your life priorities. While steps 1-3 are universal, what comes next depends on what you value. Maybe charitable giving or church tithing is important. Maybe traveling to visit friends and family is essential to your life. Be honest with yourself about &amp;ldquo;needs&amp;rdquo; and &amp;ldquo;wants&amp;rdquo;. Everyone would prefer not to have a roommate. Maybe this is a sacrifice necessary to afford to visit your family.&lt;/li&gt;
+&lt;li&gt;I find that eliminating &amp;ldquo;aspirational purchases&amp;rdquo; is a good start. Do not buy anything where you would change to incorporate the purchase into your life. Only purchase things that fit into your current schedule/priorities. Find self-improvement opportunities that do not require more resources.&lt;/li&gt;
+&lt;li&gt;Find ways of redistributing the things that make you happy. I like good food, but rather than spending money on casual dining, I get more satisfaction from rare visits to good restaurants while eating plain food through the work week. This also helps fight against the &lt;a href=&#34;https://en.wikipedia.org/wiki/Hedonic_treadmill&#34;&gt;hedonic treadmill&lt;/a&gt; or the tendency to adapt to lifestyle improvements and receive less satisfaction from things that brought happiness in the past.&lt;/li&gt;
+&lt;li&gt;Consider the life-cycle of the consumer products you buy. Fashion and quality may result in a lower lifetime cost for a slightly more expensive item or it may just be a markup. This can have a big impact on clothing and consumer electronic purchases. Sometimes, the inverse is true. The cheapest option may be good enough. Clothes usually last much longer than you really want to wear them.&lt;/li&gt;
+&lt;li&gt;Constantly reassess your life priorities starting from scratch. This helps to remind you of the importance of your current life choices and to place new choices in perspective.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;managing-debt&#34;&gt;Managing Debt&lt;/h2&gt;
+
+&lt;p&gt;Credit cards are not bad if you pay off the debt within the same month. Credit cards often offer good fraud protection and may have features that benefit travelers. However, the interest rates are too high to carry a balance over several months and having multiple credit cards increases the likelihood that you will spend beyond your means. If the psychological pressure is too much to spend within your budget, then get rid of the credit cards.&lt;/p&gt;
+
+&lt;p&gt;Debt should not be longer than the useful life of whatever you buy. Most things people buy with a credit card do not have long useful lives which is another reason not to carry a balance on your credit card.&lt;/p&gt;
+
+&lt;p&gt;Debt that is tax deductible ends up being much cheaper than other types of debt. Your mortgage should be the last debt that you pay off because mortgage interest lowers your taxable income. Choosing to live in an apartment is often more expensive on an after tax basis but it is easier to move and possibly take a better job. Consider several local career opportunities for you and your partner before buying a house in a new area.&lt;/p&gt;
+
+&lt;h2 id=&#34;paying-off-debt&#34;&gt;Paying off Debt&lt;/h2&gt;
+
+&lt;p&gt;There are two dominant factors in finance. One is the mathematics that maximizes your wealth while the other is the psychology that allows you to make good financial decisions. Paying down debt puts these two factors at odds with each other.&lt;/p&gt;
+
+&lt;p&gt;Mathematically, the fastest way to pay off debt is to start with the highest after tax interest and longest term debt first and work down to the lowest after tax debt and shortest term debt. This is sometimes referred to as the debt avalanche and it works because of a concept called amortization. Your payments contain both principle and interest but the proportions change over the life of the loan. Early payments are mostly interest with a little bit of principle while the last payments are almost entirely principle with a small amount of interest. Making additional early payments has a larger decrease in the total amount you will pay on the loan because it reduces principle much faster than the amortization schedule.&lt;/p&gt;
+
+&lt;p&gt;Psychologically, people need to maintain their motivation over long periods of time to pay off debt. It is easy to become mentally fatigued and to question whether the sacrifices to your quality of life are actually benefiting you. Dave Ramsey has built a massive following by promoting his &amp;ldquo;debt snowball&amp;rdquo; which involves paying off small debts first. Many people find this approach useful because of the psychological feedback that provides you with more motivation to continue to sacrifice now for longer-term gain. These two approaches may not even be in conflict if the small debts are credit card debts that usually have the highest interest rates. The problem is that everyone&amp;rsquo;s finances are different and one approach is not necessarily correct for everyone. Furthermore, using all of your discretionary income to pay off debt may cause you to overlook other financial opportunities such as networking events and the ability to move that can lead to better jobs or promotions.&lt;/p&gt;
+
+&lt;h2 id=&#34;student-loans&#34;&gt;Student Loans&lt;/h2&gt;
+
+&lt;p&gt;Let me first explain my college experience and then offer some general advice. I could not afford college after high school. I joined the Marine Corps initially to get money for college and stayed for an additional few years to increase my savings. When I was ready to leave active duty and go to school, the government involuntarily extended my contract due to the &lt;sup&gt;9&lt;/sup&gt;&amp;frasl;&lt;sub&gt;11&lt;/sub&gt; terrorist attacks and subsequent war in Afghanistan. Nearly two years later, I was permitted to leave active duty. I joined the reserves, used my weekend reserve paycheck, my G.I. Bill benefits (before the revised G.I. Bill), and got a part-time job at Starbucks in order to receive healthcare. (At the time, Starbucks was one of the few companies offering healthcare to employees working at least 20 hours per week.) This allowed me to afford to attend Rhode Island College on a full-time basis.&lt;/p&gt;
+
+&lt;p&gt;I decided to study finance rather than music because I knew I needed to support myself after school and I didn&amp;rsquo;t have the option to go live with my parents. I attended the state college for 3 semesters and I took as many general education classes and introduction classes as I could that would easily transfer to another university. I maintained a 3.&lt;sup&gt;95&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt; GPA which I used to apply to the local private business school, Bryant University. Bryant offered a $10,000/year scholarship and I was able to graduate after 4 semesters at Bryant with a double major in finance and economics in the honors program while taking two years of Chinese.&lt;/p&gt;
+
+&lt;p&gt;Despite the academic scholarship from Bryant, I used my entire G.I. Bill, Marine Corps Reserve paycheck, my Starbucks paycheck, and still needed student loans. I understand that I was lucky to have those opportunities and everyone cannot possibly repeat my experience simply by working harder. I should also note that despite my academic achievement, many companies did not want to hire me because they were concerned that I would be deployed. I received many opportunities to interview but my peers that I had tutored received multiple offers while my first offer only came after I separated from the reserves. I believe that the attitude towards veterans has improved in corporate America but there is a substantial difference between the &amp;ldquo;Thank You for Your Service&amp;rdquo; platitudes and the actual hiring practices.&lt;/p&gt;
+
+&lt;p&gt;I could have decided to stay at Rhode Island College although the opportunities and quality of education were not equivalent to Bryant University. Opportunities are only valuable if used and I believe many other students at Bryant would be better off going to the state college. At the time I did not intend to get a masters degree. A better path would have been to graduate from the state college and go to a better university for my masters program although it is uncertain whether I would have been accepted in the same masters program.&lt;/p&gt;
+
+&lt;p&gt;What should you do? First, identify whether you simply want a college degree or whether you need a marketable skill to survive. Americans do not like to talk about class because it conflicts with our ideal of equal opportunity and meritocracy. Be honest with yourself about what you need to survive and what you are willing to sacrifice when you choose a college major. Every program at every college has alumni that they can use as examples of success. What you need is hard data on the percentage of students for a given program that get entry level jobs that pay enough to pay off student loans in a few years (not 10 years) and provide a minimal standard of living. Unfortunately, this eliminates many liberal arts programs at non-prestigious universities. You should also utilize data such as the &lt;a href=&#34;https://collegescorecard.ed.gov/&#34;&gt;U.S. Department of Education College Scorecard&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As a college professor, I would also suggest that you consider not going to college. Watch &lt;a href=&#34;https://youtu.be/CVEuPmVAb8o&#34;&gt;this video&lt;/a&gt; by &amp;ldquo;Dirty Jobs&amp;rdquo; host, Mike Rowe. I don&amp;rsquo;t mean to in any way minimize the value of learning but universities are not the only places to learn. Get a library card and read. Consider certificate programs but only if they have a proven career benefit. (There are lots of useless certificates and online programs out there.) Professors do not have a monopoly on knowledge but they usually know the best sources of knowledge and the most efficient way to acquire knowledge. Search for syllabi (course outlines) on subjects that interest you and read the book on your own. A well-read tradesman (electrician, plumber, etc&amp;hellip;) may be wealthier and more knowledgeable than a college graduate.&lt;/p&gt;
+
+&lt;h2 id=&#34;personal-investing&#34;&gt;Personal Investing&lt;/h2&gt;
+
+&lt;p&gt;The goals of investing (more return, less risk) are same for everyone but the tools are different for various levels of wealth. Someone with $1m to invest should not be doing the same things as someone with $100k to invest. Investing is a scale business which means that some expenses are worthwhile for large portfolio and a waste of money for small portfolios. I suggest using a robo-advisor like Wealthfront or Betterment unless you have more than $100k. The reason is that the fees are low and lowering expenses is more likely to benefit you than hiring a personal financial adviser. You should not be buying any fund with an expense ratio greater than 0.25% (Yes, that is a quarter of 1%). Most people should be investing in index funds and these types of businesses make the process relatively cheap and simple. They also automate the process of rebalancing your portfolio which minimizes your interaction with the portfolio. Behavioral Finance is an entire field dedicated to studying why people make foolish financial decisions. In long-term investing, most people are better off doing as little as possible.&lt;/p&gt;
+
+&lt;p&gt;For the ultimate in cheap, DIY investing, I recommend using a pair of Vanguard funds like the Total World Stock ETF (ticker: VT) and the Total International Bond ETF (ticker: BNDX). For those that want to stay within the U.S., you can use Total Stock Market ETF (ticker: VTI) and Total Bond Market ETF (ticker: BND). The proportion of stocks and bonds depends on your level of risk. If you have more than a decade to invest, hold all stocks. Something less, or if market changes concern you, hold more bonds. You only need a pair of mutual funds or ETFs.&lt;/p&gt;
+
+&lt;p&gt;A final word of warning, do not use apps like Robinhood for serious investing. The reasons are more complicated than I can include here but one reason is that the service is not free and they count on people not recognizing where the money is coming from.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Student Advice</title>
+      <link>/courses/library/advising/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/library/advising/</guid>
+      <description>
+
+&lt;p&gt;Everyone has constraints on their time, money, and attention. My recommendations represent what I believe a competitive student should do to prepare for a career in finance but everyone has to make trade-offs.&lt;/p&gt;
+
+&lt;h2 id=&#34;university-selection&#34;&gt;University Selection&lt;/h2&gt;
+
+&lt;p&gt;The most valuable aspects of a college education are: degree, personal network, learning from peers, and coursework. When considering universities with different tuition rates, consider whether the higher tuition comes with a substantial increase in one of those factors. While there are substantial differences in the marketability of an Ivy League degree relative to a state college degree, most of the differences in outcomes from similar colleges are determined by individual factors.&lt;/p&gt;
+
+&lt;p&gt;People only care where you graduate. Spend 2-4 semesters at a state college to save money, get a high GPA, and get a scholarship to transfer to a better school. Make sure to take your general education classes at the cheap school and take as many of your major classes as possible at the better school. Plan ahead for transfer credit.&lt;/p&gt;
+
+&lt;h2 id=&#34;course-selection&#34;&gt;Course Selection&lt;/h2&gt;
+
+&lt;p&gt;Take the required finance course for business majors as soon as possible. (This is usually called Financial Management.) It is a prerequisite to almost every finance course at every university. After that, take Investments as soon as possible. It will help with the second internship if you want to work in capital markets. Next, take a modeling class and an international finance class. Finally, take the Financial Markets and Institutions class and any other required classes for your program. If you want to work in capital markets, get into the student managed fund.&lt;/p&gt;
+
+&lt;p&gt;Finance is a interdisciplinary field. Without accounting, economics, and statistics, you cannot understand finance. The qualitative coursework in marketing and management will help you evaluate the strategies of potential investments as well as the strategy of your own organization.&lt;/p&gt;
+
+&lt;p&gt;If you are not a finance major, consider your alternatives carefully. In general, more quantitative skills lead to higher salaries. Don&amp;rsquo;t expect to have a job in the arts or humanities and own a house without support from a spouse or parents. Even within the business school, there are substantial differences between more quantitative majors versus qualitative majors. Consider the median salary and lifestyle rather than a few stories of students that &amp;ldquo;made it&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;If possible, do a semester abroad in the first 2 years. It is better to do it early than to miss an internship opportunity later. Pick a country where you do not feel comfortable. Studying abroad in a less developed country may be cheaper than a state college in the U.S. and provides a much more valuable experience. Don&amp;rsquo;t limit yourself to the programs that the university promotes.&lt;/p&gt;
+
+&lt;p&gt;Pick a class you like with a project that interests you. Work harder on the project than is required and publish the results. This is not as difficult as you might imagine and is marketable even if you don&amp;rsquo;t go to grad school. Your professor knows places that will publish student work.&lt;/p&gt;
+
+&lt;h2 id=&#34;internships&#34;&gt;Internships&lt;/h2&gt;
+
+&lt;p&gt;Get an internship at the end of your sophomore year and junior year. Even if you have never taken a class in your discipline, get an internship. Companies expect you to be motivated and interested in your field. They do not expect you to know how to do the job. Many companies will make full time offers to a few of their top performers in the summer internship. Do not accept unpaid internships. Everyone believes their experience is valuable but very rarely is it worth going into debt.&lt;/p&gt;
+
+&lt;h2 id=&#34;academic-and-career-standards&#34;&gt;Academic and Career Standards&lt;/h2&gt;
+
+&lt;p&gt;Assume that you need to do twice as much as what other people have done to achieve the same level of success. Being above average doesn&amp;rsquo;t cut it in finance. Many people reached their position by some combination of luck and skill. Don&amp;rsquo;t assume that you can replicate someone else&amp;rsquo;s luck.&lt;/p&gt;
+
+&lt;h2 id=&#34;marketable-skills&#34;&gt;Marketable Skills&lt;/h2&gt;
+
+&lt;p&gt;You can never know Excel well enough. You can never network enough. Do not accept labels such as qualitative or quantitative. Finance requires both.&lt;/p&gt;
+
+&lt;p&gt;Start learning to stand in front of people and explain difficult ideas. This is necessary for most jobs in finance.&lt;/p&gt;
+
+&lt;p&gt;It is better to ask stupid questions than to not ask questions.&lt;/p&gt;
+
+&lt;p&gt;Learn some programming. R, Python, Matlab, SAS, or even VBA are good choices. Pick a project to learn on your own. This is more efficient than taking a general introduction to programming class. Someone has probably solved a problem similar to your&amp;rsquo;s on free sites like &lt;a href=&#34;https://stackoverflow.com/&#34;&gt;Stack Overflow&lt;/a&gt;. Break down your project into the most simple components and search for how to complete each step.&lt;/p&gt;
+
+&lt;h2 id=&#34;resume-hacks&#34;&gt;Resume Hacks&lt;/h2&gt;
+
+&lt;p&gt;Identify extracurricular activities that have measurable outcomes to list on your resume such as: organized 20 presentations or raised $10,000 for charity.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/CVEuPmVAb8o&#34;&gt;&amp;ldquo;Don&amp;rsquo;t Follow Your Passion&amp;rdquo; - Mike Rowe&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Get a hobby. Find something that is not finance that makes you happy. This will help you deal with the times when finance will be boring, frustrating, or too difficult. Talk about your hobby in an interview.&lt;/p&gt;
+
+&lt;p&gt;The best jobs are usually not around the university and are not advertised at the career center. Be prepared to move and find your own job.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Media Sources</title>
+      <link>/courses/library/media/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/library/media/</guid>
+      <description>
+
+&lt;h2 id=&#34;television-news&#34;&gt;Television News&lt;/h2&gt;
+
+&lt;p&gt;In my opinion, news should have as little commentary as possible and focus on matters of importance rather than entertainment value. I also don&amp;rsquo;t think you should pay for a cable package to receive decent news. These sources keep you informed without attempting to elicit an emotional reaction.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/user/NBRbizrpt/featured&#34;&gt;Nightly Business Report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/user/PBSNewsHour/featured&#34;&gt;PBS Newshour&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;blogs-and-magazines&#34;&gt;Blogs and Magazines&lt;/h2&gt;
+
+&lt;p&gt;These magazines and blogs are not unbiased and may publish bad information but there is enough relevant content for me to recommend them here. Clearly, some should be taken more seriously than others. Many of the traditional print media sources here can be accessed with an RSS reader rather than paying for a print subscription.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bloomberg.com/radio/&#34;&gt;Bloomberg Radio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://research.gluskinsheff.com/&#34;&gt;Breakfast with Dave&lt;/a&gt; by David Rosenberg - daily macro economic analysis newsletter&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.econtalk.org/&#34;&gt;EconTalk&lt;/a&gt; - Blog and Podcast&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.foreignaffairs.com/&#34;&gt;Foreign Affairs&lt;/a&gt; - If you want to know what key policy makers think about foreign policy, read this one.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.foreignpolicy.com/&#34;&gt;Foreign Policy&lt;/a&gt; - excellent global coverage&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fortune.com/gettermsheet/&#34;&gt;Fortune Term Sheet&lt;/a&gt; by Dan Primack - daily email about financial deals&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.economist.com/blogs/freeexchange&#34;&gt;Free Exchange&lt;/a&gt; - additional shorter form articles from The Economist for free&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.npr.org/blogs/money/&#34;&gt;Planet Money&lt;/a&gt; on NPR&lt;/li&gt;
+&lt;li&gt;Sci-Hub (&lt;a href=&#34;https://wadauk.github.io/scihub_ck/index.html&#34;&gt;Links&lt;/a&gt;) – open access to academic papers&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stephenrush.wordpress.com/courses/media/&#34;&gt;Selected Media&lt;/a&gt;&amp;nbsp;– stories that I have compiled for undergraduate courses&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tabbforum.com/&#34;&gt;TabbFORUM&lt;/a&gt; - market focused and a decent source for microstructure information&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.economist.com/&#34;&gt;The Economist&lt;/a&gt; - If you only read one news source, this is the one to read. Most university libraries provide The Economist for free although a personal subscription is more convenient.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://online.wsj.com&#34;&gt;The Wall Street Journal&lt;/a&gt; - This is still the newspaper of record for U.S. business although I would not recommend reading it on a regular basis.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCpwosulQ7IOBHCCnl7kWYwA&#34;&gt;YouTube&lt;/a&gt; - there are some really great lectures available for free. I have links to a few on my channel.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.zerohedge.com/&#34;&gt;Zero Hedge&lt;/a&gt; - more entertainment than serious analysis (be very skeptical of content posted here)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Setec Astronomy</title>
+      <link>/courses/library/setec/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/library/setec/</guid>
+      <description>&lt;p&gt;These are some of the great free and open source software tools available particularly for my friends who live in less free societies. Unless you are a cryptographer, I don&amp;rsquo;t recommend the &lt;a href=&#34;https://en.wikipedia.org/wiki/Security_through_obscurity&#34;&gt;Security through Obscurity&lt;/a&gt; strategy. Also, consider some of the tools recommended by the Electronic Frontier Foundation (EFF) &lt;a href=&#34;https://ssd.eff.org/&#34;&gt;Surveillance Self-Defense&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://duckduckgo.com/&#34;&gt;DuckDuckGo&lt;/a&gt; - web search without tracking&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.opengarden.com/firechat/&#34;&gt;FireChat&lt;/a&gt; - decentralized chat for high density events&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gnupg.org/&#34;&gt;Gnu Privacy Guard&lt;/a&gt; (GPG) - open source version of PGP&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://keybase.io/&#34;&gt;Keybase&lt;/a&gt; - site that links social media identities with an encryption key&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pgp.mit.edu/&#34;&gt;Keyserver&lt;/a&gt; - MIT&amp;rsquo;s PGP keyserver (one of many available)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mailvelope.com/&#34;&gt;Mailvelope&lt;/a&gt; - browser extension for PGP use in webmail&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mega.co.nz&#34;&gt;Mega&lt;/a&gt; - encrypted cloud storage&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://openvpn.net&#34;&gt;OpenVPN&lt;/a&gt; - run your own VPN on Windows, OS X, or Linux&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://whispersystems.org/&#34;&gt;Signal Private Messenger&lt;/a&gt; - encrypted SMS, MMS, and voice by Open Whisper Systems for iOS and Android&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://syncthing.net/&#34;&gt;Syncthing&lt;/a&gt; - synchronized storage without disk limits using BitTorrent technology&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.telegram.org/&#34;&gt;Telegram&lt;/a&gt; - This is not secure but many people still use it for the convenience&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://termux.com&#34;&gt;Termux&lt;/a&gt; - terminal for Android devices&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.torproject.org/&#34;&gt;The TOR Project&lt;/a&gt; - a more private method of accessing the Internet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mywickr.com&#34;&gt;Wickr&lt;/a&gt; - encrypted messaging for iOS, Android, Windows, OS X, and Linux&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For those that just want to work with free and open source software, check out these alternatives to common applications. They are also useful for living a first world lifestyle on a third world salary.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.libreoffice.org/&#34;&gt;Libre Office&lt;/a&gt;&lt;/strong&gt; - free replacement for Microsoft Office&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ubuntu.com/&#34;&gt;Ubuntu Linux&lt;/a&gt;&lt;/strong&gt; - complete replacement for Windows / running the variant of Ubuntu called &lt;a href=&#34;http://xubuntu.org/&#34;&gt;Xubuntu&lt;/a&gt; enables you to run a modern operating system and applications on minimal hardware such as a 10 year old computer that you can get virtually for free. If you need a graphical interface but want to run at ludicrous speed, check out &lt;a href=&#34;https://i3wm.org/&#34;&gt;i3&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://portableapps.com/&#34;&gt;Portable Apps&lt;/a&gt; - you can even get by without your own machine or relying on cloud services&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://plex.tv/&#34;&gt;Plex&lt;/a&gt; - the best media server&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://musescore.org&#34;&gt;Muse Score&lt;/a&gt; - open source music notation software&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.qubes-os.org/&#34;&gt;Qubes OS &lt;/a&gt; - operating system for those who are tired of repeatedly wiping their system&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>/courses/library/books/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/library/books/</guid>
+      <description>
+
+&lt;p&gt;This book list is rather short because I only add books that I have read personally and I think are worth taking time away from something else to read. Where possible, I include links to freely accessible materials.&lt;/p&gt;
+
+&lt;h2 id=&#34;general-finance&#34;&gt;General Finance&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://book.ivo-welch.info/home/&#34; target=&#34;_blank&#34;&gt;Corporate Finance&lt;/a&gt; by Ivo Welch&lt;/li&gt;
+&lt;li&gt;Investments by Bodie, Kane, and Marcus&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.core-econ.org/the-economy/&#34; target=&#34;_blank&#34;&gt;The Economy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Introductory Econometrics: A Modern Approach by Wooldridge&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mostlyharmlesseconometrics.com/&#34; target=&#34;_blank&#34;&gt;Mostly Harmless Econometrics: An Empiricist&amp;rsquo;s Companion&lt;/a&gt; by Angrist and Pischke&lt;/li&gt;
+&lt;li&gt;The Misbehavior of Markets: A Fractal View of Financial Turbulence by Benoit Mandelbrot&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;investing&#34;&gt;Investing&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Security Analysis (1940) by Graham and Dodd&lt;/li&gt;
+&lt;li&gt;The Intelligent Investor (1949) by Benjamin Graham&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pages.stern.nyu.edu/~adamodar/New_Home_Page/invphil.htm&#34;&gt;Investing Philosophies by Aswath Damodaran&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Active Portfolio Management: A Quantitative Approach for Providing Superior Returns and Controlling Risk by Grinold and Kahn&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;finance-history&#34;&gt;Finance History&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;When Genius Failed: The Rise and Fall of Long Term Capital Management by Roger Lowenstein&lt;/li&gt;
+&lt;li&gt;Against the Gods: The Remarkable Story of Risk by Peter Bernstein&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;advanced-finance&#34;&gt;Advanced Finance&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://faculty.chicagobooth.edu/john.cochrane/teaching/asset_pricing.htm&#34;&gt;Asset Pricing by Cochrane&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Financial Theory and Corporate Policy by Copeland, Weston, and Shastri&lt;/li&gt;
+&lt;li&gt;Handbook Of the Economics of Finance&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;advanced-quantitative-techniques&#34;&gt;Advanced Quantitative Techniques&lt;/h2&gt;
+
+&lt;p&gt;Before using any statistical software or programming language, you should master Excel. It is the most common tool used in finance. You should also know a bit of VBA to automate repetitive tasks. Next, you should learn a more powerful tool for advanced analytics. I recommend R but Matlab, Octave, Python, SAS, or Stata are reasonable choices.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://statweb.stanford.edu/~tibs/ElemStatLearn/&#34;&gt;Elements of Statistical Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.stat.pitt.edu/stoffer/tsa4/&#34;&gt;Time Series Analysis and Its Applications: With R Examples&lt;/a&gt; by Shumway and Stoffer&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Movies</title>
+      <link>/courses/library/movies/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/library/movies/</guid>
+      <description>
+
+&lt;p&gt;These are movies that are important to finance culture or have some interesting finance content. Plenty of other movies take place around finance but have little relevant content.&lt;/p&gt;
+
+&lt;h2 id=&#34;finance-movies&#34;&gt;Finance Movies&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Betting on Zero (2016) Documentary about Bill Ackman shorting stock in Herbalife for Pershing Square.&lt;/li&gt;
+&lt;li&gt;The Big Short (2015) Entertaining take on the mortgage crisis&lt;/li&gt;
+&lt;li&gt;Margin Call (2011) Fictional story about an investment bank that begins a financial crisis&lt;/li&gt;
+&lt;li&gt;Too Big to Fail (2011) Glossy and overly simplistic look at the 2008 bailouts&lt;/li&gt;
+&lt;li&gt;Inside Job (2010) Documentary covering many aspects of the 2008 financial crisis&lt;/li&gt;
+&lt;li&gt;Enron: The Smartest Guys in the Room (2005) Documentary about the fall of energy trading firm Enron&lt;/li&gt;
+&lt;li&gt;Boiler Room (2000) Portrays a &amp;ldquo;pump-and-dump&amp;rdquo; brokerage firm&lt;/li&gt;
+&lt;li&gt;Rogue Trader (1999) Based on the true story of Nick Leeson who brought down &lt;a href=&#34;http://en.wikipedia.org/wiki/Barings_Bank&#34; target=&#34;_blank&#34;&gt;Barings Bank&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Other People&amp;rsquo;s Money (1991) Comedy about a corporate raid in the 1980&amp;rsquo;s&lt;/li&gt;
+&lt;li&gt;Wall Street (1987) Portrays insider trading and corporate takeover; includes the famous &amp;ldquo;Greed is Good&amp;rdquo; speech&lt;/li&gt;
+&lt;li&gt;Trading Places (1983) classic comedy that involves futures trading on the Chicago Mercantile Exchange&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;business&#34;&gt;Business&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;American Factory (2019) Documentary about a Chinese firm that purchases and operates a glass factory in Ohio&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Podcasts</title>
+      <link>/courses/library/podcasts/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/library/podcasts/</guid>
+      <description>
+
+&lt;p&gt;These are conversations and news stories that supplement my course content. Most are about 60 minutes long and will play in any web browser.&lt;/p&gt;
+
+&lt;h2 id=&#34;econtalk-podcasts&#34;&gt;EconTalk Podcasts&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2015/06/nathaniel_poppe.html&#34;&gt;Nathaniel Popper on Bitcoin and Digital Gold&lt;/a&gt; (8 June 2015)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2014/05/gavin_andresen.html&#34;&gt;The Present and Future of Bitcoin&lt;/a&gt; (5 May 2014)&lt;br&gt;
+Gavin Andresen: Chief Scientist of the BitCoin Foundation&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2013/10/calvo_on_the_cr.html&#34;&gt;Calvo on the Crisis, Money, and Macro&lt;/a&gt; (21 October 2013)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2013/04/admati_on_bank.html&#34;&gt;Admati on Bank Regulation and the Bankers&amp;rsquo; New Clothes&lt;/a&gt; (8 April 2013)&lt;br&gt;
+A brief description of how banks work and the incentives that promote the use of debt.&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2012/03/calomiris_on_ca.html&#34;&gt;Calomiris on Capital Requirements, Leverage, and Financial Regulation&lt;/a&gt; (5 March 2012)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2012/01/fama_on_finance.html&#34;&gt;Fama on Finance&lt;/a&gt; (30 January 2012)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2011/11/simon_johnson_o.html&#34;&gt;Simon Johnson on the Financial Crisis&lt;/a&gt; (28 November 2011)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2011/06/eichengreen_on.html&#34;&gt;Eichengreen on the Dollar and International Finance&lt;/a&gt; (6 June 2011)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2011/03/vincent_reinhar.html&#34;&gt;Bear Stearns, Lehman Brothers, and the Financial Crisis&lt;/a&gt; (28 March 2011)&lt;br&gt;
+Vincent Reinhart describes how off balance sheet entities can affect the riskiness of banks&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2010/05/taleb_on_black_1.html&#34;&gt;Taleb on Black Swans, Fragility, and Mistakes&lt;/a&gt; (3 May 2010)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2009/10/gary_stern_on_t.html&#34;&gt;Gary Stern on Too Big to Fail&lt;/a&gt; (5 October 2009)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2009/02/meltzer_on_infl.html&#34;&gt;Meltzer on Inflation&lt;/a&gt; (23 February 2009)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2008/09/kling_on_freddi.html&#34;&gt;Kling on Freddie and Fannie and the Recent History of the U.S. Housing Market&lt;/a&gt; (29 September 2008)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2008/09/shiller_on_hous.html&#34;&gt;Shiller on Housing and Bubbles&lt;/a&gt; (15 September 2008)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2008/05/meltzer_on_the.html&#34;&gt;Meltzer on the Fed, Money, and Gold&lt;/a&gt; (19 May 2008)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2007/04/taleb_on_black.html&#34;&gt;Taleb on Black Swans&lt;/a&gt; (30 April 2007)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2006/08/milton_friedman.html&#34;&gt;Milton Friedman on Money&lt;/a&gt; - Part 1 (28 August 2006)&lt;br&gt;
+EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2006/09/friedman_on_cap_1.html&#34;&gt;Friedman on Capitalism and Freedom&lt;/a&gt; - Part 2 (4 September 2006)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;video-documentaries&#34;&gt;Video Documentaries&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bloomberg: &lt;a href=&#34;http://www.bloomberg.com/news/videos/b/c59d9908-fae7-47be-8fb8-478def9e37a8&#34;&gt;Eugene Fama and Cliff Asness Discuss Efficient Markets&lt;/a&gt; (15 April 2016)&lt;br&gt;
+Only 11 minutes 30 seconds&lt;/li&gt;
+&lt;li&gt;CNBC: &lt;a href=&#34;http://video.cnbc.com/gallery/?video=3000263252&#34;&gt;Market Microstructure Issues&lt;/a&gt; (1 April 2014)&lt;br&gt;
+William O&amp;rsquo;Brien, Brad Katsuyama, and Michael Lewis&lt;/li&gt;
+&lt;li&gt;VPRO International: &lt;a href=&#34;http://youtu.be/kFQJNeQDDHA&#34;&gt;The Wall Street Code&lt;/a&gt; (4 November 2013)&lt;/li&gt;
+&lt;li&gt;VPRO International: &lt;a href=&#34;http://youtu.be/aq1Ln1UCoEU&#34;&gt;Money and Speed: Inside the Black Box&lt;/a&gt; (31 January 2011)&lt;/li&gt;
+&lt;li&gt;Nova: &lt;a href=&#34;http://youtu.be/tsZRndV5lIc&#34;&gt;The Trillion Dollar Bet&lt;/a&gt; (8 February 2000)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;frontline-documentaries&#34;&gt;Frontline Documentaries&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/money-power-wall-street/&#34;&gt;Money, Power, and Wall Street&lt;/a&gt; (24 April 2012)&lt;br&gt;
+Four-part series on the financial crisis.&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/creditcards/view/&#34;&gt;The Card Game&lt;/a&gt; (24 November 2009)&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/warning/view/&#34;&gt;The Warning&lt;/a&gt; (20 October 2009)&lt;br&gt;
+The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/breakingthebank/view/&#34;&gt;Breaking the Bank&lt;/a&gt; - Bank of America and Merrill Lynch (16 June 2009)&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/madoff/view/?autoplay&#34;&gt;The Madoff Affair&lt;/a&gt; (12 May 2009)&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/tentrillion/view/&#34;&gt;Ten Trillion and Counting&lt;/a&gt; (24 March 2009)&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/meltdown/view/&#34;&gt;Inside the Meltdown&lt;/a&gt;&amp;nbsp;(17 February 2009)&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/shows/credit/view/&#34;&gt;Secret History of the Credit Card&lt;/a&gt; (23 November 2004)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
