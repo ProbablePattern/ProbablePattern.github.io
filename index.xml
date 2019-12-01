@@ -1,0 +1,2257 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr. Stephen Rush, CFA</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dr. Stephen Rush, CFA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Dr. Stephen Rush, CFA</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Data Sources</title>
+      <link>/courses/library/data/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/library/data/</guid>
+      <description>
+
+&lt;p&gt;There are many sources of data available but in my class and in your job, you must use primary sources. This means original data that has as little filtering as possible. This page includes other sources that are of comparable quality and reliability. They are free to access as you move from the university to your career.&lt;/p&gt;
+
+&lt;h2 id=&#34;macroeconomic-data&#34;&gt;Macroeconomic Data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bis.org/index.htm&#34;&gt;Bank for International Settlements&lt;/a&gt; (BIS) – international banking statistics&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bea.gov/&#34;&gt;Bureau of Economic Analysis&lt;/a&gt; (BEA)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bls.gov/&#34;&gt;Bureau of Labor Statistics&lt;/a&gt; (BLS) – U.S. employment statistics&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.econ.yale.edu/~shiller/data.htm&#34;&gt;CAPE Ratio&lt;/a&gt; – Cyclically Adjusted Price/Earnings Ratio by Robert Shiller&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.conference-board.org/data/consumerdata.cfm&#34;&gt;Conference Board&lt;/a&gt; – consumer confidence data&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.businesscycle.com/home/&#34;&gt;Economic Cycle Research Institute&lt;/a&gt; (ECRI)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.eia.doe.gov/&#34;&gt;Energy Information Administration&lt;/a&gt; (EIA)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fdic.gov/bank/analytical/qbp/index.html&#34;&gt;Federal Deposit Insurance Corporation&lt;/a&gt; (FDIC) - banking data&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://research.stlouisfed.org/fred2/&#34;&gt;Federal Reserve Economic Data&lt;/a&gt; (FRED) – macroeconomic data and interest rates&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instituteforsupplymanagement.org/ISMReport&#34;&gt;Institute for Supply Management&lt;/a&gt; (ISM) - manufacturing activity&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://www.nber.org/&#34;&gt;National Bureau of Economic Research&lt;/a&gt; (NBER) – official U.S. recession periods&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sca.isr.umich.edu/&#34;&gt;University of Michigan&lt;/a&gt; - consumer sentiment index&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.census.gov/retail/index.html&#34;&gt;U.S. Census Bureau&lt;/a&gt; - monthly retail trade report&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;market-data&#34;&gt;Market Data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cboe.com/MktQuote/default.aspx&#34;&gt;Chicago Board Options Exchange&lt;/a&gt; (CBOE)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cmegroup.com/&#34;&gt;Chicago Mercantile Exchange&lt;/a&gt; (CME) – delayed quotes on commodities&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://finra-markets.morningstar.com/MarketData&#34;&gt;FINRA Market Data&lt;/a&gt; – hosted by Morningstar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.quandl.com/&#34;&gt;Quandl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sec.gov/edgar.shtml&#34;&gt;Securities and Exchange Commission&lt;/a&gt; (SEC) – EDGAR database of company filings / start with the 10-K for annual data and the 10-Q for quarterly data&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;reseach-data&#34;&gt;Reseach Data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html&#34;&gt;Fama-French Factors&lt;/a&gt; - asset pricing factors produced by Kenneth French&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://global-q.org&#34;&gt;q-Factor Model&lt;/a&gt; - asset pricing factors by Hou, Xue, and Zhang&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;premium-data-sources&#34;&gt;Premium Data Sources&lt;/h2&gt;
+
+&lt;p&gt;These are some of the data sources you should expect to encounter in the industry. Any experience with the sources would be useful to mention in an interview.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bloomberg&lt;/li&gt;
+&lt;li&gt;FactSet&lt;/li&gt;
+&lt;li&gt;Mergent&lt;/li&gt;
+&lt;li&gt;S&amp;amp;P Capital IQ&lt;/li&gt;
+&lt;li&gt;Thomson One&lt;/li&gt;
+&lt;li&gt;Thomson Reuters Datastream&lt;/li&gt;
+&lt;li&gt;Value Line&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ethics</title>
+      <link>/courses/intro-markets/ethics/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/intro-markets/ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>/courses/managerial_finance/introduction/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/managerial_finance/introduction/</guid>
+      <description>
+
+&lt;h2 id=&#34;financial-markets&#34;&gt;Financial Markets&lt;/h2&gt;
+
+&lt;h2 id=&#34;the-firm&#34;&gt;The Firm&lt;/h2&gt;
+
+&lt;h2 id=&#34;the-principle-agent-problem&#34;&gt;The Principle-Agent Problem&lt;/h2&gt;
+
+&lt;h2 id=&#34;adverse-selection&#34;&gt;Adverse Selection&lt;/h2&gt;
+
+&lt;h2 id=&#34;asymmetric-information&#34;&gt;Asymmetric Information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/sXPXpJ5vMnU&#34;&gt;MRUniversity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Corporate Methods</title>
+      <link>/courses/seminar-corporatefinance/methods/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/seminar-corporatefinance/methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outline</title>
+      <link>/courses/markets-institutions/outline/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/markets-institutions/outline/</guid>
+      <description>
+
+&lt;h2 id=&#34;bonds&#34;&gt;Bonds&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Overview&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bond-duration&#34;&gt;Bond Duration&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Macaulay Duration&lt;/li&gt;
+&lt;li&gt;Modified Duration&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;interest-rates&#34;&gt;Interest Rates&lt;/h2&gt;
+
+&lt;h2 id=&#34;the-federal-reserve&#34;&gt;The Federal Reserve&lt;/h2&gt;
+
+&lt;h2 id=&#34;institutions&#34;&gt;Institutions&lt;/h2&gt;
+
+&lt;h2 id=&#34;bank-balance-sheet&#34;&gt;Bank Balance Sheet&lt;/h2&gt;
+
+&lt;h2 id=&#34;loan-performance&#34;&gt;Loan Performance&lt;/h2&gt;
+
+&lt;h2 id=&#34;gap-analysis&#34;&gt;Gap Analysis&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Interest Rate Gap&lt;/li&gt;
+&lt;li&gt;Duration Gap&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Personal Finance</title>
+      <link>/courses/library/personal-finance/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/library/personal-finance/</guid>
+      <description>
+
+&lt;p&gt;I teach investments, portfolio management, and corporate finance but many people are more interested in personal finance. Here are some thoughts on budgets, using debt, paying off debt, student loans/college, and investing.&lt;/p&gt;
+
+&lt;h2 id=&#34;budgeting&#34;&gt;Budgeting&lt;/h2&gt;
+
+&lt;p&gt;Budgeting combines so many personal priorities that one set of guidelines will not work for everyone. I can offer some principles that would benefit most people.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Adjust anything necessary to save 3 months of income as soon as possible. This allows you to deal with emergencies that might interfere with your normal income or provide time to search for another job in the event of a layoff.&lt;/li&gt;
+&lt;li&gt;Max out your 401k plan if offered at your company. Company matching funds are lost forever if you don&amp;rsquo;t qualify and your contributions lower your taxable income. Saving early is more important than paying off your debt because your rate of return will likely be higher on your retirement savings than on your long-term debt.&lt;/li&gt;
+&lt;li&gt;Now we focus on paying off debt. Take a look at my suggestions below. There are no shortcuts but there are more efficient and less efficient ways of getting it done.&lt;/li&gt;
+&lt;li&gt;Identify your life priorities. While steps 1-3 are universal, what comes next depends on what you value. Maybe charitable giving or church tithing is important. Maybe traveling to visit friends and family is essential to your life. Be honest with yourself about &amp;ldquo;needs&amp;rdquo; and &amp;ldquo;wants&amp;rdquo;. Everyone would prefer not to have a roommate. Maybe this is a sacrifice necessary to afford to visit your family.&lt;/li&gt;
+&lt;li&gt;I find that eliminating &amp;ldquo;aspirational purchases&amp;rdquo; is a good start. Do not buy anything where you would change to incorporate the purchase into your life. Only purchase things that fit into your current schedule/priorities. Find self-improvement opportunities that do not require more resources.&lt;/li&gt;
+&lt;li&gt;Find ways of redistributing the things that make you happy. I like good food, but rather than spending money on casual dining, I get more satisfaction from rare visits to good restaurants while eating plain food through the work week. This also helps fight against the &lt;a href=&#34;https://en.wikipedia.org/wiki/Hedonic_treadmill&#34;&gt;hedonic treadmill&lt;/a&gt; or the tendency to adapt to lifestyle improvements and receive less satisfaction from things that brought happiness in the past.&lt;/li&gt;
+&lt;li&gt;Consider the life-cycle of the consumer products you buy. Fashion and quality may result in a lower lifetime cost for a slightly more expensive item or it may just be a markup. This can have a big impact on clothing and consumer electronic purchases. Sometimes, the inverse is true. The cheapest option may be good enough. Clothes usually last much longer than you really want to wear them.&lt;/li&gt;
+&lt;li&gt;Constantly reassess your life priorities starting from scratch. This helps to remind you of the importance of your current life choices and to place new choices in perspective.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;managing-debt&#34;&gt;Managing Debt&lt;/h2&gt;
+
+&lt;p&gt;Credit cards are not bad if you pay off the debt within the same month. Credit cards often offer good fraud protection and may have features that benefit travelers. However, the interest rates are too high to carry a balance over several months and having multiple credit cards increases the likelihood that you will spend beyond your means. If the psychological pressure is too much to spend within your budget, then get rid of the credit cards.&lt;/p&gt;
+
+&lt;p&gt;Debt should not be longer than the useful life of whatever you buy. Most things people buy with a credit card do not have long useful lives which is another reason not to carry a balance on your credit card.&lt;/p&gt;
+
+&lt;p&gt;Debt that is tax deductible ends up being much cheaper than other types of debt. Your mortgage should be the last debt that you pay off because mortgage interest lowers your taxable income. Choosing to live in an apartment is often more expensive on an after tax basis but it is easier to move and possibly take a better job. Consider several local career opportunities for you and your partner before buying a house in a new area.&lt;/p&gt;
+
+&lt;h2 id=&#34;paying-off-debt&#34;&gt;Paying off Debt&lt;/h2&gt;
+
+&lt;p&gt;There are two dominant factors in finance. One is the mathematics that maximizes your wealth while the other is the psychology that allows you to make good financial decisions. Paying down debt puts these two factors at odds with each other.&lt;/p&gt;
+
+&lt;p&gt;Mathematically, the fastest way to pay off debt is to start with the highest after tax interest and longest term debt first and work down to the lowest after tax debt and shortest term debt. This is sometimes referred to as the debt avalanche and it works because of a concept called amortization. Your payments contain both principle and interest but the proportions change over the life of the loan. Early payments are mostly interest with a little bit of principle while the last payments are almost entirely principle with a small amount of interest. Making additional early payments has a larger decrease in the total amount you will pay on the loan because it reduces principle much faster than the amortization schedule.&lt;/p&gt;
+
+&lt;p&gt;Psychologically, people need to maintain their motivation over long periods of time to pay off debt. It is easy to become mentally fatigued and to question whether the sacrifices to your quality of life are actually benefiting you. Dave Ramsey has built a massive following by promoting his &amp;ldquo;debt snowball&amp;rdquo; which involves paying off small debts first. Many people find this approach useful because of the psychological feedback that provides you with more motivation to continue to sacrifice now for longer-term gain. These two approaches may not even be in conflict if the small debts are credit card debts that usually have the highest interest rates. The problem is that everyone&amp;rsquo;s finances are different and one approach is not necessarily correct for everyone. Furthermore, using all of your discretionary income to pay off debt may cause you to overlook other financial opportunities such as networking events and the ability to move that can lead to better jobs or promotions.&lt;/p&gt;
+
+&lt;h2 id=&#34;student-loans&#34;&gt;Student Loans&lt;/h2&gt;
+
+&lt;p&gt;Let me first explain my college experience and then offer some general advice. I could not afford college after high school. I joined the Marine Corps initially to get money for college and stayed for an additional few years to increase my savings. When I was ready to leave active duty and go to school, the government involuntarily extended my contract due to the &lt;sup&gt;9&lt;/sup&gt;&amp;frasl;&lt;sub&gt;11&lt;/sub&gt; terrorist attacks and subsequent war in Afghanistan. Nearly two years later, I was permitted to leave active duty. I joined the reserves, used my weekend reserve paycheck, my G.I. Bill benefits (before the revised G.I. Bill), and got a part-time job at Starbucks in order to receive healthcare. (At the time, Starbucks was one of the few companies offering healthcare to employees working at least 20 hours per week.) This allowed me to afford to attend Rhode Island College on a full-time basis.&lt;/p&gt;
+
+&lt;p&gt;I decided to study finance rather than music because I knew I needed to support myself after school and I didn&amp;rsquo;t have the option to go live with my parents. I attended the state college for 3 semesters and I took as many general education classes and introduction classes as I could that would easily transfer to another university. I maintained a 3.&lt;sup&gt;95&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt; GPA which I used to apply to the local private business school, Bryant University. Bryant offered a $10,000/year scholarship and I was able to graduate after 4 semesters at Bryant with a double major in finance and economics in the honors program while taking two years of Chinese.&lt;/p&gt;
+
+&lt;p&gt;Despite the academic scholarship from Bryant, I used my entire G.I. Bill, Marine Corps Reserve paycheck, my Starbucks paycheck, and still needed student loans. I understand that I was lucky to have those opportunities and everyone cannot possibly repeat my experience simply by working harder. I should also note that despite my academic achievement, many companies did not want to hire me because they were concerned that I would be deployed. I received many opportunities to interview but my peers that I had tutored received multiple offers while my first offer only came after I separated from the reserves. I believe that the attitude towards veterans has improved in corporate America but there is a substantial difference between the &amp;ldquo;Thank You for Your Service&amp;rdquo; platitudes and the actual hiring practices.&lt;/p&gt;
+
+&lt;p&gt;I could have decided to stay at Rhode Island College although the opportunities and quality of education were not equivalent to Bryant University. Opportunities are only valuable if used and I believe many other students at Bryant would be better off going to the state college. At the time I did not intend to get a masters degree. A better path would have been to graduate from the state college and go to a better university for my masters program although it is uncertain whether I would have been accepted in the same masters program.&lt;/p&gt;
+
+&lt;p&gt;What should you do? First, identify whether you simply want a college degree or whether you need a marketable skill to survive. Americans do not like to talk about class because it conflicts with our ideal of equal opportunity and meritocracy. Be honest with yourself about what you need to survive and what you are willing to sacrifice when you choose a college major. Every program at every college has alumni that they can use as examples of success. What you need is hard data on the percentage of students for a given program that get entry level jobs that pay enough to pay off student loans in a few years (not 10 years) and provide a minimal standard of living. Unfortunately, this eliminates many liberal arts programs at non-prestigious universities. You should also utilize data such as the &lt;a href=&#34;https://collegescorecard.ed.gov/&#34;&gt;U.S. Department of Education College Scorecard&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As a college professor, I would also suggest that you consider not going to college. Watch &lt;a href=&#34;https://youtu.be/CVEuPmVAb8o&#34;&gt;this video&lt;/a&gt; by &amp;ldquo;Dirty Jobs&amp;rdquo; host, Mike Rowe. I don&amp;rsquo;t mean to in any way minimize the value of learning but universities are not the only places to learn. Get a library card and read. Consider certificate programs but only if they have a proven career benefit. (There are lots of useless certificates and online programs out there.) Professors do not have a monopoly on knowledge but they usually know the best sources of knowledge and the most efficient way to acquire knowledge. Search for syllabi (course outlines) on subjects that interest you and read the book on your own. A well-read tradesman (electrician, plumber, etc&amp;hellip;) may be wealthier and more knowledgeable than a college graduate.&lt;/p&gt;
+
+&lt;h2 id=&#34;personal-investing&#34;&gt;Personal Investing&lt;/h2&gt;
+
+&lt;p&gt;The goals of investing (more return, less risk) are same for everyone but the tools are different for various levels of wealth. Someone with $1m to invest should not be doing the same things as someone with $100k to invest. Investing is a scale business which means that some expenses are worthwhile for large portfolio and a waste of money for small portfolios. I suggest using a robo-advisor like Wealthfront or Betterment unless you have more than $100k. The reason is that the fees are low and lowering expenses is more likely to benefit you than hiring a personal financial adviser. You should not be buying any fund with an expense ratio greater than 0.25% (Yes, that is a quarter of 1%). Most people should be investing in index funds and these types of businesses make the process relatively cheap and simple. They also automate the process of rebalancing your portfolio which minimizes your interaction with the portfolio. Behavioral Finance is an entire field dedicated to studying why people make foolish financial decisions. In long-term investing, most people are better off doing as little as possible.&lt;/p&gt;
+
+&lt;p&gt;For the ultimate in cheap, DIY investing, I recommend using a pair of Vanguard funds like the Total World Stock ETF (ticker: VT) and the Total International Bond ETF (ticker: BNDX). For those that want to stay within the U.S., you can use Total Stock Market ETF (ticker: VTI) and Total Bond Market ETF (ticker: BND). The proportion of stocks and bonds depends on your level of risk. If you have more than a decade to invest, hold all stocks. Something less, or if market changes concern you, hold more bonds. You only need a pair of mutual funds or ETFs.&lt;/p&gt;
+
+&lt;p&gt;A final word of warning, do not use apps like Robinhood for serious investing. The reasons are more complicated than I can include here but one reason is that the service is not free and they count on people not recognizing where the money is coming from.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review</title>
+      <link>/courses/portfoliomanagement/review/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/portfoliomanagement/review/</guid>
+      <description>
+
+&lt;h2 id=&#34;accounting-review&#34;&gt;Accounting Review&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: Additional Paid-in Capital @ &lt;a href=&#34;https://youtu.be/8GSdrqrbp8A&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video: Altman Z score @ &lt;a href=&#34;https://youtu.be/zKR0IKWcHNw&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video: Net Working Capital @ &lt;a href=&#34;https://youtu.be/EovKfDwRt9Q&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;dupont-analysis&#34;&gt;DuPont Analysis&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/YgZ4FnApo58&#34;&gt;ATM&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;earnings-management&#34;&gt;Earnings Management&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/JmC7uW0-9M8&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;earnings-quality&#34;&gt;Earnings Quality&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/FaY17jAD29Y&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-capital-asset-pricing-model&#34;&gt;The Capital Asset Pricing Model&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/fDz_DgDJD5g&#34;&gt;Edspira&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/N8gtnbJuMoo&#34;&gt;MIT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;beta&#34;&gt;Beta&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/sYu8E8kjCT0&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;estimate-beta&#34;&gt;Estimate Beta:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/b4FsppHu3rE&#34;&gt;CAPM Regression&lt;/a&gt; and &lt;a href=&#34;https://youtu.be/ZfyYjC1Tcks&#34;&gt;Regression Results&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;arbitrage-pricing-theory-apt&#34;&gt;Arbitrage Pricing Theory (APT)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Multifactor Models
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/lJCvxrj-YtA&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;efficient-frontier&#34;&gt;Efficient Frontier&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/J7d3vcaS9-o&#34;&gt;MIT(1)&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/z2oQe6B1Qa4&#34;&gt;MIT(2)&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/8TJQhQ2GZ0Y&#34;&gt;MIT(3)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;efficient-portfolios&#34;&gt;Efficient Portfolios&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/oAvx-l053Tk&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;portfolio-optimization&#34;&gt;Portfolio Optimization&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Linear Algebra Review
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/xyAuNHPsq-g&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Matrix Multiplication
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/aKhhYguY0DQ&#34;&gt;Khan Academy&lt;/a&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;portfolio-calculations-using-linear-algebra&#34;&gt;Portfolio Calculations using Linear Algebra&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/ywl3pq6yc54&#34;&gt;MIT&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/_B_24GUWdSM&#34;&gt;Yale&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Equity Valuation</title>
+      <link>/courses/investments/equityvaluation/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/investments/equityvaluation/</guid>
+      <description>
+
+&lt;h2 id=&#34;relative-valuation&#34;&gt;Relative Valuation&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/9rOeDOuvTUw&#34;&gt;Rush&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/Q3w3IqgC8sY&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-dividend-discount-model&#34;&gt;The Dividend Discount Model&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video Example: &lt;a href=&#34;https://youtu.be/XNFkOavBBmg&#34;&gt;Rush&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/TlH3_iOHX3s&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;discounted-cash-flow-valuation&#34;&gt;Discounted Cash Flow Valuation&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: The Weighted Average Cost of Capital (WACC) @ &lt;a href=&#34;https://youtu.be/46oLXwClvkw&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video: Free Cash Flow to the Firm @ &lt;a href=&#34;https://youtu.be/F5-VsVcbmCQ&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video: Sources and Uses of Cash @ &lt;a href=&#34;https://youtu.be/Fsj6EFXvMUc&#34;&gt;ATM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video: DCF using FCFF @ &lt;a href=&#34;https://youtu.be/7PpWneOBJls&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;DCF using Free Cash Flow to Equity
+
+&lt;ul&gt;
+&lt;li&gt;Video: Sustainable Growth Rate @ &lt;a href=&#34;https://youtu.be/2HD4e1jYulU&#34;&gt;ATM&lt;/a&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;alternative-models&#34;&gt;Alternative Models&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Economic Value Added (EVA)&lt;/li&gt;
+&lt;li&gt;Modified Residual Income&lt;/li&gt;
+&lt;li&gt;Equity as an Option&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CAPM and Factor Models</title>
+      <link>/courses/investments/capm_factors/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/investments/capm_factors/</guid>
+      <description>
+
+&lt;h2 id=&#34;the-capital-asset-pricing-model&#34;&gt;The Capital Asset Pricing Model&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/fDz_DgDJD5g&#34;&gt;Edspira&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/N8gtnbJuMoo&#34;&gt;MIT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;beta&#34;&gt;Beta&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/sYu8E8kjCT0&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;estimate-beta&#34;&gt;Estimate Beta:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/b4FsppHu3rE&#34;&gt;CAPM Regression&lt;/a&gt; and &lt;a href=&#34;https://youtu.be/ZfyYjC1Tcks&#34;&gt;Regression Results&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;systematic-vs-idiosyncratic-risk&#34;&gt;Systematic vs Idiosyncratic Risk&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/qPu4TEGIDYI&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;security-market-line&#34;&gt;Security Market Line&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/QtScOojh5z8&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;capital-market-line&#34;&gt;Capital Market Line&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/wOaKzthMUQ0&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;fama-and-french-models&#34;&gt;Fama and French Models&lt;/h2&gt;
+
+&lt;h2 id=&#34;arbitrage-pricing-theory-apt&#34;&gt;Arbitrage Pricing Theory (APT)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Multifactor Models
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/lJCvxrj-YtA&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Financial Statement Analysis</title>
+      <link>/courses/investments/fsa/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/investments/fsa/</guid>
+      <description>
+
+&lt;h2 id=&#34;accounting-review&#34;&gt;Accounting Review&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: Additional Paid-in Capital @ &lt;a href=&#34;https://youtu.be/8GSdrqrbp8A&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video: Altman Z score @ &lt;a href=&#34;https://youtu.be/zKR0IKWcHNw&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video: Net Working Capital @ &lt;a href=&#34;https://youtu.be/EovKfDwRt9Q&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;dupont-analysis&#34;&gt;DuPont Analysis&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/YgZ4FnApo58&#34;&gt;ATM&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;earnings-management&#34;&gt;Earnings Management&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/JmC7uW0-9M8&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;earnings-quality&#34;&gt;Earnings Quality&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/FaY17jAD29Y&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Futures and Commodities</title>
+      <link>/courses/investments/futures/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/investments/futures/</guid>
+      <description>
+
+&lt;h2 id=&#34;history-of-forward-and-futures-contracts&#34;&gt;History of Forward and Futures Contracts&lt;/h2&gt;
+
+&lt;h2 id=&#34;futures-overview&#34;&gt;Futures Overview&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities/forward-futures-contracts/v/forward-contract-introduction&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;mark-to-market&#34;&gt;Mark-to-Market&lt;/h2&gt;
+
+&lt;h2 id=&#34;spot-futures-parity&#34;&gt;Spot-Futures Parity&lt;/h2&gt;
+
+&lt;h2 id=&#34;pricing-futures-contracts&#34;&gt;Pricing Futures Contracts&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cost of Carry&lt;/li&gt;
+&lt;li&gt;Convenience Yield&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;contango-and-backwardation&#34;&gt;Contango and Backwardation&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Investment Policy Statement</title>
+      <link>/courses/portfoliomanagement/ips/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/portfoliomanagement/ips/</guid>
+      <description>
+
+&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
+
+&lt;h2 id=&#34;absolute-vs-relative-return&#34;&gt;Absolute vs Relative Return&lt;/h2&gt;
+
+&lt;h2 id=&#34;risk-tolerance&#34;&gt;Risk Tolerance&lt;/h2&gt;
+
+&lt;h2 id=&#34;time-horizon&#34;&gt;Time Horizon&lt;/h2&gt;
+
+&lt;h2 id=&#34;taxes&#34;&gt;Taxes&lt;/h2&gt;
+
+&lt;h2 id=&#34;asset-allocation&#34;&gt;Asset Allocation&lt;/h2&gt;
+
+&lt;h2 id=&#34;target-weights-and-deviations&#34;&gt;Target weights and Deviations&lt;/h2&gt;
+
+&lt;h2 id=&#34;rebalancing-frequency&#34;&gt;Rebalancing Frequency&lt;/h2&gt;
+
+&lt;h2 id=&#34;liquidity-requirements&#34;&gt;Liquidity Requirements&lt;/h2&gt;
+
+&lt;h2 id=&#34;security-selection&#34;&gt;Security Selection&lt;/h2&gt;
+
+&lt;h2 id=&#34;currency-exposure&#34;&gt;Currency Exposure&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Macroeconomic &amp; Industry Analysis</title>
+      <link>/courses/investments/macro_industry/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/investments/macro_industry/</guid>
+      <description>
+
+&lt;h2 id=&#34;macroeconomic-metrics&#34;&gt;Macroeconomic Metrics&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Gross Domestric Product (GDP)
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Unemployment
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/current-economics/unemployment-tutorial/v/unemployment&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Consumer Sentiment&lt;/li&gt;
+&lt;li&gt;Industrial Production&lt;/li&gt;
+&lt;li&gt;Interest Rates&lt;/li&gt;
+&lt;li&gt;Inflation&lt;/li&gt;
+&lt;li&gt;The Money Supply
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/monetary-system-topic/money-supply-tutorial/v/money-supply-m0-m1-and-m2&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Foreign Exchange
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/currency-tutorial/v/currency-exchange-introduction&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Balance of Payments
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/forex-trade-topic/current-capital-account/v/balance-of-payments-current-account&#34;&gt;Khan Academy&lt;/a&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;business-cycle-theory&#34;&gt;Business Cycle Theory&lt;/h2&gt;
+
+&lt;h2 id=&#34;industrial-organization&#34;&gt;Industrial Organization&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Macroeconomic &amp; Industry Analysis</title>
+      <link>/courses/portfoliomanagement/macro_industry/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/portfoliomanagement/macro_industry/</guid>
+      <description>
+
+&lt;h2 id=&#34;macroeconomic-metrics&#34;&gt;Macroeconomic Metrics&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Gross Domestric Product (GDP)
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Unemployment
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/current-economics/unemployment-tutorial/v/unemployment&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Consumer Sentiment&lt;/li&gt;
+&lt;li&gt;Industrial Production&lt;/li&gt;
+&lt;li&gt;Interest Rates&lt;/li&gt;
+&lt;li&gt;Inflation&lt;/li&gt;
+&lt;li&gt;The Money Supply
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/monetary-system-topic/money-supply-tutorial/v/money-supply-m0-m1-and-m2&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Foreign Exchange
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/currency-tutorial/v/currency-exchange-introduction&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Balance of Payments
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/forex-trade-topic/current-capital-account/v/balance-of-payments-current-account&#34;&gt;Khan Academy&lt;/a&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;business-cycle-theory&#34;&gt;Business Cycle Theory&lt;/h2&gt;
+
+&lt;h2 id=&#34;industrial-organization&#34;&gt;Industrial Organization&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Market Efficiency</title>
+      <link>/courses/seminar-corporatefinance/market_efficiency/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/seminar-corporatefinance/market_efficiency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Options</title>
+      <link>/courses/investments/options/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/investments/options/</guid>
+      <description>
+
+&lt;h2 id=&#34;what-is-a-derivative&#34;&gt;What is a Derivative?&lt;/h2&gt;
+
+&lt;h2 id=&#34;option-terminology&#34;&gt;Option Terminology&lt;/h2&gt;
+
+&lt;h2 id=&#34;put-and-call-options&#34;&gt;Put and Call Options&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities/put-call-options/v/american-call-options&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-binomial-option-pricing-model&#34;&gt;The Binomial Option Pricing Model&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/k_dCeLV_ilE&#34;&gt;Rush&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-black-scholes-option-pricing-model&#34;&gt;The Black-Scholes Option Pricing Model&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities/black-scholes/v/introduction-to-the-black-scholes-formula&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;option-strategies&#34;&gt;Option Strategies&lt;/h2&gt;
+
+&lt;h2 id=&#34;portfolio-insurance&#34;&gt;Portfolio Insurance&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Portfolio Theory</title>
+      <link>/courses/investments/portfoliotheory/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/investments/portfoliotheory/</guid>
+      <description>
+
+&lt;h2 id=&#34;efficient-frontier&#34;&gt;Efficient Frontier&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/J7d3vcaS9-o&#34;&gt;MIT(1)&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/z2oQe6B1Qa4&#34;&gt;MIT(2)&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/8TJQhQ2GZ0Y&#34;&gt;MIT(3)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;efficient-portfolios&#34;&gt;Efficient Portfolios&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/oAvx-l053Tk&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;portfolio-optimization&#34;&gt;Portfolio Optimization&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Linear Algebra Review
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/xyAuNHPsq-g&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Matrix Multiplication
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/aKhhYguY0DQ&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;portfolio-calculations-using-linear-algebra&#34;&gt;Portfolio Calculations using Linear Algebra&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Portfolio Expected Return&lt;/li&gt;
+&lt;li&gt;Portfolio Variance&lt;/li&gt;
+&lt;li&gt;Optimal Risky Portfolio&lt;/li&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/ywl3pq6yc54&#34;&gt;MIT&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/_B_24GUWdSM&#34;&gt;Yale&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Risk, Returns, and History</title>
+      <link>/courses/investments/risk_returns_history/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/investments/risk_returns_history/</guid>
+      <description>
+
+&lt;h2 id=&#34;arithmetic-and-geometric-returns&#34;&gt;Arithmetic and Geometric Returns&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/e-C_QwBl3-8&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;effective-annual-rate&#34;&gt;Effective Annual Rate&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/Fy8Zd6QvwnU&#34;&gt;Edspira&lt;/a&gt; | Video: &lt;a href=&#34;https://youtu.be/RuPMsK0mQC8&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;diversification-and-portfolio-calculations&#34;&gt;Diversification and Portfolio Calculations&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/tL7Lcl90Sc0&#34;&gt;MIT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;uncertainty&#34;&gt;Uncertainty&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/yvcg_WE5O-o&#34;&gt;Yale&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;value-at-risk&#34;&gt;Value at Risk&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/92WaNz9mPeY&#34;&gt;MIT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Securities Markets</title>
+      <link>/courses/investments/securities_markets/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/investments/securities_markets/</guid>
+      <description>
+
+&lt;h2 id=&#34;the-principle-agent-problem&#34;&gt;The Principle-Agent Problem&lt;/h2&gt;
+
+&lt;h2 id=&#34;adverse-selection&#34;&gt;Adverse Selection&lt;/h2&gt;
+
+&lt;h2 id=&#34;asymmetric-information&#34;&gt;Asymmetric Information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/sXPXpJ5vMnU&#34;&gt;MRUniversity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;role-of-the-financial-analyst&#34;&gt;Role of the Financial Analyst&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/SZj8tYNgIJ4&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;sellside-vs-buyside-analysts&#34;&gt;Sellside vs Buyside Analysts&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/dObgCdfP2Sc&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;short-selling-a-stock&#34;&gt;Short Selling a Stock&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds/shorting-stock/v/shorting-stock&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/AVXW95MyD54&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;initial-public-offering-ipo&#34;&gt;Initial Public Offering (IPO)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds/venture-capital-and-capital-markets/v/raising-money-for-a-startup&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;market-capitalization&#34;&gt;Market Capitalization&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/KPDMn0gES44&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;what-is-an-etf&#34;&gt;What is an ETF?&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/83DoOBBsKYk?list=PLA33D9F40D19C5320&#34;&gt;APM&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;risk-and-return&#34;&gt;Risk and Return&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Arithmetic and Geometric Returns @ &lt;a href=&#34;https://youtu.be/e-C_QwBl3-8&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Effective Annual Rate @ &lt;a href=&#34;https://youtu.be/Fy8Zd6QvwnU&#34;&gt;Edspira&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/RuPMsK0mQC8&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Diversification and Portfolio Calculations @ &lt;a href=&#34;https://youtu.be/tL7Lcl90Sc0&#34;&gt;MIT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Uncertainty @ &lt;a href=&#34;https://youtu.be/yvcg_WE5O-o&#34;&gt;Yale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Value at Risk @ &lt;a href=&#34;https://youtu.be/92WaNz9mPeY&#34;&gt;MIT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Student Advice</title>
+      <link>/courses/library/advising/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/library/advising/</guid>
+      <description>
+
+&lt;p&gt;Everyone has constraints on their time, money, and attention. My recommendations represent what I believe a competitive student should do to prepare for a career in finance but everyone has to make trade-offs.&lt;/p&gt;
+
+&lt;h2 id=&#34;university-selection&#34;&gt;University Selection&lt;/h2&gt;
+
+&lt;p&gt;The most valuable aspects of a college education are: degree, personal network, learning from peers, and coursework. When considering universities with different tuition rates, consider whether the higher tuition comes with a substantial increase in one of those factors. While there are substantial differences in the marketability of an Ivy League degree relative to a state college degree, most of the differences in outcomes from similar colleges are determined by individual factors.&lt;/p&gt;
+
+&lt;p&gt;People only care where you graduate. Spend 2-4 semesters at a state college to save money, get a high GPA, and get a scholarship to transfer to a better school. Make sure to take your general education classes at the cheap school and take as many of your major classes as possible at the better school. Plan ahead for transfer credit.&lt;/p&gt;
+
+&lt;h2 id=&#34;course-selection&#34;&gt;Course Selection&lt;/h2&gt;
+
+&lt;p&gt;Take the required finance course for business majors as soon as possible. (This is usually called Financial Management.) It is a prerequisite to almost every finance course at every university. After that, take Investments as soon as possible. It will help with the second internship if you want to work in capital markets. Next, take a modeling class and an international finance class. Finally, take the Financial Markets and Institutions class and any other required classes for your program. If you want to work in capital markets, get into the student managed fund.&lt;/p&gt;
+
+&lt;p&gt;Finance is a interdisciplinary field. Without accounting, economics, and statistics, you cannot understand finance. The qualitative coursework in marketing and management will help you evaluate the strategies of potential investments as well as the strategy of your own organization.&lt;/p&gt;
+
+&lt;p&gt;If you are not a finance major, consider your alternatives carefully. In general, more quantitative skills lead to higher salaries. Don&amp;rsquo;t expect to have a job in the arts or humanities and own a house without support from a spouse or parents. Even within the business school, there are substantial differences between more quantitative majors versus qualitative majors. Consider the median salary and lifestyle rather than a few stories of students that &amp;ldquo;made it&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;If possible, do a semester abroad in the first 2 years. It is better to do it early than to miss an internship opportunity later. Pick a country where you do not feel comfortable. Studying abroad in a less developed country may be cheaper than a state college in the U.S. and provides a much more valuable experience. Don&amp;rsquo;t limit yourself to the programs that the university promotes.&lt;/p&gt;
+
+&lt;p&gt;Pick a class you like with a project that interests you. Work harder on the project than is required and publish the results. This is not as difficult as you might imagine and is marketable even if you don&amp;rsquo;t go to grad school. Your professor knows places that will publish student work.&lt;/p&gt;
+
+&lt;h2 id=&#34;internships&#34;&gt;Internships&lt;/h2&gt;
+
+&lt;p&gt;Get an internship at the end of your sophomore year and junior year. Even if you have never taken a class in your discipline, get an internship. Companies expect you to be motivated and interested in your field. They do not expect you to know how to do the job. Many companies will make full time offers to a few of their top performers in the summer internship. Do not accept unpaid internships. Everyone believes their experience is valuable but very rarely is it worth going into debt.&lt;/p&gt;
+
+&lt;h2 id=&#34;academic-and-career-standards&#34;&gt;Academic and Career Standards&lt;/h2&gt;
+
+&lt;p&gt;Assume that you need to do twice as much as what other people have done to achieve the same level of success. Being above average doesn&amp;rsquo;t cut it in finance. Many people reached their position by some combination of luck and skill. Don&amp;rsquo;t assume that you can replicate someone else&amp;rsquo;s luck.&lt;/p&gt;
+
+&lt;h2 id=&#34;marketable-skills&#34;&gt;Marketable Skills&lt;/h2&gt;
+
+&lt;p&gt;You can never know Excel well enough. You can never network enough. Do not accept labels such as qualitative or quantitative. Finance requires both.&lt;/p&gt;
+
+&lt;p&gt;Start learning to stand in front of people and explain difficult ideas. This is necessary for most jobs in finance.&lt;/p&gt;
+
+&lt;p&gt;It is better to ask stupid questions than to not ask questions.&lt;/p&gt;
+
+&lt;p&gt;Learn some programming. R, Python, Matlab, SAS, or even VBA are good choices. Pick a project to learn on your own. This is more efficient than taking a general introduction to programming class. Someone has probably solved a problem similar to your&amp;rsquo;s on free sites like &lt;a href=&#34;https://stackoverflow.com/&#34;&gt;Stack Overflow&lt;/a&gt;. Break down your project into the most simple components and search for how to complete each step.&lt;/p&gt;
+
+&lt;h2 id=&#34;resume-hacks&#34;&gt;Resume Hacks&lt;/h2&gt;
+
+&lt;p&gt;Identify extracurricular activities that have measurable outcomes to list on your resume such as: organized 20 presentations or raised $10,000 for charity.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/CVEuPmVAb8o&#34;&gt;&amp;ldquo;Don&amp;rsquo;t Follow Your Passion&amp;rdquo; - Mike Rowe&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Get a hobby. Find something that is not finance that makes you happy. This will help you deal with the times when finance will be boring, frustrating, or too difficult. Talk about your hobby in an interview.&lt;/p&gt;
+
+&lt;p&gt;The best jobs are usually not around the university and are not advertised at the career center. Be prepared to move and find your own job.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Time Value of Money</title>
+      <link>/courses/managerial_finance/tvm/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/managerial_finance/tvm/</guid>
+      <description>
+
+&lt;h2 id=&#34;time-value-of-money-overview&#34;&gt;Time Value of Money Overview&lt;/h2&gt;
+
+&lt;h2 id=&#34;present-value&#34;&gt;Present Value&lt;/h2&gt;
+
+&lt;h2 id=&#34;future-value&#34;&gt;Future Value&lt;/h2&gt;
+
+&lt;h2 id=&#34;present-value-of-an-annuity&#34;&gt;Present Value of an Annuity&lt;/h2&gt;
+
+&lt;h2 id=&#34;future-value-of-an-annuity&#34;&gt;Future Value of an Annuity&lt;/h2&gt;
+
+&lt;h2 id=&#34;present-value-of-a-perpetuity&#34;&gt;Present Value of a Perpetuity&lt;/h2&gt;
+
+&lt;h2 id=&#34;present-value-of-a-growing-perpetuity&#34;&gt;Present Value of a Growing Perpetuity&lt;/h2&gt;
+
+&lt;h2 id=&#34;the-dividend-discount-model&#34;&gt;The Dividend Discount Model&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video Example: &lt;a href=&#34;https://youtu.be/XNFkOavBBmg&#34;&gt;Rush&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/TlH3_iOHX3s&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;yield-to-maturity&#34;&gt;Yield to Maturity&lt;/h2&gt;
+
+&lt;h2 id=&#34;effective-annual-rate-ear&#34;&gt;Effective Annual Rate (EAR)&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Capital Budgeting I</title>
+      <link>/courses/managerial_finance/capital_budgeting_i/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/managerial_finance/capital_budgeting_i/</guid>
+      <description>
+
+&lt;h2 id=&#34;net-present-value-npv&#34;&gt;Net Present Value (NPV)&lt;/h2&gt;
+
+&lt;h2 id=&#34;internal-rate-of-return-irr&#34;&gt;Internal Rate of Return (IRR)&lt;/h2&gt;
+
+&lt;h2 id=&#34;modified-internal-rate-of-return-mirr&#34;&gt;Modified Internal Rate of Return (MIRR)&lt;/h2&gt;
+
+&lt;h2 id=&#34;payback-period&#34;&gt;Payback Period&lt;/h2&gt;
+
+&lt;h2 id=&#34;discounted-payback-period&#34;&gt;Discounted Payback Period&lt;/h2&gt;
+
+&lt;h2 id=&#34;profitability-index&#34;&gt;Profitability Index&lt;/h2&gt;
+
+&lt;h2 id=&#34;incremental-irr&#34;&gt;Incremental IRR&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ethics</title>
+      <link>/courses/portfoliomanagement/ethics/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/portfoliomanagement/ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Market Frictions</title>
+      <link>/courses/seminar-corporatefinance/market_frictions/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/seminar-corporatefinance/market_frictions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trade Execution</title>
+      <link>/courses/portfoliomanagement/trading/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/portfoliomanagement/trading/</guid>
+      <description>&lt;p&gt;We will be using Chebyshev&amp;rsquo;s Theorem to set limits on trades. This is appropriate because financial returns (and prices) are not normally distributed but the distribution is generally assumed to have a mean and standard deviation. Find the volume-weighted average prices (VWAP) from no more than one month in the past. For buys, calculate two standard deviations below the last VWAP price to use as the limit. This will balance price improvement with our goal of execution within a week. Use the same guide for sell limit orders. Add two standard deviations to the last VWAP to get the limit sell price which is likely to be executed within a week.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>University-Specific Resources</title>
+      <link>/courses/investments/university-resources/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/investments/university-resources/</guid>
+      <description>
+
+&lt;h2 id=&#34;bowling-green-state-university&#34;&gt;Bowling Green State University&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bloomberg - only accessible from the terminal in the Finance Trading Lab in Room 2004 of the College of Business. Open the Bloomberg application; not the website.&lt;/li&gt;
+&lt;li&gt;The Economist magazine - &lt;a href=&#34;http://maurice.bgsu.edu.ezproxy.bgsu.edu:8080/record=b1010158~S9&#34;&gt;print edition&lt;/a&gt; only available in the library&lt;/li&gt;
+&lt;li&gt;Foreign Affairs magazine&lt;/strong&gt; – &lt;a href=&#34;http://web.b.ebscohost.com.ezproxy.bgsu.edu:8080/ehost/command/detail?vid=0&amp;amp;sid=9ee317de-f36b-4eb0-b9c3-34d0c5ae41df%40sessionmgr120&amp;amp;bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#jid=FAF&amp;amp;db=a9h&#34;&gt;online access&lt;/a&gt; through the library&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bgsu.edu/library/collab-lab/laptop-loan.html&#34;&gt;Laptop Loan&lt;/a&gt; - students with financial aid can receive a laptop for an academic year&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ezproxy.bgsu.edu:8080/login?url=http://na.capitaliq.com/ip/BGSUV&#34;&gt;Standard and Poor&amp;rsquo;s Capital IQ NetAdvantage&lt;/a&gt; - available online through the library&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bgsu.edu/learning-commons/subject-tutoring.html&#34;&gt;Tutors&lt;/a&gt; - available for free with request through the Learning Commons&lt;/li&gt;
+&lt;li&gt;The Wall Street Journal - &lt;a href=&#34;https://search-proquest-com.ezproxy.bgsu.edu:9443/publication/105983&#34;&gt;online access&lt;/a&gt; through the library&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blogs.bgsu.edu&#34;&gt;Wordpress&lt;/a&gt; - free blog platform with no ads for students and faculty&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;tianjin-polytechnic-university-天津工业大学&#34;&gt;Tianjin Polytechnic University, 天津工业大学&lt;/h2&gt;
+
+&lt;h2 id=&#34;university-of-connecticut&#34;&gt;University of Connecticut&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bloomberg - top floor of the Business School&lt;/li&gt;
+&lt;li&gt;The Economist magazine - &lt;a href=&#34;http://search.proquest.com.ezproxy.lib.uconn.edu/publication/366256&#34;&gt;online access&lt;/a&gt; through the library&lt;/li&gt;
+&lt;li&gt;Foreign Affairs magazine – &lt;a href=&#34;http://search.proquest.com.ezproxy.lib.uconn.edu/publication/40670&#34;&gt;online access&lt;/a&gt; through the library&lt;/li&gt;
+&lt;li&gt;Foreign Policy magazine – &lt;a href=&#34;http://search.proquest.com.ezproxy.lib.uconn.edu/publication/47510&#34;&gt;online access&lt;/a&gt; through the library&lt;a href=&#34;http://search.proquest.com.ezproxy.lib.uconn.edu/publication/47510&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The Wall Street Journal - &lt;a href=&#34;http://search.proquest.com.ezproxy.lib.uconn.edu/publication/105983&#34;&gt;online access&lt;/a&gt; through the library&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;university-of-economics-and-law-vietnam&#34;&gt;University of Economics and Law, Vietnam&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Reuters Terminal - only accessible from the terminals on the top floor&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Behavioral Finance</title>
+      <link>/courses/seminar-corporatefinance/behavioral_finance/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/seminar-corporatefinance/behavioral_finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equity Valuation</title>
+      <link>/courses/portfoliomanagement/equityvaluation/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/portfoliomanagement/equityvaluation/</guid>
+      <description>
+
+&lt;h2 id=&#34;relative-valuation&#34;&gt;Relative Valuation&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/9rOeDOuvTUw&#34;&gt;Rush&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/Q3w3IqgC8sY&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-dividend-discount-model&#34;&gt;The Dividend Discount Model&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video Example: &lt;a href=&#34;https://youtu.be/XNFkOavBBmg&#34;&gt;Rush&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/TlH3_iOHX3s&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;discounted-cash-flow-valuation&#34;&gt;Discounted Cash Flow Valuation&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: The Weighted Average Cost of Capital (WACC) @ &lt;a href=&#34;https://youtu.be/46oLXwClvkw&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video: Free Cash Flow to the Firm @ &lt;a href=&#34;https://youtu.be/F5-VsVcbmCQ&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video: Sources and Uses of Cash @ &lt;a href=&#34;https://youtu.be/Fsj6EFXvMUc&#34;&gt;ATM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video: DCF using FCFF @ &lt;a href=&#34;https://youtu.be/7PpWneOBJls&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;DCF using Free Cash Flow to Equity
+
+&lt;ul&gt;
+&lt;li&gt;Video: Sustainable Growth Rate @ &lt;a href=&#34;https://youtu.be/2HD4e1jYulU&#34;&gt;ATM&lt;/a&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;alternative-models&#34;&gt;Alternative Models&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Economic Value Added (EVA)&lt;/li&gt;
+&lt;li&gt;Modified Residual Income&lt;/li&gt;
+&lt;li&gt;Equity as an Option&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bonds and Interest Rates</title>
+      <link>/courses/managerial_finance/interest_rates/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/managerial_finance/interest_rates/</guid>
+      <description>
+
+&lt;h2 id=&#34;interest-rate-risk-premiums&#34;&gt;Interest Rate Risk Premiums&lt;/h2&gt;
+
+&lt;h2 id=&#34;inflation&#34;&gt;Inflation&lt;/h2&gt;
+
+&lt;h2 id=&#34;bonds&#34;&gt;Bonds&lt;/h2&gt;
+
+&lt;h2 id=&#34;the-yield-curve&#34;&gt;The Yield Curve&lt;/h2&gt;
+
+&lt;h2 id=&#34;bankruptcy&#34;&gt;Bankruptcy&lt;/h2&gt;
+
+&lt;h2 id=&#34;forward-interest-rates&#34;&gt;Forward Interest Rates&lt;/h2&gt;
+
+&lt;h2 id=&#34;optional-topics&#34;&gt;Optional Topics&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Credit Reports&lt;/li&gt;
+&lt;li&gt;Debt Buyers&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Media Sources</title>
+      <link>/courses/library/media/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/library/media/</guid>
+      <description>
+
+&lt;h2 id=&#34;television-news&#34;&gt;Television News&lt;/h2&gt;
+
+&lt;p&gt;In my opinion, news should have as little commentary as possible and focus on matters of importance rather than entertainment value. I also don&amp;rsquo;t think you should pay for a cable package to receive decent news. These sources keep you informed without attempting to elicit an emotional reaction.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/user/NBRbizrpt/featured&#34;&gt;Nightly Business Report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/user/PBSNewsHour/featured&#34;&gt;PBS Newshour&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;blogs-and-magazines&#34;&gt;Blogs and Magazines&lt;/h2&gt;
+
+&lt;p&gt;These magazines and blogs are not unbiased and may publish bad information but there is enough relevant content for me to recommend them here. Clearly, some should be taken more seriously than others. Many of the traditional print media sources here can be accessed with an RSS reader rather than paying for a print subscription.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bloomberg.com/radio/&#34;&gt;Bloomberg Radio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://research.gluskinsheff.com/&#34;&gt;Breakfast with Dave&lt;/a&gt; by David Rosenberg - daily macro economic analysis newsletter&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.econtalk.org/&#34;&gt;EconTalk&lt;/a&gt; - Blog and Podcast&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.foreignaffairs.com/&#34;&gt;Foreign Affairs&lt;/a&gt; - If you want to know what key policy makers think about foreign policy, read this one.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.foreignpolicy.com/&#34;&gt;Foreign Policy&lt;/a&gt; - excellent global coverage&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fortune.com/gettermsheet/&#34;&gt;Fortune Term Sheet&lt;/a&gt; by Dan Primack - daily email about financial deals&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.economist.com/blogs/freeexchange&#34;&gt;Free Exchange&lt;/a&gt; - additional shorter form articles from The Economist for free&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.npr.org/blogs/money/&#34;&gt;Planet Money&lt;/a&gt; on NPR&lt;/li&gt;
+&lt;li&gt;Sci-Hub (&lt;a href=&#34;https://wadauk.github.io/scihub_ck/index.html&#34;&gt;Links&lt;/a&gt;) – open access to academic papers&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stephenrush.wordpress.com/courses/media/&#34;&gt;Selected Media&lt;/a&gt;&amp;nbsp;– stories that I have compiled for undergraduate courses&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tabbforum.com/&#34;&gt;TabbFORUM&lt;/a&gt; - market focused and a decent source for microstructure information&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.economist.com/&#34;&gt;The Economist&lt;/a&gt; - If you only read one news source, this is the one to read. Most university libraries provide The Economist for free although a personal subscription is more convenient.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://online.wsj.com&#34;&gt;The Wall Street Journal&lt;/a&gt; - This is still the newspaper of record for U.S. business although I would not recommend reading it on a regular basis.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCpwosulQ7IOBHCCnl7kWYwA&#34;&gt;YouTube&lt;/a&gt; - there are some really great lectures available for free. I have links to a few on my channel.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.zerohedge.com/&#34;&gt;Zero Hedge&lt;/a&gt; - more entertainment than serious analysis (be very skeptical of content posted here)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Portfolio Optimization</title>
+      <link>/courses/portfoliomanagement/portfoliooptimization/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/portfoliomanagement/portfoliooptimization/</guid>
+      <description>
+
+&lt;h2 id=&#34;constrained-mean-variance-portfolio-optimization&#34;&gt;Constrained Mean-Variance Portfolio Optimization&lt;/h2&gt;
+
+&lt;h2 id=&#34;risk-parity-portfolios&#34;&gt;Risk Parity Portfolios&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Risk and Return</title>
+      <link>/courses/managerial_finance/risk_return/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/managerial_finance/risk_return/</guid>
+      <description>
+
+&lt;h2 id=&#34;arithmetic-and-geometric-returns&#34;&gt;Arithmetic and Geometric Returns&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/e-C_QwBl3-8&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;market-capitalization&#34;&gt;Market Capitalization&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/KPDMn0gES44&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;diversification-and-portfolio-calculations&#34;&gt;Diversification and Portfolio Calculations&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Guest Lecture: &lt;a href=&#34;https://youtu.be/tL7Lcl90Sc0&#34;&gt;MIT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-capital-asset-pricing-model&#34;&gt;The Capital Asset Pricing Model&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Guest Lecture: &lt;a href=&#34;https://youtu.be/3BIIiUyr3-w&#34;&gt;Risk, Return, and the CAPM&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Performance Measurement</title>
+      <link>/courses/portfoliomanagement/performance/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/portfoliomanagement/performance/</guid>
+      <description>
+
+&lt;h2 id=&#34;benchmark&#34;&gt;Benchmark&lt;/h2&gt;
+
+&lt;h2 id=&#34;treynor-measure&#34;&gt;Treynor Measure&lt;/h2&gt;
+
+&lt;h2 id=&#34;sharpe-ratio-information-ratio&#34;&gt;Sharpe Ratio / Information Ratio&lt;/h2&gt;
+
+&lt;h2 id=&#34;tracking-error&#34;&gt;Tracking Error&lt;/h2&gt;
+
+&lt;h2 id=&#34;fama-and-french-models&#34;&gt;Fama and French Models&lt;/h2&gt;
+
+&lt;h2 id=&#34;q-factor-model&#34;&gt;q-factor Model&lt;/h2&gt;
+
+&lt;h2 id=&#34;risk-factor-analysis&#34;&gt;Risk Factor Analysis&lt;/h2&gt;
+
+&lt;h2 id=&#34;style-analysis&#34;&gt;Style Analysis&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Style Drift&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;brinson-attribution&#34;&gt;Brinson Attribution&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Capital Asset Pricing Model</title>
+      <link>/courses/managerial_finance/capm/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/managerial_finance/capm/</guid>
+      <description>
+
+&lt;h2 id=&#34;the-capital-asset-pricing-model&#34;&gt;The Capital Asset Pricing Model&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/fDz_DgDJD5g&#34;&gt;Edspira&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/N8gtnbJuMoo&#34;&gt;MIT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;defining-and-measuring-risk&#34;&gt;Defining and Measuring Risk&lt;/h2&gt;
+
+&lt;h2 id=&#34;systematic-vs-idiosyncratic-risk&#34;&gt;Systematic vs Idiosyncratic Risk&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/qPu4TEGIDYI&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;beta&#34;&gt;Beta&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/sYu8E8kjCT0&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;estimate-beta&#34;&gt;Estimate Beta:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/b4FsppHu3rE&#34;&gt;CAPM Regression&lt;/a&gt; and &lt;a href=&#34;https://youtu.be/ZfyYjC1Tcks&#34;&gt;Regression Results&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-equity-risk-premium&#34;&gt;The Equity Risk Premium&lt;/h2&gt;
+
+&lt;h2 id=&#34;security-market-line&#34;&gt;Security Market Line&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/QtScOojh5z8&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;capital-market-line&#34;&gt;Capital Market Line&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/wOaKzthMUQ0&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Capital Budgeting II</title>
+      <link>/courses/managerial_finance/capital_budgeting_ii/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/managerial_finance/capital_budgeting_ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Financial Statement Analysis</title>
+      <link>/courses/managerial_finance/fsa/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/managerial_finance/fsa/</guid>
+      <description>
+
+&lt;h2 id=&#34;accounting-review&#34;&gt;Accounting Review&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: Additional Paid-in Capital @ &lt;a href=&#34;https://youtu.be/8GSdrqrbp8A&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video: Altman Z score @ &lt;a href=&#34;https://youtu.be/zKR0IKWcHNw&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video: Net Working Capital @ &lt;a href=&#34;https://youtu.be/EovKfDwRt9Q&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;dupont-analysis&#34;&gt;DuPont Analysis&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/YgZ4FnApo58&#34;&gt;ATM&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;earnings-management&#34;&gt;Earnings Management&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/JmC7uW0-9M8&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;earnings-quality&#34;&gt;Earnings Quality&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/FaY17jAD29Y&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;discounted-cash-flow-valuation&#34;&gt;Discounted Cash Flow Valuation&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: The Weighted Average Cost of Capital (WACC) @ &lt;a href=&#34;https://youtu.be/46oLXwClvkw&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video: Free Cash Flow to the Firm @ &lt;a href=&#34;https://youtu.be/F5-VsVcbmCQ&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video: Sources and Uses of Cash @ &lt;a href=&#34;https://youtu.be/Fsj6EFXvMUc&#34;&gt;ATM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video: DCF using FCFF @ &lt;a href=&#34;https://youtu.be/7PpWneOBJls&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;DCF using Free Cash Flow to Equity&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;sustainable-growth-rate&#34;&gt;Sustainable Growth Rate&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Guest Video @ &lt;a href=&#34;https://youtu.be/2HD4e1jYulU&#34;&gt;ATM&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ratios and Relative Value</title>
+      <link>/courses/managerial_finance/ratios_rv/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/managerial_finance/ratios_rv/</guid>
+      <description>
+
+&lt;h2 id=&#34;relative-valuation&#34;&gt;Relative Valuation&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/9rOeDOuvTUw&#34;&gt;Rush&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/Q3w3IqgC8sY&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-dividend-discount-model&#34;&gt;The Dividend Discount Model&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video Example: &lt;a href=&#34;https://youtu.be/XNFkOavBBmg&#34;&gt;Rush&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/TlH3_iOHX3s&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Capital Structure</title>
+      <link>/courses/managerial_finance/capital_structure/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/managerial_finance/capital_structure/</guid>
+      <description>
+
+&lt;h2 id=&#34;modigliani-and-miller&#34;&gt;Modigliani and Miller&lt;/h2&gt;
+
+&lt;h2 id=&#34;homemade-leverage&#34;&gt;Homemade Leverage&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Setec Astronomy</title>
+      <link>/courses/library/setec/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/library/setec/</guid>
+      <description>&lt;p&gt;These are some of the great free and open source software tools available particularly for my friends who live in less free societies. Unless you are a cryptographer, I don&amp;rsquo;t recommend the &lt;a href=&#34;https://en.wikipedia.org/wiki/Security_through_obscurity&#34;&gt;Security through Obscurity&lt;/a&gt; strategy. Also, consider some of the tools recommended by the Electronic Frontier Foundation (EFF) &lt;a href=&#34;https://ssd.eff.org/&#34;&gt;Surveillance Self-Defense&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://duckduckgo.com/&#34;&gt;DuckDuckGo&lt;/a&gt; - web search without tracking&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.opengarden.com/firechat/&#34;&gt;FireChat&lt;/a&gt; - decentralized chat for high density events&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.gnupg.org/&#34;&gt;Gnu Privacy Guard&lt;/a&gt; (GPG) - open source version of PGP&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://keybase.io/&#34;&gt;Keybase&lt;/a&gt; - site that links social media identities with an encryption key&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pgp.mit.edu/&#34;&gt;Keyserver&lt;/a&gt; - MIT&amp;rsquo;s PGP keyserver (one of many available)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mailvelope.com/&#34;&gt;Mailvelope&lt;/a&gt; - browser extension for PGP use in webmail&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mega.co.nz&#34;&gt;Mega&lt;/a&gt; - encrypted cloud storage&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://openvpn.net&#34;&gt;OpenVPN&lt;/a&gt; - run your own VPN on Windows, OS X, or Linux&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://whispersystems.org/&#34;&gt;Signal Private Messenger&lt;/a&gt; - encrypted SMS, MMS, and voice by Open Whisper Systems for iOS and Android&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://syncthing.net/&#34;&gt;Syncthing&lt;/a&gt; - synchronized storage without disk limits using BitTorrent technology&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.telegram.org/&#34;&gt;Telegram&lt;/a&gt; - This is not secure but many people still use it for the convenience&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://termux.com&#34;&gt;Termux&lt;/a&gt; - terminal for Android devices&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.torproject.org/&#34;&gt;The TOR Project&lt;/a&gt; - a more private method of accessing the Internet&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mywickr.com&#34;&gt;Wickr&lt;/a&gt; - encrypted messaging for iOS, Android, Windows, OS X, and Linux&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For those that just want to work with free and open source software, check out these alternatives to common applications. They are also useful for living a first world lifestyle on a third world salary.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.libreoffice.org/&#34;&gt;Libre Office&lt;/a&gt;&lt;/strong&gt; - free replacement for Microsoft Office&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ubuntu.com/&#34;&gt;Ubuntu Linux&lt;/a&gt;&lt;/strong&gt; - complete replacement for Windows / running the variant of Ubuntu called &lt;a href=&#34;http://xubuntu.org/&#34;&gt;Xubuntu&lt;/a&gt; enables you to run a modern operating system and applications on minimal hardware such as a 10 year old computer that you can get virtually for free. If you need a graphical interface but want to run at ludicrous speed, check out &lt;a href=&#34;https://i3wm.org/&#34;&gt;i3&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://portableapps.com/&#34;&gt;Portable Apps&lt;/a&gt; - you can even get by without your own machine or relying on cloud services&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://plex.tv/&#34;&gt;Plex&lt;/a&gt; - the best media server&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://musescore.org&#34;&gt;Muse Score&lt;/a&gt; - open source music notation software&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.qubes-os.org/&#34;&gt;Qubes OS &lt;/a&gt; - operating system for those who are tired of repeatedly wiping their system&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>/courses/library/books/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/library/books/</guid>
+      <description>
+
+&lt;p&gt;This book list is rather short because I only add books that I have read personally and I think are worth taking time away from something else to read. Where possible, I include links to freely accessible materials.&lt;/p&gt;
+
+&lt;h2 id=&#34;general-finance&#34;&gt;General Finance&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://book.ivo-welch.info/home/&#34; target=&#34;_blank&#34;&gt;Corporate Finance&lt;/a&gt; by Ivo Welch&lt;/li&gt;
+&lt;li&gt;Investments by Bodie, Kane, and Marcus&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.core-econ.org/the-economy/&#34; target=&#34;_blank&#34;&gt;The Economy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Introductory Econometrics: A Modern Approach by Wooldridge&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mostlyharmlesseconometrics.com/&#34; target=&#34;_blank&#34;&gt;Mostly Harmless Econometrics: An Empiricist&amp;rsquo;s Companion&lt;/a&gt; by Angrist and Pischke&lt;/li&gt;
+&lt;li&gt;The Misbehavior of Markets: A Fractal View of Financial Turbulence by Benoit Mandelbrot&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;investing&#34;&gt;Investing&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Security Analysis (1940) by Graham and Dodd&lt;/li&gt;
+&lt;li&gt;The Intelligent Investor (1949) by Benjamin Graham&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pages.stern.nyu.edu/~adamodar/New_Home_Page/invphil.htm&#34;&gt;Investing Philosophies by Aswath Damodaran&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Active Portfolio Management: A Quantitative Approach for Providing Superior Returns and Controlling Risk by Grinold and Kahn&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;finance-history&#34;&gt;Finance History&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;When Genius Failed: The Rise and Fall of Long Term Capital Management by Roger Lowenstein&lt;/li&gt;
+&lt;li&gt;Against the Gods: The Remarkable Story of Risk by Peter Bernstein&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;advanced-finance&#34;&gt;Advanced Finance&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://faculty.chicagobooth.edu/john.cochrane/teaching/asset_pricing.htm&#34;&gt;Asset Pricing by Cochrane&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Financial Theory and Corporate Policy by Copeland, Weston, and Shastri&lt;/li&gt;
+&lt;li&gt;Handbook Of the Economics of Finance&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;advanced-quantitative-techniques&#34;&gt;Advanced Quantitative Techniques&lt;/h2&gt;
+
+&lt;p&gt;Before using any statistical software or programming language, you should master Excel. It is the most common tool used in finance. You should also know a bit of VBA to automate repetitive tasks. Next, you should learn a more powerful tool for advanced analytics. I recommend R but Matlab, Octave, Python, SAS, or Stata are reasonable choices.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://statweb.stanford.edu/~tibs/ElemStatLearn/&#34;&gt;Elements of Statistical Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.stat.pitt.edu/stoffer/tsa4/&#34;&gt;Time Series Analysis and Its Applications: With R Examples&lt;/a&gt; by Shumway and Stoffer&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Movies</title>
+      <link>/courses/library/movies/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/library/movies/</guid>
+      <description>
+
+&lt;p&gt;These are movies that are important to finance culture or have some interesting finance content. Plenty of other movies take place around finance but have little relevant content.&lt;/p&gt;
+
+&lt;h2 id=&#34;finance-movies&#34;&gt;Finance Movies&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Betting on Zero (2016) Documentary about Bill Ackman shorting stock in Herbalife for Pershing Square.&lt;/li&gt;
+&lt;li&gt;The Big Short (2015) Entertaining take on the mortgage crisis&lt;/li&gt;
+&lt;li&gt;Margin Call (2011) Fictional story about an investment bank that begins a financial crisis&lt;/li&gt;
+&lt;li&gt;Too Big to Fail (2011) Glossy and overly simplistic look at the 2008 bailouts&lt;/li&gt;
+&lt;li&gt;Inside Job (2010) Documentary covering many aspects of the 2008 financial crisis&lt;/li&gt;
+&lt;li&gt;Enron: The Smartest Guys in the Room (2005) Documentary about the fall of energy trading firm Enron&lt;/li&gt;
+&lt;li&gt;Boiler Room (2000) Portrays a &amp;ldquo;pump-and-dump&amp;rdquo; brokerage firm&lt;/li&gt;
+&lt;li&gt;Rogue Trader (1999) Based on the true story of Nick Leeson who brought down &lt;a href=&#34;http://en.wikipedia.org/wiki/Barings_Bank&#34; target=&#34;_blank&#34;&gt;Barings Bank&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Other People&amp;rsquo;s Money (1991) Comedy about a corporate raid in the 1980&amp;rsquo;s&lt;/li&gt;
+&lt;li&gt;Wall Street (1987) Portrays insider trading and corporate takeover; includes the famous &amp;ldquo;Greed is Good&amp;rdquo; speech&lt;/li&gt;
+&lt;li&gt;Trading Places (1983) classic comedy that involves futures trading on the Chicago Mercantile Exchange&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;business&#34;&gt;Business&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;American Factory (2019) Documentary about a Chinese firm that purchases and operates a glass factory in Ohio&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Podcasts</title>
+      <link>/courses/library/podcasts/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/library/podcasts/</guid>
+      <description>
+
+&lt;p&gt;These are conversations and news stories that supplement my course content. Most are about 60 minutes long and will play in any web browser.&lt;/p&gt;
+
+&lt;h2 id=&#34;econtalk-podcasts&#34;&gt;EconTalk Podcasts&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2015/06/nathaniel_poppe.html&#34;&gt;Nathaniel Popper on Bitcoin and Digital Gold&lt;/a&gt; (8 June 2015)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2014/05/gavin_andresen.html&#34;&gt;The Present and Future of Bitcoin&lt;/a&gt; (5 May 2014)&lt;br&gt;
+Gavin Andresen: Chief Scientist of the BitCoin Foundation&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2013/10/calvo_on_the_cr.html&#34;&gt;Calvo on the Crisis, Money, and Macro&lt;/a&gt; (21 October 2013)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2013/04/admati_on_bank.html&#34;&gt;Admati on Bank Regulation and the Bankers&amp;rsquo; New Clothes&lt;/a&gt; (8 April 2013)&lt;br&gt;
+A brief description of how banks work and the incentives that promote the use of debt.&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2012/03/calomiris_on_ca.html&#34;&gt;Calomiris on Capital Requirements, Leverage, and Financial Regulation&lt;/a&gt; (5 March 2012)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2012/01/fama_on_finance.html&#34;&gt;Fama on Finance&lt;/a&gt; (30 January 2012)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2011/11/simon_johnson_o.html&#34;&gt;Simon Johnson on the Financial Crisis&lt;/a&gt; (28 November 2011)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2011/06/eichengreen_on.html&#34;&gt;Eichengreen on the Dollar and International Finance&lt;/a&gt; (6 June 2011)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2011/03/vincent_reinhar.html&#34;&gt;Bear Stearns, Lehman Brothers, and the Financial Crisis&lt;/a&gt; (28 March 2011)&lt;br&gt;
+Vincent Reinhart describes how off balance sheet entities can affect the riskiness of banks&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2010/05/taleb_on_black_1.html&#34;&gt;Taleb on Black Swans, Fragility, and Mistakes&lt;/a&gt; (3 May 2010)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2009/10/gary_stern_on_t.html&#34;&gt;Gary Stern on Too Big to Fail&lt;/a&gt; (5 October 2009)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2009/02/meltzer_on_infl.html&#34;&gt;Meltzer on Inflation&lt;/a&gt; (23 February 2009)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2008/09/kling_on_freddi.html&#34;&gt;Kling on Freddie and Fannie and the Recent History of the U.S. Housing Market&lt;/a&gt; (29 September 2008)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2008/09/shiller_on_hous.html&#34;&gt;Shiller on Housing and Bubbles&lt;/a&gt; (15 September 2008)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2008/05/meltzer_on_the.html&#34;&gt;Meltzer on the Fed, Money, and Gold&lt;/a&gt; (19 May 2008)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2007/04/taleb_on_black.html&#34;&gt;Taleb on Black Swans&lt;/a&gt; (30 April 2007)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2006/08/milton_friedman.html&#34;&gt;Milton Friedman on Money&lt;/a&gt; - Part 1 (28 August 2006)&lt;br&gt;
+EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2006/09/friedman_on_cap_1.html&#34;&gt;Friedman on Capitalism and Freedom&lt;/a&gt; - Part 2 (4 September 2006)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;video-documentaries&#34;&gt;Video Documentaries&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bloomberg: &lt;a href=&#34;http://www.bloomberg.com/news/videos/b/c59d9908-fae7-47be-8fb8-478def9e37a8&#34;&gt;Eugene Fama and Cliff Asness Discuss Efficient Markets&lt;/a&gt; (15 April 2016)&lt;br&gt;
+Only 11 minutes 30 seconds&lt;/li&gt;
+&lt;li&gt;CNBC: &lt;a href=&#34;http://video.cnbc.com/gallery/?video=3000263252&#34;&gt;Market Microstructure Issues&lt;/a&gt; (1 April 2014)&lt;br&gt;
+William O&amp;rsquo;Brien, Brad Katsuyama, and Michael Lewis&lt;/li&gt;
+&lt;li&gt;VPRO International: &lt;a href=&#34;http://youtu.be/kFQJNeQDDHA&#34;&gt;The Wall Street Code&lt;/a&gt; (4 November 2013)&lt;/li&gt;
+&lt;li&gt;VPRO International: &lt;a href=&#34;http://youtu.be/aq1Ln1UCoEU&#34;&gt;Money and Speed: Inside the Black Box&lt;/a&gt; (31 January 2011)&lt;/li&gt;
+&lt;li&gt;Nova: &lt;a href=&#34;http://youtu.be/tsZRndV5lIc&#34;&gt;The Trillion Dollar Bet&lt;/a&gt; (8 February 2000)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;frontline-documentaries&#34;&gt;Frontline Documentaries&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/money-power-wall-street/&#34;&gt;Money, Power, and Wall Street&lt;/a&gt; (24 April 2012)&lt;br&gt;
+Four-part series on the financial crisis.&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/creditcards/view/&#34;&gt;The Card Game&lt;/a&gt; (24 November 2009)&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/warning/view/&#34;&gt;The Warning&lt;/a&gt; (20 October 2009)&lt;br&gt;
+The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/breakingthebank/view/&#34;&gt;Breaking the Bank&lt;/a&gt; - Bank of America and Merrill Lynch (16 June 2009)&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/madoff/view/?autoplay&#34;&gt;The Madoff Affair&lt;/a&gt; (12 May 2009)&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/tentrillion/view/&#34;&gt;Ten Trillion and Counting&lt;/a&gt; (24 March 2009)&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/meltdown/view/&#34;&gt;Inside the Meltdown&lt;/a&gt;&amp;nbsp;(17 February 2009)&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/shows/credit/view/&#34;&gt;Secret History of the Credit Card&lt;/a&gt; (23 November 2004)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Network Analysis of Information Diffusion in the Financial Sector</title>
+      <link>/publication/preprint/networkfinancial/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/networkfinancial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Currency Risk and Information Diffusion</title>
+      <link>/publication/preprint/currencyrisk/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/currencyrisk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying and Pricing Adverse Selection Risk with VPIN</title>
+      <link>/publication/preprint/pricingvpin/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/pricingvpin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing technical content in Academic</title>
+      <link>/post/writing-technical-content/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/post/writing-technical-content/</guid>
+      <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;On this page, you&#39;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+
+&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
+
+&lt;p&gt;Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the &lt;code&gt;highlight&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;```python
+import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+```
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;math&#34;&gt;Math&lt;/h3&gt;
+
+&lt;p&gt;Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file and adding &lt;code&gt;markup: mmark&lt;/code&gt; to your page front matter.&lt;/p&gt;
+
+&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;$$...$$&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$\gamma_{n} = \frac{ 
+\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
+\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
+{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\[\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}\]&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;$$\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2$$&lt;/code&gt; renders as &lt;span  class=&#34;math&#34;&gt;\(\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2\)&lt;/span&gt; .&lt;/p&gt;
+
+&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the &lt;code&gt;\\&lt;/code&gt; math linebreak:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\
+1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\[f(k;p_0^*) = \begin{cases} p_0^* &amp; \text{if }k=1, \\
+1-p_0^* &amp; \text {if }k=0.\end{cases}\]&lt;/span&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
+
+&lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
+
+&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;```mermaid
+graph TD;
+  A--&amp;gt;B;
+  A--&amp;gt;C;
+  B--&amp;gt;D;
+  C--&amp;gt;D;
+```
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;graph TD;
+  A--&amp;gt;B;
+  A--&amp;gt;C;
+  B--&amp;gt;D;
+  C--&amp;gt;D;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;```mermaid
+sequenceDiagram
+  participant Alice
+  participant Bob
+  Alice-&amp;gt;John: Hello John, how are you?
+  loop Healthcheck
+      John-&amp;gt;John: Fight against hypochondria
+  end
+  Note right of John: Rational thoughts &amp;lt;br/&amp;gt;prevail...
+  John--&amp;gt;Alice: Great!
+  John-&amp;gt;Bob: How about you?
+  Bob--&amp;gt;John: Jolly good!
+```
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;sequenceDiagram
+  participant Alice
+  participant Bob
+  Alice-&amp;gt;John: Hello John, how are you?
+  loop Healthcheck
+      John-&amp;gt;John: Fight against hypochondria
+  end
+  Note right of John: Rational thoughts &amp;lt;br/&amp;gt;prevail...
+  John--&amp;gt;Alice: Great!
+  John-&amp;gt;Bob: How about you?
+  Bob--&amp;gt;John: Jolly good!
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;```mermaid
+gantt
+  dateFormat  YYYY-MM-DD
+  section Section
+  A task           :a1, 2014-01-01, 30d
+  Another task     :after a1  , 20d
+  section Another
+  Task in sec      :2014-01-12  , 12d
+  another task      : 24d
+```
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;gantt
+  dateFormat  YYYY-MM-DD
+  section Section
+  A task           :a1, 2014-01-01, 30d
+  Another task     :after a1  , 20d
+  section Another
+  Task in sec      :2014-01-12  , 12d
+  another task      : 24d
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h3&gt;
+
+&lt;p&gt;You can even write your todo lists in Academic too:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;- [x] Write math example
+- [x] Write diagram example
+- [ ] Do something else
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; checked=&#34;&#34; disabled=&#34;&#34;&gt; Write math example&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; checked=&#34;&#34; disabled=&#34;&#34;&gt; Write diagram example&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled=&#34;&#34;&gt; Do something else&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
+
+&lt;p&gt;Represent your data in tables:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;First Header&lt;/th&gt;
+&lt;th&gt;Second Header&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;asides&#34;&gt;Asides&lt;/h3&gt;
+
+&lt;p&gt;Academic supports a Markdown extension for asides, also referred to as &lt;em&gt;notices&lt;/em&gt; or &lt;em&gt;hints&lt;/em&gt;. By prefixing a paragraph with &lt;code&gt;A&amp;gt;&lt;/code&gt;, it will render as an aside. You can enable this feature by adding &lt;code&gt;markup: mmark&lt;/code&gt; to your page front matter, or alternatively using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts&#34;&gt;&lt;em&gt;Alert&lt;/em&gt; shortcode&lt;/a&gt;.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;A&amp;gt; A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;aside&gt;
+&lt;p&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.&lt;/p&gt;
+&lt;/aside&gt;
+
+&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/post/jupyter/</guid>
+      <description>
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
+Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;Welcome to Academic!
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
+
+&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
+
+&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+jupyter lab index.ipynb
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
+
+&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
+
+&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;---
+title: My post&#39;s title
+date: 2019-09-01
+
+# Put any other Academic metadata here...
+---
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Edit the metadata of your post, using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
+
+&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
+
+&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+
+&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/example/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Code block:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+
+&lt;p&gt;Block math:&lt;/p&gt;
+
+&lt;p&gt;$$
+f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+   One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   Three
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>/code/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Bond Coupon’s Impact on Liquidity</title>
+      <link>/publication/journal-article/bonds/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/bonds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internal Project</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Academic: the website builder for Hugo</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/getting-started/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34; target=&#34;_blank&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;View the &lt;strong&gt;documentation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Ask a question&lt;/strong&gt; on the forum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 &lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34;&gt;Chat with the &lt;strong&gt;community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/source_themes&#34; target=&#34;_blank&#34;&gt;@source_themes&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithAcademic&amp;amp;src=typd&#34; target=&#34;_blank&#34;&gt;#MadeWithAcademic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;❤ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
+
+&lt;ul&gt;
+&lt;li&gt;☕️ &lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34;&gt;Become a backer on &lt;strong&gt;Patreon&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🖼️ &lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34;&gt;Decorate your laptop or journal with an Academic &lt;strong&gt;sticker&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👕 &lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34;&gt;Wear the &lt;strong&gt;T-shirt&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👩‍💻 &lt;a href=&#34;https://sourcethemes.com/academic/docs/contribute/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Contribute&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; data-caption=&#34;Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34;&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://sourcethemes.com/academic/docs/jupyter/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 15+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+
+&lt;p&gt;Academic comes with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully &lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#custom-theme&#34; target=&#34;_blank&#34;&gt;customizable&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
+
+&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-web-browser&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;one-click install using your web browser (recommended)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34; target=&#34;_blank&#34;&gt;install on your computer using &lt;strong&gt;Git&lt;/strong&gt; with the Command Prompt/Terminal app&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-zip&#34; target=&#34;_blank&#34;&gt;install on your computer by downloading the &lt;strong&gt;ZIP files&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;install on your computer with &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Then &lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34;&gt;personalize and deploy your new site&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;View the Update Guide&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34;&gt;updates&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>
+
+
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;R Markdown&lt;/h1&gt;
+&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &amp;lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Including Plots&lt;/h1&gt;
+&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
+  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
+  init.angle = -50, border = NA
+)&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: A fancy pie chart.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tactical asset allocation for US pension investors: How tactical should the plan be?</title>
+      <link>/publication/journal-article/taa/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/taa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Increased Trade Prevent Conflict with China?</title>
+      <link>/publication/journal-article/chinatrade/</link>
+      <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/chinatrade/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
