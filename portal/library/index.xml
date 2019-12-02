@@ -135,6 +135,124 @@
     </item>
     
     <item>
+      <title>Market Microstructure</title>
+      <link>/portal/library/microstructure/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/portal/library/microstructure/</guid>
+      <description>
+
+&lt;p&gt;Many of the issues in market microstructure are difficult to address due to the cost and availability of large data sets. Even special academic pricing is usually too expensive for all but the most prominent universities. For these reasons, prior literature is sparse, has small samples, or is not conducted in an unbiased manner. I encourage anyone with access to relevant data to make it available to researchers so policy makers can make data-driven decisions that will improve the quality of markets.&lt;/p&gt;
+
+&lt;h2 id=&#34;issues-in-microstructure&#34;&gt;Issues in Microstructure&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Order Type Controversy&lt;/em&gt; - Do some exchange or ATS clients have access to order types that other clients do not? Is the reason due to client favoritism or technical sophistication?&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Payment for Order Flow&lt;/em&gt; - Does the fee that brokers receive for routing certain orders adversely affect investors and/or markets? Does internalization allow for legal front-running or simply screening for informed trades? Should a &amp;ldquo;trade-at&amp;rdquo; rule be implemented which would prohibit execution unless the broker was ready to trade at that price with an order from a public exchange?&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Consolidated Audit Trail&lt;/em&gt; - How should exchanges manage data to ensure that market participants would be capable of &amp;ldquo;replaying&amp;rdquo; a market event to find errors or misbehavior? How do we capture the difference between direct feeds and the National Best Bid and Offer (NBBO)?&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Market Complexity&lt;/em&gt; - How should exchanges route orders to achieve best price and fast execution? Should Rules 610 and 611 force exchanges to stop trading when there is an opportunity to get better prices on another exchange? How does order routing by the exchange affect trading behavior with broker order routing and the maker-taker model of liquidity rebates?&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Speed&lt;/em&gt; - Should the speed of market access be limited or equalized? If a faster trader can deliver shares to a slower trader, is this front-running or market making? How should we measure price improvement in this case? What impact does this have on markets?&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Liquidity&lt;/em&gt; - Is the liquidity provided by high frequency trading harmful if it disappears during times of market stress? At what time horizon should liquidity be focused? Price impact will occur on any size trade executed on a short enough time horizon. Should a &amp;ldquo;trade-at&amp;rdquo; rule be implemented to incentivize more visible liquidity?&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Flash Crashes&lt;/em&gt; - Why do flash crashes occur? How do we limit the frequency and severity of flash crashes? Do flash crashes matter to market participants that do not trade intraday?&lt;/p&gt;
+
+&lt;h2 id=&#34;microstructure-links&#34;&gt;Microstructure Links&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ats.finra.org/&#34;&gt;ATS Transparency Data&lt;/a&gt; - FINRA information on Alternative Trading Systems&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.batstrading.com/market_summary/&#34;&gt;BATS Market Summary&lt;/a&gt; - market share statistics&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://decimuscapitalmarkets.com/dcm/&#34;&gt;Decimus Capital Markets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://kortrading.com/resources/&#34;&gt;KOR Group&lt;/a&gt; - broker execution data&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sec.gov/marketstructure/midas.html#.VrQUBlUrIbY&#34;&gt;MIDAS&lt;/a&gt; - microstructure analytics platform used by the SEC&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://modernmarketsinitiative.org/&#34;&gt;Modern Markets Initiative&lt;/a&gt; - HFT industry group&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nanex.net/NxResearch/&#34;&gt;Nanex&lt;/a&gt; - market data vendor&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Regulation_NMS&#34;&gt;Regulation National Market System&lt;/a&gt; (Reg NMS)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sec.gov/spotlight/equity-market-structure-advisory-committee.shtml&#34;&gt;SEC Equity Market Structure Advisory Committee&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tabbforum.com/&#34;&gt;Tabb Forum&lt;/a&gt; - forum for industry opinion articles&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stephenrush.wordpress.com/research/timeline/&#34;&gt;Timeline&lt;/a&gt; - A timeline of significant events in U.S. equity markets&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;microstructure-media&#34;&gt;Microstructure Media&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CNBC: &lt;a href=&#34;http://video.cnbc.com/gallery/?video=3000263252&#34;&gt;Market Microstructure Issues&lt;/a&gt; (1 April 2014) &lt;br /&gt;William O&amp;rsquo;Brien, Brad Katsuyama, and Michael Lewis&lt;/li&gt;
+&lt;li&gt;VPRO International: &lt;a href=&#34;http://youtu.be/kFQJNeQDDHA&#34;&gt;The Wall Street Code&lt;/a&gt; (4 November 2013)&lt;/li&gt;
+&lt;li&gt;VPRO International: &lt;a href=&#34;http://youtu.be/aq1Ln1UCoEU&#34;&gt;Money and Speed: Inside the Black Box&lt;/a&gt; (31 January 2011)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;
+
+&lt;p&gt;An ongoing collection of significant events in market microstructure. I do not include large market moves that occur over the course of the entire trading day. For a list of only stock market crashes, see &lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_stock_market_crashes_and_bear_markets&#34; target=&#34;_blank&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;20160226 - NYSE stops accepting stop-limit, stop-loss, and good-til-cancelled orders&lt;/p&gt;
+
+&lt;p&gt;20150824 - Low liquidity in first 5 minutes of trading (DJIA -6.6% or 1,100pts)&lt;/p&gt;
+
+&lt;p&gt;20131208 - Limit Up-Limit Down (LULD) Phase 2 implementation&lt;/p&gt;
+
+&lt;p&gt;20131025 - IEX accepts orders&lt;/p&gt;
+
+&lt;p&gt;20130425 - CBOE shuts down for half the day&lt;/p&gt;
+
+&lt;p&gt;20130423 - Flash Crash from hacked Twitter account (DJIA -150pts)&lt;/p&gt;
+
+&lt;p&gt;20130408 - Limit Up-Limit Down (LULD) Phase 1 implementation
+&lt;a href=&#34;https://www.nasdaqtrader.com/content/MarketRegulation/LULD_FAQ.pdf&#34; target=&#34;_blank&#34;&gt;https://www.nasdaqtrader.com/content/MarketRegulation/LULD_FAQ.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;20130328 - NASDAQ launches Retail Price Improvement Program&lt;/p&gt;
+
+&lt;p&gt;20120801 - NYSE launches Retail Liquidity Program and Knight Capital loses $440mm&lt;/p&gt;
+
+&lt;p&gt;20110714 - Compliance date for SEC Rule 15c3-5 regarding risk management for direct market access&lt;/p&gt;
+
+&lt;p&gt;20100721 - Direct Edge launches EDGA and EDGX exchanges&lt;/p&gt;
+
+&lt;p&gt;20100506 - Flash Crash (DJIA -9% or 1,000pts)&lt;/p&gt;
+
+&lt;p&gt;20091005 - Clearly Erroneous Execution (CEE) NYSE Rule 128&lt;/p&gt;
+
+&lt;p&gt;200811 - BATS converts ECN to BZX exchange&lt;/p&gt;
+
+&lt;p&gt;20070820 - Full implementation of Regulation NMS Rules 610 and 611 (all stocks)
+&lt;a href=&#34;http://www.sifma.org/news/news.aspx?id=2092&#34; target=&#34;_blank&#34;&gt;http://www.sifma.org/news/news.aspx?id=2092&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;20070709 - Implementation of Regulation NMS Rules 610 and 611 (~250 stocks)
+&lt;a href=&#34;http://www.sifma.org/news/news.aspx?id=2092&#34; target=&#34;_blank&#34;&gt;http://www.sifma.org/news/news.aspx?id=2092&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;20070208 - NYSE completes hybrid market&lt;/p&gt;
+
+&lt;p&gt;2005 - BATS accepts orders&lt;/p&gt;
+
+&lt;p&gt;20010409 - U.S. Equity Decimalization Complete
+&lt;a href=&#34;https://www.sec.gov/news/testimony/052401tslu.htm&#34; target=&#34;_blank&#34;&gt;https://www.sec.gov/news/testimony/052401tslu.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;20000905 - U.S. Equity Decimalization Begins
+&lt;a href=&#34;https://www.sec.gov/news/testimony/052401tslu.htm&#34; target=&#34;_blank&#34;&gt;https://www.sec.gov/news/testimony/052401tslu.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;1998 - Direct Edge (Attain) accepts orders&lt;/p&gt;
+
+&lt;p&gt;19970120 - Archipelago accepts orders&lt;/p&gt;
+
+&lt;p&gt;19970120 - Implementation of SEC Display Rule 11Ac1-4&lt;/p&gt;
+
+&lt;p&gt;19871019 - Black Monday (DJIA -22.61% or 508pts)&lt;/p&gt;
+
+&lt;p&gt;1986 - First after-market crossing system offered by Instinet&lt;/p&gt;
+
+&lt;p&gt;1980 - First direct market access offered by Instinet&lt;/p&gt;
+
+&lt;p&gt;19710208 - NASDAQ begins taking orders&lt;/p&gt;
+
+&lt;p&gt;196912 - Instinet accepts orders&lt;/p&gt;
+
+&lt;p&gt;19291024 - Beginning of the Wall Street Crash of 1929 (Heavy volume slows down ticker)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Coding</title>
       <link>/portal/library/code/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
@@ -320,6 +438,46 @@
 &lt;li&gt;&lt;a href=&#34;https://plex.tv/&#34;&gt;Plex&lt;/a&gt; - the best media server&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://musescore.org&#34;&gt;Muse Score&lt;/a&gt; - open source music notation software&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.qubes-os.org/&#34;&gt;Qubes OS &lt;/a&gt; - operating system for those who are tired of repeatedly wiping their system&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>University-Specific Resources</title>
+      <link>/portal/library/university-resources/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/portal/library/university-resources/</guid>
+      <description>
+
+&lt;h2 id=&#34;bowling-green-state-university&#34;&gt;Bowling Green State University&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bloomberg - only accessible from the terminal in the Finance Trading Lab in Room 2004 of the College of Business. Open the Bloomberg application; not the website.&lt;/li&gt;
+&lt;li&gt;The Economist magazine - &lt;a href=&#34;http://maurice.bgsu.edu.ezproxy.bgsu.edu:8080/record=b1010158~S9&#34;&gt;print edition&lt;/a&gt; only available in the library&lt;/li&gt;
+&lt;li&gt;Foreign Affairs magazine&lt;/strong&gt; – &lt;a href=&#34;http://web.b.ebscohost.com.ezproxy.bgsu.edu:8080/ehost/command/detail?vid=0&amp;amp;sid=9ee317de-f36b-4eb0-b9c3-34d0c5ae41df%40sessionmgr120&amp;amp;bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#jid=FAF&amp;amp;db=a9h&#34;&gt;online access&lt;/a&gt; through the library&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bgsu.edu/library/collab-lab/laptop-loan.html&#34;&gt;Laptop Loan&lt;/a&gt; - students with financial aid can receive a laptop for an academic year&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ezproxy.bgsu.edu:8080/login?url=http://na.capitaliq.com/ip/BGSUV&#34;&gt;Standard and Poor&amp;rsquo;s Capital IQ NetAdvantage&lt;/a&gt; - available online through the library&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bgsu.edu/learning-commons/subject-tutoring.html&#34;&gt;Tutors&lt;/a&gt; - available for free with request through the Learning Commons&lt;/li&gt;
+&lt;li&gt;The Wall Street Journal - &lt;a href=&#34;https://search-proquest-com.ezproxy.bgsu.edu:9443/publication/105983&#34;&gt;online access&lt;/a&gt; through the library&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blogs.bgsu.edu&#34;&gt;Wordpress&lt;/a&gt; - free blog platform with no ads for students and faculty&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;tianjin-polytechnic-university-天津工业大学&#34;&gt;Tianjin Polytechnic University, 天津工业大学&lt;/h2&gt;
+
+&lt;h2 id=&#34;university-of-connecticut&#34;&gt;University of Connecticut&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bloomberg - top floor of the Business School&lt;/li&gt;
+&lt;li&gt;The Economist magazine - &lt;a href=&#34;http://search.proquest.com.ezproxy.lib.uconn.edu/publication/366256&#34;&gt;online access&lt;/a&gt; through the library&lt;/li&gt;
+&lt;li&gt;Foreign Affairs magazine – &lt;a href=&#34;http://search.proquest.com.ezproxy.lib.uconn.edu/publication/40670&#34;&gt;online access&lt;/a&gt; through the library&lt;/li&gt;
+&lt;li&gt;Foreign Policy magazine – &lt;a href=&#34;http://search.proquest.com.ezproxy.lib.uconn.edu/publication/47510&#34;&gt;online access&lt;/a&gt; through the library&lt;a href=&#34;http://search.proquest.com.ezproxy.lib.uconn.edu/publication/47510&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The Wall Street Journal - &lt;a href=&#34;http://search.proquest.com.ezproxy.lib.uconn.edu/publication/105983&#34;&gt;online access&lt;/a&gt; through the library&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;university-of-economics-and-law-vietnam&#34;&gt;University of Economics and Law, Vietnam&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Reuters Terminal - only accessible from the terminals on the top floor&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
