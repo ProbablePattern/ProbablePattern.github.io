@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="My favorite tool for data analysis is the R programming language because it has a great community, it is free, and it works on Windows, Mac, and Linux. I also highly recommend RStudio if you&rsquo;re not into using ESS with Emacs. RStudio is great for academics because it also serves as a LaTeX editor so you can use one tool for your entire research project soup to nuts. Microsoft offers a paid support option for commercial use but there is a free and open source version.">
+  <meta name="description" content="I have become enamored with the idea of minimalist computing. The primary reason is that I like substituting intellectual capital for financial capital or to put it another way, using cheap computers more effectively. My secondary reason is that I have reached a point in my work where the electrical usage and heat production from my research needs to be considered both in terms of monetary costs and environmental impact.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/portal/library/code/">
+  <link rel="alternate" hreflang="en-us" href="/portal/library/cli/">
 
   
 
@@ -100,7 +100,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/portal/library/code/">
+  <link rel="canonical" href="/portal/library/cli/">
 
   
   
@@ -116,9 +116,9 @@
   <meta property="twitter:creator" content="@Phreakonomist">
   
   <meta property="og:site_name" content="Dr. Stephen Rush, CFA">
-  <meta property="og:url" content="/portal/library/code/">
-  <meta property="og:title" content="Coding | Dr. Stephen Rush, CFA">
-  <meta property="og:description" content="My favorite tool for data analysis is the R programming language because it has a great community, it is free, and it works on Windows, Mac, and Linux. I also highly recommend RStudio if you&rsquo;re not into using ESS with Emacs. RStudio is great for academics because it also serves as a LaTeX editor so you can use one tool for your entire research project soup to nuts. Microsoft offers a paid support option for commercial use but there is a free and open source version."><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:url" content="/portal/library/cli/">
+  <meta property="og:title" content="Command Line Interface | Dr. Stephen Rush, CFA">
+  <meta property="og:description" content="I have become enamored with the idea of minimalist computing. The primary reason is that I like substituting intellectual capital for financial capital or to put it another way, using cheap computers more effectively. My secondary reason is that I have reached a point in my work where the electrical usage and heat production from my research needs to be considered both in terms of monetary costs and environmental impact."><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
@@ -143,7 +143,7 @@
 
 
 
-  <title>Coding | Dr. Stephen Rush, CFA</title>
+  <title>Command Line Interface | Dr. Stephen Rush, CFA</title>
 
 </head>
 
@@ -438,7 +438,7 @@
         <a href="/portal/library/advising/">Student Advice</a>
       </li>
       
-      <li >
+      <li class="active">
         <a href="/portal/library/cli/">Command Line</a>
       </li>
       
@@ -455,7 +455,7 @@
     <a class="docs-toc-link" href="/portal/library/code/">Resources</a>
     <ul class="nav docs-sidenav">
       
-      <li class="active">
+      <li >
         <a href="/portal/library/code/">Coding</a>
       </li>
       
@@ -529,10 +529,8 @@
 <ul>
 <li>
 <ul>
-<li><a href="#installation-and-introduction">Installation and Introduction</a></li>
-<li><a href="#econometrics">Econometrics</a></li>
-<li><a href="#data-manipulation-presentation">Data Manipulation &amp; Presentation</a></li>
-<li><a href="#more-advanced-stuff">More Advanced Stuff</a></li>
+<li><a href="#install">Install</a></li>
+<li><a href="#where-do-i-begin">Where Do I Begin?</a></li>
 </ul></li>
 </ul>
 </nav>
@@ -546,55 +544,54 @@
       <article class="article">
 
         <div class="docs-article-container">
-          <h1>Coding</h1>
+          <h1>Command Line Interface</h1>
 
           <div class="article-style">
             
 
-<p>My favorite tool for data analysis is the <a href="http://www.r-project.org/">R</a> programming language because it has a great community, it is free, and it works on Windows, Mac, and Linux. I also highly recommend <a href="http://www.rstudio.com/">RStudio</a> if you&rsquo;re not into using <a href="http://ess.r-project.org/">ESS</a> with <a href="http://www.gnu.org/software/emacs/">Emacs</a>. RStudio is great for academics because it also serves as a <a href="http://www.latex-project.org/">LaTeX</a> editor so you can use one tool for your entire research project soup to nuts. Microsoft offers a paid support option for commercial use but there is a free and open source version.</p>
+<p>I have become enamored with the idea of minimalist computing. The primary reason is that I like substituting intellectual capital for financial capital or to put it another way, using cheap computers more effectively. My secondary reason is that I have reached a point in my work where the electrical usage and heat production from my research needs to be considered both in terms of monetary costs and environmental impact.</p>
 
-<p>I learned R on my own but I could not have done it without the help of sites like <a href="http://stackoverflow.com/">Stack Overflow</a> and the outstanding R community. Before posting any questions on the web, please attempt to work the problem yourself so that people don&rsquo;t waste their time answering questions that have already been explained. More succinct: <a href="https://en.wikipedia.org/wiki/RTFM">RTFM</a></p>
+<p>The bottom line is that minimal computing allows for the same productivity with older or cheaper machines. When you need cutting edge computation that is expensive and sucks power, either rent from a cloud provider where they can manage the hardware and operate at a more efficient scale than your home or keep your own servers at the most efficient power provider like the office. At a minimum, you can avoid both paying for power and the marginal increase in cooling costs. Second hand servers can be found/purchased/built cheap but are still expensive to operate. Keeping operating costs as low as possible helps you get the biggest bang for your buck.</p>
 
-<p><strong>Students</strong>: Download the pdf booklet <a href="https://drive.google.com/open?id=1SkCbS24pVkJkVzZ2IjcT3E-RIV7WPXMd">PDQ Finance</a> and follow the directions to install R and RStudio.</p>
+<p>For those interested in moving away from the GUI world, I suggest a gradual shift while continuing to work on the operating system of your choice. If you are on Windows 10, Ubuntu and other Linux distributions are available on the app store via the Windows Subsystem for Linux (WSL). Mac users can install MacPorts to get the standard versions of some command line programs. Eventually you will want to transition to a free open source operating system like Ubuntu Linux but baby steps for now.</p>
 
-<p><strong>Non-Students</strong>: For minimal time investment, I suggest following some examples in the <a href="https://eddelbuettel.github.io/gsir-te/Getting-Started-in-R.pdf">Getting Started in R</a> (tinyverse edition) guide by Saghir Bashir and Dirk Eddelbuettel. I also suggest creating a free account at <a href="https://rstudio.cloud">RStudio Cloud</a> to get started without needing to install anything.</p>
+<h2 id="install">Install</h2>
 
-<h2 id="installation-and-introduction">Installation and Introduction</h2>
+<p>Windows - find the Ubuntu Linux distribution in the App store and install it using the Windows Subsystem for Linux (WSL) available starting with Windows 10.</p>
 
-<ul>
-<li><a href="https://stephenrush.wordpress.com/command-line/">Command Line</a>&nbsp;- some problems are best solved with command line tools rather than a programming language</li>
-<li><a title="Emacs and ESS on OS X for Beginners" href="http://stephenrush.wordpress.com/blog/emacs/">Emacs and ESS</a> on Mac</li>
-<li><a href="http://pandas.pydata.org/">Pandas</a> - financial data analysis in Python</li>
-</ul>
+<p><del>Windows - Cygwin: select the packages during the Cygwin install. If you need to add something, just run the installer again.</del></p>
 
-<h2 id="econometrics">Econometrics</h2>
+<p>Mac OS X - <a href="https://www.macports.org/">MacPorts</a>: the syntax here to install gawk is
+<pre>sudo port install gawk</pre></p>
 
-<ul>
-<li><a href="http://stephenrush.wordpress.com/blog/ols/">Regression in R</a> - short command for ordinary least squares regression</li>
-<li>Robust Regression in R</li>
-<li>Quantile Regression in R</li>
-<li><a href="http://stephenrush.wordpress.com/blog/bootstrap/">Time-Series Bootstrap</a></li>
-</ul>
+<h2 id="where-do-i-begin">Where Do I Begin?</h2>
 
-<h2 id="data-manipulation-presentation">Data Manipulation &amp; Presentation</h2>
+<p>I suggest learning the following tools in this order:</p>
 
-<ul>
-<li><a title="Dashboards" href="http://stephenrush.wordpress.com/blog/dashboards/">Dashboards</a></li>
-<li><a title="First Database in R" href="http://stephenrush.wordpress.com/blog/rsqlite/">Using a Database with R</a></li>
-<li><a title="Two-way Sorting" href="http://stephenrush.wordpress.com/blog/two-way-sorting/">Two-Way Sorting</a></li>
-<li><a href="http://stephenrush.wordpress.com/blog/latex-template/">LaTex Template</a></li>
-</ul>
+<p>File Operations: ls (list), cp (copy), mv (move), rm (remove)
+Type cp &ndash;help for syntax and options</p>
 
-<h2 id="more-advanced-stuff">More Advanced Stuff</h2>
+<p>Administration: sudo (execute command as administrator), chmod (change permissions), apt (package manager for Ubuntu Linux and other Debian distributions)</p>
 
-<ul>
-<li>Style Analysis in R</li>
-<li>Fama-French Factor Model in R</li>
-<li><a title="Pastor and Stambaugh Liquidity" href="http://stephenrush.wordpress.com/blog/pastor-and-stambaugh-liquidity/">Pastor and Stambaugh Liquidity</a></li>
-<li>Working in Volume Time / Event Time</li>
-<li><a title="VPIN in R" href="http://stephenrush.wordpress.com/blog/vpininr/">Volume Synchronized Probability of Informed Trading</a> (VPIN)</li>
-<li>Probability and Performance Measurement</li>
-</ul>
+<p>Secure Shell: use the command line of another computer over the network
+Be sure to install openssh on WSL or Linux. OS X comes with it. Syntax is: ssh user@serverURL
+Use &ldquo;ssh-keygen -t rsa&rdquo; once to generate a key and &ldquo;ssh-copy-id user@serverURL&rdquo; to put the public key on the server. This will allow logins without typing your password every time. Secure Shell requires TCP port 22 by default. Some network environments may block incoming traffic to this port.</p>
+
+<p>nano: simple text editor
+Use Ctrl as the meta key so Ctrl-x exits the program.</p>
+
+<p>tmux: use multiple command line sessions in a single terminal
+I love monitors but they suck power and take up too much space. Using a terminal multiplexer like tmux allows you to cram more info into a smaller amount of real estate. Use Ctrl-b to issue commands. Add resurrect and continuum through the plug-in manager to make your tmux session more robust.</p>
+
+<p>mosh: make your sessions robust to network disruptions
+Do you like closing your laptop for a while and then resuming exactly where you left off? Mosh does this for secure shell sessions so you don&rsquo;t need to reestablish your connections manually. Mosh requires that UDP ports 60000-60100 as well as the secure shell port is open. Some network environments may block traffic to these ports. One of the great tools that &ldquo;just works&rdquo; in most network environments.</p>
+
+<p>rsync: quickly copy large amounts of files
+wget: fetch files from the Internet
+curl: more advanced Internet functionality
+gawk: manipulate text files
+sed: manipulate text output
+irssi: text based IRC client</p>
 
           </div>
 
@@ -611,14 +608,14 @@
   
   <div class="post-nav-item">
     <div class="meta-nav">Previous</div>
-    <a href="/portal/library/microstructure/" rel="next">Market Microstructure</a>
+    <a href="/portal/library/advising/" rel="next">Student Advice</a>
   </div>
   
   
   
   <div class="post-nav-item">
     <div class="meta-nav">Next</div>
-    <a href="/portal/library/data/" rel="prev">Data Sources</a>
+    <a href="/portal/library/microstructure/" rel="prev">Market Microstructure</a>
   </div>
   
 </div>

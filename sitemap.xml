@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>/portal/library/personal-finance/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/courses/portfoliomanagement/review/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
@@ -53,6 +48,11 @@
   </url>
   
   <url>
+    <loc>/portal/library/personal-finance/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/portal/library/advising/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
@@ -69,6 +69,11 @@
   
   <url>
     <loc>/courses/managerial_finance/capital_budgeting_i/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portal/library/cli/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   

@@ -135,6 +135,59 @@
     </item>
     
     <item>
+      <title>Command Line Interface</title>
+      <link>/portal/library/cli/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/portal/library/cli/</guid>
+      <description>
+
+&lt;p&gt;I have become enamored with the idea of minimalist computing. The primary reason is that I like substituting intellectual capital for financial capital or to put it another way, using cheap computers more effectively. My secondary reason is that I have reached a point in my work where the electrical usage and heat production from my research needs to be considered both in terms of monetary costs and environmental impact.&lt;/p&gt;
+
+&lt;p&gt;The bottom line is that minimal computing allows for the same productivity with older or cheaper machines. When you need cutting edge computation that is expensive and sucks power, either rent from a cloud provider where they can manage the hardware and operate at a more efficient scale than your home or keep your own servers at the most efficient power provider like the office. At a minimum, you can avoid both paying for power and the marginal increase in cooling costs. Second hand servers can be found/purchased/built cheap but are still expensive to operate. Keeping operating costs as low as possible helps you get the biggest bang for your buck.&lt;/p&gt;
+
+&lt;p&gt;For those interested in moving away from the GUI world, I suggest a gradual shift while continuing to work on the operating system of your choice. If you are on Windows 10, Ubuntu and other Linux distributions are available on the app store via the Windows Subsystem for Linux (WSL). Mac users can install MacPorts to get the standard versions of some command line programs. Eventually you will want to transition to a free open source operating system like Ubuntu Linux but baby steps for now.&lt;/p&gt;
+
+&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
+
+&lt;p&gt;Windows - find the Ubuntu Linux distribution in the App store and install it using the Windows Subsystem for Linux (WSL) available starting with Windows 10.&lt;/p&gt;
+
+&lt;p&gt;&lt;del&gt;Windows - Cygwin: select the packages during the Cygwin install. If you need to add something, just run the installer again.&lt;/del&gt;&lt;/p&gt;
+
+&lt;p&gt;Mac OS X - &lt;a href=&#34;https://www.macports.org/&#34;&gt;MacPorts&lt;/a&gt;: the syntax here to install gawk is
+&lt;pre&gt;sudo port install gawk&lt;/pre&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;where-do-i-begin&#34;&gt;Where Do I Begin?&lt;/h2&gt;
+
+&lt;p&gt;I suggest learning the following tools in this order:&lt;/p&gt;
+
+&lt;p&gt;File Operations: ls (list), cp (copy), mv (move), rm (remove)
+Type cp &amp;ndash;help for syntax and options&lt;/p&gt;
+
+&lt;p&gt;Administration: sudo (execute command as administrator), chmod (change permissions), apt (package manager for Ubuntu Linux and other Debian distributions)&lt;/p&gt;
+
+&lt;p&gt;Secure Shell: use the command line of another computer over the network
+Be sure to install openssh on WSL or Linux. OS X comes with it. Syntax is: ssh user@serverURL
+Use &amp;ldquo;ssh-keygen -t rsa&amp;rdquo; once to generate a key and &amp;ldquo;ssh-copy-id user@serverURL&amp;rdquo; to put the public key on the server. This will allow logins without typing your password every time. Secure Shell requires TCP port 22 by default. Some network environments may block incoming traffic to this port.&lt;/p&gt;
+
+&lt;p&gt;nano: simple text editor
+Use Ctrl as the meta key so Ctrl-x exits the program.&lt;/p&gt;
+
+&lt;p&gt;tmux: use multiple command line sessions in a single terminal
+I love monitors but they suck power and take up too much space. Using a terminal multiplexer like tmux allows you to cram more info into a smaller amount of real estate. Use Ctrl-b to issue commands. Add resurrect and continuum through the plug-in manager to make your tmux session more robust.&lt;/p&gt;
+
+&lt;p&gt;mosh: make your sessions robust to network disruptions
+Do you like closing your laptop for a while and then resuming exactly where you left off? Mosh does this for secure shell sessions so you don&amp;rsquo;t need to reestablish your connections manually. Mosh requires that UDP ports 60000-60100 as well as the secure shell port is open. Some network environments may block traffic to these ports. One of the great tools that &amp;ldquo;just works&amp;rdquo; in most network environments.&lt;/p&gt;
+
+&lt;p&gt;rsync: quickly copy large amounts of files
+wget: fetch files from the Internet
+curl: more advanced Internet functionality
+gawk: manipulate text files
+sed: manipulate text output
+irssi: text based IRC client&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Market Microstructure</title>
       <link>/portal/library/microstructure/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
