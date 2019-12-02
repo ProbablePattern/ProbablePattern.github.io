@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Doctoral Seminar in Corporate Finance | Dr. Stephen Rush, CFA</title>
+    <link>/portal/seminar-corporatefinance/</link>
+      <atom:link href="/portal/seminar-corporatefinance/index.xml" rel="self" type="application/rss+xml" />
+    <description>Doctoral Seminar in Corporate Finance</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Doctoral Seminar in Corporate Finance</title>
+      <link>/portal/seminar-corporatefinance/</link>
+    </image>
+    
+    <item>
+      <title>Corporate Methods</title>
+      <link>/portal/seminar-corporatefinance/methods/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/portal/seminar-corporatefinance/methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Market Efficiency</title>
+      <link>/portal/seminar-corporatefinance/market_efficiency/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/portal/seminar-corporatefinance/market_efficiency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Market Frictions</title>
+      <link>/portal/seminar-corporatefinance/market_frictions/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/portal/seminar-corporatefinance/market_frictions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behavioral Finance</title>
+      <link>/portal/seminar-corporatefinance/behavioral_finance/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/portal/seminar-corporatefinance/behavioral_finance/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

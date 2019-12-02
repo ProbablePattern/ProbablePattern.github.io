@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction to Capital Markets | Dr. Stephen Rush, CFA</title>
+    <link>/portal/intro-markets/</link>
+      <atom:link href="/portal/intro-markets/index.xml" rel="self" type="application/rss+xml" />
+    <description>Introduction to Capital Markets</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Introduction to Capital Markets</title>
+      <link>/portal/intro-markets/</link>
+    </image>
+    
+    <item>
+      <title>Ethics</title>
+      <link>/portal/intro-markets/ethics/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/portal/intro-markets/ethics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

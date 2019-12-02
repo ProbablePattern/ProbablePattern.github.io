@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/library/data/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/courses/intro-markets/ethics/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
@@ -28,7 +23,7 @@
   </url>
   
   <url>
-    <loc>/courses/library/personal-finance/</loc>
+    <loc>/portal/library/personal-finance/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -103,7 +98,7 @@
   </url>
   
   <url>
-    <loc>/courses/library/advising/</loc>
+    <loc>/portal/library/advising/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -168,11 +163,6 @@
   </url>
   
   <url>
-    <loc>/courses/library/media/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/courses/portfoliomanagement/portfoliooptimization/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
@@ -223,22 +213,42 @@
   </url>
   
   <url>
-    <loc>/courses/library/setec/</loc>
+    <loc>/portal/library/code/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/library/books/</loc>
+    <loc>/portal/library/data/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/library/movies/</loc>
+    <loc>/portal/library/media/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/library/podcasts/</loc>
+    <loc>/portal/library/setec/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portal/library/books/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portal/library/movies/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portal/library/podcasts/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portal/library/music/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -368,12 +378,7 @@
   </url>
   
   <url>
-    <loc>/code/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/library/</loc>
+    <loc>/portal/library/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -539,6 +544,10 @@
   
   <url>
     <loc>/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/portal/</loc>
   </url>
   
 </urlset>

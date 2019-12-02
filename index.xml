@@ -13,65 +13,6 @@
     </image>
     
     <item>
-      <title>Data Sources</title>
-      <link>/courses/library/data/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/library/data/</guid>
-      <description>
-
-&lt;p&gt;There are many sources of data available but in my class and in your job, you must use primary sources. This means original data that has as little filtering as possible. This page includes other sources that are of comparable quality and reliability. They are free to access as you move from the university to your career.&lt;/p&gt;
-
-&lt;h2 id=&#34;macroeconomic-data&#34;&gt;Macroeconomic Data&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bis.org/index.htm&#34;&gt;Bank for International Settlements&lt;/a&gt; (BIS) – international banking statistics&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bea.gov/&#34;&gt;Bureau of Economic Analysis&lt;/a&gt; (BEA)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bls.gov/&#34;&gt;Bureau of Labor Statistics&lt;/a&gt; (BLS) – U.S. employment statistics&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.econ.yale.edu/~shiller/data.htm&#34;&gt;CAPE Ratio&lt;/a&gt; – Cyclically Adjusted Price/Earnings Ratio by Robert Shiller&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.conference-board.org/data/consumerdata.cfm&#34;&gt;Conference Board&lt;/a&gt; – consumer confidence data&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.businesscycle.com/home/&#34;&gt;Economic Cycle Research Institute&lt;/a&gt; (ECRI)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.eia.doe.gov/&#34;&gt;Energy Information Administration&lt;/a&gt; (EIA)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://fdic.gov/bank/analytical/qbp/index.html&#34;&gt;Federal Deposit Insurance Corporation&lt;/a&gt; (FDIC) - banking data&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://research.stlouisfed.org/fred2/&#34;&gt;Federal Reserve Economic Data&lt;/a&gt; (FRED) – macroeconomic data and interest rates&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.instituteforsupplymanagement.org/ISMReport&#34;&gt;Institute for Supply Management&lt;/a&gt; (ISM) - manufacturing activity&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://www.nber.org/&#34;&gt;National Bureau of Economic Research&lt;/a&gt; (NBER) – official U.S. recession periods&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.sca.isr.umich.edu/&#34;&gt;University of Michigan&lt;/a&gt; - consumer sentiment index&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.census.gov/retail/index.html&#34;&gt;U.S. Census Bureau&lt;/a&gt; - monthly retail trade report&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;market-data&#34;&gt;Market Data&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cboe.com/MktQuote/default.aspx&#34;&gt;Chicago Board Options Exchange&lt;/a&gt; (CBOE)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cmegroup.com/&#34;&gt;Chicago Mercantile Exchange&lt;/a&gt; (CME) – delayed quotes on commodities&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://finra-markets.morningstar.com/MarketData&#34;&gt;FINRA Market Data&lt;/a&gt; – hosted by Morningstar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.quandl.com/&#34;&gt;Quandl&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.sec.gov/edgar.shtml&#34;&gt;Securities and Exchange Commission&lt;/a&gt; (SEC) – EDGAR database of company filings / start with the 10-K for annual data and the 10-Q for quarterly data&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;reseach-data&#34;&gt;Reseach Data&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html&#34;&gt;Fama-French Factors&lt;/a&gt; - asset pricing factors produced by Kenneth French&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://global-q.org&#34;&gt;q-Factor Model&lt;/a&gt; - asset pricing factors by Hou, Xue, and Zhang&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;premium-data-sources&#34;&gt;Premium Data Sources&lt;/h2&gt;
-
-&lt;p&gt;These are some of the data sources you should expect to encounter in the industry. Any experience with the sources would be useful to mention in an interview.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bloomberg&lt;/li&gt;
-&lt;li&gt;FactSet&lt;/li&gt;
-&lt;li&gt;Mergent&lt;/li&gt;
-&lt;li&gt;S&amp;amp;P Capital IQ&lt;/li&gt;
-&lt;li&gt;Thomson One&lt;/li&gt;
-&lt;li&gt;Thomson Reuters Datastream&lt;/li&gt;
-&lt;li&gt;Value Line&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Ethics</title>
       <link>/courses/intro-markets/ethics/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
@@ -151,9 +92,9 @@
     
     <item>
       <title>Personal Finance</title>
-      <link>/courses/library/personal-finance/</link>
+      <link>/portal/library/personal-finance/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/library/personal-finance/</guid>
+      <guid>/portal/library/personal-finance/</guid>
       <description>
 
 &lt;p&gt;I teach investments, portfolio management, and corporate finance but many people are more interested in personal finance. Here are some thoughts on budgets, using debt, paying off debt, student loans/college, and investing.&lt;/p&gt;
@@ -798,9 +739,9 @@
     
     <item>
       <title>Student Advice</title>
-      <link>/courses/library/advising/</link>
+      <link>/portal/library/advising/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/library/advising/</guid>
+      <guid>/portal/library/advising/</guid>
       <description>
 
 &lt;p&gt;Everyone has constraints on their time, money, and attention. My recommendations represent what I believe a competitive student should do to prepare for a career in finance but everyone has to make trade-offs.&lt;/p&gt;
@@ -849,7 +790,8 @@
 
 &lt;p&gt;Get a hobby. Find something that is not finance that makes you happy. This will help you deal with the times when finance will be boring, frustrating, or too difficult. Talk about your hobby in an interview.&lt;/p&gt;
 
-&lt;p&gt;The best jobs are usually not around the university and are not advertised at the career center. Be prepared to move and find your own job.&lt;/p&gt;
+&lt;p&gt;The best jobs are usually not around the university and are not advertised at the career center. Be prepared to move and find your own job.
+&lt;img src=&#34;/img/pics/Shark_Mondays.jpg&#34; alt=&#34;Shark&#34; title=&#34;Be the shark&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1050,46 +992,6 @@
 &lt;ul&gt;
 &lt;li&gt;Credit Reports&lt;/li&gt;
 &lt;li&gt;Debt Buyers&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Media Sources</title>
-      <link>/courses/library/media/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/library/media/</guid>
-      <description>
-
-&lt;h2 id=&#34;television-news&#34;&gt;Television News&lt;/h2&gt;
-
-&lt;p&gt;In my opinion, news should have as little commentary as possible and focus on matters of importance rather than entertainment value. I also don&amp;rsquo;t think you should pay for a cable package to receive decent news. These sources keep you informed without attempting to elicit an emotional reaction.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/user/NBRbizrpt/featured&#34;&gt;Nightly Business Report&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/user/PBSNewsHour/featured&#34;&gt;PBS Newshour&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;blogs-and-magazines&#34;&gt;Blogs and Magazines&lt;/h2&gt;
-
-&lt;p&gt;These magazines and blogs are not unbiased and may publish bad information but there is enough relevant content for me to recommend them here. Clearly, some should be taken more seriously than others. Many of the traditional print media sources here can be accessed with an RSS reader rather than paying for a print subscription.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bloomberg.com/radio/&#34;&gt;Bloomberg Radio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://research.gluskinsheff.com/&#34;&gt;Breakfast with Dave&lt;/a&gt; by David Rosenberg - daily macro economic analysis newsletter&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.econtalk.org/&#34;&gt;EconTalk&lt;/a&gt; - Blog and Podcast&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.foreignaffairs.com/&#34;&gt;Foreign Affairs&lt;/a&gt; - If you want to know what key policy makers think about foreign policy, read this one.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.foreignpolicy.com/&#34;&gt;Foreign Policy&lt;/a&gt; - excellent global coverage&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://fortune.com/gettermsheet/&#34;&gt;Fortune Term Sheet&lt;/a&gt; by Dan Primack - daily email about financial deals&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.economist.com/blogs/freeexchange&#34;&gt;Free Exchange&lt;/a&gt; - additional shorter form articles from The Economist for free&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.npr.org/blogs/money/&#34;&gt;Planet Money&lt;/a&gt; on NPR&lt;/li&gt;
-&lt;li&gt;Sci-Hub (&lt;a href=&#34;https://wadauk.github.io/scihub_ck/index.html&#34;&gt;Links&lt;/a&gt;) – open access to academic papers&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stephenrush.wordpress.com/courses/media/&#34;&gt;Selected Media&lt;/a&gt;&amp;nbsp;– stories that I have compiled for undergraduate courses&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://tabbforum.com/&#34;&gt;TabbFORUM&lt;/a&gt; - market focused and a decent source for microstructure information&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.economist.com/&#34;&gt;The Economist&lt;/a&gt; - If you only read one news source, this is the one to read. Most university libraries provide The Economist for free although a personal subscription is more convenient.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://online.wsj.com&#34;&gt;The Wall Street Journal&lt;/a&gt; - This is still the newspaper of record for U.S. business although I would not recommend reading it on a regular basis.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCpwosulQ7IOBHCCnl7kWYwA&#34;&gt;YouTube&lt;/a&gt; - there are some really great lectures available for free. I have links to a few on my channel.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.zerohedge.com/&#34;&gt;Zero Hedge&lt;/a&gt; - more entertainment than serious analysis (be very skeptical of content posted here)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -1314,10 +1216,163 @@
     </item>
     
     <item>
-      <title>Setec Astronomy</title>
-      <link>/courses/library/setec/</link>
+      <title>Coding</title>
+      <link>/portal/library/code/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/library/setec/</guid>
+      <guid>/portal/library/code/</guid>
+      <description>
+
+&lt;p&gt;My favorite tool for data analysis is the &lt;a href=&#34;http://www.r-project.org/&#34;&gt;R&lt;/a&gt; programming language because it has a great community, it is free, and it works on Windows, Mac, and Linux. I also highly recommend &lt;a href=&#34;http://www.rstudio.com/&#34;&gt;RStudio&lt;/a&gt; if you&amp;rsquo;re not into using &lt;a href=&#34;http://ess.r-project.org/&#34;&gt;ESS&lt;/a&gt; with &lt;a href=&#34;http://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt;. RStudio is great for academics because it also serves as a &lt;a href=&#34;http://www.latex-project.org/&#34;&gt;LaTeX&lt;/a&gt; editor so you can use one tool for your entire research project soup to nuts. Microsoft offers a paid support option for commercial use but there is a free and open source version.&lt;/p&gt;
+
+&lt;p&gt;I learned R on my own but I could not have done it without the help of sites like &lt;a href=&#34;http://stackoverflow.com/&#34;&gt;Stack Overflow&lt;/a&gt; and the outstanding R community. Before posting any questions on the web, please attempt to work the problem yourself so that people don&amp;rsquo;t waste their time answering questions that have already been explained. More succinct: &lt;a href=&#34;https://en.wikipedia.org/wiki/RTFM&#34;&gt;RTFM&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Students&lt;/strong&gt;: Download the pdf booklet &lt;a href=&#34;https://drive.google.com/open?id=1SkCbS24pVkJkVzZ2IjcT3E-RIV7WPXMd&#34;&gt;PDQ Finance&lt;/a&gt; and follow the directions to install R and RStudio.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Non-Students&lt;/strong&gt;: For minimal time investment, I suggest following some examples in the &lt;a href=&#34;https://eddelbuettel.github.io/gsir-te/Getting-Started-in-R.pdf&#34;&gt;Getting Started in R&lt;/a&gt; (tinyverse edition) guide by Saghir Bashir and Dirk Eddelbuettel. I also suggest creating a free account at &lt;a href=&#34;https://rstudio.cloud&#34;&gt;RStudio Cloud&lt;/a&gt; to get started without needing to install anything.&lt;/p&gt;
+
+&lt;h2 id=&#34;installation-and-introduction&#34;&gt;Installation and Introduction&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stephenrush.wordpress.com/command-line/&#34;&gt;Command Line&lt;/a&gt;&amp;nbsp;- some problems are best solved with command line tools rather than a programming language&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Emacs and ESS on OS X for Beginners&#34; href=&#34;http://stephenrush.wordpress.com/blog/emacs/&#34;&gt;Emacs and ESS&lt;/a&gt; on Mac&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pandas.pydata.org/&#34;&gt;Pandas&lt;/a&gt; - financial data analysis in Python&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;econometrics&#34;&gt;Econometrics&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://stephenrush.wordpress.com/blog/ols/&#34;&gt;Regression in R&lt;/a&gt; - short command for ordinary least squares regression&lt;/li&gt;
+&lt;li&gt;Robust Regression in R&lt;/li&gt;
+&lt;li&gt;Quantile Regression in R&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stephenrush.wordpress.com/blog/bootstrap/&#34;&gt;Time-Series Bootstrap&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;data-manipulation-presentation&#34;&gt;Data Manipulation &amp;amp; Presentation&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a title=&#34;Dashboards&#34; href=&#34;http://stephenrush.wordpress.com/blog/dashboards/&#34;&gt;Dashboards&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;First Database in R&#34; href=&#34;http://stephenrush.wordpress.com/blog/rsqlite/&#34;&gt;Using a Database with R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Two-way Sorting&#34; href=&#34;http://stephenrush.wordpress.com/blog/two-way-sorting/&#34;&gt;Two-Way Sorting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stephenrush.wordpress.com/blog/latex-template/&#34;&gt;LaTex Template&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;more-advanced-stuff&#34;&gt;More Advanced Stuff&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Style Analysis in R&lt;/li&gt;
+&lt;li&gt;Fama-French Factor Model in R&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Pastor and Stambaugh Liquidity&#34; href=&#34;http://stephenrush.wordpress.com/blog/pastor-and-stambaugh-liquidity/&#34;&gt;Pastor and Stambaugh Liquidity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Working in Volume Time / Event Time&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;VPIN in R&#34; href=&#34;http://stephenrush.wordpress.com/blog/vpininr/&#34;&gt;Volume Synchronized Probability of Informed Trading&lt;/a&gt; (VPIN)&lt;/li&gt;
+&lt;li&gt;Probability and Performance Measurement&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Sources</title>
+      <link>/portal/library/data/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/portal/library/data/</guid>
+      <description>
+
+&lt;p&gt;There are many sources of data available but in my class and in your job, you must use primary sources. This means original data that has as little filtering as possible. This page includes other sources that are of comparable quality and reliability. They are free to access as you move from the university to your career.&lt;/p&gt;
+
+&lt;h2 id=&#34;macroeconomic-data&#34;&gt;Macroeconomic Data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bis.org/index.htm&#34;&gt;Bank for International Settlements&lt;/a&gt; (BIS) – international banking statistics&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bea.gov/&#34;&gt;Bureau of Economic Analysis&lt;/a&gt; (BEA)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bls.gov/&#34;&gt;Bureau of Labor Statistics&lt;/a&gt; (BLS) – U.S. employment statistics&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.econ.yale.edu/~shiller/data.htm&#34;&gt;CAPE Ratio&lt;/a&gt; – Cyclically Adjusted Price/Earnings Ratio by Robert Shiller&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.conference-board.org/data/consumerdata.cfm&#34;&gt;Conference Board&lt;/a&gt; – consumer confidence data&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.businesscycle.com/home/&#34;&gt;Economic Cycle Research Institute&lt;/a&gt; (ECRI)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.eia.doe.gov/&#34;&gt;Energy Information Administration&lt;/a&gt; (EIA)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fdic.gov/bank/analytical/qbp/index.html&#34;&gt;Federal Deposit Insurance Corporation&lt;/a&gt; (FDIC) - banking data&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://research.stlouisfed.org/fred2/&#34;&gt;Federal Reserve Economic Data&lt;/a&gt; (FRED) – macroeconomic data and interest rates&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instituteforsupplymanagement.org/ISMReport&#34;&gt;Institute for Supply Management&lt;/a&gt; (ISM) - manufacturing activity&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://www.nber.org/&#34;&gt;National Bureau of Economic Research&lt;/a&gt; (NBER) – official U.S. recession periods&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sca.isr.umich.edu/&#34;&gt;University of Michigan&lt;/a&gt; - consumer sentiment index&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.census.gov/retail/index.html&#34;&gt;U.S. Census Bureau&lt;/a&gt; - monthly retail trade report&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;market-data&#34;&gt;Market Data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cboe.com/MktQuote/default.aspx&#34;&gt;Chicago Board Options Exchange&lt;/a&gt; (CBOE)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cmegroup.com/&#34;&gt;Chicago Mercantile Exchange&lt;/a&gt; (CME) – delayed quotes on commodities&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://finra-markets.morningstar.com/MarketData&#34;&gt;FINRA Market Data&lt;/a&gt; – hosted by Morningstar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.quandl.com/&#34;&gt;Quandl&lt;/a&gt; - platform for distributing free and proprietary data sets&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sec.gov/edgar.shtml&#34;&gt;Securities and Exchange Commission&lt;/a&gt; (SEC) – EDGAR database of company filings / start with the 10-K for annual data and the 10-Q for quarterly data&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;reseach-data&#34;&gt;Reseach Data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html&#34;&gt;Fama-French Factors&lt;/a&gt; - asset pricing factors produced by Kenneth French&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://global-q.org&#34;&gt;q-Factor Model&lt;/a&gt; - asset pricing factors by Hou, Xue, and Zhang&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;premium-data-sources&#34;&gt;Premium Data Sources&lt;/h2&gt;
+
+&lt;p&gt;These are some of the data sources you should expect to encounter in the industry. Any experience with the sources would be useful to mention in an interview.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bloomberg&lt;/li&gt;
+&lt;li&gt;FactSet&lt;/li&gt;
+&lt;li&gt;Mergent&lt;/li&gt;
+&lt;li&gt;S&amp;amp;P Capital IQ&lt;/li&gt;
+&lt;li&gt;Thomson One&lt;/li&gt;
+&lt;li&gt;Thomson Reuters Datastream&lt;/li&gt;
+&lt;li&gt;Value Line&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Media Sources</title>
+      <link>/portal/library/media/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/portal/library/media/</guid>
+      <description>
+
+&lt;h2 id=&#34;television-news&#34;&gt;Television News&lt;/h2&gt;
+
+&lt;p&gt;In my opinion, news should have as little commentary as possible and focus on matters of importance rather than entertainment value. I also don&amp;rsquo;t think you should pay for a cable package to receive decent news. These sources keep you informed without attempting to elicit an emotional reaction.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/user/NBRbizrpt/featured&#34;&gt;Nightly Business Report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/user/PBSNewsHour/featured&#34;&gt;PBS Newshour&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pbs.org/wgbh/frontline/&#34; target=&#34;_blank&#34;&gt;Frontline&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;blogs-and-magazines&#34;&gt;Blogs and Magazines&lt;/h2&gt;
+
+&lt;p&gt;These magazines and blogs are not unbiased and may publish bad information but there is enough relevant content for me to recommend them here. Clearly, some should be taken more seriously than others. Many of the traditional print media sources here can be accessed with an RSS reader rather than paying for a print subscription.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bloomberg.com/radio/&#34;&gt;Bloomberg Radio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://research.gluskinsheff.com/&#34;&gt;Breakfast with Dave&lt;/a&gt; by David Rosenberg - daily macro economic analysis newsletter&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.econtalk.org/&#34;&gt;EconTalk&lt;/a&gt; - Blog and Podcast&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.foreignaffairs.com/&#34;&gt;Foreign Affairs&lt;/a&gt; - If you want to know what key policy makers think about foreign policy, read this one.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.foreignpolicy.com/&#34;&gt;Foreign Policy&lt;/a&gt; - excellent global coverage&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fortune.com/gettermsheet/&#34;&gt;Fortune Term Sheet&lt;/a&gt; by Dan Primack - daily email about financial deals&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.economist.com/blogs/freeexchange&#34;&gt;Free Exchange&lt;/a&gt; - additional shorter form articles from The Economist for free&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.npr.org/blogs/money/&#34;&gt;Planet Money&lt;/a&gt; on NPR&lt;/li&gt;
+&lt;li&gt;Sci-Hub (&lt;a href=&#34;https://wadauk.github.io/scihub_ck/index.html&#34;&gt;Links&lt;/a&gt;) – open access to academic papers&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tabbforum.com/&#34;&gt;TabbFORUM&lt;/a&gt; - market focused and a decent source for microstructure information&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.economist.com/&#34;&gt;The Economist&lt;/a&gt; - If you only read one news source, this is the one to read. Most university libraries provide The Economist for free although a personal subscription is more convenient.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://online.wsj.com&#34;&gt;The Wall Street Journal&lt;/a&gt; - This is still the newspaper of record for U.S. business although I would not recommend reading it on a regular basis.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCpwosulQ7IOBHCCnl7kWYwA&#34;&gt;YouTube&lt;/a&gt; - there are some really great lectures available for free. I have links to a few on my channel.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.zerohedge.com/&#34;&gt;Zero Hedge&lt;/a&gt; - more entertainment than serious analysis (be very skeptical of content posted here)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Setec Astronomy</title>
+      <link>/portal/library/setec/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/portal/library/setec/</guid>
       <description>&lt;p&gt;These are some of the great free and open source software tools available particularly for my friends who live in less free societies. Unless you are a cryptographer, I don&amp;rsquo;t recommend the &lt;a href=&#34;https://en.wikipedia.org/wiki/Security_through_obscurity&#34;&gt;Security through Obscurity&lt;/a&gt; strategy. Also, consider some of the tools recommended by the Electronic Frontier Foundation (EFF) &lt;a href=&#34;https://ssd.eff.org/&#34;&gt;Surveillance Self-Defense&lt;/a&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -1352,9 +1407,9 @@
     
     <item>
       <title>Books</title>
-      <link>/courses/library/books/</link>
+      <link>/portal/library/books/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/library/books/</guid>
+      <guid>/portal/library/books/</guid>
       <description>
 
 &lt;p&gt;This book list is rather short because I only add books that I have read personally and I think are worth taking time away from something else to read. Where possible, I include links to freely accessible materials.&lt;/p&gt;
@@ -1407,9 +1462,9 @@
     
     <item>
       <title>Movies</title>
-      <link>/courses/library/movies/</link>
+      <link>/portal/library/movies/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/library/movies/</guid>
+      <guid>/portal/library/movies/</guid>
       <description>
 
 &lt;p&gt;These are movies that are important to finance culture or have some interesting finance content. Plenty of other movies take place around finance but have little relevant content.&lt;/p&gt;
@@ -1440,14 +1495,16 @@
     
     <item>
       <title>Podcasts</title>
-      <link>/courses/library/podcasts/</link>
+      <link>/portal/library/podcasts/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/library/podcasts/</guid>
+      <guid>/portal/library/podcasts/</guid>
       <description>
 
 &lt;p&gt;These are conversations and news stories that supplement my course content. Most are about 60 minutes long and will play in any web browser.&lt;/p&gt;
 
 &lt;h2 id=&#34;econtalk-podcasts&#34;&gt;EconTalk Podcasts&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.econtalk.org/&#34; target=&#34;_blank&#34;&gt;EconTalk&lt;/a&gt; is a great resource for long-form conversations related to economics. The website often contains additional information for those interested in the weekly episodes. I have listed the episodes that I have found most useful for teaching.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2015/06/nathaniel_poppe.html&#34;&gt;Nathaniel Popper on Bitcoin and Digital Gold&lt;/a&gt; (8 June 2015)&lt;/li&gt;
@@ -1499,6 +1556,37 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
 &lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/meltdown/view/&#34;&gt;Inside the Meltdown&lt;/a&gt;&amp;nbsp;(17 February 2009)&lt;/li&gt;
 &lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/shows/credit/view/&#34;&gt;Secret History of the Credit Card&lt;/a&gt; (23 November 2004)&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Compositions</title>
+      <link>/portal/library/music/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/portal/library/music/</guid>
+      <description>
+
+&lt;p&gt;This page is mostly for friends and family that have taken an interest in my compositions and arrangements.&lt;/p&gt;
+
+&lt;h2 id=&#34;psalm&#34;&gt;Psalm&lt;/h2&gt;
+
+&lt;p&gt;This is the chorus of a piece I envisioned as a psalm but never got around to writing the lyrics. It is a simple solo piano arrangement with an unusual chord progression. These are characteristics I found lacking in modern liturgical music.
+&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/5230606%3Fsecret_token%3Ds-Lthsi&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;fanfare-for-the-savage-man&#34;&gt;Fanfare for the Savage Man&lt;/h2&gt;
+
+&lt;p&gt;I was thinking about Aaron Copeland but then I remembered that I am not a good composer so I plugged my electric cello into a Moog synthesizer (like one does) and blissed out on analog goodness. The song is 3:14 long because, like π, a Moog cello is completely irrational. You&amp;rsquo;re going to want to either turn the volume up or wear headphones for this one.
+&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347560369%3Fsecret_token%3Ds-dNu9V&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;freedive&#34;&gt;Freedive&lt;/h2&gt;
+
+&lt;p&gt;Freediving is diving with no air supply - basically high performance snorkeling. Divers wear more weight to sink easier and longer fins to reduce movement and conserve energy. In the murky waters of New England, you won&amp;rsquo;t see much until you reach the bottom. The length on this song is same as my average dive (a pitiful two minutes). If you&amp;rsquo;ve never tried it, sit down, close your eyes, plug in your headphones, and don&amp;rsquo;t breathe until the end.
+&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/351178597%3Fsecret_token%3Ds-pAB8Y&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;flyover-country&#34;&gt;Flyover Country&lt;/h2&gt;
+
+&lt;p&gt;Coming to terms with life in the midwest.
+&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347993617%3Fsecret_token%3Ds-24Dl6&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -2006,14 +2094,6 @@ $$&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Code</title>
-      <link>/code/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/code/</guid>
-      <description></description>
     </item>
     
     <item>
