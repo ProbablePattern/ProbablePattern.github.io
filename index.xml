@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Stephen Rush, CFA</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Dr. Stephen Rush, CFA</title>
@@ -316,9 +316,9 @@
 
 &lt;h2 id=&#34;student-loans&#34;&gt;Student Loans&lt;/h2&gt;
 
-&lt;p&gt;Let me first explain my college experience and then offer some general advice. I could not afford college after high school. I joined the Marine Corps initially to get money for college and stayed for an additional few years to increase my savings. When I was ready to leave active duty and go to school, the government involuntarily extended my contract due to the &lt;sup&gt;9&lt;/sup&gt;&amp;frasl;&lt;sub&gt;11&lt;/sub&gt; terrorist attacks and subsequent war in Afghanistan. Nearly two years later, I was permitted to leave active duty. I joined the reserves, used my weekend reserve paycheck, my G.I. Bill benefits (before the revised G.I. Bill), and got a part-time job at Starbucks in order to receive healthcare. (At the time, Starbucks was one of the few companies offering healthcare to employees working at least 20 hours per week.) This allowed me to afford to attend Rhode Island College on a full-time basis.&lt;/p&gt;
+&lt;p&gt;Let me first explain my college experience and then offer some general advice. I could not afford college after high school. I joined the Marine Corps initially to get money for college and stayed for an additional few years to increase my savings. When I was ready to leave active duty and go to school, the government involuntarily extended my contract due to the 9 / 11 terrorist attacks and subsequent war in Afghanistan. Nearly two years later, I was permitted to leave active duty. I joined the reserves, used my weekend reserve paycheck, my G.I. Bill benefits (before the revised G.I. Bill), and got a part-time job at Starbucks in order to receive healthcare. (At the time, Starbucks was one of the few companies offering healthcare to employees working at least 20 hours per week.) This allowed me to afford to attend Rhode Island College on a full-time basis.&lt;/p&gt;
 
-&lt;p&gt;I decided to study finance rather than music because I knew I needed to support myself after school and I didn&amp;rsquo;t have the option to go live with my parents. I attended the state college for 3 semesters and I took as many general education classes and introduction classes as I could that would easily transfer to another university. I maintained a 3.&lt;sup&gt;95&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt; GPA which I used to apply to the local private business school, Bryant University. Bryant offered a $10,000/year scholarship and I was able to graduate after 4 semesters at Bryant with a double major in finance and economics in the honors program while taking two years of Chinese.&lt;/p&gt;
+&lt;p&gt;I decided to study finance rather than music because I knew I needed to support myself after school and I didn&amp;rsquo;t have the option to go live with my parents. I attended the state college for 3 semesters and I took as many general education classes and introduction classes as I could that would easily transfer to another university. I maintained a 3.95 / 4 GPA which I used to apply to the local private business school, Bryant University. Bryant offered a $10,000/year scholarship and I was able to graduate after 4 semesters at Bryant with a double major in finance and economics in the honors program while taking two years of Chinese.&lt;/p&gt;
 
 &lt;p&gt;Despite the academic scholarship from Bryant, I used my entire G.I. Bill, Marine Corps Reserve paycheck, my Starbucks paycheck, and still needed student loans. I understand that I was lucky to have those opportunities and everyone cannot possibly repeat my experience simply by working harder. I should also note that despite my academic achievement, many companies did not want to hire me because they were concerned that I would be deployed. I received many opportunities to interview but my peers that I had tutored received multiple offers while my first offer only came after I separated from the reserves. I believe that the attitude towards veterans has improved in corporate America but there is a substantial difference between the &amp;ldquo;Thank You for Your Service&amp;rdquo; platitudes and the actual hiring practices.&lt;/p&gt;
 
@@ -1764,29 +1764,6 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
 
 &lt;p&gt;Coming to terms with life in the midwest.
 &lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347993617%3Fsecret_token%3Ds-24Dl6&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
