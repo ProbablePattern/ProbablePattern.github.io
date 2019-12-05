@@ -92,9 +92,9 @@
     
     <item>
       <title>Review</title>
-      <link>/courses/portfoliomanagement/review/</link>
+      <link>/courses/portfolio-management/review/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/portfoliomanagement/review/</guid>
+      <guid>/courses/portfolio-management/review/</guid>
       <description>
 
 &lt;h2 id=&#34;accounting-review&#34;&gt;Accounting Review&lt;/h2&gt;
@@ -189,9 +189,9 @@
     
     <item>
       <title>Investment Policy Statement</title>
-      <link>/courses/portfoliomanagement/ips/</link>
+      <link>/courses/portfolio-management/ips/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/portfoliomanagement/ips/</guid>
+      <guid>/courses/portfolio-management/ips/</guid>
       <description>
 
 &lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
@@ -220,9 +220,9 @@
     
     <item>
       <title>Macroeconomic &amp; Industry Analysis</title>
-      <link>/courses/portfoliomanagement/macro_industry/</link>
+      <link>/courses/portfolio-management/macro_industry/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/portfoliomanagement/macro_industry/</guid>
+      <guid>/courses/portfolio-management/macro_industry/</guid>
       <description>
 
 &lt;h2 id=&#34;macroeconomic-metrics&#34;&gt;Macroeconomic Metrics&lt;/h2&gt;
@@ -507,9 +507,9 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Ethics</title>
-      <link>/courses/portfoliomanagement/ethics/</link>
+      <link>/courses/portfolio-management/ethics/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/portfoliomanagement/ethics/</guid>
+      <guid>/courses/portfolio-management/ethics/</guid>
       <description></description>
     </item>
     
@@ -523,9 +523,9 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Trade Execution</title>
-      <link>/courses/portfoliomanagement/trading/</link>
+      <link>/courses/portfolio-management/trading/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/portfoliomanagement/trading/</guid>
+      <guid>/courses/portfolio-management/trading/</guid>
       <description>&lt;p&gt;We will be using Chebyshev&amp;rsquo;s Theorem to set limits on trades. This is appropriate because financial returns (and prices) are not normally distributed but the distribution is generally assumed to have a mean and standard deviation. Find the volume-weighted average prices (VWAP) from no more than one month in the past. For buys, calculate two standard deviations below the last VWAP price to use as the limit. This will balance price improvement with our goal of execution within a week. Use the same guide for sell limit orders. Add two standard deviations to the last VWAP to get the limit sell price which is likely to be executed within a week.&lt;/p&gt;
 </description>
     </item>
@@ -540,9 +540,9 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Equity Valuation</title>
-      <link>/courses/portfoliomanagement/equityvaluation/</link>
+      <link>/courses/portfolio-management/equityvaluation/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/portfoliomanagement/equityvaluation/</guid>
+      <guid>/courses/portfolio-management/equityvaluation/</guid>
       <description>
 
 &lt;h2 id=&#34;relative-valuation&#34;&gt;Relative Valuation&lt;/h2&gt;
@@ -729,14 +729,16 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Portfolio Optimization</title>
-      <link>/courses/portfoliomanagement/portfoliooptimization/</link>
+      <link>/courses/portfolio-management/portfoliooptimization/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/portfoliomanagement/portfoliooptimization/</guid>
+      <guid>/courses/portfolio-management/portfoliooptimization/</guid>
       <description>
 
 &lt;h2 id=&#34;constrained-mean-variance-portfolio-optimization&#34;&gt;Constrained Mean-Variance Portfolio Optimization&lt;/h2&gt;
 
 &lt;h2 id=&#34;risk-parity-portfolios&#34;&gt;Risk Parity Portfolios&lt;/h2&gt;
+
+&lt;p&gt;Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/master/Portfolio/Risk_Parity.R&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -775,9 +777,9 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Performance Measurement</title>
-      <link>/courses/portfoliomanagement/performance/</link>
+      <link>/courses/portfolio-management/performance/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/portfoliomanagement/performance/</guid>
+      <guid>/courses/portfolio-management/performance/</guid>
       <description>
 
 &lt;h2 id=&#34;benchmark&#34;&gt;Benchmark&lt;/h2&gt;
@@ -794,7 +796,12 @@ irssi: text based IRC client&lt;/p&gt;
 
 &lt;h2 id=&#34;risk-factor-analysis&#34;&gt;Risk Factor Analysis&lt;/h2&gt;
 
+&lt;p&gt;Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/master/Portfolio/Risk_Factors.R&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+
 &lt;h2 id=&#34;style-analysis&#34;&gt;Style Analysis&lt;/h2&gt;
+
+&lt;p&gt;Use Vanguard funds as proxies for styles&lt;br /&gt;
+Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/master/Portfolio/Style_Analysis.R&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Style Drift&lt;/li&gt;

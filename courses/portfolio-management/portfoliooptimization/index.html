@@ -28,13 +28,10 @@
   
     
   
-  <meta name="description" content=" Benchmark Treynor Measure Sharpe Ratio / Information Ratio Tracking Error Fama and French Models q-factor Model Risk Factor Analysis Example on GitHub
-Style Analysis Use Vanguard funds as proxies for styles
-Example on GitHub
- Style Drift  Brinson Attribution ">
+  <meta name="description" content="Constrained Mean-Variance Portfolio Optimization Risk Parity Portfolios Example on GitHub">
 
   
-  <link rel="alternate" hreflang="en-us" href="/courses/portfoliomanagement/performance/">
+  <link rel="alternate" hreflang="en-us" href="/courses/portfolio-management/portfoliooptimization/">
 
   
 
@@ -94,43 +91,15 @@ Example on GitHub
 
 
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116656751-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           document.location = url;
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target);  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-116656751-3', {});
-
   
-  document.addEventListener('click', onClickCallback, false);
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','UA-116656751-3');
 </script>
 
-
-  
 
 
   
@@ -139,7 +108,7 @@ Example on GitHub
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/courses/portfoliomanagement/performance/">
+  <link rel="canonical" href="/courses/portfolio-management/portfoliooptimization/">
 
   
   
@@ -155,12 +124,9 @@ Example on GitHub
   <meta property="twitter:creator" content="@Phreakonomist">
   
   <meta property="og:site_name" content="Dr. Stephen Rush, CFA">
-  <meta property="og:url" content="/courses/portfoliomanagement/performance/">
-  <meta property="og:title" content="Performance Measurement | Dr. Stephen Rush, CFA">
-  <meta property="og:description" content=" Benchmark Treynor Measure Sharpe Ratio / Information Ratio Tracking Error Fama and French Models q-factor Model Risk Factor Analysis Example on GitHub
-Style Analysis Use Vanguard funds as proxies for styles
-Example on GitHub
- Style Drift  Brinson Attribution "><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:url" content="/courses/portfolio-management/portfoliooptimization/">
+  <meta property="og:title" content="Portfolio Optimization | Dr. Stephen Rush, CFA">
+  <meta property="og:description" content="Constrained Mean-Variance Portfolio Optimization Risk Parity Portfolios Example on GitHub"><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
@@ -185,7 +151,7 @@ Example on GitHub
 
 
 
-  <title>Performance Measurement | Dr. Stephen Rush, CFA</title>
+  <title>Portfolio Optimization | Dr. Stephen Rush, CFA</title>
 
 </head>
 
@@ -464,7 +430,7 @@ Example on GitHub
   
   
   <div class="docs-toc-item">
-    <a class="docs-toc-link" href="/courses/portfoliomanagement/">Course Overview</a>
+    <a class="docs-toc-link" href="/courses/portfolio-management/">Course Overview</a>
 
   </div>
   
@@ -498,39 +464,39 @@ Example on GitHub
   </div>
   
   <div class="docs-toc-item">
-    <a class="docs-toc-link" href="/courses/portfoliomanagement/review/">Topic Coverage</a>
+    <a class="docs-toc-link" href="/courses/portfolio-management/review/">Topic Coverage</a>
     <ul class="nav docs-sidenav">
       
       <li >
-        <a href="/courses/portfoliomanagement/review/">Review</a>
+        <a href="/courses/portfolio-management/review/">Review</a>
       </li>
       
       <li >
-        <a href="/courses/portfoliomanagement/ips/">IPS</a>
+        <a href="/courses/portfolio-management/ips/">IPS</a>
       </li>
       
       <li >
-        <a href="/courses/portfoliomanagement/macro_industry/">Macroeconomic &amp; Industry Analysis</a>
+        <a href="/courses/portfolio-management/macro_industry/">Macroeconomic &amp; Industry Analysis</a>
       </li>
       
       <li >
-        <a href="/courses/portfoliomanagement/ethics/">Ethics</a>
+        <a href="/courses/portfolio-management/ethics/">Ethics</a>
       </li>
       
       <li >
-        <a href="/courses/portfoliomanagement/trading/">Trade Execution</a>
+        <a href="/courses/portfolio-management/trading/">Trade Execution</a>
       </li>
       
       <li >
-        <a href="/courses/portfoliomanagement/equityvaluation/">Equity Valuation</a>
-      </li>
-      
-      <li >
-        <a href="/courses/portfoliomanagement/portfoliooptimization/">Portfolio Optimization</a>
+        <a href="/courses/portfolio-management/equityvaluation/">Equity Valuation</a>
       </li>
       
       <li class="active">
-        <a href="/courses/portfoliomanagement/performance/">Performance Measurement</a>
+        <a href="/courses/portfolio-management/portfoliooptimization/">Portfolio Optimization</a>
+      </li>
+      
+      <li >
+        <a href="/courses/portfolio-management/performance/">Performance Measurement</a>
       </li>
       
     </ul>
@@ -553,15 +519,8 @@ Example on GitHub
 <ul>
 <li>
 <ul>
-<li><a href="#benchmark">Benchmark</a></li>
-<li><a href="#treynor-measure">Treynor Measure</a></li>
-<li><a href="#sharpe-ratio-information-ratio">Sharpe Ratio / Information Ratio</a></li>
-<li><a href="#tracking-error">Tracking Error</a></li>
-<li><a href="#fama-and-french-models">Fama and French Models</a></li>
-<li><a href="#q-factor-model">q-factor Model</a></li>
-<li><a href="#risk-factor-analysis">Risk Factor Analysis</a></li>
-<li><a href="#style-analysis">Style Analysis</a></li>
-<li><a href="#brinson-attribution">Brinson Attribution</a></li>
+<li><a href="#constrained-mean-variance-portfolio-optimization">Constrained Mean-Variance Portfolio Optimization</a></li>
+<li><a href="#risk-parity-portfolios">Risk Parity Portfolios</a></li>
 </ul></li>
 </ul>
 </nav>
@@ -575,37 +534,16 @@ Example on GitHub
       <article class="article">
 
         <div class="docs-article-container">
-          <h1>Performance Measurement</h1>
+          <h1>Portfolio Optimization</h1>
 
           <div class="article-style">
             
 
-<h2 id="benchmark">Benchmark</h2>
+<h2 id="constrained-mean-variance-portfolio-optimization">Constrained Mean-Variance Portfolio Optimization</h2>
 
-<h2 id="treynor-measure">Treynor Measure</h2>
+<h2 id="risk-parity-portfolios">Risk Parity Portfolios</h2>
 
-<h2 id="sharpe-ratio-information-ratio">Sharpe Ratio / Information Ratio</h2>
-
-<h2 id="tracking-error">Tracking Error</h2>
-
-<h2 id="fama-and-french-models">Fama and French Models</h2>
-
-<h2 id="q-factor-model">q-factor Model</h2>
-
-<h2 id="risk-factor-analysis">Risk Factor Analysis</h2>
-
-<p>Example on <a href="https://github.com/ProbablePattern/Teaching/blob/master/Portfolio/Risk_Factors.R" target="_blank">GitHub</a></p>
-
-<h2 id="style-analysis">Style Analysis</h2>
-
-<p>Use Vanguard funds as proxies for styles<br />
-Example on <a href="https://github.com/ProbablePattern/Teaching/blob/master/Portfolio/Style_Analysis.R" target="_blank">GitHub</a></p>
-
-<ul>
-<li>Style Drift</li>
-</ul>
-
-<h2 id="brinson-attribution">Brinson Attribution</h2>
+<p>Example on <a href="https://github.com/ProbablePattern/Teaching/blob/master/Portfolio/Risk_Parity.R" target="_blank">GitHub</a></p>
 
           </div>
 
@@ -622,9 +560,15 @@ Example on <a href="https://github.com/ProbablePattern/Teaching/blob/master/Port
   
   <div class="post-nav-item">
     <div class="meta-nav">Previous</div>
-    <a href="/courses/portfoliomanagement/portfoliooptimization/" rel="next">Portfolio Optimization</a>
+    <a href="/courses/portfolio-management/equityvaluation/" rel="next">Equity Valuation</a>
   </div>
   
+  
+  
+  <div class="post-nav-item">
+    <div class="meta-nav">Next</div>
+    <a href="/courses/portfolio-management/performance/" rel="prev">Performance Measurement</a>
+  </div>
   
 </div>
 
