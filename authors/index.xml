@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Dr. Stephen Rush, CFA</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.stephenrush.org/authors/</link>
+      <atom:link href="http://www.stephenrush.org/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>http://www.stephenrush.org/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>http://www.stephenrush.org/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>http://www.stephenrush.org/authors/admin/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <guid>http://www.stephenrush.org/authors/admin/</guid>
       <description>&lt;p&gt;I grew up as a musician in California and then served for several years in the Marine Corps. After college, I was an equity analyst on the buy side in New England. I am not a quant although I do believe that quantitative methods should be used to augment analyst capabilities rather than replace them.&lt;/p&gt;
 
 &lt;p&gt;I am active on various platforms under the nom de guerre ProbablePattern. For anyone curious about my Interwebz handle, it alludes to the inability of empirical evidence to provide absolute certainty. For a mathy explanation, see G&lt;span&gt;&amp;#246;&lt;/span&gt;del.&lt;/p&gt;
@@ -25,49 +25,49 @@
     
     <item>
       <title>Paul Borochin</title>
-      <link>/authors/paul-borochin/</link>
+      <link>http://www.stephenrush.org/authors/paul-borochin/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/paul-borochin/</guid>
+      <guid>http://www.stephenrush.org/authors/paul-borochin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>David Louton</title>
-      <link>/authors/david-louton/</link>
+      <link>http://www.stephenrush.org/authors/david-louton/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/david-louton/</guid>
+      <guid>http://www.stephenrush.org/authors/david-louton/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hakan Saraoglu</title>
-      <link>/authors/hakan-saraoglu/</link>
+      <link>http://www.stephenrush.org/authors/hakan-saraoglu/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/hakan-saraoglu/</guid>
+      <guid>http://www.stephenrush.org/authors/hakan-saraoglu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joseph McCarthy</title>
-      <link>/authors/joseph-mccarthy/</link>
+      <link>http://www.stephenrush.org/authors/joseph-mccarthy/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/joseph-mccarthy/</guid>
+      <guid>http://www.stephenrush.org/authors/joseph-mccarthy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ognjen Sosa</title>
-      <link>/authors/ognjen-sosa/</link>
+      <link>http://www.stephenrush.org/authors/ognjen-sosa/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/authors/ognjen-sosa/</guid>
+      <guid>http://www.stephenrush.org/authors/ognjen-sosa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sam Mirmirani</title>
-      <link>/authors/sam-mirmirani/</link>
+      <link>http://www.stephenrush.org/authors/sam-mirmirani/</link>
       <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
-      <guid>/authors/sam-mirmirani/</guid>
+      <guid>http://www.stephenrush.org/authors/sam-mirmirani/</guid>
       <description></description>
     </item>
     

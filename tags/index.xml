@@ -2,173 +2,173 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Dr. Stephen Rush, CFA</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.stephenrush.org/tags/</link>
+      <atom:link href="http://www.stephenrush.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>http://www.stephenrush.org/img/icon-192.png</url>
       <title>Tags</title>
-      <link>/tags/</link>
+      <link>http://www.stephenrush.org/tags/</link>
     </image>
     
     <item>
       <title>Currency Risk</title>
-      <link>/tags/currency-risk/</link>
+      <link>http://www.stephenrush.org/tags/currency-risk/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/currency-risk/</guid>
+      <guid>http://www.stephenrush.org/tags/currency-risk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information Asymmetry</title>
-      <link>/tags/information-asymmetry/</link>
+      <link>http://www.stephenrush.org/tags/information-asymmetry/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/information-asymmetry/</guid>
+      <guid>http://www.stephenrush.org/tags/information-asymmetry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information Diffusion</title>
-      <link>/tags/information-diffusion/</link>
+      <link>http://www.stephenrush.org/tags/information-diffusion/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/information-diffusion/</guid>
+      <guid>http://www.stephenrush.org/tags/information-diffusion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Market Microstructure</title>
-      <link>/tags/market-microstructure/</link>
+      <link>http://www.stephenrush.org/tags/market-microstructure/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/market-microstructure/</guid>
+      <guid>http://www.stephenrush.org/tags/market-microstructure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Network Analysis</title>
-      <link>/tags/network-analysis/</link>
+      <link>http://www.stephenrush.org/tags/network-analysis/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/network-analysis/</guid>
+      <guid>http://www.stephenrush.org/tags/network-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Systemic Risk</title>
-      <link>/tags/systemic-risk/</link>
+      <link>http://www.stephenrush.org/tags/systemic-risk/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/systemic-risk/</guid>
+      <guid>http://www.stephenrush.org/tags/systemic-risk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VPIN</title>
-      <link>/tags/vpin/</link>
+      <link>http://www.stephenrush.org/tags/vpin/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/vpin/</guid>
+      <guid>http://www.stephenrush.org/tags/vpin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fixed Income</title>
-      <link>/tags/fixed-income/</link>
+      <link>http://www.stephenrush.org/tags/fixed-income/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/fixed-income/</guid>
+      <guid>http://www.stephenrush.org/tags/fixed-income/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Liquidity</title>
-      <link>/tags/liquidity/</link>
+      <link>http://www.stephenrush.org/tags/liquidity/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/liquidity/</guid>
+      <guid>http://www.stephenrush.org/tags/liquidity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
+      <link>http://www.stephenrush.org/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/deep-learning/</guid>
+      <guid>http://www.stephenrush.org/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>/tags/demo/</link>
+      <link>http://www.stephenrush.org/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/demo/</guid>
+      <guid>http://www.stephenrush.org/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>/tags/academic/</link>
+      <link>http://www.stephenrush.org/tags/academic/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/academic/</guid>
+      <guid>http://www.stephenrush.org/tags/academic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>/tags/plot/</link>
+      <link>http://www.stephenrush.org/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/tags/plot/</guid>
+      <guid>http://www.stephenrush.org/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
+      <link>http://www.stephenrush.org/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/tags/r-markdown/</guid>
+      <guid>http://www.stephenrush.org/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>/tags/regression/</link>
+      <link>http://www.stephenrush.org/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/tags/regression/</guid>
+      <guid>http://www.stephenrush.org/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Active Management</title>
-      <link>/tags/active-management/</link>
+      <link>http://www.stephenrush.org/tags/active-management/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/tags/active-management/</guid>
+      <guid>http://www.stephenrush.org/tags/active-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Asset Allocation</title>
-      <link>/tags/asset-allocation/</link>
+      <link>http://www.stephenrush.org/tags/asset-allocation/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/tags/asset-allocation/</guid>
+      <guid>http://www.stephenrush.org/tags/asset-allocation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pensions</title>
-      <link>/tags/pensions/</link>
+      <link>http://www.stephenrush.org/tags/pensions/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/tags/pensions/</guid>
+      <guid>http://www.stephenrush.org/tags/pensions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Macro Economics</title>
-      <link>/tags/macro-economics/</link>
+      <link>http://www.stephenrush.org/tags/macro-economics/</link>
       <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
-      <guid>/tags/macro-economics/</guid>
+      <guid>http://www.stephenrush.org/tags/macro-economics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trade</title>
-      <link>/tags/trade/</link>
+      <link>http://www.stephenrush.org/tags/trade/</link>
       <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
-      <guid>/tags/trade/</guid>
+      <guid>http://www.stephenrush.org/tags/trade/</guid>
       <description></description>
     </item>
     
