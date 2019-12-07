@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Managerial Finance | Dr. Stephen Rush, CFA</title>
-    <link>http://www.stephenrush.org/courses/managerial_finance/</link>
-      <atom:link href="http://www.stephenrush.org/courses/managerial_finance/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.stephenrush.org/courses/managerial_finance/</link>
+      <atom:link href="https://www.stephenrush.org/courses/managerial_finance/index.xml" rel="self" type="application/rss+xml" />
     <description>Managerial Finance</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.stephenrush.org/img/icon-192.png</url>
+      <url>https://www.stephenrush.org/img/icon-192.png</url>
       <title>Managerial Finance</title>
-      <link>http://www.stephenrush.org/courses/managerial_finance/</link>
+      <link>https://www.stephenrush.org/courses/managerial_finance/</link>
     </image>
     
     <item>
       <title>Introduction</title>
-      <link>http://www.stephenrush.org/courses/managerial_finance/introduction/</link>
+      <link>https://www.stephenrush.org/courses/managerial_finance/introduction/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>http://www.stephenrush.org/courses/managerial_finance/introduction/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial_finance/introduction/</guid>
       <description>
 
 &lt;h2 id=&#34;financial-markets&#34;&gt;Financial Markets&lt;/h2&gt;
@@ -37,9 +37,9 @@
     
     <item>
       <title>The Time Value of Money</title>
-      <link>http://www.stephenrush.org/courses/managerial_finance/tvm/</link>
+      <link>https://www.stephenrush.org/courses/managerial_finance/tvm/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>http://www.stephenrush.org/courses/managerial_finance/tvm/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial_finance/tvm/</guid>
       <description>
 
 &lt;h2 id=&#34;time-value-of-money-overview&#34;&gt;Time Value of Money Overview&lt;/h2&gt;
@@ -70,9 +70,9 @@
     
     <item>
       <title>Capital Budgeting I</title>
-      <link>http://www.stephenrush.org/courses/managerial_finance/capital_budgeting_i/</link>
+      <link>https://www.stephenrush.org/courses/managerial_finance/capital_budgeting_i/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>http://www.stephenrush.org/courses/managerial_finance/capital_budgeting_i/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial_finance/capital_budgeting_i/</guid>
       <description>
 
 &lt;h2 id=&#34;net-present-value-npv&#34;&gt;Net Present Value (NPV)&lt;/h2&gt;
@@ -93,9 +93,9 @@
     
     <item>
       <title>Bonds and Interest Rates</title>
-      <link>http://www.stephenrush.org/courses/managerial_finance/interest_rates/</link>
+      <link>https://www.stephenrush.org/courses/managerial_finance/interest_rates/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>http://www.stephenrush.org/courses/managerial_finance/interest_rates/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial_finance/interest_rates/</guid>
       <description>
 
 &lt;h2 id=&#34;interest-rate-risk-premiums&#34;&gt;Interest Rate Risk Premiums&lt;/h2&gt;
@@ -121,9 +121,9 @@
     
     <item>
       <title>Risk and Return</title>
-      <link>http://www.stephenrush.org/courses/managerial_finance/risk_return/</link>
+      <link>https://www.stephenrush.org/courses/managerial_finance/risk_return/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>http://www.stephenrush.org/courses/managerial_finance/risk_return/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial_finance/risk_return/</guid>
       <description>
 
 &lt;h2 id=&#34;arithmetic-and-geometric-returns&#34;&gt;Arithmetic and Geometric Returns&lt;/h2&gt;
@@ -154,9 +154,9 @@
     
     <item>
       <title>The Capital Asset Pricing Model</title>
-      <link>http://www.stephenrush.org/courses/managerial_finance/capm/</link>
+      <link>https://www.stephenrush.org/courses/managerial_finance/capm/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>http://www.stephenrush.org/courses/managerial_finance/capm/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial_finance/capm/</guid>
       <description>
 
 &lt;h2 id=&#34;the-capital-asset-pricing-model&#34;&gt;The Capital Asset Pricing Model&lt;/h2&gt;
@@ -203,17 +203,17 @@
     
     <item>
       <title>Capital Budgeting II</title>
-      <link>http://www.stephenrush.org/courses/managerial_finance/capital_budgeting_ii/</link>
+      <link>https://www.stephenrush.org/courses/managerial_finance/capital_budgeting_ii/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>http://www.stephenrush.org/courses/managerial_finance/capital_budgeting_ii/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial_finance/capital_budgeting_ii/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Financial Statement Analysis</title>
-      <link>http://www.stephenrush.org/courses/managerial_finance/fsa/</link>
+      <link>https://www.stephenrush.org/courses/managerial_finance/fsa/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>http://www.stephenrush.org/courses/managerial_finance/fsa/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial_finance/fsa/</guid>
       <description>
 
 &lt;h2 id=&#34;accounting-review&#34;&gt;Accounting Review&lt;/h2&gt;
@@ -262,9 +262,9 @@
     
     <item>
       <title>Ratios and Relative Value</title>
-      <link>http://www.stephenrush.org/courses/managerial_finance/ratios_rv/</link>
+      <link>https://www.stephenrush.org/courses/managerial_finance/ratios_rv/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>http://www.stephenrush.org/courses/managerial_finance/ratios_rv/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial_finance/ratios_rv/</guid>
       <description>
 
 &lt;h2 id=&#34;relative-valuation&#34;&gt;Relative Valuation&lt;/h2&gt;
@@ -283,9 +283,9 @@
     
     <item>
       <title>Capital Structure</title>
-      <link>http://www.stephenrush.org/courses/managerial_finance/capital_structure/</link>
+      <link>https://www.stephenrush.org/courses/managerial_finance/capital_structure/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>http://www.stephenrush.org/courses/managerial_finance/capital_structure/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial_finance/capital_structure/</guid>
       <description>
 
 &lt;h2 id=&#34;modigliani-and-miller&#34;&gt;Modigliani and Miller&lt;/h2&gt;

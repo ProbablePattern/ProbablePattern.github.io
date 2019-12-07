@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Systemic Risk | Dr. Stephen Rush, CFA</title>
-    <link>http://www.stephenrush.org/tags/systemic-risk/</link>
-      <atom:link href="http://www.stephenrush.org/tags/systemic-risk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.stephenrush.org/tags/systemic-risk/</link>
+      <atom:link href="https://www.stephenrush.org/tags/systemic-risk/index.xml" rel="self" type="application/rss+xml" />
     <description>Systemic Risk</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.stephenrush.org/img/icon-192.png</url>
+      <url>https://www.stephenrush.org/img/icon-192.png</url>
       <title>Systemic Risk</title>
-      <link>http://www.stephenrush.org/tags/systemic-risk/</link>
+      <link>https://www.stephenrush.org/tags/systemic-risk/</link>
     </image>
     
     <item>
       <title>A Network Analysis of Information Diffusion in the Financial Sector</title>
-      <link>http://www.stephenrush.org/publication/preprint/networkfinancial/</link>
+      <link>https://www.stephenrush.org/publication/preprint/networkfinancial/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.stephenrush.org/publication/preprint/networkfinancial/</guid>
+      <guid>https://www.stephenrush.org/publication/preprint/networkfinancial/</guid>
       <description></description>
     </item>
     

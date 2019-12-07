@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Extra Credit | Dr. Stephen Rush, CFA</title>
-    <link>http://www.stephenrush.org/courses/extra-credit/</link>
-      <atom:link href="http://www.stephenrush.org/courses/extra-credit/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.stephenrush.org/courses/extra-credit/</link>
+      <atom:link href="https://www.stephenrush.org/courses/extra-credit/index.xml" rel="self" type="application/rss+xml" />
     <description>Extra Credit</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.stephenrush.org/img/icon-192.png</url>
+      <url>https://www.stephenrush.org/img/icon-192.png</url>
       <title>Extra Credit</title>
-      <link>http://www.stephenrush.org/courses/extra-credit/</link>
+      <link>https://www.stephenrush.org/courses/extra-credit/</link>
     </image>
     
     <item>
       <title>Coursera</title>
-      <link>http://www.stephenrush.org/courses/extra-credit/outline/</link>
+      <link>https://www.stephenrush.org/courses/extra-credit/outline/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>http://www.stephenrush.org/courses/extra-credit/outline/</guid>
+      <guid>https://www.stephenrush.org/courses/extra-credit/outline/</guid>
       <description>
 
 &lt;p&gt;In order to receive extra credit, make sure you print out the completion statement at the end of the course.&lt;/p&gt;
