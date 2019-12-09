@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Library | Dr. Stephen Rush, CFA</title>
-    <link>https://www.stephenrush.org/portal/library/</link>
-      <atom:link href="https://www.stephenrush.org/portal/library/index.xml" rel="self" type="application/rss+xml" />
+    <link>/portal/library/</link>
+      <atom:link href="/portal/library/index.xml" rel="self" type="application/rss+xml" />
     <description>Library</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.stephenrush.org/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Library</title>
-      <link>https://www.stephenrush.org/portal/library/</link>
+      <link>/portal/library/</link>
     </image>
     
     <item>
       <title>Personal Finance</title>
-      <link>https://www.stephenrush.org/portal/library/personal-finance/</link>
+      <link>/portal/library/personal-finance/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/portal/library/personal-finance/</guid>
+      <guid>/portal/library/personal-finance/</guid>
       <description>
 
 &lt;p&gt;I teach investments, portfolio management, and corporate finance but many people are more interested in personal finance. Here are some thoughts on budgets, using debt, paying off debt, student loans/college, and investing.&lt;/p&gt;
@@ -78,9 +78,9 @@
     
     <item>
       <title>Student Advice</title>
-      <link>https://www.stephenrush.org/portal/library/advising/</link>
+      <link>/portal/library/advising/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/portal/library/advising/</guid>
+      <guid>/portal/library/advising/</guid>
       <description>
 
 &lt;p&gt;Everyone has constraints on their time, money, and attention. My recommendations represent what I believe a competitive student should do to prepare for a career in finance but everyone has to make trade-offs.&lt;/p&gt;
@@ -130,15 +130,15 @@
 &lt;p&gt;Get a hobby. Find something that is not finance that makes you happy. This will help you deal with the times when finance will be boring, frustrating, or too difficult. Talk about your hobby in an interview.&lt;/p&gt;
 
 &lt;p&gt;The best jobs are usually not around the university and are not advertised at the career center. Be prepared to move and find your own job.
-&lt;img src=&#34;https://www.stephenrush.org/img/pics/Shark_Mondays.jpg&#34; alt=&#34;Shark&#34; title=&#34;Be the shark&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;/img/pics/Shark_Mondays.jpg&#34; alt=&#34;Shark&#34; title=&#34;Be the shark&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Command Line Interface</title>
-      <link>https://www.stephenrush.org/portal/library/cli/</link>
+      <link>/portal/library/cli/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/portal/library/cli/</guid>
+      <guid>/portal/library/cli/</guid>
       <description>
 
 &lt;p&gt;I have become enamored with the idea of minimalist computing. The primary reason is that I like substituting intellectual capital for financial capital or to put it another way, using cheap computers more effectively. My secondary reason is that I have reached a point in my work where the electrical usage and heat production from my research needs to be considered both in terms of monetary costs and environmental impact.&lt;/p&gt;
@@ -189,9 +189,9 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Market Microstructure</title>
-      <link>https://www.stephenrush.org/portal/library/microstructure/</link>
+      <link>/portal/library/microstructure/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/portal/library/microstructure/</guid>
+      <guid>/portal/library/microstructure/</guid>
       <description>
 
 &lt;p&gt;Many of the issues in market microstructure are difficult to address due to the cost and availability of large data sets. Even special academic pricing is usually too expensive for all but the most prominent universities. For these reasons, prior literature is sparse, has small samples, or is not conducted in an unbiased manner. I encourage anyone with access to relevant data to make it available to researchers so policy makers can make data-driven decisions that will improve the quality of markets.&lt;/p&gt;
@@ -306,9 +306,9 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Coding</title>
-      <link>https://www.stephenrush.org/portal/library/code/</link>
+      <link>/portal/library/code/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/portal/library/code/</guid>
+      <guid>/portal/library/code/</guid>
       <description>
 
 &lt;p&gt;My favorite tool for data analysis is the &lt;a href=&#34;http://www.r-project.org/&#34;&gt;R&lt;/a&gt; programming language because it has a great community, it is free, and it works on Windows, Mac, and Linux. I also highly recommend &lt;a href=&#34;http://www.rstudio.com/&#34;&gt;RStudio&lt;/a&gt; if you&amp;rsquo;re not into using &lt;a href=&#34;http://ess.r-project.org/&#34;&gt;ESS&lt;/a&gt; with &lt;a href=&#34;http://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt;. RStudio is great for academics because it also serves as a &lt;a href=&#34;http://www.latex-project.org/&#34;&gt;LaTeX&lt;/a&gt; editor so you can use one tool for your entire research project soup to nuts. Microsoft offers a paid support option for commercial use but there is a free and open source version.&lt;/p&gt;
@@ -322,7 +322,7 @@ irssi: text based IRC client&lt;/p&gt;
 &lt;h2 id=&#34;installation-and-introduction&#34;&gt;Installation and Introduction&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.stephenrush.org/portal/library/cli/&#34;&gt;Command Line&lt;/a&gt; - some problems are best solved with command line tools rather than a programming language&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/portal/library/cli/&#34;&gt;Command Line&lt;/a&gt; - some problems are best solved with command line tools rather than a programming language&lt;/li&gt;
 &lt;li&gt;&lt;a title=&#34;Emacs and ESS on OS X for Beginners&#34; href=&#34;http://stephenrush.wordpress.com/blog/emacs/&#34;&gt;Emacs and ESS&lt;/a&gt; on Mac&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://pandas.pydata.org/&#34;&gt;Pandas&lt;/a&gt; - financial data analysis in Python&lt;/li&gt;
 &lt;/ul&gt;
@@ -360,9 +360,9 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Data Sources</title>
-      <link>https://www.stephenrush.org/portal/library/data/</link>
+      <link>/portal/library/data/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/portal/library/data/</guid>
+      <guid>/portal/library/data/</guid>
       <description>
 
 &lt;p&gt;There are many sources of data available but in my class and in your job, you must use primary sources. This means original data that has as little filtering as possible. This page includes other sources that are of comparable quality and reliability. They are free to access as you move from the university to your career.&lt;/p&gt;
@@ -419,9 +419,9 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Media Sources</title>
-      <link>https://www.stephenrush.org/portal/library/media/</link>
+      <link>/portal/library/media/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/portal/library/media/</guid>
+      <guid>/portal/library/media/</guid>
       <description>
 
 &lt;h2 id=&#34;television-news&#34;&gt;Television News&lt;/h2&gt;
@@ -458,11 +458,28 @@ irssi: text based IRC client&lt;/p&gt;
     </item>
     
     <item>
-      <title>Setec Astronomy</title>
-      <link>https://www.stephenrush.org/portal/library/setec/</link>
+      <title>Library of Babel</title>
+      <link>/portal/library/babel/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/portal/library/setec/</guid>
-      <description>&lt;p&gt;These are some of the great free and open source software tools available particularly for my friends who live in less free societies. Unless you are a cryptographer, I don&amp;rsquo;t recommend the &lt;a href=&#34;https://en.wikipedia.org/wiki/Security_through_obscurity&#34;&gt;Security through Obscurity&lt;/a&gt; strategy. Also, consider some of the tools recommended by the Electronic Frontier Foundation (EFF) &lt;a href=&#34;https://ssd.eff.org/&#34;&gt;Surveillance Self-Defense&lt;/a&gt;.&lt;/p&gt;
+      <guid>/portal/library/babel/</guid>
+      <description>
+
+&lt;h2 id=&#34;search-the-library&#34;&gt;Search the Library&lt;/h2&gt;
+
+&lt;iframe src=&#34;https://libraryofbabel.info/search.html&#34; width=&#34;100%&#34; height=&#34;500&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Setec Astronomy</title>
+      <link>/portal/library/setec/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/portal/library/setec/</guid>
+      <description>
+
+&lt;h2 id=&#34;security-tools&#34;&gt;Security Tools&lt;/h2&gt;
+
+&lt;p&gt;These are some of the great free and open source software tools available particularly for my friends who live in less free societies. Unless you are a cryptographer, I don&amp;rsquo;t recommend the &lt;a href=&#34;https://en.wikipedia.org/wiki/Security_through_obscurity&#34;&gt;Security through Obscurity&lt;/a&gt; strategy. Also, consider some of the tools recommended by the Electronic Frontier Foundation (EFF) &lt;a href=&#34;https://ssd.eff.org/&#34;&gt;Surveillance Self-Defense&lt;/a&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://duckduckgo.com/&#34;&gt;DuckDuckGo&lt;/a&gt; - web search without tracking&lt;/li&gt;
@@ -481,6 +498,8 @@ irssi: text based IRC client&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.mywickr.com&#34;&gt;Wickr&lt;/a&gt; - encrypted messaging for iOS, Android, Windows, OS X, and Linux&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h2 id=&#34;productivity&#34;&gt;Productivity&lt;/h2&gt;
+
 &lt;p&gt;For those that just want to work with free and open source software, check out these alternatives to common applications. They are also useful for living a first world lifestyle on a third world salary.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -496,9 +515,9 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>University-Specific Resources</title>
-      <link>https://www.stephenrush.org/portal/library/university-resources/</link>
+      <link>/portal/library/university-resources/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/portal/library/university-resources/</guid>
+      <guid>/portal/library/university-resources/</guid>
       <description>
 
 &lt;h2 id=&#34;bowling-green-state-university&#34;&gt;Bowling Green State University&lt;/h2&gt;
@@ -536,9 +555,9 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Books</title>
-      <link>https://www.stephenrush.org/portal/library/books/</link>
+      <link>/portal/library/books/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/portal/library/books/</guid>
+      <guid>/portal/library/books/</guid>
       <description>
 
 &lt;p&gt;This book list is rather short because I only add books that I have read personally and I think are worth taking time away from something else to read. Where possible, I include links to freely accessible materials.&lt;/p&gt;
@@ -570,6 +589,13 @@ irssi: text based IRC client&lt;/p&gt;
 &lt;li&gt;Against the Gods: The Remarkable Story of Risk by Peter Bernstein&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Python for Data Analysis by Wes McKinney&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://r4ds.had.co.nz/&#34; target=&#34;_blank&#34;&gt;R for Data Science&lt;/a&gt; by Garrett Grolemund and Hadley Wickham&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&#34;advanced-finance&#34;&gt;Advanced Finance&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -591,9 +617,9 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Movies</title>
-      <link>https://www.stephenrush.org/portal/library/movies/</link>
+      <link>/portal/library/movies/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/portal/library/movies/</guid>
+      <guid>/portal/library/movies/</guid>
       <description>
 
 &lt;p&gt;These are movies that are important to finance culture or have some interesting finance content. Plenty of other movies take place around finance but have little relevant content.&lt;/p&gt;
@@ -624,9 +650,9 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Podcasts</title>
-      <link>https://www.stephenrush.org/portal/library/podcasts/</link>
+      <link>/portal/library/podcasts/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/portal/library/podcasts/</guid>
+      <guid>/portal/library/podcasts/</guid>
       <description>
 
 &lt;p&gt;These are conversations and news stories that supplement my course content. Most are about 60 minutes long and will play in any web browser.&lt;/p&gt;
@@ -685,6 +711,37 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
 &lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/meltdown/view/&#34;&gt;Inside the Meltdown&lt;/a&gt;&amp;nbsp;(17 February 2009)&lt;/li&gt;
 &lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/shows/credit/view/&#34;&gt;Secret History of the Credit Card&lt;/a&gt; (23 November 2004)&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Compositions</title>
+      <link>/portal/library/music/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/portal/library/music/</guid>
+      <description>
+
+&lt;p&gt;This page is mostly for friends and family that have taken an interest in my compositions and arrangements.&lt;/p&gt;
+
+&lt;h2 id=&#34;psalm&#34;&gt;Psalm&lt;/h2&gt;
+
+&lt;p&gt;This is the chorus of a piece I envisioned as a psalm but never got around to writing the lyrics. It is a simple solo piano arrangement with an unusual chord progression. These are characteristics I found lacking in modern liturgical music.
+&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/5230606%3Fsecret_token%3Ds-Lthsi&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;fanfare-for-the-savage-man&#34;&gt;Fanfare for the Savage Man&lt;/h2&gt;
+
+&lt;p&gt;I was thinking about Aaron Copeland but then I remembered that I am not a good composer so I plugged my electric cello into a Moog synthesizer (like one does) and blissed out on analog goodness. The song is 3:14 long because, like π, a Moog cello is completely irrational. You&amp;rsquo;re going to want to either turn the volume up or wear headphones for this one.
+&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347560369%3Fsecret_token%3Ds-dNu9V&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;freedive&#34;&gt;Freedive&lt;/h2&gt;
+
+&lt;p&gt;Freediving is diving with no air supply - basically high performance snorkeling. Divers wear more weight to sink easier and longer fins to reduce movement and conserve energy. In the murky waters of New England, you won&amp;rsquo;t see much until you reach the bottom. The length on this song is same as my average dive (a pitiful two minutes). If you&amp;rsquo;ve never tried it, sit down, close your eyes, plug in your headphones, and don&amp;rsquo;t breathe until the end.
+&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/351178597%3Fsecret_token%3Ds-pAB8Y&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;flyover-country&#34;&gt;Flyover Country&lt;/h2&gt;
+
+&lt;p&gt;Coming to terms with life in the midwest.
+&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347993617%3Fsecret_token%3Ds-24Dl6&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
