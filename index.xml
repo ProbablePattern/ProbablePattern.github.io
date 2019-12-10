@@ -2,29 +2,206 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr. Stephen Rush, CFA</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.stephenrush.org/</link>
+      <atom:link href="https://www.stephenrush.org/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Stephen Rush, CFA</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://www.stephenrush.org/img/icon-192.png</url>
       <title>Dr. Stephen Rush, CFA</title>
-      <link>/</link>
+      <link>https://www.stephenrush.org/</link>
     </image>
     
     <item>
-      <title>Ethics</title>
-      <link>/courses/intro-markets/ethics/</link>
+      <title>Books</title>
+      <link>https://www.stephenrush.org/portal/library/books/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/intro-markets/ethics/</guid>
+      <guid>https://www.stephenrush.org/portal/library/books/</guid>
+      <description>
+
+&lt;p&gt;This book list is rather short because I only add books that I have read personally and I think are worth taking time away from something else to read. Where possible, I include links to freely accessible materials.&lt;/p&gt;
+
+&lt;h2 id=&#34;general-finance&#34;&gt;General Finance&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://book.ivo-welch.info/home/&#34; target=&#34;_blank&#34;&gt;Corporate Finance&lt;/a&gt; by Ivo Welch&lt;/li&gt;
+&lt;li&gt;Investments by Bodie, Kane, and Marcus&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.core-econ.org/the-economy/&#34; target=&#34;_blank&#34;&gt;The Economy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Introductory Econometrics: A Modern Approach by Wooldridge&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mostlyharmlesseconometrics.com/&#34; target=&#34;_blank&#34;&gt;Mostly Harmless Econometrics: An Empiricist&amp;rsquo;s Companion&lt;/a&gt; by Angrist and Pischke&lt;/li&gt;
+&lt;li&gt;The Misbehavior of Markets: A Fractal View of Financial Turbulence by Benoit Mandelbrot&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;investing&#34;&gt;Investing&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Security Analysis (1940) by Graham and Dodd&lt;/li&gt;
+&lt;li&gt;The Intelligent Investor (1949) by Benjamin Graham&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pages.stern.nyu.edu/~adamodar/New_Home_Page/invphil.htm&#34;&gt;Investing Philosophies by Aswath Damodaran&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Active Portfolio Management: A Quantitative Approach for Providing Superior Returns and Controlling Risk by Grinold and Kahn&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;finance-history&#34;&gt;Finance History&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;When Genius Failed: The Rise and Fall of Long Term Capital Management by Roger Lowenstein&lt;/li&gt;
+&lt;li&gt;Against the Gods: The Remarkable Story of Risk by Peter Bernstein&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;data-analysis&#34;&gt;Data Analysis&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Python for Data Analysis by Wes McKinney&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://r4ds.had.co.nz/&#34; target=&#34;_blank&#34;&gt;R for Data Science&lt;/a&gt; by Garrett Grolemund and Hadley Wickham&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://geocompr.robinlovelace.net/&#34; target=&#34;_blank&#34;&gt;Geocomputation with R&lt;/a&gt; by Robin Lovelace, Jakub Nowosad, and Jannes Muenchow&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wlm.userweb.mwn.de/Stata/&#34; target=&#34;_blank&#34;&gt;Internet Guide to Stata&lt;/a&gt; by Wolfgang Ludwig-Mayerhofer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;advanced-finance&#34;&gt;Advanced Finance&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://faculty.chicagobooth.edu/john.cochrane/teaching/asset_pricing.htm&#34;&gt;Asset Pricing by Cochrane&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Financial Theory and Corporate Policy by Copeland, Weston, and Shastri&lt;/li&gt;
+&lt;li&gt;Handbook Of the Economics of Finance&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;advanced-quantitative-techniques&#34;&gt;Advanced Quantitative Techniques&lt;/h2&gt;
+
+&lt;p&gt;Before using any statistical software or programming language, you should master Excel. It is the most common tool used in finance. You should also know a bit of VBA to automate repetitive tasks. Next, you should learn a more powerful tool for advanced analytics. I recommend R but Matlab, Octave, Python, SAS, or Stata are reasonable choices.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://statweb.stanford.edu/~tibs/ElemStatLearn/&#34;&gt;Elements of Statistical Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.stat.pitt.edu/stoffer/tsa4/&#34;&gt;Time Series Analysis and Its Applications: With R Examples&lt;/a&gt; by Shumway and Stoffer&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coding</title>
+      <link>https://www.stephenrush.org/portal/library/code/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://www.stephenrush.org/portal/library/code/</guid>
+      <description>
+
+&lt;p&gt;My favorite tool for data analysis is the &lt;a href=&#34;http://www.r-project.org/&#34;&gt;R&lt;/a&gt; programming language because it has a great community, it is free, and it works on Windows, Mac, and Linux. I also highly recommend &lt;a href=&#34;http://www.rstudio.com/&#34;&gt;RStudio&lt;/a&gt; if you&amp;rsquo;re not into using &lt;a href=&#34;http://ess.r-project.org/&#34;&gt;ESS&lt;/a&gt; with &lt;a href=&#34;http://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt;. RStudio is great for academics because it also serves as a &lt;a href=&#34;http://www.latex-project.org/&#34;&gt;LaTeX&lt;/a&gt; editor so you can use one tool for your entire research project soup to nuts. Microsoft offers a paid support option for commercial use but there is a free and open source version.&lt;/p&gt;
+
+&lt;p&gt;I learned R on my own but I could not have done it without the help of sites like &lt;a href=&#34;http://stackoverflow.com/&#34;&gt;Stack Overflow&lt;/a&gt; and the outstanding R community. Before posting any questions on the web, please attempt to work the problem yourself so that people don&amp;rsquo;t waste their time answering questions that have already been explained. More succinct: &lt;a href=&#34;https://en.wikipedia.org/wiki/RTFM&#34;&gt;RTFM&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Students&lt;/strong&gt;: Download the pdf booklet &lt;a href=&#34;https://drive.google.com/open?id=1SkCbS24pVkJkVzZ2IjcT3E-RIV7WPXMd&#34;&gt;PDQ Finance&lt;/a&gt; and follow the directions to install R and RStudio.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Non-Students&lt;/strong&gt;: For minimal time investment, I suggest following some examples in the &lt;a href=&#34;https://eddelbuettel.github.io/gsir-te/Getting-Started-in-R.pdf&#34;&gt;Getting Started in R&lt;/a&gt; (tinyverse edition) guide by Saghir Bashir and Dirk Eddelbuettel. I also suggest creating a free account at &lt;a href=&#34;https://rstudio.cloud&#34;&gt;RStudio Cloud&lt;/a&gt; to get started without needing to install anything.&lt;/p&gt;
+
+&lt;h2 id=&#34;installation-and-introduction&#34;&gt;Installation and Introduction&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.stephenrush.org/portal/library/cli/&#34;&gt;Command Line&lt;/a&gt; - some problems are best solved with command line tools rather than a programming language&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Emacs and ESS on OS X for Beginners&#34; href=&#34;http://stephenrush.wordpress.com/blog/emacs/&#34;&gt;Emacs and ESS&lt;/a&gt; on Mac&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pandas.pydata.org/&#34;&gt;Pandas&lt;/a&gt; - financial data analysis in Python&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;econometrics&#34;&gt;Econometrics&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://stephenrush.wordpress.com/blog/ols/&#34;&gt;Regression in R&lt;/a&gt; - short command for ordinary least squares regression&lt;/li&gt;
+&lt;li&gt;Robust Regression in R&lt;/li&gt;
+&lt;li&gt;Quantile Regression in R&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stephenrush.wordpress.com/blog/bootstrap/&#34;&gt;Time-Series Bootstrap&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;data-manipulation-presentation&#34;&gt;Data Manipulation &amp;amp; Presentation&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a title=&#34;Dashboards&#34; href=&#34;http://stephenrush.wordpress.com/blog/dashboards/&#34;&gt;Dashboards&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;First Database in R&#34; href=&#34;http://stephenrush.wordpress.com/blog/rsqlite/&#34;&gt;Using a Database with R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Two-way Sorting&#34; href=&#34;http://stephenrush.wordpress.com/blog/two-way-sorting/&#34;&gt;Two-Way Sorting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://stephenrush.wordpress.com/blog/latex-template/&#34;&gt;LaTex Template&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;more-advanced-stuff&#34;&gt;More Advanced Stuff&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Style Analysis in R&lt;/li&gt;
+&lt;li&gt;Fama-French Factor Model in R&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;Pastor and Stambaugh Liquidity&#34; href=&#34;http://stephenrush.wordpress.com/blog/pastor-and-stambaugh-liquidity/&#34;&gt;Pastor and Stambaugh Liquidity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Working in Volume Time / Event Time&lt;/li&gt;
+&lt;li&gt;&lt;a title=&#34;VPIN in R&#34; href=&#34;http://stephenrush.wordpress.com/blog/vpininr/&#34;&gt;Volume Synchronized Probability of Informed Trading&lt;/a&gt; (VPIN)&lt;/li&gt;
+&lt;li&gt;Probability and Performance Measurement&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Sources</title>
+      <link>https://www.stephenrush.org/portal/library/data/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://www.stephenrush.org/portal/library/data/</guid>
+      <description>
+
+&lt;p&gt;There are many sources of data available but in my class and in your job, you must use primary sources. This means original data that has as little filtering as possible. This page includes other sources that are of comparable quality and reliability. They are free to access as you move from the university to your career.&lt;/p&gt;
+
+&lt;h2 id=&#34;macroeconomic-data&#34;&gt;Macroeconomic Data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bis.org/index.htm&#34;&gt;Bank for International Settlements&lt;/a&gt; (BIS) – international banking statistics&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bea.gov/&#34;&gt;Bureau of Economic Analysis&lt;/a&gt; (BEA)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bls.gov/&#34;&gt;Bureau of Labor Statistics&lt;/a&gt; (BLS) – U.S. employment statistics&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.econ.yale.edu/~shiller/data.htm&#34;&gt;CAPE Ratio&lt;/a&gt; – Cyclically Adjusted Price/Earnings Ratio by Robert Shiller&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.conference-board.org/data/consumerdata.cfm&#34;&gt;Conference Board&lt;/a&gt; – consumer confidence data&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.businesscycle.com/home/&#34;&gt;Economic Cycle Research Institute&lt;/a&gt; (ECRI)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.eia.doe.gov/&#34;&gt;Energy Information Administration&lt;/a&gt; (EIA)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fdic.gov/bank/analytical/qbp/index.html&#34;&gt;Federal Deposit Insurance Corporation&lt;/a&gt; (FDIC) - banking data&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://research.stlouisfed.org/fred2/&#34;&gt;Federal Reserve Economic Data&lt;/a&gt; (FRED) – macroeconomic data and interest rates&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.instituteforsupplymanagement.org/ISMReport&#34;&gt;Institute for Supply Management&lt;/a&gt; (ISM) - manufacturing activity&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://www.nber.org/&#34;&gt;National Bureau of Economic Research&lt;/a&gt; (NBER) – official U.S. recession periods&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sca.isr.umich.edu/&#34;&gt;University of Michigan&lt;/a&gt; - consumer sentiment index&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.census.gov/retail/index.html&#34;&gt;U.S. Census Bureau&lt;/a&gt; - monthly retail trade report&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;market-data&#34;&gt;Market Data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cboe.com/MktQuote/default.aspx&#34;&gt;Chicago Board Options Exchange&lt;/a&gt; (CBOE)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cmegroup.com/&#34;&gt;Chicago Mercantile Exchange&lt;/a&gt; (CME) – delayed quotes on commodities&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://finra-markets.morningstar.com/MarketData&#34;&gt;FINRA Market Data&lt;/a&gt; – hosted by Morningstar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.quandl.com/&#34;&gt;Quandl&lt;/a&gt; - platform for distributing free and proprietary data sets&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sec.gov/edgar.shtml&#34;&gt;Securities and Exchange Commission&lt;/a&gt; (SEC) – EDGAR database of company filings / start with the 10-K for annual data and the 10-Q for quarterly data&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;reseach-data&#34;&gt;Reseach Data&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html&#34;&gt;Fama-French Factors&lt;/a&gt; - asset pricing factors produced by Kenneth French&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://global-q.org&#34;&gt;q-Factor Model&lt;/a&gt; - asset pricing factors by Hou, Xue, and Zhang&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;premium-data-sources&#34;&gt;Premium Data Sources&lt;/h2&gt;
+
+&lt;p&gt;These are some of the data sources you should expect to encounter in the industry. Any experience with the sources would be useful to mention in an interview.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bloomberg&lt;/li&gt;
+&lt;li&gt;FactSet&lt;/li&gt;
+&lt;li&gt;Mergent&lt;/li&gt;
+&lt;li&gt;S&amp;amp;P Capital IQ&lt;/li&gt;
+&lt;li&gt;Thomson One&lt;/li&gt;
+&lt;li&gt;Thomson Reuters Datastream&lt;/li&gt;
+&lt;li&gt;Value Line&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ethics</title>
+      <link>https://www.stephenrush.org/courses/intro-markets/ethics/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://www.stephenrush.org/courses/intro-markets/ethics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>/courses/managerial_finance/introduction/</link>
+      <link>https://www.stephenrush.org/courses/managerial_finance/introduction/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/managerial_finance/introduction/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial_finance/introduction/</guid>
       <description>
 
 &lt;h2 id=&#34;financial-markets&#34;&gt;Financial Markets&lt;/h2&gt;
@@ -44,18 +221,91 @@
     </item>
     
     <item>
-      <title>Corporate Methods</title>
-      <link>/courses/seminar-corporatefinance/methods/</link>
+      <title>Media Sources</title>
+      <link>https://www.stephenrush.org/portal/library/media/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/seminar-corporatefinance/methods/</guid>
+      <guid>https://www.stephenrush.org/portal/library/media/</guid>
+      <description>
+
+&lt;h2 id=&#34;television-news&#34;&gt;Television News&lt;/h2&gt;
+
+&lt;p&gt;In my opinion, news should have as little commentary as possible and focus on matters of importance rather than entertainment value. I also don&amp;rsquo;t think you should pay for a cable package to receive decent news. These sources keep you informed without attempting to elicit an emotional reaction.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/user/NBRbizrpt/featured&#34;&gt;Nightly Business Report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/user/PBSNewsHour/featured&#34;&gt;PBS Newshour&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pbs.org/wgbh/frontline/&#34; target=&#34;_blank&#34;&gt;Frontline&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;blogs-and-magazines&#34;&gt;Blogs and Magazines&lt;/h2&gt;
+
+&lt;p&gt;These magazines and blogs are not unbiased and may publish bad information but there is enough relevant content for me to recommend them here. Clearly, some should be taken more seriously than others. Many of the traditional print media sources here can be accessed with an RSS reader rather than paying for a print subscription.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bloomberg.com/radio/&#34;&gt;Bloomberg Radio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://research.gluskinsheff.com/&#34;&gt;Breakfast with Dave&lt;/a&gt; by David Rosenberg - daily macro economic analysis newsletter&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.econtalk.org/&#34;&gt;EconTalk&lt;/a&gt; - Blog and Podcast&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.foreignaffairs.com/&#34;&gt;Foreign Affairs&lt;/a&gt; - If you want to know what key policy makers think about foreign policy, read this one.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.foreignpolicy.com/&#34;&gt;Foreign Policy&lt;/a&gt; - excellent global coverage&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fortune.com/gettermsheet/&#34;&gt;Fortune Term Sheet&lt;/a&gt; by Dan Primack - daily email about financial deals&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.economist.com/blogs/freeexchange&#34;&gt;Free Exchange&lt;/a&gt; - additional shorter form articles from The Economist for free&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.npr.org/blogs/money/&#34;&gt;Planet Money&lt;/a&gt; on NPR&lt;/li&gt;
+&lt;li&gt;Sci-Hub (&lt;a href=&#34;https://wadauk.github.io/scihub_ck/index.html&#34;&gt;Links&lt;/a&gt;) – open access to academic papers&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tabbforum.com/&#34;&gt;TabbFORUM&lt;/a&gt; - market focused and a decent source for microstructure information&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.economist.com/&#34;&gt;The Economist&lt;/a&gt; - If you only read one news source, this is the one to read. Most university libraries provide The Economist for free although a personal subscription is more convenient.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://online.wsj.com&#34;&gt;The Wall Street Journal&lt;/a&gt; - This is still the newspaper of record for U.S. business although I would not recommend reading it on a regular basis.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCpwosulQ7IOBHCCnl7kWYwA&#34;&gt;YouTube&lt;/a&gt; - there are some really great lectures available for free. I have links to a few on my channel.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.zerohedge.com/&#34;&gt;Zero Hedge&lt;/a&gt; - more entertainment than serious analysis (be very skeptical of content posted here)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Corporate Methods</title>
+      <link>https://www.stephenrush.org/courses/seminar-corporatefinance/methods/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://www.stephenrush.org/courses/seminar-corporatefinance/methods/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Outline</title>
-      <link>/courses/markets-institutions/outline/</link>
+      <title>Movies</title>
+      <link>https://www.stephenrush.org/portal/library/movies/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/markets-institutions/outline/</guid>
+      <guid>https://www.stephenrush.org/portal/library/movies/</guid>
+      <description>
+
+&lt;p&gt;These are movies that are important to finance culture or have some interesting finance content. Plenty of other movies take place around finance but have little relevant content.&lt;/p&gt;
+
+&lt;h2 id=&#34;finance-movies&#34;&gt;Finance Movies&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Betting on Zero (2016) Documentary about Bill Ackman shorting stock in Herbalife for Pershing Square.&lt;/li&gt;
+&lt;li&gt;The Big Short (2015) Entertaining take on the mortgage crisis&lt;/li&gt;
+&lt;li&gt;Margin Call (2011) Fictional story about an investment bank that begins a financial crisis&lt;/li&gt;
+&lt;li&gt;Too Big to Fail (2011) Glossy and overly simplistic look at the 2008 bailouts&lt;/li&gt;
+&lt;li&gt;Inside Job (2010) Documentary covering many aspects of the 2008 financial crisis&lt;/li&gt;
+&lt;li&gt;Enron: The Smartest Guys in the Room (2005) Documentary about the fall of energy trading firm Enron&lt;/li&gt;
+&lt;li&gt;Boiler Room (2000) Portrays a &amp;ldquo;pump-and-dump&amp;rdquo; brokerage firm&lt;/li&gt;
+&lt;li&gt;Rogue Trader (1999) Based on the true story of Nick Leeson who brought down &lt;a href=&#34;http://en.wikipedia.org/wiki/Barings_Bank&#34; target=&#34;_blank&#34;&gt;Barings Bank&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Other People&amp;rsquo;s Money (1991) Comedy about a corporate raid in the 1980&amp;rsquo;s&lt;/li&gt;
+&lt;li&gt;Wall Street (1987) Portrays insider trading and corporate takeover; includes the famous &amp;ldquo;Greed is Good&amp;rdquo; speech&lt;/li&gt;
+&lt;li&gt;Trading Places (1983) classic comedy that involves futures trading on the Chicago Mercantile Exchange&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;business&#34;&gt;Business&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;American Factory (2019) Documentary about a Chinese firm that purchases and operates a glass factory in Ohio&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Outline</title>
+      <link>https://www.stephenrush.org/courses/markets-institutions/outline/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://www.stephenrush.org/courses/markets-institutions/outline/</guid>
       <description>
 
 &lt;h2 id=&#34;bonds&#34;&gt;Bonds&lt;/h2&gt;
@@ -91,10 +341,76 @@
     </item>
     
     <item>
-      <title>Review</title>
-      <link>/courses/portfolio-management/review/</link>
+      <title>Podcasts</title>
+      <link>https://www.stephenrush.org/portal/library/podcasts/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/portfolio-management/review/</guid>
+      <guid>https://www.stephenrush.org/portal/library/podcasts/</guid>
+      <description>
+
+&lt;p&gt;These are conversations and news stories that supplement my course content. Most are about 60 minutes long and will play in any web browser.&lt;/p&gt;
+
+&lt;h2 id=&#34;econtalk-podcasts&#34;&gt;EconTalk Podcasts&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.econtalk.org/&#34; target=&#34;_blank&#34;&gt;EconTalk&lt;/a&gt; is a great resource for long-form conversations related to economics. The website often contains additional information for those interested in the weekly episodes. I have listed the episodes that I have found most useful for teaching.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2015/06/nathaniel_poppe.html&#34;&gt;Nathaniel Popper on Bitcoin and Digital Gold&lt;/a&gt; (8 June 2015)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2014/05/gavin_andresen.html&#34;&gt;The Present and Future of Bitcoin&lt;/a&gt; (5 May 2014)&lt;br&gt;
+Gavin Andresen: Chief Scientist of the BitCoin Foundation&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2013/10/calvo_on_the_cr.html&#34;&gt;Calvo on the Crisis, Money, and Macro&lt;/a&gt; (21 October 2013)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2013/04/admati_on_bank.html&#34;&gt;Admati on Bank Regulation and the Bankers&amp;rsquo; New Clothes&lt;/a&gt; (8 April 2013)&lt;br&gt;
+A brief description of how banks work and the incentives that promote the use of debt.&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2012/03/calomiris_on_ca.html&#34;&gt;Calomiris on Capital Requirements, Leverage, and Financial Regulation&lt;/a&gt; (5 March 2012)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2012/01/fama_on_finance.html&#34;&gt;Fama on Finance&lt;/a&gt; (30 January 2012)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2011/11/simon_johnson_o.html&#34;&gt;Simon Johnson on the Financial Crisis&lt;/a&gt; (28 November 2011)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2011/06/eichengreen_on.html&#34;&gt;Eichengreen on the Dollar and International Finance&lt;/a&gt; (6 June 2011)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2011/03/vincent_reinhar.html&#34;&gt;Bear Stearns, Lehman Brothers, and the Financial Crisis&lt;/a&gt; (28 March 2011)&lt;br&gt;
+Vincent Reinhart describes how off balance sheet entities can affect the riskiness of banks&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2010/05/taleb_on_black_1.html&#34;&gt;Taleb on Black Swans, Fragility, and Mistakes&lt;/a&gt; (3 May 2010)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2009/10/gary_stern_on_t.html&#34;&gt;Gary Stern on Too Big to Fail&lt;/a&gt; (5 October 2009)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2009/02/meltzer_on_infl.html&#34;&gt;Meltzer on Inflation&lt;/a&gt; (23 February 2009)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2008/09/kling_on_freddi.html&#34;&gt;Kling on Freddie and Fannie and the Recent History of the U.S. Housing Market&lt;/a&gt; (29 September 2008)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2008/09/shiller_on_hous.html&#34;&gt;Shiller on Housing and Bubbles&lt;/a&gt; (15 September 2008)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2008/05/meltzer_on_the.html&#34;&gt;Meltzer on the Fed, Money, and Gold&lt;/a&gt; (19 May 2008)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2007/04/taleb_on_black.html&#34;&gt;Taleb on Black Swans&lt;/a&gt; (30 April 2007)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2006/08/milton_friedman.html&#34;&gt;Milton Friedman on Money&lt;/a&gt; - Part 1 (28 August 2006)&lt;br&gt;
+EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2006/09/friedman_on_cap_1.html&#34;&gt;Friedman on Capitalism and Freedom&lt;/a&gt; - Part 2 (4 September 2006)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;video-documentaries&#34;&gt;Video Documentaries&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bloomberg: &lt;a href=&#34;http://www.bloomberg.com/news/videos/b/c59d9908-fae7-47be-8fb8-478def9e37a8&#34;&gt;Eugene Fama and Cliff Asness Discuss Efficient Markets&lt;/a&gt; (15 April 2016)&lt;br&gt;
+Only 11 minutes 30 seconds&lt;/li&gt;
+&lt;li&gt;CNBC: &lt;a href=&#34;http://video.cnbc.com/gallery/?video=3000263252&#34;&gt;Market Microstructure Issues&lt;/a&gt; (1 April 2014)&lt;br&gt;
+William O&amp;rsquo;Brien, Brad Katsuyama, and Michael Lewis&lt;/li&gt;
+&lt;li&gt;VPRO International: &lt;a href=&#34;http://youtu.be/kFQJNeQDDHA&#34;&gt;The Wall Street Code&lt;/a&gt; (4 November 2013)&lt;/li&gt;
+&lt;li&gt;VPRO International: &lt;a href=&#34;http://youtu.be/aq1Ln1UCoEU&#34;&gt;Money and Speed: Inside the Black Box&lt;/a&gt; (31 January 2011)&lt;/li&gt;
+&lt;li&gt;Nova: &lt;a href=&#34;http://youtu.be/tsZRndV5lIc&#34;&gt;The Trillion Dollar Bet&lt;/a&gt; (8 February 2000)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;frontline-documentaries&#34;&gt;Frontline Documentaries&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/money-power-wall-street/&#34;&gt;Money, Power, and Wall Street&lt;/a&gt; (24 April 2012)&lt;br&gt;
+Four-part series on the financial crisis.&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/creditcards/view/&#34;&gt;The Card Game&lt;/a&gt; (24 November 2009)&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/warning/view/&#34;&gt;The Warning&lt;/a&gt; (20 October 2009)&lt;br&gt;
+The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/breakingthebank/view/&#34;&gt;Breaking the Bank&lt;/a&gt; - Bank of America and Merrill Lynch (16 June 2009)&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/madoff/view/?autoplay&#34;&gt;The Madoff Affair&lt;/a&gt; (12 May 2009)&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/tentrillion/view/&#34;&gt;Ten Trillion and Counting&lt;/a&gt; (24 March 2009)&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/meltdown/view/&#34;&gt;Inside the Meltdown&lt;/a&gt;&amp;nbsp;(17 February 2009)&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/shows/credit/view/&#34;&gt;Secret History of the Credit Card&lt;/a&gt; (23 November 2004)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review</title>
+      <link>https://www.stephenrush.org/courses/portfolio-management/review/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://www.stephenrush.org/courses/portfolio-management/review/</guid>
       <description>
 
 &lt;h2 id=&#34;accounting-review&#34;&gt;Accounting Review&lt;/h2&gt;
@@ -188,10 +504,50 @@
     </item>
     
     <item>
-      <title>Investment Policy Statement</title>
-      <link>/courses/portfolio-management/ips/</link>
+      <title>University-Specific Resources</title>
+      <link>https://www.stephenrush.org/portal/library/university-resources/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/portfolio-management/ips/</guid>
+      <guid>https://www.stephenrush.org/portal/library/university-resources/</guid>
+      <description>
+
+&lt;h2 id=&#34;bowling-green-state-university&#34;&gt;Bowling Green State University&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bloomberg - only accessible from the terminal in the Finance Trading Lab in Room 2004 of the College of Business. Open the Bloomberg application; not the website.&lt;/li&gt;
+&lt;li&gt;The Economist magazine - &lt;a href=&#34;http://maurice.bgsu.edu.ezproxy.bgsu.edu:8080/record=b1010158~S9&#34;&gt;print edition&lt;/a&gt; only available in the library&lt;/li&gt;
+&lt;li&gt;Foreign Affairs magazine&lt;/strong&gt; – &lt;a href=&#34;http://web.b.ebscohost.com.ezproxy.bgsu.edu:8080/ehost/command/detail?vid=0&amp;amp;sid=9ee317de-f36b-4eb0-b9c3-34d0c5ae41df%40sessionmgr120&amp;amp;bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#jid=FAF&amp;amp;db=a9h&#34;&gt;online access&lt;/a&gt; through the library&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bgsu.edu/library/collab-lab/laptop-loan.html&#34;&gt;Laptop Loan&lt;/a&gt; - students with financial aid can receive a laptop for an academic year&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ezproxy.bgsu.edu:8080/login?url=http://na.capitaliq.com/ip/BGSUV&#34;&gt;Standard and Poor&amp;rsquo;s Capital IQ NetAdvantage&lt;/a&gt; - available online through the library&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bgsu.edu/learning-commons/subject-tutoring.html&#34;&gt;Tutors&lt;/a&gt; - available for free with request through the Learning Commons&lt;/li&gt;
+&lt;li&gt;The Wall Street Journal - &lt;a href=&#34;https://search-proquest-com.ezproxy.bgsu.edu:9443/publication/105983&#34;&gt;online access&lt;/a&gt; through the library&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blogs.bgsu.edu&#34;&gt;Wordpress&lt;/a&gt; - free blog platform with no ads for students and faculty&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;tianjin-polytechnic-university-天津工业大学&#34;&gt;Tianjin Polytechnic University, 天津工业大学&lt;/h2&gt;
+
+&lt;h2 id=&#34;university-of-connecticut&#34;&gt;University of Connecticut&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bloomberg - top floor of the Business School&lt;/li&gt;
+&lt;li&gt;The Economist magazine - &lt;a href=&#34;http://search.proquest.com.ezproxy.lib.uconn.edu/publication/366256&#34;&gt;online access&lt;/a&gt; through the library&lt;/li&gt;
+&lt;li&gt;Foreign Affairs magazine – &lt;a href=&#34;http://search.proquest.com.ezproxy.lib.uconn.edu/publication/40670&#34;&gt;online access&lt;/a&gt; through the library&lt;/li&gt;
+&lt;li&gt;Foreign Policy magazine – &lt;a href=&#34;http://search.proquest.com.ezproxy.lib.uconn.edu/publication/47510&#34;&gt;online access&lt;/a&gt; through the library&lt;a href=&#34;http://search.proquest.com.ezproxy.lib.uconn.edu/publication/47510&#34;&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The Wall Street Journal - &lt;a href=&#34;http://search.proquest.com.ezproxy.lib.uconn.edu/publication/105983&#34;&gt;online access&lt;/a&gt; through the library&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;university-of-economics-and-law-vietnam&#34;&gt;University of Economics and Law, Vietnam&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Reuters Terminal - only accessible from the terminals on the top floor&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Investment Policy Statement</title>
+      <link>https://www.stephenrush.org/courses/portfolio-management/ips/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://www.stephenrush.org/courses/portfolio-management/ips/</guid>
       <description>
 
 &lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
@@ -220,9 +576,9 @@
     
     <item>
       <title>Macroeconomic &amp; Industry Analysis</title>
-      <link>/courses/portfolio-management/macro_industry/</link>
+      <link>https://www.stephenrush.org/courses/portfolio-management/macro_industry/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/portfolio-management/macro_industry/</guid>
+      <guid>https://www.stephenrush.org/courses/portfolio-management/macro_industry/</guid>
       <description>
 
 &lt;h2 id=&#34;macroeconomic-metrics&#34;&gt;Macroeconomic Metrics&lt;/h2&gt;
@@ -268,17 +624,17 @@
     
     <item>
       <title>Market Efficiency</title>
-      <link>/courses/seminar-corporatefinance/market_efficiency/</link>
+      <link>https://www.stephenrush.org/courses/seminar-corporatefinance/market_efficiency/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/seminar-corporatefinance/market_efficiency/</guid>
+      <guid>https://www.stephenrush.org/courses/seminar-corporatefinance/market_efficiency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal Finance</title>
-      <link>/portal/library/personal-finance/</link>
+      <link>https://www.stephenrush.org/portal/library/personal-finance/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/portal/library/personal-finance/</guid>
+      <guid>https://www.stephenrush.org/portal/library/personal-finance/</guid>
       <description>
 
 &lt;p&gt;I teach investments, portfolio management, and corporate finance but many people are more interested in personal finance. Here are some thoughts on budgets, using debt, paying off debt, student loans/college, and investing.&lt;/p&gt;
@@ -340,9 +696,9 @@
     
     <item>
       <title>Student Advice</title>
-      <link>/portal/library/advising/</link>
+      <link>https://www.stephenrush.org/portal/library/advising/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/portal/library/advising/</guid>
+      <guid>https://www.stephenrush.org/portal/library/advising/</guid>
       <description>
 
 &lt;p&gt;Everyone has constraints on their time, money, and attention. My recommendations represent what I believe a competitive student should do to prepare for a career in finance but everyone has to make trade-offs.&lt;/p&gt;
@@ -392,15 +748,15 @@
 &lt;p&gt;Get a hobby. Find something that is not finance that makes you happy. This will help you deal with the times when finance will be boring, frustrating, or too difficult. Talk about your hobby in an interview.&lt;/p&gt;
 
 &lt;p&gt;The best jobs are usually not around the university and are not advertised at the career center. Be prepared to move and find your own job.
-&lt;img src=&#34;/img/pics/Shark_Mondays.jpg&#34; alt=&#34;Shark&#34; title=&#34;Be the shark&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://www.stephenrush.org/img/pics/Shark_Mondays.jpg&#34; alt=&#34;Shark&#34; title=&#34;Be the shark&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Time Value of Money</title>
-      <link>/courses/managerial_finance/tvm/</link>
+      <link>https://www.stephenrush.org/courses/managerial_finance/tvm/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/managerial_finance/tvm/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial_finance/tvm/</guid>
       <description>
 
 &lt;h2 id=&#34;time-value-of-money-overview&#34;&gt;Time Value of Money Overview&lt;/h2&gt;
@@ -431,9 +787,9 @@
     
     <item>
       <title>Capital Budgeting I</title>
-      <link>/courses/managerial_finance/capital_budgeting_i/</link>
+      <link>https://www.stephenrush.org/courses/managerial_finance/capital_budgeting_i/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/managerial_finance/capital_budgeting_i/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial_finance/capital_budgeting_i/</guid>
       <description>
 
 &lt;h2 id=&#34;net-present-value-npv&#34;&gt;Net Present Value (NPV)&lt;/h2&gt;
@@ -454,9 +810,9 @@
     
     <item>
       <title>Command Line Interface</title>
-      <link>/portal/library/cli/</link>
+      <link>https://www.stephenrush.org/portal/library/cli/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/portal/library/cli/</guid>
+      <guid>https://www.stephenrush.org/portal/library/cli/</guid>
       <description>
 
 &lt;p&gt;I have become enamored with the idea of minimalist computing. The primary reason is that I like substituting intellectual capital for financial capital or to put it another way, using cheap computers more effectively. My secondary reason is that I have reached a point in my work where the electrical usage and heat production from my research needs to be considered both in terms of monetary costs and environmental impact.&lt;/p&gt;
@@ -507,42 +863,42 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Ethics</title>
-      <link>/courses/portfolio-management/ethics/</link>
+      <link>https://www.stephenrush.org/courses/portfolio-management/ethics/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/portfolio-management/ethics/</guid>
+      <guid>https://www.stephenrush.org/courses/portfolio-management/ethics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Market Frictions</title>
-      <link>/courses/seminar-corporatefinance/market_frictions/</link>
+      <link>https://www.stephenrush.org/courses/seminar-corporatefinance/market_frictions/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/seminar-corporatefinance/market_frictions/</guid>
+      <guid>https://www.stephenrush.org/courses/seminar-corporatefinance/market_frictions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trade Execution</title>
-      <link>/courses/portfolio-management/trading/</link>
+      <link>https://www.stephenrush.org/courses/portfolio-management/trading/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/portfolio-management/trading/</guid>
+      <guid>https://www.stephenrush.org/courses/portfolio-management/trading/</guid>
       <description>&lt;p&gt;We will be using Chebyshev&amp;rsquo;s Theorem to set limits on trades. This is appropriate because financial returns (and prices) are not normally distributed but the distribution is generally assumed to have a mean and standard deviation. Find the volume-weighted average prices (VWAP) from no more than one month in the past. For buys, calculate two standard deviations below the last VWAP price to use as the limit. This will balance price improvement with our goal of execution within a week. Use the same guide for sell limit orders. Add two standard deviations to the last VWAP to get the limit sell price which is likely to be executed within a week.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Behavioral Finance</title>
-      <link>/courses/seminar-corporatefinance/behavioral_finance/</link>
+      <link>https://www.stephenrush.org/courses/seminar-corporatefinance/behavioral_finance/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/seminar-corporatefinance/behavioral_finance/</guid>
+      <guid>https://www.stephenrush.org/courses/seminar-corporatefinance/behavioral_finance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Equity Valuation</title>
-      <link>/courses/portfolio-management/equityvaluation/</link>
+      <link>https://www.stephenrush.org/courses/portfolio-management/equityvaluation/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/portfolio-management/equityvaluation/</guid>
+      <guid>https://www.stephenrush.org/courses/portfolio-management/equityvaluation/</guid>
       <description>
 
 &lt;h2 id=&#34;relative-valuation&#34;&gt;Relative Valuation&lt;/h2&gt;
@@ -584,9 +940,9 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Bonds and Interest Rates</title>
-      <link>/courses/managerial_finance/interest_rates/</link>
+      <link>https://www.stephenrush.org/courses/managerial_finance/interest_rates/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/managerial_finance/interest_rates/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial_finance/interest_rates/</guid>
       <description>
 
 &lt;h2 id=&#34;interest-rate-risk-premiums&#34;&gt;Interest Rate Risk Premiums&lt;/h2&gt;
@@ -612,9 +968,9 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Market Microstructure</title>
-      <link>/portal/library/microstructure/</link>
+      <link>https://www.stephenrush.org/portal/library/microstructure/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/portal/library/microstructure/</guid>
+      <guid>https://www.stephenrush.org/portal/library/microstructure/</guid>
       <description>
 
 &lt;p&gt;Many of the issues in market microstructure are difficult to address due to the cost and availability of large data sets. Even special academic pricing is usually too expensive for all but the most prominent universities. For these reasons, prior literature is sparse, has small samples, or is not conducted in an unbiased manner. I encourage anyone with access to relevant data to make it available to researchers so policy makers can make data-driven decisions that will improve the quality of markets.&lt;/p&gt;
@@ -729,9 +1085,9 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Portfolio Optimization</title>
-      <link>/courses/portfolio-management/portfoliooptimization/</link>
+      <link>https://www.stephenrush.org/courses/portfolio-management/portfoliooptimization/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/portfolio-management/portfoliooptimization/</guid>
+      <guid>https://www.stephenrush.org/courses/portfolio-management/portfoliooptimization/</guid>
       <description>
 
 &lt;h2 id=&#34;constrained-mean-variance-portfolio-optimization&#34;&gt;Constrained Mean-Variance Portfolio Optimization&lt;/h2&gt;
@@ -744,9 +1100,9 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Risk and Return</title>
-      <link>/courses/managerial_finance/risk_return/</link>
+      <link>https://www.stephenrush.org/courses/managerial_finance/risk_return/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/managerial_finance/risk_return/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial_finance/risk_return/</guid>
       <description>
 
 &lt;h2 id=&#34;arithmetic-and-geometric-returns&#34;&gt;Arithmetic and Geometric Returns&lt;/h2&gt;
@@ -777,9 +1133,9 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Performance Measurement</title>
-      <link>/courses/portfolio-management/performance/</link>
+      <link>https://www.stephenrush.org/courses/portfolio-management/performance/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/portfolio-management/performance/</guid>
+      <guid>https://www.stephenrush.org/courses/portfolio-management/performance/</guid>
       <description>
 
 &lt;h2 id=&#34;benchmark&#34;&gt;Benchmark&lt;/h2&gt;
@@ -813,9 +1169,9 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>The Capital Asset Pricing Model</title>
-      <link>/courses/managerial_finance/capm/</link>
+      <link>https://www.stephenrush.org/courses/managerial_finance/capm/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/managerial_finance/capm/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial_finance/capm/</guid>
       <description>
 
 &lt;h2 id=&#34;the-capital-asset-pricing-model&#34;&gt;The Capital Asset Pricing Model&lt;/h2&gt;
@@ -862,17 +1218,17 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>Capital Budgeting II</title>
-      <link>/courses/managerial_finance/capital_budgeting_ii/</link>
+      <link>https://www.stephenrush.org/courses/managerial_finance/capital_budgeting_ii/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/managerial_finance/capital_budgeting_ii/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial_finance/capital_budgeting_ii/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Financial Statement Analysis</title>
-      <link>/courses/managerial_finance/fsa/</link>
+      <link>https://www.stephenrush.org/courses/managerial_finance/fsa/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/managerial_finance/fsa/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial_finance/fsa/</guid>
       <description>
 
 &lt;h2 id=&#34;accounting-review&#34;&gt;Accounting Review&lt;/h2&gt;
@@ -921,9 +1277,9 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>Ratios and Relative Value</title>
-      <link>/courses/managerial_finance/ratios_rv/</link>
+      <link>https://www.stephenrush.org/courses/managerial_finance/ratios_rv/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/managerial_finance/ratios_rv/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial_finance/ratios_rv/</guid>
       <description>
 
 &lt;h2 id=&#34;relative-valuation&#34;&gt;Relative Valuation&lt;/h2&gt;
@@ -942,9 +1298,9 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>Capital Structure</title>
-      <link>/courses/managerial_finance/capital_structure/</link>
+      <link>https://www.stephenrush.org/courses/managerial_finance/capital_structure/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/managerial_finance/capital_structure/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial_finance/capital_structure/</guid>
       <description>
 
 &lt;h2 id=&#34;modigliani-and-miller&#34;&gt;Modigliani and Miller&lt;/h2&gt;
@@ -955,9 +1311,9 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>Securities Markets</title>
-      <link>/courses/investments/securities_markets/</link>
+      <link>https://www.stephenrush.org/courses/investments/securities_markets/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/investments/securities_markets/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/securities_markets/</guid>
       <description>
 
 &lt;h2 id=&#34;the-principle-agent-problem&#34;&gt;The Principle-Agent Problem&lt;/h2&gt;
@@ -1021,9 +1377,9 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>Risk, Returns, and History</title>
-      <link>/courses/investments/risk_returns_history/</link>
+      <link>https://www.stephenrush.org/courses/investments/risk_returns_history/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/investments/risk_returns_history/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/risk_returns_history/</guid>
       <description>
 
 &lt;h2 id=&#34;arithmetic-and-geometric-returns&#34;&gt;Arithmetic and Geometric Returns&lt;/h2&gt;
@@ -1060,9 +1416,9 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>Portfolio Theory</title>
-      <link>/courses/investments/portfoliotheory/</link>
+      <link>https://www.stephenrush.org/courses/investments/portfoliotheory/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/investments/portfoliotheory/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/portfoliotheory/</guid>
       <description>
 
 &lt;h2 id=&#34;efficient-frontier&#34;&gt;Efficient Frontier&lt;/h2&gt;
@@ -1105,9 +1461,9 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>CAPM and Factor Models</title>
-      <link>/courses/investments/capm_factors/</link>
+      <link>https://www.stephenrush.org/courses/investments/capm_factors/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/investments/capm_factors/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/capm_factors/</guid>
       <description>
 
 &lt;h2 id=&#34;the-capital-asset-pricing-model&#34;&gt;The Capital Asset Pricing Model&lt;/h2&gt;
@@ -1162,9 +1518,9 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>Macroeconomic &amp; Industry Analysis</title>
-      <link>/courses/investments/macro_industry/</link>
+      <link>https://www.stephenrush.org/courses/investments/macro_industry/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/investments/macro_industry/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/macro_industry/</guid>
       <description>
 
 &lt;h2 id=&#34;macroeconomic-metrics&#34;&gt;Macroeconomic Metrics&lt;/h2&gt;
@@ -1210,9 +1566,9 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>Financial Statement Analysis</title>
-      <link>/courses/investments/fsa/</link>
+      <link>https://www.stephenrush.org/courses/investments/fsa/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/investments/fsa/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/fsa/</guid>
       <description>
 
 &lt;h2 id=&#34;accounting-review&#34;&gt;Accounting Review&lt;/h2&gt;
@@ -1245,9 +1601,9 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>Equity Valuation</title>
-      <link>/courses/investments/equityvaluation/</link>
+      <link>https://www.stephenrush.org/courses/investments/equityvaluation/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/investments/equityvaluation/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/equityvaluation/</guid>
       <description>
 
 &lt;h2 id=&#34;relative-valuation&#34;&gt;Relative Valuation&lt;/h2&gt;
@@ -1289,9 +1645,9 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>Options</title>
-      <link>/courses/investments/options/</link>
+      <link>https://www.stephenrush.org/courses/investments/options/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/investments/options/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/options/</guid>
       <description>
 
 &lt;h2 id=&#34;what-is-a-derivative&#34;&gt;What is a Derivative?&lt;/h2&gt;
@@ -1324,9 +1680,9 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>Futures and Commodities</title>
-      <link>/courses/investments/futures/</link>
+      <link>https://www.stephenrush.org/courses/investments/futures/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/investments/futures/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/futures/</guid>
       <description>
 
 &lt;h2 id=&#34;history-of-forward-and-futures-contracts&#34;&gt;History of Forward and Futures Contracts&lt;/h2&gt;
@@ -1353,172 +1709,10 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     </item>
     
     <item>
-      <title>Coding</title>
-      <link>/portal/library/code/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/portal/library/code/</guid>
-      <description>
-
-&lt;p&gt;My favorite tool for data analysis is the &lt;a href=&#34;http://www.r-project.org/&#34;&gt;R&lt;/a&gt; programming language because it has a great community, it is free, and it works on Windows, Mac, and Linux. I also highly recommend &lt;a href=&#34;http://www.rstudio.com/&#34;&gt;RStudio&lt;/a&gt; if you&amp;rsquo;re not into using &lt;a href=&#34;http://ess.r-project.org/&#34;&gt;ESS&lt;/a&gt; with &lt;a href=&#34;http://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt;. RStudio is great for academics because it also serves as a &lt;a href=&#34;http://www.latex-project.org/&#34;&gt;LaTeX&lt;/a&gt; editor so you can use one tool for your entire research project soup to nuts. Microsoft offers a paid support option for commercial use but there is a free and open source version.&lt;/p&gt;
-
-&lt;p&gt;I learned R on my own but I could not have done it without the help of sites like &lt;a href=&#34;http://stackoverflow.com/&#34;&gt;Stack Overflow&lt;/a&gt; and the outstanding R community. Before posting any questions on the web, please attempt to work the problem yourself so that people don&amp;rsquo;t waste their time answering questions that have already been explained. More succinct: &lt;a href=&#34;https://en.wikipedia.org/wiki/RTFM&#34;&gt;RTFM&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Students&lt;/strong&gt;: Download the pdf booklet &lt;a href=&#34;https://drive.google.com/open?id=1SkCbS24pVkJkVzZ2IjcT3E-RIV7WPXMd&#34;&gt;PDQ Finance&lt;/a&gt; and follow the directions to install R and RStudio.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Non-Students&lt;/strong&gt;: For minimal time investment, I suggest following some examples in the &lt;a href=&#34;https://eddelbuettel.github.io/gsir-te/Getting-Started-in-R.pdf&#34;&gt;Getting Started in R&lt;/a&gt; (tinyverse edition) guide by Saghir Bashir and Dirk Eddelbuettel. I also suggest creating a free account at &lt;a href=&#34;https://rstudio.cloud&#34;&gt;RStudio Cloud&lt;/a&gt; to get started without needing to install anything.&lt;/p&gt;
-
-&lt;h2 id=&#34;installation-and-introduction&#34;&gt;Installation and Introduction&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/portal/library/cli/&#34;&gt;Command Line&lt;/a&gt; - some problems are best solved with command line tools rather than a programming language&lt;/li&gt;
-&lt;li&gt;&lt;a title=&#34;Emacs and ESS on OS X for Beginners&#34; href=&#34;http://stephenrush.wordpress.com/blog/emacs/&#34;&gt;Emacs and ESS&lt;/a&gt; on Mac&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://pandas.pydata.org/&#34;&gt;Pandas&lt;/a&gt; - financial data analysis in Python&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;econometrics&#34;&gt;Econometrics&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://stephenrush.wordpress.com/blog/ols/&#34;&gt;Regression in R&lt;/a&gt; - short command for ordinary least squares regression&lt;/li&gt;
-&lt;li&gt;Robust Regression in R&lt;/li&gt;
-&lt;li&gt;Quantile Regression in R&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stephenrush.wordpress.com/blog/bootstrap/&#34;&gt;Time-Series Bootstrap&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;data-manipulation-presentation&#34;&gt;Data Manipulation &amp;amp; Presentation&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a title=&#34;Dashboards&#34; href=&#34;http://stephenrush.wordpress.com/blog/dashboards/&#34;&gt;Dashboards&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&#34;First Database in R&#34; href=&#34;http://stephenrush.wordpress.com/blog/rsqlite/&#34;&gt;Using a Database with R&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&#34;Two-way Sorting&#34; href=&#34;http://stephenrush.wordpress.com/blog/two-way-sorting/&#34;&gt;Two-Way Sorting&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stephenrush.wordpress.com/blog/latex-template/&#34;&gt;LaTex Template&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;more-advanced-stuff&#34;&gt;More Advanced Stuff&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Style Analysis in R&lt;/li&gt;
-&lt;li&gt;Fama-French Factor Model in R&lt;/li&gt;
-&lt;li&gt;&lt;a title=&#34;Pastor and Stambaugh Liquidity&#34; href=&#34;http://stephenrush.wordpress.com/blog/pastor-and-stambaugh-liquidity/&#34;&gt;Pastor and Stambaugh Liquidity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Working in Volume Time / Event Time&lt;/li&gt;
-&lt;li&gt;&lt;a title=&#34;VPIN in R&#34; href=&#34;http://stephenrush.wordpress.com/blog/vpininr/&#34;&gt;Volume Synchronized Probability of Informed Trading&lt;/a&gt; (VPIN)&lt;/li&gt;
-&lt;li&gt;Probability and Performance Measurement&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Data Sources</title>
-      <link>/portal/library/data/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/portal/library/data/</guid>
-      <description>
-
-&lt;p&gt;There are many sources of data available but in my class and in your job, you must use primary sources. This means original data that has as little filtering as possible. This page includes other sources that are of comparable quality and reliability. They are free to access as you move from the university to your career.&lt;/p&gt;
-
-&lt;h2 id=&#34;macroeconomic-data&#34;&gt;Macroeconomic Data&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bis.org/index.htm&#34;&gt;Bank for International Settlements&lt;/a&gt; (BIS) – international banking statistics&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bea.gov/&#34;&gt;Bureau of Economic Analysis&lt;/a&gt; (BEA)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bls.gov/&#34;&gt;Bureau of Labor Statistics&lt;/a&gt; (BLS) – U.S. employment statistics&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.econ.yale.edu/~shiller/data.htm&#34;&gt;CAPE Ratio&lt;/a&gt; – Cyclically Adjusted Price/Earnings Ratio by Robert Shiller&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.conference-board.org/data/consumerdata.cfm&#34;&gt;Conference Board&lt;/a&gt; – consumer confidence data&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.businesscycle.com/home/&#34;&gt;Economic Cycle Research Institute&lt;/a&gt; (ECRI)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.eia.doe.gov/&#34;&gt;Energy Information Administration&lt;/a&gt; (EIA)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://fdic.gov/bank/analytical/qbp/index.html&#34;&gt;Federal Deposit Insurance Corporation&lt;/a&gt; (FDIC) - banking data&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://research.stlouisfed.org/fred2/&#34;&gt;Federal Reserve Economic Data&lt;/a&gt; (FRED) – macroeconomic data and interest rates&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.instituteforsupplymanagement.org/ISMReport&#34;&gt;Institute for Supply Management&lt;/a&gt; (ISM) - manufacturing activity&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://www.nber.org/&#34;&gt;National Bureau of Economic Research&lt;/a&gt; (NBER) – official U.S. recession periods&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.sca.isr.umich.edu/&#34;&gt;University of Michigan&lt;/a&gt; - consumer sentiment index&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.census.gov/retail/index.html&#34;&gt;U.S. Census Bureau&lt;/a&gt; - monthly retail trade report&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;market-data&#34;&gt;Market Data&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cboe.com/MktQuote/default.aspx&#34;&gt;Chicago Board Options Exchange&lt;/a&gt; (CBOE)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cmegroup.com/&#34;&gt;Chicago Mercantile Exchange&lt;/a&gt; (CME) – delayed quotes on commodities&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://finra-markets.morningstar.com/MarketData&#34;&gt;FINRA Market Data&lt;/a&gt; – hosted by Morningstar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.quandl.com/&#34;&gt;Quandl&lt;/a&gt; - platform for distributing free and proprietary data sets&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.sec.gov/edgar.shtml&#34;&gt;Securities and Exchange Commission&lt;/a&gt; (SEC) – EDGAR database of company filings / start with the 10-K for annual data and the 10-Q for quarterly data&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;reseach-data&#34;&gt;Reseach Data&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html&#34;&gt;Fama-French Factors&lt;/a&gt; - asset pricing factors produced by Kenneth French&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://global-q.org&#34;&gt;q-Factor Model&lt;/a&gt; - asset pricing factors by Hou, Xue, and Zhang&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;premium-data-sources&#34;&gt;Premium Data Sources&lt;/h2&gt;
-
-&lt;p&gt;These are some of the data sources you should expect to encounter in the industry. Any experience with the sources would be useful to mention in an interview.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bloomberg&lt;/li&gt;
-&lt;li&gt;FactSet&lt;/li&gt;
-&lt;li&gt;Mergent&lt;/li&gt;
-&lt;li&gt;S&amp;amp;P Capital IQ&lt;/li&gt;
-&lt;li&gt;Thomson One&lt;/li&gt;
-&lt;li&gt;Thomson Reuters Datastream&lt;/li&gt;
-&lt;li&gt;Value Line&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Media Sources</title>
-      <link>/portal/library/media/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/portal/library/media/</guid>
-      <description>
-
-&lt;h2 id=&#34;television-news&#34;&gt;Television News&lt;/h2&gt;
-
-&lt;p&gt;In my opinion, news should have as little commentary as possible and focus on matters of importance rather than entertainment value. I also don&amp;rsquo;t think you should pay for a cable package to receive decent news. These sources keep you informed without attempting to elicit an emotional reaction.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/user/NBRbizrpt/featured&#34;&gt;Nightly Business Report&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/user/PBSNewsHour/featured&#34;&gt;PBS Newshour&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.pbs.org/wgbh/frontline/&#34; target=&#34;_blank&#34;&gt;Frontline&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;blogs-and-magazines&#34;&gt;Blogs and Magazines&lt;/h2&gt;
-
-&lt;p&gt;These magazines and blogs are not unbiased and may publish bad information but there is enough relevant content for me to recommend them here. Clearly, some should be taken more seriously than others. Many of the traditional print media sources here can be accessed with an RSS reader rather than paying for a print subscription.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bloomberg.com/radio/&#34;&gt;Bloomberg Radio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://research.gluskinsheff.com/&#34;&gt;Breakfast with Dave&lt;/a&gt; by David Rosenberg - daily macro economic analysis newsletter&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.econtalk.org/&#34;&gt;EconTalk&lt;/a&gt; - Blog and Podcast&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.foreignaffairs.com/&#34;&gt;Foreign Affairs&lt;/a&gt; - If you want to know what key policy makers think about foreign policy, read this one.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.foreignpolicy.com/&#34;&gt;Foreign Policy&lt;/a&gt; - excellent global coverage&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://fortune.com/gettermsheet/&#34;&gt;Fortune Term Sheet&lt;/a&gt; by Dan Primack - daily email about financial deals&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.economist.com/blogs/freeexchange&#34;&gt;Free Exchange&lt;/a&gt; - additional shorter form articles from The Economist for free&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.npr.org/blogs/money/&#34;&gt;Planet Money&lt;/a&gt; on NPR&lt;/li&gt;
-&lt;li&gt;Sci-Hub (&lt;a href=&#34;https://wadauk.github.io/scihub_ck/index.html&#34;&gt;Links&lt;/a&gt;) – open access to academic papers&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://tabbforum.com/&#34;&gt;TabbFORUM&lt;/a&gt; - market focused and a decent source for microstructure information&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.economist.com/&#34;&gt;The Economist&lt;/a&gt; - If you only read one news source, this is the one to read. Most university libraries provide The Economist for free although a personal subscription is more convenient.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://online.wsj.com&#34;&gt;The Wall Street Journal&lt;/a&gt; - This is still the newspaper of record for U.S. business although I would not recommend reading it on a regular basis.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCpwosulQ7IOBHCCnl7kWYwA&#34;&gt;YouTube&lt;/a&gt; - there are some really great lectures available for free. I have links to a few on my channel.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.zerohedge.com/&#34;&gt;Zero Hedge&lt;/a&gt; - more entertainment than serious analysis (be very skeptical of content posted here)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>I Told You This Was a Bad Idea</title>
-      <link>/portal/games/i-told-you/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/portal/games/i-told-you/</guid>
-      <description>&lt;iframe src=&#34;/games/i-told-you/index.html&#34; width=&#34;100%&#34; height=&#34;750&#34;&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Library of Babel</title>
-      <link>/portal/library/babel/</link>
+      <link>https://www.stephenrush.org/portal/library/babel/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/portal/library/babel/</guid>
+      <guid>https://www.stephenrush.org/portal/library/babel/</guid>
       <description>
 
 &lt;h2 id=&#34;search-the-library&#34;&gt;Search the Library&lt;/h2&gt;
@@ -1529,9 +1723,9 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>Setec Astronomy</title>
-      <link>/portal/library/setec/</link>
+      <link>https://www.stephenrush.org/portal/library/setec/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/portal/library/setec/</guid>
+      <guid>https://www.stephenrush.org/portal/library/setec/</guid>
       <description>
 
 &lt;h2 id=&#34;security-tools&#34;&gt;Security Tools&lt;/h2&gt;
@@ -1571,266 +1765,34 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     </item>
     
     <item>
-      <title>University-Specific Resources</title>
-      <link>/portal/library/university-resources/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/portal/library/university-resources/</guid>
-      <description>
-
-&lt;h2 id=&#34;bowling-green-state-university&#34;&gt;Bowling Green State University&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bloomberg - only accessible from the terminal in the Finance Trading Lab in Room 2004 of the College of Business. Open the Bloomberg application; not the website.&lt;/li&gt;
-&lt;li&gt;The Economist magazine - &lt;a href=&#34;http://maurice.bgsu.edu.ezproxy.bgsu.edu:8080/record=b1010158~S9&#34;&gt;print edition&lt;/a&gt; only available in the library&lt;/li&gt;
-&lt;li&gt;Foreign Affairs magazine&lt;/strong&gt; – &lt;a href=&#34;http://web.b.ebscohost.com.ezproxy.bgsu.edu:8080/ehost/command/detail?vid=0&amp;amp;sid=9ee317de-f36b-4eb0-b9c3-34d0c5ae41df%40sessionmgr120&amp;amp;bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#jid=FAF&amp;amp;db=a9h&#34;&gt;online access&lt;/a&gt; through the library&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.bgsu.edu/library/collab-lab/laptop-loan.html&#34;&gt;Laptop Loan&lt;/a&gt; - students with financial aid can receive a laptop for an academic year&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ezproxy.bgsu.edu:8080/login?url=http://na.capitaliq.com/ip/BGSUV&#34;&gt;Standard and Poor&amp;rsquo;s Capital IQ NetAdvantage&lt;/a&gt; - available online through the library&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.bgsu.edu/learning-commons/subject-tutoring.html&#34;&gt;Tutors&lt;/a&gt; - available for free with request through the Learning Commons&lt;/li&gt;
-&lt;li&gt;The Wall Street Journal - &lt;a href=&#34;https://search-proquest-com.ezproxy.bgsu.edu:9443/publication/105983&#34;&gt;online access&lt;/a&gt; through the library&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blogs.bgsu.edu&#34;&gt;Wordpress&lt;/a&gt; - free blog platform with no ads for students and faculty&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;tianjin-polytechnic-university-天津工业大学&#34;&gt;Tianjin Polytechnic University, 天津工业大学&lt;/h2&gt;
-
-&lt;h2 id=&#34;university-of-connecticut&#34;&gt;University of Connecticut&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bloomberg - top floor of the Business School&lt;/li&gt;
-&lt;li&gt;The Economist magazine - &lt;a href=&#34;http://search.proquest.com.ezproxy.lib.uconn.edu/publication/366256&#34;&gt;online access&lt;/a&gt; through the library&lt;/li&gt;
-&lt;li&gt;Foreign Affairs magazine – &lt;a href=&#34;http://search.proquest.com.ezproxy.lib.uconn.edu/publication/40670&#34;&gt;online access&lt;/a&gt; through the library&lt;/li&gt;
-&lt;li&gt;Foreign Policy magazine – &lt;a href=&#34;http://search.proquest.com.ezproxy.lib.uconn.edu/publication/47510&#34;&gt;online access&lt;/a&gt; through the library&lt;a href=&#34;http://search.proquest.com.ezproxy.lib.uconn.edu/publication/47510&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;The Wall Street Journal - &lt;a href=&#34;http://search.proquest.com.ezproxy.lib.uconn.edu/publication/105983&#34;&gt;online access&lt;/a&gt; through the library&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;university-of-economics-and-law-vietnam&#34;&gt;University of Economics and Law, Vietnam&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Reuters Terminal - only accessible from the terminals on the top floor&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Books</title>
-      <link>/portal/library/books/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/portal/library/books/</guid>
-      <description>
-
-&lt;p&gt;This book list is rather short because I only add books that I have read personally and I think are worth taking time away from something else to read. Where possible, I include links to freely accessible materials.&lt;/p&gt;
-
-&lt;h2 id=&#34;general-finance&#34;&gt;General Finance&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://book.ivo-welch.info/home/&#34; target=&#34;_blank&#34;&gt;Corporate Finance&lt;/a&gt; by Ivo Welch&lt;/li&gt;
-&lt;li&gt;Investments by Bodie, Kane, and Marcus&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.core-econ.org/the-economy/&#34; target=&#34;_blank&#34;&gt;The Economy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Introductory Econometrics: A Modern Approach by Wooldridge&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.mostlyharmlesseconometrics.com/&#34; target=&#34;_blank&#34;&gt;Mostly Harmless Econometrics: An Empiricist&amp;rsquo;s Companion&lt;/a&gt; by Angrist and Pischke&lt;/li&gt;
-&lt;li&gt;The Misbehavior of Markets: A Fractal View of Financial Turbulence by Benoit Mandelbrot&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;investing&#34;&gt;Investing&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Security Analysis (1940) by Graham and Dodd&lt;/li&gt;
-&lt;li&gt;The Intelligent Investor (1949) by Benjamin Graham&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://pages.stern.nyu.edu/~adamodar/New_Home_Page/invphil.htm&#34;&gt;Investing Philosophies by Aswath Damodaran&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Active Portfolio Management: A Quantitative Approach for Providing Superior Returns and Controlling Risk by Grinold and Kahn&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;finance-history&#34;&gt;Finance History&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;When Genius Failed: The Rise and Fall of Long Term Capital Management by Roger Lowenstein&lt;/li&gt;
-&lt;li&gt;Against the Gods: The Remarkable Story of Risk by Peter Bernstein&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Python for Data Analysis by Wes McKinney&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://r4ds.had.co.nz/&#34; target=&#34;_blank&#34;&gt;R for Data Science&lt;/a&gt; by Garrett Grolemund and Hadley Wickham&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;advanced-finance&#34;&gt;Advanced Finance&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://faculty.chicagobooth.edu/john.cochrane/teaching/asset_pricing.htm&#34;&gt;Asset Pricing by Cochrane&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Financial Theory and Corporate Policy by Copeland, Weston, and Shastri&lt;/li&gt;
-&lt;li&gt;Handbook Of the Economics of Finance&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;advanced-quantitative-techniques&#34;&gt;Advanced Quantitative Techniques&lt;/h2&gt;
-
-&lt;p&gt;Before using any statistical software or programming language, you should master Excel. It is the most common tool used in finance. You should also know a bit of VBA to automate repetitive tasks. Next, you should learn a more powerful tool for advanced analytics. I recommend R but Matlab, Octave, Python, SAS, or Stata are reasonable choices.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://statweb.stanford.edu/~tibs/ElemStatLearn/&#34;&gt;Elements of Statistical Learning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.stat.pitt.edu/stoffer/tsa4/&#34;&gt;Time Series Analysis and Its Applications: With R Examples&lt;/a&gt; by Shumway and Stoffer&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Movies</title>
-      <link>/portal/library/movies/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/portal/library/movies/</guid>
-      <description>
-
-&lt;p&gt;These are movies that are important to finance culture or have some interesting finance content. Plenty of other movies take place around finance but have little relevant content.&lt;/p&gt;
-
-&lt;h2 id=&#34;finance-movies&#34;&gt;Finance Movies&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Betting on Zero (2016) Documentary about Bill Ackman shorting stock in Herbalife for Pershing Square.&lt;/li&gt;
-&lt;li&gt;The Big Short (2015) Entertaining take on the mortgage crisis&lt;/li&gt;
-&lt;li&gt;Margin Call (2011) Fictional story about an investment bank that begins a financial crisis&lt;/li&gt;
-&lt;li&gt;Too Big to Fail (2011) Glossy and overly simplistic look at the 2008 bailouts&lt;/li&gt;
-&lt;li&gt;Inside Job (2010) Documentary covering many aspects of the 2008 financial crisis&lt;/li&gt;
-&lt;li&gt;Enron: The Smartest Guys in the Room (2005) Documentary about the fall of energy trading firm Enron&lt;/li&gt;
-&lt;li&gt;Boiler Room (2000) Portrays a &amp;ldquo;pump-and-dump&amp;rdquo; brokerage firm&lt;/li&gt;
-&lt;li&gt;Rogue Trader (1999) Based on the true story of Nick Leeson who brought down &lt;a href=&#34;http://en.wikipedia.org/wiki/Barings_Bank&#34; target=&#34;_blank&#34;&gt;Barings Bank&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Other People&amp;rsquo;s Money (1991) Comedy about a corporate raid in the 1980&amp;rsquo;s&lt;/li&gt;
-&lt;li&gt;Wall Street (1987) Portrays insider trading and corporate takeover; includes the famous &amp;ldquo;Greed is Good&amp;rdquo; speech&lt;/li&gt;
-&lt;li&gt;Trading Places (1983) classic comedy that involves futures trading on the Chicago Mercantile Exchange&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;business&#34;&gt;Business&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;American Factory (2019) Documentary about a Chinese firm that purchases and operates a glass factory in Ohio&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Podcasts</title>
-      <link>/portal/library/podcasts/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/portal/library/podcasts/</guid>
-      <description>
-
-&lt;p&gt;These are conversations and news stories that supplement my course content. Most are about 60 minutes long and will play in any web browser.&lt;/p&gt;
-
-&lt;h2 id=&#34;econtalk-podcasts&#34;&gt;EconTalk Podcasts&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.econtalk.org/&#34; target=&#34;_blank&#34;&gt;EconTalk&lt;/a&gt; is a great resource for long-form conversations related to economics. The website often contains additional information for those interested in the weekly episodes. I have listed the episodes that I have found most useful for teaching.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2015/06/nathaniel_poppe.html&#34;&gt;Nathaniel Popper on Bitcoin and Digital Gold&lt;/a&gt; (8 June 2015)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2014/05/gavin_andresen.html&#34;&gt;The Present and Future of Bitcoin&lt;/a&gt; (5 May 2014)&lt;br&gt;
-Gavin Andresen: Chief Scientist of the BitCoin Foundation&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2013/10/calvo_on_the_cr.html&#34;&gt;Calvo on the Crisis, Money, and Macro&lt;/a&gt; (21 October 2013)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2013/04/admati_on_bank.html&#34;&gt;Admati on Bank Regulation and the Bankers&amp;rsquo; New Clothes&lt;/a&gt; (8 April 2013)&lt;br&gt;
-A brief description of how banks work and the incentives that promote the use of debt.&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2012/03/calomiris_on_ca.html&#34;&gt;Calomiris on Capital Requirements, Leverage, and Financial Regulation&lt;/a&gt; (5 March 2012)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2012/01/fama_on_finance.html&#34;&gt;Fama on Finance&lt;/a&gt; (30 January 2012)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2011/11/simon_johnson_o.html&#34;&gt;Simon Johnson on the Financial Crisis&lt;/a&gt; (28 November 2011)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2011/06/eichengreen_on.html&#34;&gt;Eichengreen on the Dollar and International Finance&lt;/a&gt; (6 June 2011)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2011/03/vincent_reinhar.html&#34;&gt;Bear Stearns, Lehman Brothers, and the Financial Crisis&lt;/a&gt; (28 March 2011)&lt;br&gt;
-Vincent Reinhart describes how off balance sheet entities can affect the riskiness of banks&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2010/05/taleb_on_black_1.html&#34;&gt;Taleb on Black Swans, Fragility, and Mistakes&lt;/a&gt; (3 May 2010)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2009/10/gary_stern_on_t.html&#34;&gt;Gary Stern on Too Big to Fail&lt;/a&gt; (5 October 2009)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2009/02/meltzer_on_infl.html&#34;&gt;Meltzer on Inflation&lt;/a&gt; (23 February 2009)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2008/09/kling_on_freddi.html&#34;&gt;Kling on Freddie and Fannie and the Recent History of the U.S. Housing Market&lt;/a&gt; (29 September 2008)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2008/09/shiller_on_hous.html&#34;&gt;Shiller on Housing and Bubbles&lt;/a&gt; (15 September 2008)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2008/05/meltzer_on_the.html&#34;&gt;Meltzer on the Fed, Money, and Gold&lt;/a&gt; (19 May 2008)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2007/04/taleb_on_black.html&#34;&gt;Taleb on Black Swans&lt;/a&gt; (30 April 2007)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2006/08/milton_friedman.html&#34;&gt;Milton Friedman on Money&lt;/a&gt; - Part 1 (28 August 2006)&lt;br&gt;
-EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2006/09/friedman_on_cap_1.html&#34;&gt;Friedman on Capitalism and Freedom&lt;/a&gt; - Part 2 (4 September 2006)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;video-documentaries&#34;&gt;Video Documentaries&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bloomberg: &lt;a href=&#34;http://www.bloomberg.com/news/videos/b/c59d9908-fae7-47be-8fb8-478def9e37a8&#34;&gt;Eugene Fama and Cliff Asness Discuss Efficient Markets&lt;/a&gt; (15 April 2016)&lt;br&gt;
-Only 11 minutes 30 seconds&lt;/li&gt;
-&lt;li&gt;CNBC: &lt;a href=&#34;http://video.cnbc.com/gallery/?video=3000263252&#34;&gt;Market Microstructure Issues&lt;/a&gt; (1 April 2014)&lt;br&gt;
-William O&amp;rsquo;Brien, Brad Katsuyama, and Michael Lewis&lt;/li&gt;
-&lt;li&gt;VPRO International: &lt;a href=&#34;http://youtu.be/kFQJNeQDDHA&#34;&gt;The Wall Street Code&lt;/a&gt; (4 November 2013)&lt;/li&gt;
-&lt;li&gt;VPRO International: &lt;a href=&#34;http://youtu.be/aq1Ln1UCoEU&#34;&gt;Money and Speed: Inside the Black Box&lt;/a&gt; (31 January 2011)&lt;/li&gt;
-&lt;li&gt;Nova: &lt;a href=&#34;http://youtu.be/tsZRndV5lIc&#34;&gt;The Trillion Dollar Bet&lt;/a&gt; (8 February 2000)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;frontline-documentaries&#34;&gt;Frontline Documentaries&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/money-power-wall-street/&#34;&gt;Money, Power, and Wall Street&lt;/a&gt; (24 April 2012)&lt;br&gt;
-Four-part series on the financial crisis.&lt;/li&gt;
-&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/creditcards/view/&#34;&gt;The Card Game&lt;/a&gt; (24 November 2009)&lt;/li&gt;
-&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/warning/view/&#34;&gt;The Warning&lt;/a&gt; (20 October 2009)&lt;br&gt;
-The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt;/li&gt;
-&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/breakingthebank/view/&#34;&gt;Breaking the Bank&lt;/a&gt; - Bank of America and Merrill Lynch (16 June 2009)&lt;/li&gt;
-&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/madoff/view/?autoplay&#34;&gt;The Madoff Affair&lt;/a&gt; (12 May 2009)&lt;/li&gt;
-&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/tentrillion/view/&#34;&gt;Ten Trillion and Counting&lt;/a&gt; (24 March 2009)&lt;/li&gt;
-&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/meltdown/view/&#34;&gt;Inside the Meltdown&lt;/a&gt;&amp;nbsp;(17 February 2009)&lt;/li&gt;
-&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/shows/credit/view/&#34;&gt;Secret History of the Credit Card&lt;/a&gt; (23 November 2004)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Compositions</title>
-      <link>/portal/library/music/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/portal/library/music/</guid>
-      <description>
-
-&lt;p&gt;This page is mostly for friends and family that have taken an interest in my compositions and arrangements.&lt;/p&gt;
-
-&lt;h2 id=&#34;psalm&#34;&gt;Psalm&lt;/h2&gt;
-
-&lt;p&gt;This is the chorus of a piece I envisioned as a psalm but never got around to writing the lyrics. It is a simple solo piano arrangement with an unusual chord progression. These are characteristics I found lacking in modern liturgical music.
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/5230606%3Fsecret_token%3Ds-Lthsi&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;fanfare-for-the-savage-man&#34;&gt;Fanfare for the Savage Man&lt;/h2&gt;
-
-&lt;p&gt;I was thinking about Aaron Copeland but then I remembered that I am not a good composer so I plugged my electric cello into a Moog synthesizer (like one does) and blissed out on analog goodness. The song is 3:14 long because, like π, a Moog cello is completely irrational. You&amp;rsquo;re going to want to either turn the volume up or wear headphones for this one.
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347560369%3Fsecret_token%3Ds-dNu9V&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;freedive&#34;&gt;Freedive&lt;/h2&gt;
-
-&lt;p&gt;Freediving is diving with no air supply - basically high performance snorkeling. Divers wear more weight to sink easier and longer fins to reduce movement and conserve energy. In the murky waters of New England, you won&amp;rsquo;t see much until you reach the bottom. The length on this song is same as my average dive (a pitiful two minutes). If you&amp;rsquo;ve never tried it, sit down, close your eyes, plug in your headphones, and don&amp;rsquo;t breathe until the end.
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/351178597%3Fsecret_token%3Ds-pAB8Y&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;flyover-country&#34;&gt;Flyover Country&lt;/h2&gt;
-
-&lt;p&gt;Coming to terms with life in the midwest.
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/347993617%3Fsecret_token%3Ds-24Dl6&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>A Network Analysis of Information Diffusion in the Financial Sector</title>
-      <link>/publication/preprint/networkfinancial/</link>
+      <link>https://www.stephenrush.org/publication/preprint/networkfinancial/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/networkfinancial/</guid>
+      <guid>https://www.stephenrush.org/publication/preprint/networkfinancial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Currency Risk and Information Diffusion</title>
-      <link>/publication/preprint/currencyrisk/</link>
+      <link>https://www.stephenrush.org/publication/preprint/currencyrisk/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/currencyrisk/</guid>
+      <guid>https://www.stephenrush.org/publication/preprint/currencyrisk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identifying and Pricing Adverse Selection Risk with VPIN</title>
-      <link>/publication/preprint/pricingvpin/</link>
+      <link>https://www.stephenrush.org/publication/preprint/pricingvpin/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/pricingvpin/</guid>
+      <guid>https://www.stephenrush.org/publication/preprint/pricingvpin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>/post/writing-technical-content/</link>
+      <link>https://www.stephenrush.org/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/post/writing-technical-content/</guid>
+      <guid>https://www.stephenrush.org/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
@@ -2039,9 +2001,9 @@ gantt
     
     <item>
       <title>Coursera</title>
-      <link>/courses/extra-credit/outline/</link>
+      <link>https://www.stephenrush.org/courses/extra-credit/outline/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/extra-credit/outline/</guid>
+      <guid>https://www.stephenrush.org/courses/extra-credit/outline/</guid>
       <description>
 
 &lt;p&gt;In order to receive extra credit, make sure you print out the completion statement at the end of the course.&lt;/p&gt;
@@ -2060,9 +2022,9 @@ gantt
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
+      <link>https://www.stephenrush.org/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/post/jupyter/</guid>
+      <guid>https://www.stephenrush.org/post/jupyter/</guid>
       <description>
 
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
@@ -2127,9 +2089,9 @@ date: 2019-09-01
     
     <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>https://www.stephenrush.org/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
+      <guid>https://www.stephenrush.org/slides/example/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
@@ -2307,44 +2269,26 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>The Bond Coupon’s Impact on Liquidity</title>
-      <link>/publication/journal-article/bonds/</link>
+      <link>https://www.stephenrush.org/publication/journal-article/bonds/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/bonds/</guid>
+      <guid>https://www.stephenrush.org/publication/journal-article/bonds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>/project/external-project/</link>
+      <link>https://www.stephenrush.org/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
+      <guid>https://www.stephenrush.org/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>/project/internal-project/</link>
+      <link>https://www.stephenrush.org/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
+      <guid>https://www.stephenrush.org/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -2359,9 +2303,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>/post/getting-started/</link>
+      <link>https://www.stephenrush.org/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/post/getting-started/</guid>
+      <guid>https://www.stephenrush.org/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
@@ -2479,9 +2423,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <link>https://www.stephenrush.org/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://www.stephenrush.org/post/2015-07-23-r-rmarkdown/</guid>
       <description>
 
 
@@ -2518,7 +2462,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://www.stephenrush.org/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -2529,17 +2473,17 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Tactical asset allocation for US pension investors: How tactical should the plan be?</title>
-      <link>/publication/journal-article/taa/</link>
+      <link>https://www.stephenrush.org/publication/journal-article/taa/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/taa/</guid>
+      <guid>https://www.stephenrush.org/publication/journal-article/taa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can Increased Trade Prevent Conflict with China?</title>
-      <link>/publication/journal-article/chinatrade/</link>
+      <link>https://www.stephenrush.org/publication/journal-article/chinatrade/</link>
       <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/chinatrade/</guid>
+      <guid>https://www.stephenrush.org/publication/journal-article/chinatrade/</guid>
       <description></description>
     </item>
     
