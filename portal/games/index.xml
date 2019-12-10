@@ -12,5 +12,14 @@
       <link>/portal/games/</link>
     </image>
     
+    <item>
+      <title>I Told You This Was a Bad Idea</title>
+      <link>/portal/games/i-told-you/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/portal/games/i-told-you/</guid>
+      <description>&lt;iframe src=&#34;/games/i-told-you/index.html&#34; width=&#34;100%&#34; height=&#34;750&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
