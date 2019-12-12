@@ -3,561 +3,586 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/books/</loc>
+    <loc>/portal/library/books/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/code/</loc>
+    <loc>/portal/library/code/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/data/</loc>
+    <loc>/portal/library/data/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/intro-markets/ethics/</loc>
+    <loc>/courses/intro-markets/ethics/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/managerial_finance/introduction/</loc>
+    <loc>/courses/managerial_finance/introduction/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/media/</loc>
+    <loc>/portal/library/media/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/seminar-corporatefinance/methods/</loc>
+    <loc>/courses/seminar-corporatefinance/methods/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/movies/</loc>
+    <loc>/portal/library/movies/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/markets-institutions/outline/</loc>
+    <loc>/courses/markets-institutions/outline/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/podcasts/</loc>
+    <loc>/portal/library/podcasts/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/portfolio-management/review/</loc>
+    <loc>/courses/portfolio-management/review/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/university-resources/</loc>
+    <loc>/portal/library/university-resources/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/managerial_finance/</loc>
+    <loc>/courses/managerial_finance/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/portfolio-management/ips/</loc>
+    <loc>/courses/portfolio-management/ips/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/portfolio-management/macro_industry/</loc>
+    <loc>/courses/portfolio-management/macro_industry/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/seminar-corporatefinance/market_efficiency/</loc>
+    <loc>/courses/seminar-corporatefinance/market_efficiency/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/personal-finance/</loc>
+    <loc>/portal/library/personal-finance/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/advising/</loc>
+    <loc>/portal/library/advising/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/managerial_finance/tvm/</loc>
+    <loc>/courses/managerial_finance/tvm/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/markets-institutions/</loc>
+    <loc>/courses/markets-institutions/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/managerial_finance/capital_budgeting_i/</loc>
+    <loc>/courses/managerial_finance/capital_budgeting_i/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/cli/</loc>
+    <loc>/portal/library/cli/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/portfolio-management/ethics/</loc>
+    <loc>/courses/portfolio-management/ethics/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/seminar-corporatefinance/market_frictions/</loc>
+    <loc>/courses/seminar-corporatefinance/market_frictions/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/portfolio-management/trading/</loc>
+    <loc>/courses/portfolio-management/trading/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/investments/</loc>
+    <loc>/courses/investments/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/seminar-corporatefinance/behavioral_finance/</loc>
+    <loc>/courses/seminar-corporatefinance/behavioral_finance/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/portfolio-management/equityvaluation/</loc>
+    <loc>/courses/portfolio-management/equityvaluation/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/managerial_finance/interest_rates/</loc>
+    <loc>/courses/managerial_finance/interest_rates/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/portfolio-management/</loc>
+    <loc>/courses/portfolio-management/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/microstructure/</loc>
+    <loc>/portal/library/microstructure/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/portfolio-management/portfoliooptimization/</loc>
+    <loc>/courses/portfolio-management/portfoliooptimization/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/managerial_finance/risk_return/</loc>
+    <loc>/courses/managerial_finance/risk_return/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/portfolio-management/performance/</loc>
+    <loc>/courses/portfolio-management/performance/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/managerial_finance/capm/</loc>
+    <loc>/courses/managerial_finance/capm/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/managerial_finance/capital_budgeting_ii/</loc>
+    <loc>/courses/managerial_finance/capital_budgeting_ii/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/extra-credit/</loc>
+    <loc>/courses/extra-credit/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/managerial_finance/fsa/</loc>
+    <loc>/courses/managerial_finance/fsa/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/managerial_finance/ratios_rv/</loc>
+    <loc>/courses/managerial_finance/ratios_rv/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/intro-markets/</loc>
+    <loc>/courses/intro-markets/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/managerial_finance/capital_structure/</loc>
+    <loc>/courses/managerial_finance/capital_structure/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/seminar-corporatefinance/</loc>
+    <loc>/courses/seminar-corporatefinance/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/investments/securities_markets/</loc>
+    <loc>/courses/investments/securities_markets/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/investments/risk_returns_history/</loc>
+    <loc>/courses/investments/risk_returns_history/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/investments/portfoliotheory/</loc>
+    <loc>/courses/investments/portfoliotheory/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/investments/capm_factors/</loc>
+    <loc>/courses/investments/capm_factors/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/investments/emh/</loc>
+    <loc>/courses/investments/emh/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/investments/macro_industry/</loc>
+    <loc>/courses/investments/macro_industry/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/investments/fsa/</loc>
+    <loc>/courses/investments/fsa/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/investments/equityvaluation/</loc>
+    <loc>/courses/investments/equityvaluation/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/investments/options/</loc>
+    <loc>/courses/investments/options/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/investments/futures/</loc>
+    <loc>/courses/investments/futures/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/babel/</loc>
+    <loc>/portal/games/beneath-floes/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/setec/</loc>
+    <loc>/portal/games/i-told-you/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/authors/admin/</loc>
+    <loc>/portal/library/babel/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portal/library/setec/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portal/library/music/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/publication_types/3/</loc>
+    <loc>/publication_types/3/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/publication/preprint/networkfinancial/</loc>
+    <loc>/publication/preprint/networkfinancial/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/authors/</loc>
+    <loc>/authors/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/tags/currency-risk/</loc>
+    <loc>/tags/currency-risk/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/publication/preprint/currencyrisk/</loc>
+    <loc>/publication/preprint/currencyrisk/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/</loc>
+    <loc>/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/publication/preprint/pricingvpin/</loc>
+    <loc>/publication/preprint/pricingvpin/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/tags/information-asymmetry/</loc>
+    <loc>/tags/information-asymmetry/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/tags/information-diffusion/</loc>
+    <loc>/tags/information-diffusion/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/tags/market-microstructure/</loc>
+    <loc>/tags/market-microstructure/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/tags/network-analysis/</loc>
+    <loc>/tags/network-analysis/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/authors/paul-borochin/</loc>
+    <loc>/authors/paul-borochin/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/publication/</loc>
+    <loc>/publication/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/tags/systemic-risk/</loc>
+    <loc>/tags/systemic-risk/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/tags/vpin/</loc>
+    <loc>/tags/vpin/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/post/writing-technical-content/</loc>
+    <loc>/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/extra-credit/outline/</loc>
+    <loc>/courses/extra-credit/outline/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/post/jupyter/</loc>
+    <loc>/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/slides/</loc>
+    <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/slides/example/</loc>
+    <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/games/</loc>
+    <loc>/portal/games/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/</loc>
+    <loc>/portal/library/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/publication_types/2/</loc>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/tags/fixed-income/</loc>
+    <loc>/tags/fixed-income/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/tags/liquidity/</loc>
+    <loc>/tags/liquidity/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/publication/journal-article/bonds/</loc>
+    <loc>/publication/journal-article/bonds/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/tags/deep-learning/</loc>
+    <loc>/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/tags/demo/</loc>
+    <loc>/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/project/external-project/</loc>
+    <loc>/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/project/internal-project/</loc>
+    <loc>/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/project/</loc>
+    <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/tags/academic/</loc>
+    <loc>/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/post/getting-started/</loc>
+    <loc>/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/categories/demo/</loc>
+    <loc>/categories/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/tags/plot/</loc>
+    <loc>/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/categories/r/</loc>
+    <loc>/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/tags/r-markdown/</loc>
+    <loc>/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/tags/regression/</loc>
+    <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/tags/active-management/</loc>
+    <loc>/tags/active-management/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/tags/asset-allocation/</loc>
+    <loc>/tags/asset-allocation/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/authors/david-louton/</loc>
+    <loc>/authors/david-louton/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/authors/hakan-saraoglu/</loc>
+    <loc>/authors/hakan-saraoglu/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/authors/joseph-mccarthy/</loc>
+    <loc>/authors/joseph-mccarthy/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/authors/ognjen-sosa/</loc>
+    <loc>/authors/ognjen-sosa/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/tags/pensions/</loc>
+    <loc>/tags/pensions/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/publication/journal-article/taa/</loc>
+    <loc>/publication/journal-article/taa/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/publication/journal-article/chinatrade/</loc>
+    <loc>/publication/journal-article/chinatrade/</loc>
     <lastmod>2009-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/tags/macro-economics/</loc>
+    <loc>/tags/macro-economics/</loc>
     <lastmod>2009-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/authors/sam-mirmirani/</loc>
+    <loc>/authors/sam-mirmirani/</loc>
     <lastmod>2009-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/tags/trade/</loc>
+    <loc>/tags/trade/</loc>
     <lastmod>2009-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/</loc>
+    <loc>/courses/</loc>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/</loc>
+    <loc>/portal/</loc>
   </url>
   
 </urlset>
