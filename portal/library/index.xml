@@ -51,8 +51,10 @@
 &lt;h2 id=&#34;data-analysis&#34;&gt;Data Analysis&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Python for Data Analysis by Wes McKinney&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rc2e.com/&#34; target=&#34;_blank&#34;&gt;R Cookbook 2e&lt;/a&gt; by James (JD) Long and Paul Teetor&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://r4ds.had.co.nz/&#34; target=&#34;_blank&#34;&gt;R for Data Science&lt;/a&gt; by Garrett Grolemund and Hadley Wickham&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.datascienceatthecommandline.com/&#34; target=&#34;_blank&#34;&gt;Data Science at the Command Line&lt;/a&gt; by Jeroen Janssens&lt;/li&gt;
+&lt;li&gt;Python for Data Analysis by Wes McKinney&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://geocompr.robinlovelace.net/&#34; target=&#34;_blank&#34;&gt;Geocomputation with R&lt;/a&gt; by Robin Lovelace, Jakub Nowosad, and Jannes Muenchow&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://wlm.userweb.mwn.de/Stata/&#34; target=&#34;_blank&#34;&gt;Internet Guide to Stata&lt;/a&gt; by Wolfgang Ludwig-Mayerhofer&lt;/li&gt;
 &lt;/ul&gt;
