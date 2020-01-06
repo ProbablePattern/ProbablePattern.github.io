@@ -5,7 +5,7 @@
     <link>https://www.stephenrush.org/</link>
       <atom:link href="https://www.stephenrush.org/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Stephen Rush, CFA</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.stephenrush.org/img/icon-192.png</url>
       <title>Dr. Stephen Rush, CFA</title>
@@ -50,30 +50,22 @@
 
 &lt;h2 id=&#34;data-analysis&#34;&gt;Data Analysis&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://rc2e.com/&#34; target=&#34;_blank&#34;&gt;R Cookbook 2e&lt;/a&gt; by James (JD) Long and Paul Teetor&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://r4ds.had.co.nz/&#34; target=&#34;_blank&#34;&gt;R for Data Science&lt;/a&gt; by Garrett Grolemund and Hadley Wickham&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.datascienceatthecommandline.com/&#34; target=&#34;_blank&#34;&gt;Data Science at the Command Line&lt;/a&gt; by Jeroen Janssens&lt;/li&gt;
-&lt;li&gt;Python for Data Analysis by Wes McKinney&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://geocompr.robinlovelace.net/&#34; target=&#34;_blank&#34;&gt;Geocomputation with R&lt;/a&gt; by Robin Lovelace, Jakub Nowosad, and Jannes Muenchow&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://wlm.userweb.mwn.de/Stata/&#34; target=&#34;_blank&#34;&gt;Internet Guide to Stata&lt;/a&gt; by Wolfgang Ludwig-Mayerhofer&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Before using any statistical software or programming language, you should master Excel. It is the most common tool used in finance. You should also know a bit of VBA to automate repetitive tasks. Next, you should learn a more powerful tool for advanced analytics. I recommend R but Matlab, Octave, Python, SAS, or Stata are reasonable choices.
+* &lt;a href=&#34;https://rc2e.com/&#34; target=&#34;_blank&#34;&gt;R Cookbook 2e&lt;/a&gt; by James (JD) Long and Paul Teetor
+* &lt;a href=&#34;https://r4ds.had.co.nz/&#34; target=&#34;_blank&#34;&gt;R for Data Science&lt;/a&gt; by Garrett Grolemund and Hadley Wickham
+* &lt;a href=&#34;https://www.datascienceatthecommandline.com/&#34; target=&#34;_blank&#34;&gt;Data Science at the Command Line&lt;/a&gt; by Jeroen Janssens
+* Python for Data Analysis by Wes McKinney
+* &lt;a href=&#34;https://geocompr.robinlovelace.net/&#34; target=&#34;_blank&#34;&gt;Geocomputation with R&lt;/a&gt; by Robin Lovelace, Jakub Nowosad, and Jannes Muenchow
+* &lt;a href=&#34;http://wlm.userweb.mwn.de/Stata/&#34; target=&#34;_blank&#34;&gt;Internet Guide to Stata&lt;/a&gt; by Wolfgang Ludwig-Mayerhofer
+* &lt;a href=&#34;http://statweb.stanford.edu/~tibs/ElemStatLearn/&#34; target=&#34;_blank&#34;&gt;Elements of Statistical Learning&lt;/a&gt;
+* &lt;a href=&#34;http://www.stat.pitt.edu/stoffer/tsa4/&#34; target=&#34;_blank&#34;&gt;Time Series Analysis and Its Applications: With R Examples&lt;/a&gt; by Shumway and Stoffer&lt;/p&gt;
 
 &lt;h2 id=&#34;advanced-finance&#34;&gt;Advanced Finance&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://faculty.chicagobooth.edu/john.cochrane/teaching/asset_pricing.htm&#34;&gt;Asset Pricing by Cochrane&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://faculty.chicagobooth.edu/john.cochrane/teaching/asset_pricing.htm&#34; target=&#34;_blank&#34;&gt;Asset Pricing&lt;/a&gt; by Cochrane&lt;/li&gt;
 &lt;li&gt;Financial Theory and Corporate Policy by Copeland, Weston, and Shastri&lt;/li&gt;
 &lt;li&gt;Handbook Of the Economics of Finance&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;advanced-quantitative-techniques&#34;&gt;Advanced Quantitative Techniques&lt;/h2&gt;
-
-&lt;p&gt;Before using any statistical software or programming language, you should master Excel. It is the most common tool used in finance. You should also know a bit of VBA to automate repetitive tasks. Next, you should learn a more powerful tool for advanced analytics. I recommend R but Matlab, Octave, Python, SAS, or Stata are reasonable choices.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://statweb.stanford.edu/~tibs/ElemStatLearn/&#34;&gt;Elements of Statistical Learning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.stat.pitt.edu/stoffer/tsa4/&#34;&gt;Time Series Analysis and Its Applications: With R Examples&lt;/a&gt; by Shumway and Stoffer&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
