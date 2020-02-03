@@ -17,56 +17,43 @@
       <link>https://www.stephenrush.org/portal/library/books/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/portal/library/books/</guid>
-      <description>
-
-&lt;p&gt;This book list is rather short because I only add books that I have read personally and I think are worth taking time away from something else to read. Where possible, I include links to freely accessible materials.&lt;/p&gt;
-
+      <description>&lt;p&gt;This book list is rather short because I only add books that I have read personally and I think are worth taking time away from something else to read. Where possible, I include links to freely accessible materials.&lt;/p&gt;
 &lt;h2 id=&#34;general-finance&#34;&gt;General Finance&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://book.ivo-welch.info/home/&#34; target=&#34;_blank&#34;&gt;Corporate Finance&lt;/a&gt; by Ivo Welch&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://book.ivo-welch.info/home/&#34;&gt;Corporate Finance&lt;/a&gt; by Ivo Welch&lt;/li&gt;
 &lt;li&gt;Investments by Bodie, Kane, and Marcus&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.core-econ.org/the-economy/&#34; target=&#34;_blank&#34;&gt;The Economy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.core-econ.org/the-economy/&#34;&gt;The Economy&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Introductory Econometrics: A Modern Approach by Wooldridge&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.mostlyharmlesseconometrics.com/&#34; target=&#34;_blank&#34;&gt;Mostly Harmless Econometrics: An Empiricist&amp;rsquo;s Companion&lt;/a&gt; by Angrist and Pischke&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mostlyharmlesseconometrics.com/&#34;&gt;Mostly Harmless Econometrics: An Empiricist&amp;rsquo;s Companion&lt;/a&gt; by Angrist and Pischke&lt;/li&gt;
 &lt;li&gt;The Misbehavior of Markets: A Fractal View of Financial Turbulence by Benoit Mandelbrot&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;investing&#34;&gt;Investing&lt;/h2&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Security Analysis (1940) by Graham and Dodd&lt;/li&gt;
 &lt;li&gt;The Intelligent Investor (1949) by Benjamin Graham&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://pages.stern.nyu.edu/~adamodar/New_Home_Page/invphil.htm&#34;&gt;Investing Philosophies by Aswath Damodaran&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Investing Philosophies by Aswath Damodaran&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
 &lt;li&gt;Active Portfolio Management: A Quantitative Approach for Providing Superior Returns and Controlling Risk by Grinold and Kahn&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;finance-history&#34;&gt;Finance History&lt;/h2&gt;
-
 &lt;ul&gt;
 &lt;li&gt;When Genius Failed: The Rise and Fall of Long Term Capital Management by Roger Lowenstein&lt;/li&gt;
 &lt;li&gt;Against the Gods: The Remarkable Story of Risk by Peter Bernstein&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;data-analysis&#34;&gt;Data Analysis&lt;/h2&gt;
-
 &lt;p&gt;Before using any statistical software or programming language, you should master Excel. It is the most common tool used in finance. You should also know a bit of VBA to automate repetitive tasks. Next, you should learn a more powerful tool for advanced analytics. I recommend R but Matlab, Octave, Python, SAS, or Stata are reasonable choices.&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://rc2e.com/&#34; target=&#34;_blank&#34;&gt;R Cookbook 2e&lt;/a&gt; by James (JD) Long and Paul Teetor&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://r4ds.had.co.nz/&#34; target=&#34;_blank&#34;&gt;R for Data Science&lt;/a&gt; by Garrett Grolemund and Hadley Wickham&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.datascienceatthecommandline.com/&#34; target=&#34;_blank&#34;&gt;Data Science at the Command Line&lt;/a&gt; by Jeroen Janssens&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rc2e.com/&#34;&gt;R Cookbook 2e&lt;/a&gt; by James (JD) Long and Paul Teetor&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://r4ds.had.co.nz/&#34;&gt;R for Data Science&lt;/a&gt; by Garrett Grolemund and Hadley Wickham&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.datascienceatthecommandline.com/&#34;&gt;Data Science at the Command Line&lt;/a&gt; by Jeroen Janssens&lt;/li&gt;
 &lt;li&gt;Python for Data Analysis by Wes McKinney&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://geocompr.robinlovelace.net/&#34; target=&#34;_blank&#34;&gt;Geocomputation with R&lt;/a&gt; by Robin Lovelace, Jakub Nowosad, and Jannes Muenchow&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://wlm.userweb.mwn.de/Stata/&#34; target=&#34;_blank&#34;&gt;Internet Guide to Stata&lt;/a&gt; by Wolfgang Ludwig-Mayerhofer&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://statweb.stanford.edu/~tibs/ElemStatLearn/&#34; target=&#34;_blank&#34;&gt;Elements of Statistical Learning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.stat.pitt.edu/stoffer/tsa4/&#34; target=&#34;_blank&#34;&gt;Time Series Analysis and Its Applications: With R Examples&lt;/a&gt; by Shumway and Stoffer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://geocompr.robinlovelace.net/&#34;&gt;Geocomputation with R&lt;/a&gt; by Robin Lovelace, Jakub Nowosad, and Jannes Muenchow&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wlm.userweb.mwn.de/Stata/&#34;&gt;Internet Guide to Stata&lt;/a&gt; by Wolfgang Ludwig-Mayerhofer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://statweb.stanford.edu/~tibs/ElemStatLearn/&#34;&gt;Elements of Statistical Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.stat.pitt.edu/stoffer/tsa4/&#34;&gt;Time Series Analysis and Its Applications: With R Examples&lt;/a&gt; by Shumway and Stoffer&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;advanced-finance&#34;&gt;Advanced Finance&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://faculty.chicagobooth.edu/john.cochrane/teaching/asset_pricing.htm&#34; target=&#34;_blank&#34;&gt;Asset Pricing&lt;/a&gt; by Cochrane&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://faculty.chicagobooth.edu/john.cochrane/teaching/asset_pricing.htm&#34;&gt;Asset Pricing&lt;/a&gt; by Cochrane&lt;/li&gt;
 &lt;li&gt;Financial Theory and Corporate Policy by Copeland, Weston, and Shastri&lt;/li&gt;
 &lt;li&gt;Handbook Of the Economics of Finance&lt;/li&gt;
 &lt;/ul&gt;
@@ -78,50 +65,37 @@
       <link>https://www.stephenrush.org/portal/library/code/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/portal/library/code/</guid>
-      <description>
-
-&lt;p&gt;My favorite tool for data analysis is the &lt;a href=&#34;http://www.r-project.org/&#34;&gt;R&lt;/a&gt; programming language because it has a great community, it is free, and it works on Windows, Mac, and Linux. I also highly recommend &lt;a href=&#34;http://www.rstudio.com/&#34;&gt;RStudio&lt;/a&gt; if you&amp;rsquo;re not into using &lt;a href=&#34;http://ess.r-project.org/&#34;&gt;ESS&lt;/a&gt; with &lt;a href=&#34;http://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt;. RStudio is great for academics because it also serves as a &lt;a href=&#34;http://www.latex-project.org/&#34;&gt;LaTeX&lt;/a&gt; editor so you can use one tool for your entire research project soup to nuts. Microsoft offers a paid support option for commercial use but there is a free and open source version.&lt;/p&gt;
-
-&lt;p&gt;I learned R on my own but I could not have done it without the help of sites like &lt;a href=&#34;http://stackoverflow.com/&#34;&gt;Stack Overflow&lt;/a&gt; and the outstanding R community. Before posting any questions on the web, please attempt to work the problem yourself so that people don&amp;rsquo;t waste their time answering questions that have already been explained. More succinct: &lt;a href=&#34;https://en.wikipedia.org/wiki/RTFM&#34;&gt;RTFM&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Students&lt;/strong&gt;: Download the pdf booklet &lt;a href=&#34;https://drive.google.com/open?id=1SkCbS24pVkJkVzZ2IjcT3E-RIV7WPXMd&#34;&gt;PDQ Finance&lt;/a&gt; and follow the directions to install R and RStudio.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Non-Students&lt;/strong&gt;: For minimal time investment, I suggest following some examples in the &lt;a href=&#34;https://eddelbuettel.github.io/gsir-te/Getting-Started-in-R.pdf&#34;&gt;Getting Started in R&lt;/a&gt; (tinyverse edition) guide by Saghir Bashir and Dirk Eddelbuettel. I also suggest creating a free account at &lt;a href=&#34;https://rstudio.cloud&#34;&gt;RStudio Cloud&lt;/a&gt; to get started without needing to install anything.&lt;/p&gt;
-
+      <description>&lt;p&gt;My favorite tool for data analysis is the &lt;!-- raw HTML omitted --&gt;R&lt;!-- raw HTML omitted --&gt; programming language because it has a great community, it is free, and it works on Windows, Mac, and Linux. I also highly recommend &lt;!-- raw HTML omitted --&gt;RStudio&lt;!-- raw HTML omitted --&gt; if you&amp;rsquo;re not into using &lt;!-- raw HTML omitted --&gt;ESS&lt;!-- raw HTML omitted --&gt; with &lt;!-- raw HTML omitted --&gt;Emacs&lt;!-- raw HTML omitted --&gt;. RStudio is great for academics because it also serves as a &lt;!-- raw HTML omitted --&gt;LaTeX&lt;!-- raw HTML omitted --&gt; editor so you can use one tool for your entire research project soup to nuts. Microsoft offers a paid support option for commercial use but there is a free and open source version.&lt;/p&gt;
+&lt;p&gt;I learned R on my own but I could not have done it without the help of sites like &lt;!-- raw HTML omitted --&gt;Stack Overflow&lt;!-- raw HTML omitted --&gt; and the outstanding R community. Before posting any questions on the web, please attempt to work the problem yourself so that people don&amp;rsquo;t waste their time answering questions that have already been explained. More succinct: &lt;!-- raw HTML omitted --&gt;RTFM&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Students&lt;/strong&gt;: Download the pdf booklet &lt;!-- raw HTML omitted --&gt;PDQ Finance&lt;!-- raw HTML omitted --&gt; and follow the directions to install R and RStudio.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Non-Students&lt;/strong&gt;: For minimal time investment, I suggest following some examples in the &lt;!-- raw HTML omitted --&gt;Getting Started in R&lt;!-- raw HTML omitted --&gt; (tinyverse edition) guide by Saghir Bashir and Dirk Eddelbuettel. I also suggest creating a free account at &lt;!-- raw HTML omitted --&gt;RStudio Cloud&lt;!-- raw HTML omitted --&gt; to get started without needing to install anything.&lt;/p&gt;
 &lt;h2 id=&#34;installation-and-introduction&#34;&gt;Installation and Introduction&lt;/h2&gt;
-
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.stephenrush.org/portal/library/cli/&#34;&gt;Command Line&lt;/a&gt; - some problems are best solved with command line tools rather than a programming language&lt;/li&gt;
-&lt;li&gt;&lt;a title=&#34;Emacs and ESS on OS X for Beginners&#34; href=&#34;http://stephenrush.wordpress.com/blog/emacs/&#34;&gt;Emacs and ESS&lt;/a&gt; on Mac&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://pandas.pydata.org/&#34;&gt;Pandas&lt;/a&gt; - financial data analysis in Python&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Emacs and ESS&lt;!-- raw HTML omitted --&gt; on Mac&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Pandas&lt;!-- raw HTML omitted --&gt; - financial data analysis in Python&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;econometrics&#34;&gt;Econometrics&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://stephenrush.wordpress.com/blog/ols/&#34;&gt;Regression in R&lt;/a&gt; - short command for ordinary least squares regression&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Regression in R&lt;!-- raw HTML omitted --&gt; - short command for ordinary least squares regression&lt;/li&gt;
 &lt;li&gt;Robust Regression in R&lt;/li&gt;
 &lt;li&gt;Quantile Regression in R&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stephenrush.wordpress.com/blog/bootstrap/&#34;&gt;Time-Series Bootstrap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Time-Series Bootstrap&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&#34;data-manipulation-presentation&#34;&gt;Data Manipulation &amp;amp; Presentation&lt;/h2&gt;
-
+&lt;h2 id=&#34;data-manipulation--presentation&#34;&gt;Data Manipulation &amp;amp; Presentation&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a title=&#34;Dashboards&#34; href=&#34;http://stephenrush.wordpress.com/blog/dashboards/&#34;&gt;Dashboards&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&#34;First Database in R&#34; href=&#34;http://stephenrush.wordpress.com/blog/rsqlite/&#34;&gt;Using a Database with R&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&#34;Two-way Sorting&#34; href=&#34;http://stephenrush.wordpress.com/blog/two-way-sorting/&#34;&gt;Two-Way Sorting&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://stephenrush.wordpress.com/blog/latex-template/&#34;&gt;LaTex Template&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Dashboards&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Using a Database with R&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Two-Way Sorting&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;LaTex Template&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;more-advanced-stuff&#34;&gt;More Advanced Stuff&lt;/h2&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Style Analysis in R&lt;/li&gt;
 &lt;li&gt;Fama-French Factor Model in R&lt;/li&gt;
-&lt;li&gt;&lt;a title=&#34;Pastor and Stambaugh Liquidity&#34; href=&#34;http://stephenrush.wordpress.com/blog/pastor-and-stambaugh-liquidity/&#34;&gt;Pastor and Stambaugh Liquidity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Pastor and Stambaugh Liquidity&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
 &lt;li&gt;Working in Volume Time / Event Time&lt;/li&gt;
-&lt;li&gt;&lt;a title=&#34;VPIN in R&#34; href=&#34;http://stephenrush.wordpress.com/blog/vpininr/&#34;&gt;Volume Synchronized Probability of Informed Trading&lt;/a&gt; (VPIN)&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Volume Synchronized Probability of Informed Trading&lt;!-- raw HTML omitted --&gt; (VPIN)&lt;/li&gt;
 &lt;li&gt;Probability and Performance Measurement&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -132,48 +106,37 @@
       <link>https://www.stephenrush.org/portal/library/data/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/portal/library/data/</guid>
-      <description>
-
-&lt;p&gt;There are many sources of data available but in my class and in your job, you must use primary sources. This means original data that has as little filtering as possible. This page includes other sources that are of comparable quality and reliability. They are free to access as you move from the university to your career.&lt;/p&gt;
-
+      <description>&lt;p&gt;There are many sources of data available but in my class and in your job, you must use primary sources. This means original data that has as little filtering as possible. This page includes other sources that are of comparable quality and reliability. They are free to access as you move from the university to your career.&lt;/p&gt;
 &lt;h2 id=&#34;macroeconomic-data&#34;&gt;Macroeconomic Data&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bis.org/index.htm&#34;&gt;Bank for International Settlements&lt;/a&gt; (BIS) – international banking statistics&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bea.gov/&#34;&gt;Bureau of Economic Analysis&lt;/a&gt; (BEA)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bls.gov/&#34;&gt;Bureau of Labor Statistics&lt;/a&gt; (BLS) – U.S. employment statistics&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.econ.yale.edu/~shiller/data.htm&#34;&gt;CAPE Ratio&lt;/a&gt; – Cyclically Adjusted Price/Earnings Ratio by Robert Shiller&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.conference-board.org/data/consumerdata.cfm&#34;&gt;Conference Board&lt;/a&gt; – consumer confidence data&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.businesscycle.com/home/&#34;&gt;Economic Cycle Research Institute&lt;/a&gt; (ECRI)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.eia.doe.gov/&#34;&gt;Energy Information Administration&lt;/a&gt; (EIA)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://fdic.gov/bank/analytical/qbp/index.html&#34;&gt;Federal Deposit Insurance Corporation&lt;/a&gt; (FDIC) - banking data&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://research.stlouisfed.org/fred2/&#34;&gt;Federal Reserve Economic Data&lt;/a&gt; (FRED) – macroeconomic data and interest rates&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.instituteforsupplymanagement.org/ISMReport&#34;&gt;Institute for Supply Management&lt;/a&gt; (ISM) - manufacturing activity&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://www.nber.org/&#34;&gt;National Bureau of Economic Research&lt;/a&gt; (NBER) – official U.S. recession periods&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.sca.isr.umich.edu/&#34;&gt;University of Michigan&lt;/a&gt; - consumer sentiment index&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.census.gov/retail/index.html&#34;&gt;U.S. Census Bureau&lt;/a&gt; - monthly retail trade report&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Bank for International Settlements&lt;!-- raw HTML omitted --&gt; (BIS) – international banking statistics&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Bureau of Economic Analysis&lt;!-- raw HTML omitted --&gt; (BEA)&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Bureau of Labor Statistics&lt;!-- raw HTML omitted --&gt; (BLS) – U.S. employment statistics&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;CAPE Ratio&lt;!-- raw HTML omitted --&gt; – Cyclically Adjusted Price/Earnings Ratio by Robert Shiller&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Conference Board&lt;!-- raw HTML omitted --&gt; – consumer confidence data&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Economic Cycle Research Institute&lt;!-- raw HTML omitted --&gt; (ECRI)&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Energy Information Administration&lt;!-- raw HTML omitted --&gt; (EIA)&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Federal Deposit Insurance Corporation&lt;!-- raw HTML omitted --&gt; (FDIC) - banking data&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Federal Reserve Economic Data&lt;!-- raw HTML omitted --&gt; (FRED) – macroeconomic data and interest rates&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Institute for Supply Management&lt;!-- raw HTML omitted --&gt; (ISM) - manufacturing activity&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;National Bureau of Economic Research&lt;!-- raw HTML omitted --&gt; (NBER) – official U.S. recession periods&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;University of Michigan&lt;!-- raw HTML omitted --&gt; - consumer sentiment index&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;U.S. Census Bureau&lt;!-- raw HTML omitted --&gt; - monthly retail trade report&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;market-data&#34;&gt;Market Data&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cboe.com/MktQuote/default.aspx&#34;&gt;Chicago Board Options Exchange&lt;/a&gt; (CBOE)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.cmegroup.com/&#34;&gt;Chicago Mercantile Exchange&lt;/a&gt; (CME) – delayed quotes on commodities&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://finra-markets.morningstar.com/MarketData&#34;&gt;FINRA Market Data&lt;/a&gt; – hosted by Morningstar&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.quandl.com/&#34;&gt;Quandl&lt;/a&gt; - platform for distributing free and proprietary data sets&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.sec.gov/edgar.shtml&#34;&gt;Securities and Exchange Commission&lt;/a&gt; (SEC) – EDGAR database of company filings / start with the 10-K for annual data and the 10-Q for quarterly data&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Chicago Board Options Exchange&lt;!-- raw HTML omitted --&gt; (CBOE)&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Chicago Mercantile Exchange&lt;!-- raw HTML omitted --&gt; (CME) – delayed quotes on commodities&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;FINRA Market Data&lt;!-- raw HTML omitted --&gt; – hosted by Morningstar&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Quandl&lt;!-- raw HTML omitted --&gt; - platform for distributing free and proprietary data sets&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Securities and Exchange Commission&lt;!-- raw HTML omitted --&gt; (SEC) – EDGAR database of company filings / start with the 10-K for annual data and the 10-Q for quarterly data&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;reseach-data&#34;&gt;Reseach Data&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html&#34;&gt;Fama-French Factors&lt;/a&gt; - asset pricing factors produced by Kenneth French&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://global-q.org&#34;&gt;q-Factor Model&lt;/a&gt; - asset pricing factors by Hou, Xue, and Zhang&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Fama-French Factors&lt;!-- raw HTML omitted --&gt; - asset pricing factors produced by Kenneth French&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;q-Factor Model&lt;!-- raw HTML omitted --&gt; - asset pricing factors by Hou, Xue, and Zhang&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;premium-data-sources&#34;&gt;Premium Data Sources&lt;/h2&gt;
-
 &lt;p&gt;These are some of the data sources you should expect to encounter in the industry. Any experience with the sources would be useful to mention in an interview.&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Bloomberg&lt;/li&gt;
 &lt;li&gt;FactSet&lt;/li&gt;
@@ -191,36 +154,29 @@
       <link>https://www.stephenrush.org/portal/library/media/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/portal/library/media/</guid>
-      <description>
-
-&lt;h2 id=&#34;television-news&#34;&gt;Television News&lt;/h2&gt;
-
+      <description>&lt;h2 id=&#34;television-news&#34;&gt;Television News&lt;/h2&gt;
 &lt;p&gt;In my opinion, news should have as little commentary as possible and focus on matters of importance rather than entertainment value. I also don&amp;rsquo;t think you should pay for a cable package to receive decent news. These sources keep you informed without attempting to elicit an emotional reaction.&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/user/PBSNewsHour/featured&#34;&gt;PBS Newshour&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.pbs.org/wgbh/frontline/&#34; target=&#34;_blank&#34;&gt;Frontline&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;PBS Newshour&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pbs.org/wgbh/frontline/&#34;&gt;Frontline&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;blogs-and-magazines&#34;&gt;Blogs and Magazines&lt;/h2&gt;
-
 &lt;p&gt;These magazines and blogs are not unbiased and may publish bad information but there is enough relevant content for me to recommend them here. Clearly, some should be taken more seriously than others. Many of the traditional print media sources here can be accessed with an RSS reader rather than paying for a print subscription.&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.bloomberg.com/radio/&#34;&gt;Bloomberg Radio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://research.gluskinsheff.com/&#34;&gt;Breakfast with Dave&lt;/a&gt; by David Rosenberg - daily macro economic analysis newsletter&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.econtalk.org/&#34;&gt;EconTalk&lt;/a&gt; - Blog and Podcast&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.foreignaffairs.com/&#34;&gt;Foreign Affairs&lt;/a&gt; - If you want to know what key policy makers think about foreign policy, read this one.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.foreignpolicy.com/&#34;&gt;Foreign Policy&lt;/a&gt; - excellent global coverage&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://fortune.com/gettermsheet/&#34;&gt;Fortune Term Sheet&lt;/a&gt; by Dan Primack - daily email about financial deals&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.economist.com/blogs/freeexchange&#34;&gt;Free Exchange&lt;/a&gt; - additional shorter form articles from The Economist for free&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.npr.org/blogs/money/&#34;&gt;Planet Money&lt;/a&gt; on NPR&lt;/li&gt;
-&lt;li&gt;Sci-Hub (&lt;a href=&#34;https://wadauk.github.io/scihub_ck/index.html&#34;&gt;Links&lt;/a&gt;) – open access to academic papers&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://tabbforum.com/&#34;&gt;TabbFORUM&lt;/a&gt; - market focused and a decent source for microstructure information&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.economist.com/&#34;&gt;The Economist&lt;/a&gt; - If you only read one news source, this is the one to read. Most university libraries provide The Economist for free although a personal subscription is more convenient.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://online.wsj.com&#34;&gt;The Wall Street Journal&lt;/a&gt; - This is still the newspaper of record for U.S. business although I would not recommend reading it on a regular basis.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCpwosulQ7IOBHCCnl7kWYwA&#34;&gt;YouTube&lt;/a&gt; - there are some really great lectures available for free. I have links to a few on my channel.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.zerohedge.com/&#34;&gt;Zero Hedge&lt;/a&gt; - more entertainment than serious analysis (be very skeptical of content posted here)&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Bloomberg Radio&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Breakfast with Dave&lt;!-- raw HTML omitted --&gt; by David Rosenberg - daily macro economic analysis newsletter&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;EconTalk&lt;!-- raw HTML omitted --&gt; - Blog and Podcast&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Foreign Affairs&lt;!-- raw HTML omitted --&gt; - If you want to know what key policy makers think about foreign policy, read this one.&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Foreign Policy&lt;!-- raw HTML omitted --&gt; - excellent global coverage&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Fortune Term Sheet&lt;!-- raw HTML omitted --&gt; by Dan Primack - daily email about financial deals&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Free Exchange&lt;!-- raw HTML omitted --&gt; - additional shorter form articles from The Economist for free&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Planet Money&lt;!-- raw HTML omitted --&gt; on NPR&lt;/li&gt;
+&lt;li&gt;Sci-Hub (&lt;!-- raw HTML omitted --&gt;Links&lt;!-- raw HTML omitted --&gt;) – open access to academic papers&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;TabbFORUM&lt;!-- raw HTML omitted --&gt; - market focused and a decent source for microstructure information&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;The Economist&lt;!-- raw HTML omitted --&gt; - If you only read one news source, this is the one to read. Most university libraries provide The Economist for free although a personal subscription is more convenient.&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;The Wall Street Journal&lt;!-- raw HTML omitted --&gt; - This is still the newspaper of record for U.S. business although I would not recommend reading it on a regular basis.&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;YouTube&lt;!-- raw HTML omitted --&gt; - there are some really great lectures available for free. I have links to a few on my channel.&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Zero Hedge&lt;!-- raw HTML omitted --&gt; - more entertainment than serious analysis (be very skeptical of content posted here)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -230,12 +186,8 @@
       <link>https://www.stephenrush.org/portal/library/movies/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/portal/library/movies/</guid>
-      <description>
-
-&lt;p&gt;These are movies that are important to finance culture or have some interesting finance content. Plenty of other movies take place around finance but have little relevant content.&lt;/p&gt;
-
+      <description>&lt;p&gt;These are movies that are important to finance culture or have some interesting finance content. Plenty of other movies take place around finance but have little relevant content.&lt;/p&gt;
 &lt;h2 id=&#34;finance-movies&#34;&gt;Finance Movies&lt;/h2&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Betting on Zero (2016) Documentary about Bill Ackman shorting stock in Herbalife for Pershing Square.&lt;/li&gt;
 &lt;li&gt;The Big Short (2015) Entertaining take on the mortgage crisis&lt;/li&gt;
@@ -244,14 +196,12 @@
 &lt;li&gt;Inside Job (2010) Documentary covering many aspects of the 2008 financial crisis&lt;/li&gt;
 &lt;li&gt;Enron: The Smartest Guys in the Room (2005) Documentary about the fall of energy trading firm Enron&lt;/li&gt;
 &lt;li&gt;Boiler Room (2000) Portrays a &amp;ldquo;pump-and-dump&amp;rdquo; brokerage firm&lt;/li&gt;
-&lt;li&gt;Rogue Trader (1999) Based on the true story of Nick Leeson who brought down &lt;a href=&#34;http://en.wikipedia.org/wiki/Barings_Bank&#34; target=&#34;_blank&#34;&gt;Barings Bank&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Rogue Trader (1999) Based on the true story of Nick Leeson who brought down &lt;a href=&#34;http://en.wikipedia.org/wiki/Barings_Bank&#34;&gt;Barings Bank&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Other People&amp;rsquo;s Money (1991) Comedy about a corporate raid in the 1980&amp;rsquo;s&lt;/li&gt;
 &lt;li&gt;Wall Street (1987) Portrays insider trading and corporate takeover; includes the famous &amp;ldquo;Greed is Good&amp;rdquo; speech&lt;/li&gt;
 &lt;li&gt;Trading Places (1983) classic comedy that involves futures trading on the Chicago Mercantile Exchange&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;business&#34;&gt;Business&lt;/h2&gt;
-
 &lt;ul&gt;
 &lt;li&gt;American Factory (2019) Documentary about a Chinese firm that purchases and operates a glass factory in Ohio&lt;/li&gt;
 &lt;/ul&gt;
@@ -263,63 +213,54 @@
       <link>https://www.stephenrush.org/portal/library/podcasts/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/portal/library/podcasts/</guid>
-      <description>
-
-&lt;p&gt;These are conversations and news stories that supplement my course content. Most are about 60 minutes long and will play in any web browser.&lt;/p&gt;
-
+      <description>&lt;p&gt;These are conversations and news stories that supplement my course content. Most are about 60 minutes long and will play in any web browser.&lt;/p&gt;
 &lt;h2 id=&#34;econtalk-podcasts&#34;&gt;EconTalk Podcasts&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.econtalk.org/&#34; target=&#34;_blank&#34;&gt;EconTalk&lt;/a&gt; is a great resource for long-form conversations related to economics. The website often contains additional information for those interested in the weekly episodes. I have listed the episodes that I have found most useful for teaching.&lt;/p&gt;
-
+&lt;p&gt;&lt;a href=&#34;https://www.econtalk.org/&#34;&gt;EconTalk&lt;/a&gt; is a great resource for long-form conversations related to economics. The website often contains additional information for those interested in the weekly episodes. I have listed the episodes that I have found most useful for teaching.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2015/06/nathaniel_poppe.html&#34;&gt;Nathaniel Popper on Bitcoin and Digital Gold&lt;/a&gt; (8 June 2015)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2014/05/gavin_andresen.html&#34;&gt;The Present and Future of Bitcoin&lt;/a&gt; (5 May 2014)&lt;br&gt;
+&lt;li&gt;EconTalk: &lt;!-- raw HTML omitted --&gt;Nathaniel Popper on Bitcoin and Digital Gold&lt;!-- raw HTML omitted --&gt; (8 June 2015)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;!-- raw HTML omitted --&gt;The Present and Future of Bitcoin&lt;!-- raw HTML omitted --&gt; (5 May 2014)&lt;!-- raw HTML omitted --&gt;
 Gavin Andresen: Chief Scientist of the BitCoin Foundation&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2013/10/calvo_on_the_cr.html&#34;&gt;Calvo on the Crisis, Money, and Macro&lt;/a&gt; (21 October 2013)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2013/04/admati_on_bank.html&#34;&gt;Admati on Bank Regulation and the Bankers&amp;rsquo; New Clothes&lt;/a&gt; (8 April 2013)&lt;br&gt;
+&lt;li&gt;EconTalk: &lt;!-- raw HTML omitted --&gt;Calvo on the Crisis, Money, and Macro&lt;!-- raw HTML omitted --&gt; (21 October 2013)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;!-- raw HTML omitted --&gt;Admati on Bank Regulation and the Bankers&amp;rsquo; New Clothes&lt;!-- raw HTML omitted --&gt; (8 April 2013)&lt;!-- raw HTML omitted --&gt;
 A brief description of how banks work and the incentives that promote the use of debt.&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2012/03/calomiris_on_ca.html&#34;&gt;Calomiris on Capital Requirements, Leverage, and Financial Regulation&lt;/a&gt; (5 March 2012)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2012/01/fama_on_finance.html&#34;&gt;Fama on Finance&lt;/a&gt; (30 January 2012)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2011/11/simon_johnson_o.html&#34;&gt;Simon Johnson on the Financial Crisis&lt;/a&gt; (28 November 2011)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2011/06/eichengreen_on.html&#34;&gt;Eichengreen on the Dollar and International Finance&lt;/a&gt; (6 June 2011)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2011/03/vincent_reinhar.html&#34;&gt;Bear Stearns, Lehman Brothers, and the Financial Crisis&lt;/a&gt; (28 March 2011)&lt;br&gt;
+&lt;li&gt;EconTalk: &lt;!-- raw HTML omitted --&gt;Calomiris on Capital Requirements, Leverage, and Financial Regulation&lt;!-- raw HTML omitted --&gt; (5 March 2012)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;!-- raw HTML omitted --&gt;Fama on Finance&lt;!-- raw HTML omitted --&gt; (30 January 2012)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;!-- raw HTML omitted --&gt;Simon Johnson on the Financial Crisis&lt;!-- raw HTML omitted --&gt; (28 November 2011)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;!-- raw HTML omitted --&gt;Eichengreen on the Dollar and International Finance&lt;!-- raw HTML omitted --&gt; (6 June 2011)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;!-- raw HTML omitted --&gt;Bear Stearns, Lehman Brothers, and the Financial Crisis&lt;!-- raw HTML omitted --&gt; (28 March 2011)&lt;!-- raw HTML omitted --&gt;
 Vincent Reinhart describes how off balance sheet entities can affect the riskiness of banks&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2010/05/taleb_on_black_1.html&#34;&gt;Taleb on Black Swans, Fragility, and Mistakes&lt;/a&gt; (3 May 2010)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2009/10/gary_stern_on_t.html&#34;&gt;Gary Stern on Too Big to Fail&lt;/a&gt; (5 October 2009)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2009/02/meltzer_on_infl.html&#34;&gt;Meltzer on Inflation&lt;/a&gt; (23 February 2009)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2008/09/kling_on_freddi.html&#34;&gt;Kling on Freddie and Fannie and the Recent History of the U.S. Housing Market&lt;/a&gt; (29 September 2008)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2008/09/shiller_on_hous.html&#34;&gt;Shiller on Housing and Bubbles&lt;/a&gt; (15 September 2008)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2008/05/meltzer_on_the.html&#34;&gt;Meltzer on the Fed, Money, and Gold&lt;/a&gt; (19 May 2008)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2007/04/taleb_on_black.html&#34;&gt;Taleb on Black Swans&lt;/a&gt; (30 April 2007)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2006/08/milton_friedman.html&#34;&gt;Milton Friedman on Money&lt;/a&gt; - Part 1 (28 August 2006)&lt;br&gt;
-EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2006/09/friedman_on_cap_1.html&#34;&gt;Friedman on Capitalism and Freedom&lt;/a&gt; - Part 2 (4 September 2006)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;!-- raw HTML omitted --&gt;Taleb on Black Swans, Fragility, and Mistakes&lt;!-- raw HTML omitted --&gt; (3 May 2010)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;!-- raw HTML omitted --&gt;Gary Stern on Too Big to Fail&lt;!-- raw HTML omitted --&gt; (5 October 2009)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;!-- raw HTML omitted --&gt;Meltzer on Inflation&lt;!-- raw HTML omitted --&gt; (23 February 2009)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;!-- raw HTML omitted --&gt;Kling on Freddie and Fannie and the Recent History of the U.S. Housing Market&lt;!-- raw HTML omitted --&gt; (29 September 2008)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;!-- raw HTML omitted --&gt;Shiller on Housing and Bubbles&lt;!-- raw HTML omitted --&gt; (15 September 2008)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;!-- raw HTML omitted --&gt;Meltzer on the Fed, Money, and Gold&lt;!-- raw HTML omitted --&gt; (19 May 2008)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;!-- raw HTML omitted --&gt;Taleb on Black Swans&lt;!-- raw HTML omitted --&gt; (30 April 2007)&lt;/li&gt;
+&lt;li&gt;EconTalk: &lt;!-- raw HTML omitted --&gt;Milton Friedman on Money&lt;!-- raw HTML omitted --&gt; - Part 1 (28 August 2006)&lt;!-- raw HTML omitted --&gt;
+EconTalk: &lt;!-- raw HTML omitted --&gt;Friedman on Capitalism and Freedom&lt;!-- raw HTML omitted --&gt; - Part 2 (4 September 2006)&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;video-documentaries&#34;&gt;Video Documentaries&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;Bloomberg: &lt;a href=&#34;http://www.bloomberg.com/news/videos/b/c59d9908-fae7-47be-8fb8-478def9e37a8&#34;&gt;Eugene Fama and Cliff Asness Discuss Efficient Markets&lt;/a&gt; (15 April 2016)&lt;br&gt;
+&lt;li&gt;Bloomberg: &lt;!-- raw HTML omitted --&gt;Eugene Fama and Cliff Asness Discuss Efficient Markets&lt;!-- raw HTML omitted --&gt; (15 April 2016)&lt;!-- raw HTML omitted --&gt;
 Only 11 minutes 30 seconds&lt;/li&gt;
-&lt;li&gt;CNBC: &lt;a href=&#34;http://video.cnbc.com/gallery/?video=3000263252&#34;&gt;Market Microstructure Issues&lt;/a&gt; (1 April 2014)&lt;br&gt;
+&lt;li&gt;CNBC: &lt;!-- raw HTML omitted --&gt;Market Microstructure Issues&lt;!-- raw HTML omitted --&gt; (1 April 2014)&lt;!-- raw HTML omitted --&gt;
 William O&amp;rsquo;Brien, Brad Katsuyama, and Michael Lewis&lt;/li&gt;
-&lt;li&gt;VPRO International: &lt;a href=&#34;http://youtu.be/kFQJNeQDDHA&#34;&gt;The Wall Street Code&lt;/a&gt; (4 November 2013)&lt;/li&gt;
-&lt;li&gt;VPRO International: &lt;a href=&#34;http://youtu.be/aq1Ln1UCoEU&#34;&gt;Money and Speed: Inside the Black Box&lt;/a&gt; (31 January 2011)&lt;/li&gt;
-&lt;li&gt;Nova: &lt;a href=&#34;http://youtu.be/tsZRndV5lIc&#34;&gt;The Trillion Dollar Bet&lt;/a&gt; (8 February 2000)&lt;/li&gt;
+&lt;li&gt;VPRO International: &lt;!-- raw HTML omitted --&gt;The Wall Street Code&lt;!-- raw HTML omitted --&gt; (4 November 2013)&lt;/li&gt;
+&lt;li&gt;VPRO International: &lt;!-- raw HTML omitted --&gt;Money and Speed: Inside the Black Box&lt;!-- raw HTML omitted --&gt; (31 January 2011)&lt;/li&gt;
+&lt;li&gt;Nova: &lt;!-- raw HTML omitted --&gt;The Trillion Dollar Bet&lt;!-- raw HTML omitted --&gt; (8 February 2000)&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;frontline-documentaries&#34;&gt;Frontline Documentaries&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/money-power-wall-street/&#34;&gt;Money, Power, and Wall Street&lt;/a&gt; (24 April 2012)&lt;br&gt;
+&lt;li&gt;Frontline: &lt;!-- raw HTML omitted --&gt;Money, Power, and Wall Street&lt;!-- raw HTML omitted --&gt; (24 April 2012)&lt;!-- raw HTML omitted --&gt;
 Four-part series on the financial crisis.&lt;/li&gt;
-&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/creditcards/view/&#34;&gt;The Card Game&lt;/a&gt; (24 November 2009)&lt;/li&gt;
-&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/warning/view/&#34;&gt;The Warning&lt;/a&gt; (20 October 2009)&lt;br&gt;
+&lt;li&gt;Frontline: &lt;!-- raw HTML omitted --&gt;The Card Game&lt;!-- raw HTML omitted --&gt; (24 November 2009)&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;!-- raw HTML omitted --&gt;The Warning&lt;!-- raw HTML omitted --&gt; (20 October 2009)&lt;!-- raw HTML omitted --&gt;
 The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt;/li&gt;
-&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/breakingthebank/view/&#34;&gt;Breaking the Bank&lt;/a&gt; - Bank of America and Merrill Lynch (16 June 2009)&lt;/li&gt;
-&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/madoff/view/?autoplay&#34;&gt;The Madoff Affair&lt;/a&gt; (12 May 2009)&lt;/li&gt;
-&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/tentrillion/view/&#34;&gt;Ten Trillion and Counting&lt;/a&gt; (24 March 2009)&lt;/li&gt;
-&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/meltdown/view/&#34;&gt;Inside the Meltdown&lt;/a&gt;&amp;nbsp;(17 February 2009)&lt;/li&gt;
-&lt;li&gt;Frontline: &lt;a href=&#34;http://www.pbs.org/wgbh/pages/frontline/shows/credit/view/&#34;&gt;Secret History of the Credit Card&lt;/a&gt; (23 November 2004)&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;!-- raw HTML omitted --&gt;Breaking the Bank&lt;!-- raw HTML omitted --&gt; - Bank of America and Merrill Lynch (16 June 2009)&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;!-- raw HTML omitted --&gt;The Madoff Affair&lt;!-- raw HTML omitted --&gt; (12 May 2009)&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;!-- raw HTML omitted --&gt;Ten Trillion and Counting&lt;!-- raw HTML omitted --&gt; (24 March 2009)&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;!-- raw HTML omitted --&gt;Inside the Meltdown&lt;!-- raw HTML omitted --&gt; (17 February 2009)&lt;/li&gt;
+&lt;li&gt;Frontline: &lt;!-- raw HTML omitted --&gt;Secret History of the Credit Card&lt;!-- raw HTML omitted --&gt; (23 November 2004)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -329,35 +270,27 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
       <link>https://www.stephenrush.org/portal/library/university-resources/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/portal/library/university-resources/</guid>
-      <description>
-
-&lt;h2 id=&#34;bowling-green-state-university&#34;&gt;Bowling Green State University&lt;/h2&gt;
-
+      <description>&lt;h2 id=&#34;bowling-green-state-university&#34;&gt;Bowling Green State University&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Bloomberg - only accessible from the terminal in the Finance Trading Lab in Room 2004 of the College of Business. Open the Bloomberg application; not the website.&lt;/li&gt;
-&lt;li&gt;The Economist magazine - &lt;a href=&#34;http://maurice.bgsu.edu.ezproxy.bgsu.edu:8080/record=b1010158~S9&#34;&gt;print edition&lt;/a&gt; only available in the library&lt;/li&gt;
-&lt;li&gt;Foreign Affairs magazine&lt;/strong&gt; – &lt;a href=&#34;http://web.b.ebscohost.com.ezproxy.bgsu.edu:8080/ehost/command/detail?vid=0&amp;amp;sid=9ee317de-f36b-4eb0-b9c3-34d0c5ae41df%40sessionmgr120&amp;amp;bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#jid=FAF&amp;amp;db=a9h&#34;&gt;online access&lt;/a&gt; through the library&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.bgsu.edu/library/collab-lab/laptop-loan.html&#34;&gt;Laptop Loan&lt;/a&gt; - students with financial aid can receive a laptop for an academic year&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ezproxy.bgsu.edu:8080/login?url=http://na.capitaliq.com/ip/BGSUV&#34;&gt;Standard and Poor&amp;rsquo;s Capital IQ NetAdvantage&lt;/a&gt; - available online through the library&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.bgsu.edu/learning-commons/subject-tutoring.html&#34;&gt;Tutors&lt;/a&gt; - available for free with request through the Learning Commons&lt;/li&gt;
-&lt;li&gt;The Wall Street Journal - &lt;a href=&#34;https://search-proquest-com.ezproxy.bgsu.edu:9443/publication/105983&#34;&gt;online access&lt;/a&gt; through the library&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blogs.bgsu.edu&#34;&gt;Wordpress&lt;/a&gt; - free blog platform with no ads for students and faculty&lt;/li&gt;
+&lt;li&gt;The Economist magazine - &lt;!-- raw HTML omitted --&gt;print edition&lt;!-- raw HTML omitted --&gt; only available in the library&lt;/li&gt;
+&lt;li&gt;Foreign Affairs magazine&lt;!-- raw HTML omitted --&gt; – &lt;!-- raw HTML omitted --&gt;online access&lt;!-- raw HTML omitted --&gt; through the library&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Laptop Loan&lt;!-- raw HTML omitted --&gt; - students with financial aid can receive a laptop for an academic year&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Standard and Poor&amp;rsquo;s Capital IQ NetAdvantage&lt;!-- raw HTML omitted --&gt; - available online through the library&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Tutors&lt;!-- raw HTML omitted --&gt; - available for free with request through the Learning Commons&lt;/li&gt;
+&lt;li&gt;The Wall Street Journal - &lt;!-- raw HTML omitted --&gt;online access&lt;!-- raw HTML omitted --&gt; through the library&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Wordpress&lt;!-- raw HTML omitted --&gt; - free blog platform with no ads for students and faculty&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;tianjin-polytechnic-university-天津工业大学&#34;&gt;Tianjin Polytechnic University, 天津工业大学&lt;/h2&gt;
-
 &lt;h2 id=&#34;university-of-connecticut&#34;&gt;University of Connecticut&lt;/h2&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Bloomberg - top floor of the Business School&lt;/li&gt;
-&lt;li&gt;The Economist magazine - &lt;a href=&#34;http://search.proquest.com.ezproxy.lib.uconn.edu/publication/366256&#34;&gt;online access&lt;/a&gt; through the library&lt;/li&gt;
-&lt;li&gt;Foreign Affairs magazine – &lt;a href=&#34;http://search.proquest.com.ezproxy.lib.uconn.edu/publication/40670&#34;&gt;online access&lt;/a&gt; through the library&lt;/li&gt;
-&lt;li&gt;Foreign Policy magazine – &lt;a href=&#34;http://search.proquest.com.ezproxy.lib.uconn.edu/publication/47510&#34;&gt;online access&lt;/a&gt; through the library&lt;a href=&#34;http://search.proquest.com.ezproxy.lib.uconn.edu/publication/47510&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;The Wall Street Journal - &lt;a href=&#34;http://search.proquest.com.ezproxy.lib.uconn.edu/publication/105983&#34;&gt;online access&lt;/a&gt; through the library&lt;/li&gt;
+&lt;li&gt;The Economist magazine - &lt;!-- raw HTML omitted --&gt;online access&lt;!-- raw HTML omitted --&gt; through the library&lt;/li&gt;
+&lt;li&gt;Foreign Affairs magazine – &lt;!-- raw HTML omitted --&gt;online access&lt;!-- raw HTML omitted --&gt; through the library&lt;/li&gt;
+&lt;li&gt;Foreign Policy magazine – &lt;!-- raw HTML omitted --&gt;online access&lt;!-- raw HTML omitted --&gt; through the library&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;The Wall Street Journal - &lt;!-- raw HTML omitted --&gt;online access&lt;!-- raw HTML omitted --&gt; through the library&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;university-of-economics-and-law-vietnam&#34;&gt;University of Economics and Law, Vietnam&lt;/h2&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Reuters Terminal - only accessible from the terminals on the top floor&lt;/li&gt;
 &lt;/ul&gt;
@@ -369,62 +302,78 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
       <link>https://www.stephenrush.org/portal/library/personal-finance/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/portal/library/personal-finance/</guid>
-      <description>
-
-&lt;p&gt;I teach investments, portfolio management, and corporate finance but many people are more interested in personal finance. Here are some thoughts on budgets, using debt, paying off debt, student loans/college, and investing.&lt;/p&gt;
-
+      <description>&lt;p&gt;I teach investments, portfolio management, and corporate finance but many people are more interested in personal finance. Here are some thoughts on budgets, using debt, paying off debt, student loans/college, and investing.&lt;/p&gt;
 &lt;h2 id=&#34;budgeting&#34;&gt;Budgeting&lt;/h2&gt;
-
 &lt;p&gt;Budgeting combines so many personal priorities that one set of guidelines will not work for everyone. I can offer some principles that would benefit most people.&lt;/p&gt;
-
 &lt;ol&gt;
 &lt;li&gt;Adjust anything necessary to save 3 months of income as soon as possible. This allows you to deal with emergencies that might interfere with your normal income or provide time to search for another job in the event of a layoff.&lt;/li&gt;
 &lt;li&gt;Max out your 401k plan if offered at your company. Company matching funds are lost forever if you don&amp;rsquo;t qualify and your contributions lower your taxable income. Saving early is more important than paying off your debt because your rate of return will likely be higher on your retirement savings than on your long-term debt.&lt;/li&gt;
 &lt;li&gt;Now we focus on paying off debt. Take a look at my suggestions below. There are no shortcuts but there are more efficient and less efficient ways of getting it done.&lt;/li&gt;
 &lt;li&gt;Identify your life priorities. While steps 1-3 are universal, what comes next depends on what you value. Maybe charitable giving or church tithing is important. Maybe traveling to visit friends and family is essential to your life. Be honest with yourself about &amp;ldquo;needs&amp;rdquo; and &amp;ldquo;wants&amp;rdquo;. Everyone would prefer not to have a roommate. Maybe this is a sacrifice necessary to afford to visit your family.&lt;/li&gt;
 &lt;li&gt;I find that eliminating &amp;ldquo;aspirational purchases&amp;rdquo; is a good start. Do not buy anything where you would change to incorporate the purchase into your life. Only purchase things that fit into your current schedule/priorities. Find self-improvement opportunities that do not require more resources.&lt;/li&gt;
-&lt;li&gt;Find ways of redistributing the things that make you happy. I like good food, but rather than spending money on casual dining, I get more satisfaction from rare visits to good restaurants while eating plain food through the work week. This also helps fight against the &lt;a href=&#34;https://en.wikipedia.org/wiki/Hedonic_treadmill&#34;&gt;hedonic treadmill&lt;/a&gt; or the tendency to adapt to lifestyle improvements and receive less satisfaction from things that brought happiness in the past.&lt;/li&gt;
+&lt;li&gt;Find ways of redistributing the things that make you happy. I like good food, but rather than spending money on casual dining, I get more satisfaction from rare visits to good restaurants while eating plain food through the work week. This also helps fight against the &lt;!-- raw HTML omitted --&gt;hedonic treadmill&lt;!-- raw HTML omitted --&gt; or the tendency to adapt to lifestyle improvements and receive less satisfaction from things that brought happiness in the past.&lt;/li&gt;
 &lt;li&gt;Consider the life-cycle of the consumer products you buy. Fashion and quality may result in a lower lifetime cost for a slightly more expensive item or it may just be a markup. This can have a big impact on clothing and consumer electronic purchases. Sometimes, the inverse is true. The cheapest option may be good enough. Clothes usually last much longer than you really want to wear them.&lt;/li&gt;
 &lt;li&gt;Constantly reassess your life priorities starting from scratch. This helps to remind you of the importance of your current life choices and to place new choices in perspective.&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;h2 id=&#34;managing-debt&#34;&gt;Managing Debt&lt;/h2&gt;
-
 &lt;p&gt;Credit cards are not bad if you pay off the debt within the same month. Credit cards often offer good fraud protection and may have features that benefit travelers. However, the interest rates are too high to carry a balance over several months and having multiple credit cards increases the likelihood that you will spend beyond your means. If the psychological pressure is too much to spend within your budget, then get rid of the credit cards.&lt;/p&gt;
-
 &lt;p&gt;Debt should not be longer than the useful life of whatever you buy. Most things people buy with a credit card do not have long useful lives which is another reason not to carry a balance on your credit card.&lt;/p&gt;
-
 &lt;p&gt;Debt that is tax deductible ends up being much cheaper than other types of debt. Your mortgage should be the last debt that you pay off because mortgage interest lowers your taxable income. Choosing to live in an apartment is often more expensive on an after tax basis but it is easier to move and possibly take a better job. Consider several local career opportunities for you and your partner before buying a house in a new area.&lt;/p&gt;
-
 &lt;h2 id=&#34;paying-off-debt&#34;&gt;Paying off Debt&lt;/h2&gt;
-
 &lt;p&gt;There are two dominant factors in finance. One is the mathematics that maximizes your wealth while the other is the psychology that allows you to make good financial decisions. Paying down debt puts these two factors at odds with each other.&lt;/p&gt;
-
 &lt;p&gt;Mathematically, the fastest way to pay off debt is to start with the highest after tax interest and longest term debt first and work down to the lowest after tax debt and shortest term debt. This is sometimes referred to as the debt avalanche and it works because of a concept called amortization. Your payments contain both principle and interest but the proportions change over the life of the loan. Early payments are mostly interest with a little bit of principle while the last payments are almost entirely principle with a small amount of interest. Making additional early payments has a larger decrease in the total amount you will pay on the loan because it reduces principle much faster than the amortization schedule.&lt;/p&gt;
-
 &lt;p&gt;Psychologically, people need to maintain their motivation over long periods of time to pay off debt. It is easy to become mentally fatigued and to question whether the sacrifices to your quality of life are actually benefiting you. Dave Ramsey has built a massive following by promoting his &amp;ldquo;debt snowball&amp;rdquo; which involves paying off small debts first. Many people find this approach useful because of the psychological feedback that provides you with more motivation to continue to sacrifice now for longer-term gain. These two approaches may not even be in conflict if the small debts are credit card debts that usually have the highest interest rates. The problem is that everyone&amp;rsquo;s finances are different and one approach is not necessarily correct for everyone. Furthermore, using all of your discretionary income to pay off debt may cause you to overlook other financial opportunities such as networking events and the ability to move that can lead to better jobs or promotions.&lt;/p&gt;
-
 &lt;h2 id=&#34;student-loans&#34;&gt;Student Loans&lt;/h2&gt;
-
 &lt;p&gt;Let me first explain my college experience and then offer some general advice. I could not afford college after high school. I joined the Marine Corps initially to get money for college and stayed for an additional few years to increase my savings. When I was ready to leave active duty and go to school, the government involuntarily extended my contract due to the 9 / 11 terrorist attacks and subsequent war in Afghanistan. Nearly two years later, I was permitted to leave active duty. I joined the reserves, used my weekend reserve paycheck, my G.I. Bill benefits (before the revised G.I. Bill), and got a part-time job at Starbucks in order to receive healthcare. (At the time, Starbucks was one of the few companies offering healthcare to employees working at least 20 hours per week.) This allowed me to afford to attend Rhode Island College on a full-time basis.&lt;/p&gt;
-
 &lt;p&gt;I decided to study finance rather than music because I knew I needed to support myself after school and I didn&amp;rsquo;t have the option to go live with my parents. I attended the state college for 3 semesters and I took as many general education classes and introduction classes as I could that would easily transfer to another university. I maintained a 3.95 / 4 GPA which I used to apply to the local private business school, Bryant University. Bryant offered a $10,000/year scholarship and I was able to graduate after 4 semesters at Bryant with a double major in finance and economics in the honors program while taking two years of Chinese.&lt;/p&gt;
-
 &lt;p&gt;Despite the academic scholarship from Bryant, I used my entire G.I. Bill, Marine Corps Reserve paycheck, my Starbucks paycheck, and still needed student loans. I understand that I was lucky to have those opportunities and everyone cannot possibly repeat my experience simply by working harder. I should also note that despite my academic achievement, many companies did not want to hire me because they were concerned that I would be deployed. I received many opportunities to interview but my peers that I had tutored received multiple offers while my first offer only came after I separated from the reserves. I believe that the attitude towards veterans has improved in corporate America but there is a substantial difference between the &amp;ldquo;Thank You for Your Service&amp;rdquo; platitudes and the actual hiring practices.&lt;/p&gt;
-
 &lt;p&gt;I could have decided to stay at Rhode Island College although the opportunities and quality of education were not equivalent to Bryant University. Opportunities are only valuable if used and I believe many other students at Bryant would be better off going to the state college. At the time I did not intend to get a masters degree. A better path would have been to graduate from the state college and go to a better university for my masters program although it is uncertain whether I would have been accepted in the same masters program.&lt;/p&gt;
-
-&lt;p&gt;What should you do? First, identify whether you simply want a college degree or whether you need a marketable skill to survive. Americans do not like to talk about class because it conflicts with our ideal of equal opportunity and meritocracy. Be honest with yourself about what you need to survive and what you are willing to sacrifice when you choose a college major. Every program at every college has alumni that they can use as examples of success. What you need is hard data on the percentage of students for a given program that get entry level jobs that pay enough to pay off student loans in a few years (not 10 years) and provide a minimal standard of living. Unfortunately, this eliminates many liberal arts programs at non-prestigious universities. You should also utilize data such as the &lt;a href=&#34;https://collegescorecard.ed.gov/&#34;&gt;U.S. Department of Education College Scorecard&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;As a college professor, I would also suggest that you consider not going to college. Watch &lt;a href=&#34;https://youtu.be/CVEuPmVAb8o&#34;&gt;this video&lt;/a&gt; by &amp;ldquo;Dirty Jobs&amp;rdquo; host, Mike Rowe. I don&amp;rsquo;t mean to in any way minimize the value of learning but universities are not the only places to learn. Get a library card and read. Consider certificate programs but only if they have a proven career benefit. (There are lots of useless certificates and online programs out there.) Professors do not have a monopoly on knowledge but they usually know the best sources of knowledge and the most efficient way to acquire knowledge. Search for syllabi (course outlines) on subjects that interest you and read the book on your own. A well-read tradesman (electrician, plumber, etc&amp;hellip;) may be wealthier and more knowledgeable than a college graduate.&lt;/p&gt;
-
+&lt;p&gt;What should you do? First, identify whether you simply want a college degree or whether you need a marketable skill to survive. Americans do not like to talk about class because it conflicts with our ideal of equal opportunity and meritocracy. Be honest with yourself about what you need to survive and what you are willing to sacrifice when you choose a college major. Every program at every college has alumni that they can use as examples of success. What you need is hard data on the percentage of students for a given program that get entry level jobs that pay enough to pay off student loans in a few years (not 10 years) and provide a minimal standard of living. Unfortunately, this eliminates many liberal arts programs at non-prestigious universities. You should also utilize data such as the &lt;!-- raw HTML omitted --&gt;U.S. Department of Education College Scorecard&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;
+&lt;p&gt;As a college professor, I would also suggest that you consider not going to college. Watch &lt;!-- raw HTML omitted --&gt;this video&lt;!-- raw HTML omitted --&gt; by &amp;ldquo;Dirty Jobs&amp;rdquo; host, Mike Rowe. I don&amp;rsquo;t mean to in any way minimize the value of learning but universities are not the only places to learn. Get a library card and read. Consider certificate programs but only if they have a proven career benefit. (There are lots of useless certificates and online programs out there.) Professors do not have a monopoly on knowledge but they usually know the best sources of knowledge and the most efficient way to acquire knowledge. Search for syllabi (course outlines) on subjects that interest you and read the book on your own. A well-read tradesman (electrician, plumber, etc&amp;hellip;) may be wealthier and more knowledgeable than a college graduate.&lt;/p&gt;
 &lt;h2 id=&#34;personal-investing&#34;&gt;Personal Investing&lt;/h2&gt;
-
 &lt;p&gt;The goals of investing (more return, less risk) are same for everyone but the tools are different for various levels of wealth. Someone with $1m to invest should not be doing the same things as someone with $100k to invest. Investing is a scale business which means that some expenses are worthwhile for large portfolio and a waste of money for small portfolios. I suggest using a robo-advisor like Wealthfront or Betterment unless you have more than $100k. The reason is that the fees are low and lowering expenses is more likely to benefit you than hiring a personal financial adviser. You should not be buying any fund with an expense ratio greater than 0.25% (Yes, that is a quarter of 1%). Most people should be investing in index funds and these types of businesses make the process relatively cheap and simple. They also automate the process of rebalancing your portfolio which minimizes your interaction with the portfolio. Behavioral Finance is an entire field dedicated to studying why people make foolish financial decisions. In long-term investing, most people are better off doing as little as possible.&lt;/p&gt;
-
 &lt;p&gt;For the ultimate in cheap, DIY investing, I recommend using a pair of Vanguard funds like the Total World Stock ETF (ticker: VT) and the Total International Bond ETF (ticker: BNDX). For those that want to stay within the U.S., you can use Total Stock Market ETF (ticker: VTI) and Total Bond Market ETF (ticker: BND). The proportion of stocks and bonds depends on your level of risk. If you have more than a decade to invest, hold all stocks. Something less, or if market changes concern you, hold more bonds. You only need a pair of mutual funds or ETFs.&lt;/p&gt;
-
 &lt;p&gt;A final word of warning, do not use apps like Robinhood for serious investing. The reasons are more complicated than I can include here but one reason is that the service is not free and they count on people not recognizing where the money is coming from.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Securities Analysis</title>
+      <link>https://www.stephenrush.org/portal/library/securities-analysis/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://www.stephenrush.org/portal/library/securities-analysis/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;I created this page to introduce students to securities analysis. The information provided on this page is not intended to be comprehensive but is intended to provide students with enough information to start learning on their own. There are many perspectives on investment analysis but this page will be limited to fundamental analysis which is best suited to long time horizons. This approach can also be used to evaluate projects in corporate finance.&lt;/p&gt;
+&lt;p&gt;An investment recommendation needs a minimum of three components: a specific security, the price of that security, and a specific time. The first two are self explanatory but the third is a proxy for a particular information set. This means that buying a particular security at a particular price may or may not be a good idea depending on what we know about the state of the world at any given time. (I will discuss this more under the Process section.)&lt;/p&gt;
+&lt;p&gt;There are two basic approaches to valuation: relative value and intrinsic value. Relative value utilizes market multiples as a common basis of comparison between two firms. The most common market multiples are: price to earnings, price to book, price to sales, and price to cash flow. Certain market multiples may be useful in some industries and not others. Remember to account for differences in fiscal year end when comparing multiples. Four of the most commonly used time frames for the market multiple denominators are: last fiscal year, trailing twelve months (TTM), next twelve months (NTM), and next fiscal year. Each of these time frames has positives and negatives that vary from industry to industry. Intrinsic valuation is most commonly done using discounted cash flows methodologies such as the dividend discount model, free cash flow to the firm, or free cash flow to equity.&lt;/p&gt;
+&lt;h2 id=&#34;process&#34;&gt;Process&lt;/h2&gt;
+&lt;p&gt;Securities analysis is as much art as science. In addition to making reasonable assumptions about financial data, the analyst must consider many qualitative aspects of the company and the market.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Identify the information set that will determine asset prices in the future.&lt;/li&gt;
+&lt;li&gt;What factors matter to the firm’s business model? Which of these factors will matter to the firm years from now?&lt;/li&gt;
+&lt;li&gt;Is this different from the information set that is currently determining prices?&lt;/li&gt;
+&lt;li&gt;Are other investors basing their valuations off of short term factors such as next quarter’s results, an investment theme, technical analysis, etc&amp;hellip;&lt;/li&gt;
+&lt;li&gt;Is the relevant information set accurate?&lt;/li&gt;
+&lt;li&gt;Are the assumptions being used to value the firm reasonable? If they differ from your assumptions, is it because you are missing information or is there a disagreement on the interpretation of available information?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;research-questions&#34;&gt;Research Questions&lt;/h2&gt;
+&lt;p&gt;These are some of the questions you should ask yourself as you learn about a company. Again, this list is not intended to be comprehensive; only thought provoking.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Who are the firm’s main competitors?&lt;/li&gt;
+&lt;li&gt;How do market multiples compare with the firm’s competitors?&lt;!-- raw HTML omitted --&gt;What are the performance limits to the firm’s business model? What are peak margins and why?&lt;/li&gt;
+&lt;li&gt;How flexible is the business model? Do high fixed costs prevent it from quickly reacting to changes in demand?&lt;/li&gt;
+&lt;li&gt;What portion of the firm’s valuation is composed of physical assets and what portion is composed of intangible assets?&lt;/li&gt;
+&lt;li&gt;Is the market’s valuation of intangible assets reasonable?&lt;/li&gt;
+&lt;li&gt;What types of investors are invested in the firm and what types of investors are trading the security?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Risks: operational execution, financial execution, macroeconomic, legal, regulatory, headline risk&lt;/p&gt;
+&lt;p&gt;Management: quality, reliability, accounting standards, strategy, public relations, ethics&lt;/p&gt;
+&lt;h2 id=&#34;getting-information&#34;&gt;Getting Information&lt;/h2&gt;
+&lt;p&gt;Financial websites have a good presentation of the superficial information about a company. A small sample would include Bloomberg, Google, MarketWatch, Reuters, Seeking Alpha, and Yahoo. Transcripts of earnings calls may be obtained from the company investor relations website or from other investor websites. There may be some well written blog posts that are useful for background but for a bottom up fundamental analysis of a company, you need to use primary sources.&lt;/p&gt;
+&lt;p&gt;The Securities and Exchange Commission (SEC) maintains a database of company filings called the &lt;!-- raw HTML omitted --&gt;EDGAR&lt;!-- raw HTML omitted --&gt; database. The most relevant form is the annual 10-K statement which includes the three financial statements (income statement, balance sheet, and statement of cash flows) as well as all the background information needed to understand the business. The 10-Q statement is the shorter version released on a quarterly basis. International firms file 6-K forms with similar information. On the top of the search results for a particular company&amp;rsquo;s filings is a link to the RSS feed. Copy this link and paste it into an RSS reader. Email applications like Outlook and Mac Mail also have RSS reader capabilities. When a company releases new information, the filing will appear similar to an email in your RSS reader. Press releases can be obtained from business news aggregator sites like Business Wire.&lt;/p&gt;
+&lt;p&gt;For economic information, the Federal Reserve maintains the &lt;!-- raw HTML omitted --&gt;FRED&lt;!-- raw HTML omitted --&gt; database. This is a good source for interest rates, GDP, inflation data, international trade, and other macroeconomic variables. The one year constant maturity treasury bill series DGS1 is a good series to use as the risk free rate.&lt;/p&gt;
+&lt;h2 id=&#34;final-notes&#34;&gt;Final Notes&lt;/h2&gt;
+&lt;p&gt;I suggest using a forecast period of five years (current year plus four) for discounted cash flow models. The terminal value should use very conservative assumptions such as a growth rate in line with long term GDP growth rather than historic firm growth. Check the library for additional books, blogs, magazines, and movie recommendations.&lt;/p&gt;
 </description>
     </item>
     
@@ -433,56 +382,31 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
       <link>https://www.stephenrush.org/portal/library/advising/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/portal/library/advising/</guid>
-      <description>
-
-&lt;p&gt;Everyone has constraints on their time, money, and attention. My recommendations represent what I believe a competitive student should do to prepare for a career in finance but everyone has to make trade-offs.&lt;/p&gt;
-
+      <description>&lt;p&gt;Everyone has constraints on their time, money, and attention. My recommendations represent what I believe a competitive student should do to prepare for a career in finance but everyone has to make trade-offs.&lt;/p&gt;
 &lt;h2 id=&#34;university-selection&#34;&gt;University Selection&lt;/h2&gt;
-
 &lt;p&gt;The most valuable aspects of a college education are: degree, personal network, learning from peers, and coursework. When considering universities with different tuition rates, consider whether the higher tuition comes with a substantial increase in one of those factors. While there are substantial differences in the marketability of an Ivy League degree relative to a state college degree, most of the differences in outcomes from similar colleges are determined by individual factors.&lt;/p&gt;
-
 &lt;p&gt;People only care where you graduate. Spend 2-4 semesters at a state college to save money, get a high GPA, and get a scholarship to transfer to a better school. Make sure to take your general education classes at the cheap school and take as many of your major classes as possible at the better school. Plan ahead for transfer credit.&lt;/p&gt;
-
 &lt;h2 id=&#34;course-selection&#34;&gt;Course Selection&lt;/h2&gt;
-
 &lt;p&gt;Take the required finance course for business majors as soon as possible. (This is usually called Financial Management.) It is a prerequisite to almost every finance course at every university. After that, take Investments as soon as possible. It will help with the second internship if you want to work in capital markets. Next, take a modeling class and an international finance class. Finally, take the Financial Markets and Institutions class and any other required classes for your program. If you want to work in capital markets, get into the student managed fund.&lt;/p&gt;
-
 &lt;p&gt;Finance is a interdisciplinary field. Without accounting, economics, and statistics, you cannot understand finance. The qualitative coursework in marketing and management will help you evaluate the strategies of potential investments as well as the strategy of your own organization.&lt;/p&gt;
-
 &lt;p&gt;If you are not a finance major, consider your alternatives carefully. In general, more quantitative skills lead to higher salaries. Don&amp;rsquo;t expect to have a job in the arts or humanities and own a house without support from a spouse or parents. Even within the business school, there are substantial differences between more quantitative majors versus qualitative majors. Consider the median salary and lifestyle rather than a few stories of students that &amp;ldquo;made it&amp;rdquo;.&lt;/p&gt;
-
 &lt;p&gt;If possible, do a semester abroad in the first 2 years. It is better to do it early than to miss an internship opportunity later. Pick a country where you do not feel comfortable. Studying abroad in a less developed country may be cheaper than a state college in the U.S. and provides a much more valuable experience. Don&amp;rsquo;t limit yourself to the programs that the university promotes.&lt;/p&gt;
-
 &lt;p&gt;Pick a class you like with a project that interests you. Work harder on the project than is required and publish the results. This is not as difficult as you might imagine and is marketable even if you don&amp;rsquo;t go to grad school. Your professor knows places that will publish student work.&lt;/p&gt;
-
 &lt;h2 id=&#34;internships&#34;&gt;Internships&lt;/h2&gt;
-
 &lt;p&gt;Get an internship at the end of your sophomore year and junior year. Even if you have never taken a class in your discipline, get an internship. Companies expect you to be motivated and interested in your field. They do not expect you to know how to do the job. Many companies will make full time offers to a few of their top performers in the summer internship. Do not accept unpaid internships. Everyone believes their experience is valuable but very rarely is it worth going into debt.&lt;/p&gt;
-
 &lt;h2 id=&#34;academic-and-career-standards&#34;&gt;Academic and Career Standards&lt;/h2&gt;
-
 &lt;p&gt;Assume that you need to do twice as much as what other people have done to achieve the same level of success. Being above average doesn&amp;rsquo;t cut it in finance. Many people reached their position by some combination of luck and skill. Don&amp;rsquo;t assume that you can replicate someone else&amp;rsquo;s luck.&lt;/p&gt;
-
 &lt;h2 id=&#34;marketable-skills&#34;&gt;Marketable Skills&lt;/h2&gt;
-
 &lt;p&gt;You can never know Excel well enough. You can never network enough. Do not accept labels such as qualitative or quantitative. Finance requires both.&lt;/p&gt;
-
 &lt;p&gt;Start learning to stand in front of people and explain difficult ideas. This is necessary for most jobs in finance.&lt;/p&gt;
-
 &lt;p&gt;It is better to ask stupid questions than to not ask questions.&lt;/p&gt;
-
-&lt;p&gt;Learn some programming. R, Python, Matlab, SAS, or even VBA are good choices. Pick a project to learn on your own. This is more efficient than taking a general introduction to programming class. Someone has probably solved a problem similar to your&amp;rsquo;s on free sites like &lt;a href=&#34;https://stackoverflow.com/&#34;&gt;Stack Overflow&lt;/a&gt;. Break down your project into the most simple components and search for how to complete each step.&lt;/p&gt;
-
+&lt;p&gt;Learn some programming. R, Python, Matlab, SAS, or even VBA are good choices. Pick a project to learn on your own. This is more efficient than taking a general introduction to programming class. Someone has probably solved a problem similar to your&amp;rsquo;s on free sites like &lt;!-- raw HTML omitted --&gt;Stack Overflow&lt;!-- raw HTML omitted --&gt;. Break down your project into the most simple components and search for how to complete each step.&lt;/p&gt;
 &lt;h2 id=&#34;resume-hacks&#34;&gt;Resume Hacks&lt;/h2&gt;
-
 &lt;p&gt;Identify extracurricular activities that have measurable outcomes to list on your resume such as: organized 20 presentations or raised $10,000 for charity.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://youtu.be/CVEuPmVAb8o&#34;&gt;&amp;ldquo;Don&amp;rsquo;t Follow Your Passion&amp;rdquo; - Mike Rowe&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&amp;quot;Don&amp;rsquo;t Follow Your Passion&amp;rdquo; - Mike Rowe&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;Get a hobby. Find something that is not finance that makes you happy. This will help you deal with the times when finance will be boring, frustrating, or too difficult. Talk about your hobby in an interview.&lt;/p&gt;
-
 &lt;p&gt;The best jobs are usually not around the university and are not advertised at the career center. Be prepared to move and find your own job.
-&lt;img src=&#34;https://www.stephenrush.org/img/pics/Shark_Mondays.jpg&#34; alt=&#34;Shark&#34; title=&#34;Be the shark&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://www.stephenrush.org/img/pics/Shark_Mondays.jpg&#34; alt=&#34;Shark&#34; title=&#34;Be the shark&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -491,45 +415,28 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
       <link>https://www.stephenrush.org/portal/library/cli/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/portal/library/cli/</guid>
-      <description>
-
-&lt;p&gt;I have become enamored with the idea of minimalist computing. The primary reason is that I like substituting intellectual capital for financial capital or to put it another way, using cheap computers more effectively. My secondary reason is that I have reached a point in my work where the electrical usage and heat production from my research needs to be considered both in terms of monetary costs and environmental impact.&lt;/p&gt;
-
+      <description>&lt;p&gt;I have become enamored with the idea of minimalist computing. The primary reason is that I like substituting intellectual capital for financial capital or to put it another way, using cheap computers more effectively. My secondary reason is that I have reached a point in my work where the electrical usage and heat production from my research needs to be considered both in terms of monetary costs and environmental impact.&lt;/p&gt;
 &lt;p&gt;The bottom line is that minimal computing allows for the same productivity with older or cheaper machines. When you need cutting edge computation that is expensive and sucks power, either rent from a cloud provider where they can manage the hardware and operate at a more efficient scale than your home or keep your own servers at the most efficient power provider like the office. At a minimum, you can avoid both paying for power and the marginal increase in cooling costs. Second hand servers can be found/purchased/built cheap but are still expensive to operate. Keeping operating costs as low as possible helps you get the biggest bang for your buck.&lt;/p&gt;
-
 &lt;p&gt;For those interested in moving away from the GUI world, I suggest a gradual shift while continuing to work on the operating system of your choice. If you are on Windows 10, Ubuntu and other Linux distributions are available on the app store via the Windows Subsystem for Linux (WSL). Mac users can install MacPorts to get the standard versions of some command line programs. Eventually you will want to transition to a free open source operating system like Ubuntu Linux but baby steps for now.&lt;/p&gt;
-
 &lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-
 &lt;p&gt;Windows - find the Ubuntu Linux distribution in the App store and install it using the Windows Subsystem for Linux (WSL) available starting with Windows 10.&lt;/p&gt;
-
-&lt;p&gt;&lt;del&gt;Windows - Cygwin: select the packages during the Cygwin install. If you need to add something, just run the installer again.&lt;/del&gt;&lt;/p&gt;
-
-&lt;p&gt;Mac OS X - &lt;a href=&#34;https://www.macports.org/&#34;&gt;MacPorts&lt;/a&gt;: the syntax here to install gawk is
-&lt;pre&gt;sudo port install gawk&lt;/pre&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Windows - Cygwin: select the packages during the Cygwin install. If you need to add something, just run the installer again.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;Mac OS X - &lt;!-- raw HTML omitted --&gt;MacPorts&lt;!-- raw HTML omitted --&gt;: the syntax here to install gawk is&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;h2 id=&#34;where-do-i-begin&#34;&gt;Where Do I Begin?&lt;/h2&gt;
-
 &lt;p&gt;I suggest learning the following tools in this order:&lt;/p&gt;
-
 &lt;p&gt;File Operations: ls (list), cp (copy), mv (move), rm (remove)
 Type cp &amp;ndash;help for syntax and options&lt;/p&gt;
-
 &lt;p&gt;Administration: sudo (execute command as administrator), chmod (change permissions), apt (package manager for Ubuntu Linux and other Debian distributions)&lt;/p&gt;
-
 &lt;p&gt;Secure Shell: use the command line of another computer over the network
 Be sure to install openssh on WSL or Linux. OS X comes with it. Syntax is: ssh user@serverURL
 Use &amp;ldquo;ssh-keygen -t rsa&amp;rdquo; once to generate a key and &amp;ldquo;ssh-copy-id user@serverURL&amp;rdquo; to put the public key on the server. This will allow logins without typing your password every time. Secure Shell requires TCP port 22 by default. Some network environments may block incoming traffic to this port.&lt;/p&gt;
-
 &lt;p&gt;nano: simple text editor
 Use Ctrl as the meta key so Ctrl-x exits the program.&lt;/p&gt;
-
 &lt;p&gt;tmux: use multiple command line sessions in a single terminal
 I love monitors but they suck power and take up too much space. Using a terminal multiplexer like tmux allows you to cram more info into a smaller amount of real estate. Use Ctrl-b to issue commands. Add resurrect and continuum through the plug-in manager to make your tmux session more robust.&lt;/p&gt;
-
 &lt;p&gt;mosh: make your sessions robust to network disruptions
 Do you like closing your laptop for a while and then resuming exactly where you left off? Mosh does this for secure shell sessions so you don&amp;rsquo;t need to reestablish your connections manually. Mosh requires that UDP ports 60000-60100 as well as the secure shell port is open. Some network environments may block traffic to these ports. One of the great tools that &amp;ldquo;just works&amp;rdquo; in most network environments.&lt;/p&gt;
-
 &lt;p&gt;rsync: quickly copy large amounts of files
 wget: fetch files from the Internet
 curl: more advanced Internet functionality
@@ -544,114 +451,69 @@ irssi: text based IRC client&lt;/p&gt;
       <link>https://www.stephenrush.org/portal/library/microstructure/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/portal/library/microstructure/</guid>
-      <description>
-
-&lt;p&gt;Many of the issues in market microstructure are difficult to address due to the cost and availability of large data sets. Even special academic pricing is usually too expensive for all but the most prominent universities. For these reasons, prior literature is sparse, has small samples, or is not conducted in an unbiased manner. I encourage anyone with access to relevant data to make it available to researchers so policy makers can make data-driven decisions that will improve the quality of markets.&lt;/p&gt;
-
+      <description>&lt;p&gt;Many of the issues in market microstructure are difficult to address due to the cost and availability of large data sets. Even special academic pricing is usually too expensive for all but the most prominent universities. For these reasons, prior literature is sparse, has small samples, or is not conducted in an unbiased manner. I encourage anyone with access to relevant data to make it available to researchers so policy makers can make data-driven decisions that will improve the quality of markets.&lt;/p&gt;
 &lt;h2 id=&#34;issues-in-microstructure&#34;&gt;Issues in Microstructure&lt;/h2&gt;
-
 &lt;p&gt;&lt;em&gt;Order Type Controversy&lt;/em&gt; - Do some exchange or ATS clients have access to order types that other clients do not? Is the reason due to client favoritism or technical sophistication?&lt;/p&gt;
-
 &lt;p&gt;&lt;em&gt;Payment for Order Flow&lt;/em&gt; - Does the fee that brokers receive for routing certain orders adversely affect investors and/or markets? Does internalization allow for legal front-running or simply screening for informed trades? Should a &amp;ldquo;trade-at&amp;rdquo; rule be implemented which would prohibit execution unless the broker was ready to trade at that price with an order from a public exchange?&lt;/p&gt;
-
 &lt;p&gt;&lt;em&gt;Consolidated Audit Trail&lt;/em&gt; - How should exchanges manage data to ensure that market participants would be capable of &amp;ldquo;replaying&amp;rdquo; a market event to find errors or misbehavior? How do we capture the difference between direct feeds and the National Best Bid and Offer (NBBO)?&lt;/p&gt;
-
 &lt;p&gt;&lt;em&gt;Market Complexity&lt;/em&gt; - How should exchanges route orders to achieve best price and fast execution? Should Rules 610 and 611 force exchanges to stop trading when there is an opportunity to get better prices on another exchange? How does order routing by the exchange affect trading behavior with broker order routing and the maker-taker model of liquidity rebates?&lt;/p&gt;
-
 &lt;p&gt;&lt;em&gt;Speed&lt;/em&gt; - Should the speed of market access be limited or equalized? If a faster trader can deliver shares to a slower trader, is this front-running or market making? How should we measure price improvement in this case? What impact does this have on markets?&lt;/p&gt;
-
 &lt;p&gt;&lt;em&gt;Liquidity&lt;/em&gt; - Is the liquidity provided by high frequency trading harmful if it disappears during times of market stress? At what time horizon should liquidity be focused? Price impact will occur on any size trade executed on a short enough time horizon. Should a &amp;ldquo;trade-at&amp;rdquo; rule be implemented to incentivize more visible liquidity?&lt;/p&gt;
-
 &lt;p&gt;&lt;em&gt;Flash Crashes&lt;/em&gt; - Why do flash crashes occur? How do we limit the frequency and severity of flash crashes? Do flash crashes matter to market participants that do not trade intraday?&lt;/p&gt;
-
 &lt;h2 id=&#34;microstructure-links&#34;&gt;Microstructure Links&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ats.finra.org/&#34;&gt;ATS Transparency Data&lt;/a&gt; - FINRA information on Alternative Trading Systems&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.batstrading.com/market_summary/&#34;&gt;BATS Market Summary&lt;/a&gt; - market share statistics&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://decimuscapitalmarkets.com/dcm/&#34;&gt;Decimus Capital Markets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://kortrading.com/resources/&#34;&gt;KOR Group&lt;/a&gt; - broker execution data&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.sec.gov/marketstructure/midas.html#.VrQUBlUrIbY&#34;&gt;MIDAS&lt;/a&gt; - microstructure analytics platform used by the SEC&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://modernmarketsinitiative.org/&#34;&gt;Modern Markets Initiative&lt;/a&gt; - HFT industry group&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.nanex.net/NxResearch/&#34;&gt;Nanex&lt;/a&gt; - market data vendor&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Regulation_NMS&#34;&gt;Regulation National Market System&lt;/a&gt; (Reg NMS)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.sec.gov/spotlight/equity-market-structure-advisory-committee.shtml&#34;&gt;SEC Equity Market Structure Advisory Committee&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://tabbforum.com/&#34;&gt;Tabb Forum&lt;/a&gt; - forum for industry opinion articles&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;ATS Transparency Data&lt;!-- raw HTML omitted --&gt; - FINRA information on Alternative Trading Systems&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;BATS Market Summary&lt;!-- raw HTML omitted --&gt; - market share statistics&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Decimus Capital Markets&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;KOR Group&lt;!-- raw HTML omitted --&gt; - broker execution data&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;MIDAS&lt;!-- raw HTML omitted --&gt; - microstructure analytics platform used by the SEC&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Modern Markets Initiative&lt;!-- raw HTML omitted --&gt; - HFT industry group&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Nanex&lt;!-- raw HTML omitted --&gt; - market data vendor&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Regulation National Market System&lt;!-- raw HTML omitted --&gt; (Reg NMS)&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;SEC Equity Market Structure Advisory Committee&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Tabb Forum&lt;!-- raw HTML omitted --&gt; - forum for industry opinion articles&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;microstructure-media&#34;&gt;Microstructure Media&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;CNBC: &lt;a href=&#34;http://video.cnbc.com/gallery/?video=3000263252&#34;&gt;Market Microstructure Issues&lt;/a&gt; (1 April 2014) &lt;br /&gt;William O&amp;rsquo;Brien, Brad Katsuyama, and Michael Lewis&lt;/li&gt;
-&lt;li&gt;VPRO International: &lt;a href=&#34;http://youtu.be/kFQJNeQDDHA&#34;&gt;The Wall Street Code&lt;/a&gt; (4 November 2013)&lt;/li&gt;
-&lt;li&gt;VPRO International: &lt;a href=&#34;http://youtu.be/aq1Ln1UCoEU&#34;&gt;Money and Speed: Inside the Black Box&lt;/a&gt; (31 January 2011)&lt;/li&gt;
+&lt;li&gt;CNBC: &lt;!-- raw HTML omitted --&gt;Market Microstructure Issues&lt;!-- raw HTML omitted --&gt; (1 April 2014) &lt;!-- raw HTML omitted --&gt;William O&amp;rsquo;Brien, Brad Katsuyama, and Michael Lewis&lt;/li&gt;
+&lt;li&gt;VPRO International: &lt;!-- raw HTML omitted --&gt;The Wall Street Code&lt;!-- raw HTML omitted --&gt; (4 November 2013)&lt;/li&gt;
+&lt;li&gt;VPRO International: &lt;!-- raw HTML omitted --&gt;Money and Speed: Inside the Black Box&lt;!-- raw HTML omitted --&gt; (31 January 2011)&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;
-
-&lt;p&gt;An ongoing collection of significant events in market microstructure. I do not include large market moves that occur over the course of the entire trading day. For a list of only stock market crashes, see &lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_stock_market_crashes_and_bear_markets&#34; target=&#34;_blank&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;An ongoing collection of significant events in market microstructure. I do not include large market moves that occur over the course of the entire trading day. For a list of only stock market crashes, see &lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_stock_market_crashes_and_bear_markets&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;20160226 - NYSE stops accepting stop-limit, stop-loss, and good-til-cancelled orders&lt;/p&gt;
-
 &lt;p&gt;20150824 - Low liquidity in first 5 minutes of trading (DJIA -6.6% or 1,100pts)&lt;/p&gt;
-
 &lt;p&gt;20131208 - Limit Up-Limit Down (LULD) Phase 2 implementation&lt;/p&gt;
-
 &lt;p&gt;20131025 - IEX accepts orders&lt;/p&gt;
-
 &lt;p&gt;20130425 - CBOE shuts down for half the day&lt;/p&gt;
-
 &lt;p&gt;20130423 - Flash Crash from hacked Twitter account (DJIA -150pts)&lt;/p&gt;
-
 &lt;p&gt;20130408 - Limit Up-Limit Down (LULD) Phase 1 implementation
-&lt;a href=&#34;https://www.nasdaqtrader.com/content/MarketRegulation/LULD_FAQ.pdf&#34; target=&#34;_blank&#34;&gt;https://www.nasdaqtrader.com/content/MarketRegulation/LULD_FAQ.pdf&lt;/a&gt;&lt;/p&gt;
-
+&lt;a href=&#34;https://www.nasdaqtrader.com/content/MarketRegulation/LULD_FAQ.pdf&#34;&gt;https://www.nasdaqtrader.com/content/MarketRegulation/LULD_FAQ.pdf&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;20130328 - NASDAQ launches Retail Price Improvement Program&lt;/p&gt;
-
 &lt;p&gt;20120801 - NYSE launches Retail Liquidity Program and Knight Capital loses $440mm&lt;/p&gt;
-
 &lt;p&gt;20110714 - Compliance date for SEC Rule 15c3-5 regarding risk management for direct market access&lt;/p&gt;
-
 &lt;p&gt;20100721 - Direct Edge launches EDGA and EDGX exchanges&lt;/p&gt;
-
 &lt;p&gt;20100506 - Flash Crash (DJIA -9% or 1,000pts)&lt;/p&gt;
-
 &lt;p&gt;20091005 - Clearly Erroneous Execution (CEE) NYSE Rule 128&lt;/p&gt;
-
 &lt;p&gt;200811 - BATS converts ECN to BZX exchange&lt;/p&gt;
-
 &lt;p&gt;20070820 - Full implementation of Regulation NMS Rules 610 and 611 (all stocks)
-&lt;a href=&#34;http://www.sifma.org/news/news.aspx?id=2092&#34; target=&#34;_blank&#34;&gt;http://www.sifma.org/news/news.aspx?id=2092&lt;/a&gt;&lt;/p&gt;
-
+&lt;a href=&#34;http://www.sifma.org/news/news.aspx?id=2092&#34;&gt;http://www.sifma.org/news/news.aspx?id=2092&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;20070709 - Implementation of Regulation NMS Rules 610 and 611 (~250 stocks)
-&lt;a href=&#34;http://www.sifma.org/news/news.aspx?id=2092&#34; target=&#34;_blank&#34;&gt;http://www.sifma.org/news/news.aspx?id=2092&lt;/a&gt;&lt;/p&gt;
-
+&lt;a href=&#34;http://www.sifma.org/news/news.aspx?id=2092&#34;&gt;http://www.sifma.org/news/news.aspx?id=2092&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;20070208 - NYSE completes hybrid market&lt;/p&gt;
-
 &lt;p&gt;2005 - BATS accepts orders&lt;/p&gt;
-
 &lt;p&gt;20010409 - U.S. Equity Decimalization Complete
-&lt;a href=&#34;https://www.sec.gov/news/testimony/052401tslu.htm&#34; target=&#34;_blank&#34;&gt;https://www.sec.gov/news/testimony/052401tslu.htm&lt;/a&gt;&lt;/p&gt;
-
+&lt;a href=&#34;https://www.sec.gov/news/testimony/052401tslu.htm&#34;&gt;https://www.sec.gov/news/testimony/052401tslu.htm&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;20000905 - U.S. Equity Decimalization Begins
-&lt;a href=&#34;https://www.sec.gov/news/testimony/052401tslu.htm&#34; target=&#34;_blank&#34;&gt;https://www.sec.gov/news/testimony/052401tslu.htm&lt;/a&gt;&lt;/p&gt;
-
+&lt;a href=&#34;https://www.sec.gov/news/testimony/052401tslu.htm&#34;&gt;https://www.sec.gov/news/testimony/052401tslu.htm&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;1998 - Direct Edge (Attain) accepts orders&lt;/p&gt;
-
 &lt;p&gt;19970120 - Archipelago accepts orders&lt;/p&gt;
-
 &lt;p&gt;19970120 - Implementation of SEC Display Rule 11Ac1-4&lt;/p&gt;
-
 &lt;p&gt;19871019 - Black Monday (DJIA -22.61% or 508pts)&lt;/p&gt;
-
 &lt;p&gt;1986 - First after-market crossing system offered by Instinet&lt;/p&gt;
-
 &lt;p&gt;1980 - First direct market access offered by Instinet&lt;/p&gt;
-
 &lt;p&gt;19710208 - NASDAQ begins taking orders&lt;/p&gt;
-
 &lt;p&gt;196912 - Instinet accepts orders&lt;/p&gt;
-
 &lt;p&gt;19291024 - Beginning of the Wall Street Crash of 1929 (Heavy volume slows down ticker)&lt;/p&gt;
 </description>
     </item>
@@ -661,11 +523,8 @@ irssi: text based IRC client&lt;/p&gt;
       <link>https://www.stephenrush.org/portal/library/babel/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/portal/library/babel/</guid>
-      <description>
-
-&lt;h2 id=&#34;search-the-library&#34;&gt;Search the Library&lt;/h2&gt;
-
-&lt;iframe src=&#34;https://libraryofbabel.info/search.html&#34; width=&#34;100%&#34; height=&#34;500&#34;&gt;&lt;/iframe&gt;
+      <description>&lt;h2 id=&#34;search-the-library&#34;&gt;Search the Library&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
@@ -674,40 +533,33 @@ irssi: text based IRC client&lt;/p&gt;
       <link>https://www.stephenrush.org/portal/library/setec/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/portal/library/setec/</guid>
-      <description>
-
-&lt;h2 id=&#34;security-tools&#34;&gt;Security Tools&lt;/h2&gt;
-
-&lt;p&gt;These are some of the great free and open source software tools available particularly for my friends who live in less free societies. Unless you are a cryptographer, I don&amp;rsquo;t recommend the &lt;a href=&#34;https://en.wikipedia.org/wiki/Security_through_obscurity&#34;&gt;Security through Obscurity&lt;/a&gt; strategy. Also, consider some of the tools recommended by the Electronic Frontier Foundation (EFF) &lt;a href=&#34;https://ssd.eff.org/&#34;&gt;Surveillance Self-Defense&lt;/a&gt;.&lt;/p&gt;
-
+      <description>&lt;h2 id=&#34;security-tools&#34;&gt;Security Tools&lt;/h2&gt;
+&lt;p&gt;These are some of the great free and open source software tools available particularly for my friends who live in less free societies. Unless you are a cryptographer, I don&amp;rsquo;t recommend the &lt;!-- raw HTML omitted --&gt;Security through Obscurity&lt;!-- raw HTML omitted --&gt; strategy. Also, consider some of the tools recommended by the Electronic Frontier Foundation (EFF) &lt;!-- raw HTML omitted --&gt;Surveillance Self-Defense&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://duckduckgo.com/&#34;&gt;DuckDuckGo&lt;/a&gt; - web search without tracking&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.opengarden.com/firechat/&#34;&gt;FireChat&lt;/a&gt; - decentralized chat for high density events&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.gnupg.org/&#34;&gt;Gnu Privacy Guard&lt;/a&gt; (GPG) - open source version of PGP&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://keybase.io/&#34;&gt;Keybase&lt;/a&gt; - site that links social media identities with an encryption key&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://pgp.mit.edu/&#34;&gt;Keyserver&lt;/a&gt; - MIT&amp;rsquo;s PGP keyserver (one of many available)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.mailvelope.com/&#34;&gt;Mailvelope&lt;/a&gt; - browser extension for PGP use in webmail&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mega.co.nz&#34;&gt;Mega&lt;/a&gt; - encrypted cloud storage&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://openvpn.net&#34;&gt;OpenVPN&lt;/a&gt; - run your own VPN on Windows, OS X, or Linux&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://whispersystems.org/&#34;&gt;Signal Private Messenger&lt;/a&gt; - encrypted SMS, MMS, and voice by Open Whisper Systems for iOS and Android&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://syncthing.net/&#34;&gt;Syncthing&lt;/a&gt; - synchronized storage without disk limits using BitTorrent technology&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.telegram.org/&#34;&gt;Telegram&lt;/a&gt; - This is not secure but many people still use it for the convenience&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://termux.com&#34;&gt;Termux&lt;/a&gt; - terminal for Android devices&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.torproject.org/&#34;&gt;The TOR Project&lt;/a&gt; - a more private method of accessing the Internet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.mywickr.com&#34;&gt;Wickr&lt;/a&gt; - encrypted messaging for iOS, Android, Windows, OS X, and Linux&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;DuckDuckGo&lt;!-- raw HTML omitted --&gt; - web search without tracking&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;FireChat&lt;!-- raw HTML omitted --&gt; - decentralized chat for high density events&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Gnu Privacy Guard&lt;!-- raw HTML omitted --&gt; (GPG) - open source version of PGP&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Keybase&lt;!-- raw HTML omitted --&gt; - site that links social media identities with an encryption key&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Keyserver&lt;!-- raw HTML omitted --&gt; - MIT&amp;rsquo;s PGP keyserver (one of many available)&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Mailvelope&lt;!-- raw HTML omitted --&gt; - browser extension for PGP use in webmail&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Mega&lt;!-- raw HTML omitted --&gt; - encrypted cloud storage&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;OpenVPN&lt;!-- raw HTML omitted --&gt; - run your own VPN on Windows, OS X, or Linux&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Signal Private Messenger&lt;!-- raw HTML omitted --&gt; - encrypted SMS, MMS, and voice by Open Whisper Systems for iOS and Android&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Syncthing&lt;!-- raw HTML omitted --&gt; - synchronized storage without disk limits using BitTorrent technology&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Telegram&lt;!-- raw HTML omitted --&gt; - This is not secure but many people still use it for the convenience&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Termux&lt;!-- raw HTML omitted --&gt; - terminal for Android devices&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;The TOR Project&lt;!-- raw HTML omitted --&gt; - a more private method of accessing the Internet&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Wickr&lt;!-- raw HTML omitted --&gt; - encrypted messaging for iOS, Android, Windows, OS X, and Linux&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;productivity&#34;&gt;Productivity&lt;/h2&gt;
-
 &lt;p&gt;For those that just want to work with free and open source software, check out these alternatives to common applications. They are also useful for living a first world lifestyle on a third world salary.&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.libreoffice.org/&#34;&gt;Libre Office&lt;/a&gt;&lt;/strong&gt; - free replacement for Microsoft Office&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ubuntu.com/&#34;&gt;Ubuntu Linux&lt;/a&gt;&lt;/strong&gt; - complete replacement for Windows / running the variant of Ubuntu called &lt;a href=&#34;http://xubuntu.org/&#34;&gt;Xubuntu&lt;/a&gt; enables you to run a modern operating system and applications on minimal hardware such as a 10 year old computer that you can get virtually for free. If you need a graphical interface but want to run at ludicrous speed, check out &lt;a href=&#34;https://i3wm.org/&#34;&gt;i3&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://portableapps.com/&#34;&gt;Portable Apps&lt;/a&gt; - you can even get by without your own machine or relying on cloud services&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://plex.tv/&#34;&gt;Plex&lt;/a&gt; - the best media server&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://musescore.org&#34;&gt;Muse Score&lt;/a&gt; - open source music notation software&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.qubes-os.org/&#34;&gt;Qubes OS &lt;/a&gt; - operating system for those who are tired of repeatedly wiping their system&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Libre Office&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; - free replacement for Microsoft Office&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Ubuntu Linux&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; - complete replacement for Windows / running the variant of Ubuntu called &lt;!-- raw HTML omitted --&gt;Xubuntu&lt;!-- raw HTML omitted --&gt; enables you to run a modern operating system and applications on minimal hardware such as a 10 year old computer that you can get virtually for free. If you need a graphical interface but want to run at ludicrous speed, check out &lt;!-- raw HTML omitted --&gt;i3&lt;!-- raw HTML omitted --&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Portable Apps&lt;!-- raw HTML omitted --&gt; - you can even get by without your own machine or relying on cloud services&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Plex&lt;!-- raw HTML omitted --&gt; - the best media server&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Muse Score&lt;!-- raw HTML omitted --&gt; - open source music notation software&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Qubes OS &lt;!-- raw HTML omitted --&gt; - operating system for those who are tired of repeatedly wiping their system&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
