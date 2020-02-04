@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Dr. Stephen Rush, CFA</title>
-    <link>https://stephenrush.org/publication_types/</link>
-      <atom:link href="https://stephenrush.org/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.stephenrush.org/publication_types/</link>
+      <atom:link href="https://www.stephenrush.org/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://stephenrush.org/img/icon-192.png</url>
+      <url>https://www.stephenrush.org/img/icon-192.png</url>
       <title>Publication_types</title>
-      <link>https://stephenrush.org/publication_types/</link>
+      <link>https://www.stephenrush.org/publication_types/</link>
     </image>
     
     <item>
       <title>3</title>
-      <link>https://stephenrush.org/publication_types/3/</link>
+      <link>https://www.stephenrush.org/publication_types/3/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication_types/3/</guid>
+      <guid>https://www.stephenrush.org/publication_types/3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2</title>
-      <link>https://stephenrush.org/publication_types/2/</link>
+      <link>https://www.stephenrush.org/publication_types/2/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication_types/2/</guid>
+      <guid>https://www.stephenrush.org/publication_types/2/</guid>
       <description></description>
     </item>
     

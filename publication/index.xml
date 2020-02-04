@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research | Dr. Stephen Rush, CFA</title>
-    <link>https://stephenrush.org/publication/</link>
-      <atom:link href="https://stephenrush.org/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.stephenrush.org/publication/</link>
+      <atom:link href="https://www.stephenrush.org/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://stephenrush.org/img/icon-192.png</url>
+      <url>https://www.stephenrush.org/img/icon-192.png</url>
       <title>Research</title>
-      <link>https://stephenrush.org/publication/</link>
+      <link>https://www.stephenrush.org/publication/</link>
     </image>
     
     <item>
       <title>A Network Analysis of Information Diffusion in the Financial Sector</title>
-      <link>https://stephenrush.org/publication/preprint/networkfinancial/</link>
+      <link>https://www.stephenrush.org/publication/preprint/networkfinancial/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/preprint/networkfinancial/</guid>
+      <guid>https://www.stephenrush.org/publication/preprint/networkfinancial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Currency Risk and Information Diffusion</title>
-      <link>https://stephenrush.org/publication/preprint/currencyrisk/</link>
+      <link>https://www.stephenrush.org/publication/preprint/currencyrisk/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/preprint/currencyrisk/</guid>
+      <guid>https://www.stephenrush.org/publication/preprint/currencyrisk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identifying and Pricing Adverse Selection Risk with VPIN</title>
-      <link>https://stephenrush.org/publication/preprint/pricingvpin/</link>
+      <link>https://www.stephenrush.org/publication/preprint/pricingvpin/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/preprint/pricingvpin/</guid>
+      <guid>https://www.stephenrush.org/publication/preprint/pricingvpin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Bond Coupon’s Impact on Liquidity</title>
-      <link>https://stephenrush.org/publication/journal-article/bonds/</link>
+      <link>https://www.stephenrush.org/publication/journal-article/bonds/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/journal-article/bonds/</guid>
+      <guid>https://www.stephenrush.org/publication/journal-article/bonds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tactical asset allocation for US pension investors: How tactical should the plan be?</title>
-      <link>https://stephenrush.org/publication/journal-article/taa/</link>
+      <link>https://www.stephenrush.org/publication/journal-article/taa/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/journal-article/taa/</guid>
+      <guid>https://www.stephenrush.org/publication/journal-article/taa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can Increased Trade Prevent Conflict with China?</title>
-      <link>https://stephenrush.org/publication/journal-article/chinatrade/</link>
+      <link>https://www.stephenrush.org/publication/journal-article/chinatrade/</link>
       <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/journal-article/chinatrade/</guid>
+      <guid>https://www.stephenrush.org/publication/journal-article/chinatrade/</guid>
       <description></description>
     </item>
     

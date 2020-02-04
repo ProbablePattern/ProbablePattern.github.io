@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Investments | Dr. Stephen Rush, CFA</title>
-    <link>https://stephenrush.org/courses/investments/</link>
-      <atom:link href="https://stephenrush.org/courses/investments/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.stephenrush.org/courses/investments/</link>
+      <atom:link href="https://www.stephenrush.org/courses/investments/index.xml" rel="self" type="application/rss+xml" />
     <description>Investments</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://stephenrush.org/img/icon-192.png</url>
+      <url>https://www.stephenrush.org/img/icon-192.png</url>
       <title>Investments</title>
-      <link>https://stephenrush.org/courses/investments/</link>
+      <link>https://www.stephenrush.org/courses/investments/</link>
     </image>
     
     <item>
       <title>Securities Markets</title>
-      <link>https://stephenrush.org/courses/investments/securities_markets/</link>
+      <link>https://www.stephenrush.org/courses/investments/securities_markets/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/securities_markets/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/securities_markets/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Guest Video: Role of the Financial Analyst @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video: Sellside vs Buyside Analysts &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video: Market Capitalization @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video: What is an ETF? @ &lt;!-- raw HTML omitted --&gt;APM&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: Role of the Financial Analyst @ &lt;a href=&#34;https://youtu.be/SZj8tYNgIJ4&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: Sellside vs Buyside Analysts @ &lt;a href=&#34;https://youtu.be/dObgCdfP2Sc&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: Market Capitalization @ &lt;a href=&#34;https://youtu.be/KPDMn0gES44&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: What is an ETF? @ &lt;a href=&#34;https://youtu.be/83DoOBBsKYk?list=PLA33D9F40D19C5320&#34;&gt;ATM&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;market-failures&#34;&gt;Market Failures&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;The Principle-Agent Problem&lt;/li&gt;
 &lt;li&gt;Adverse Selection&lt;/li&gt;
 &lt;li&gt;Asymmetric Information&lt;/li&gt;
-&lt;li&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;MRUniversity&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/sXPXpJ5vMnU&#34;&gt;MRUniversity&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;short-selling-a-stock&#34;&gt;Short Selling a Stock&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;Khan Academy&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds/shorting-stock/v/shorting-stock&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/AVXW95MyD54&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;initial-public-offering-ipo&#34;&gt;Initial Public Offering (IPO)&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;Khan Academy&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds/venture-capital-and-capital-markets/v/raising-money-for-a-startup&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Risk, Returns, and History</title>
-      <link>https://stephenrush.org/courses/investments/risk_returns_history/</link>
+      <link>https://www.stephenrush.org/courses/investments/risk_returns_history/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/risk_returns_history/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/risk_returns_history/</guid>
       <description>&lt;h2 id=&#34;guest-lectures&#34;&gt;Guest Lectures&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Diversification and Portfolio Calculations: Andrew Lo @ &lt;!-- raw HTML omitted --&gt;MIT&lt;!-- raw HTML omitted --&gt; in 2008&lt;/li&gt;
-&lt;li&gt;Value at Risk: Kenneth Abbott @ &lt;!-- raw HTML omitted --&gt;MIT&lt;!-- raw HTML omitted --&gt; in 2013&lt;/li&gt;
-&lt;li&gt;Quantifying Uncertainty &amp;amp; Risk: &lt;!-- raw HTML omitted --&gt;Yale&lt;!-- raw HTML omitted --&gt; in 2009&lt;/li&gt;
+&lt;li&gt;Diversification and Portfolio Calculations: Andrew Lo @ &lt;a href=&#34;https://youtu.be/tL7Lcl90Sc0&#34;&gt;MIT&lt;/a&gt; in 2008&lt;/li&gt;
+&lt;li&gt;Value at Risk: Kenneth Abbott @ &lt;a href=&#34;https://youtu.be/92WaNz9mPeY&#34;&gt;MIT&lt;/a&gt; in 2013&lt;/li&gt;
+&lt;li&gt;Quantifying Uncertainty &amp;amp; Risk: &lt;a href=&#34;https://youtu.be/yvcg_WE5O-o&#34;&gt;Yale&lt;/a&gt; in 2009&lt;/li&gt;
 &lt;li&gt;00:00 - Expectation, Variance, and Covariance&lt;/li&gt;
 &lt;li&gt;19:06 - Diversification and Risk Exposure&lt;/li&gt;
 &lt;li&gt;33:54 - Conditional Expectation&lt;/li&gt;
@@ -60,34 +60,34 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;measuring-returns&#34;&gt;Measuring Returns&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Guest Video: Arithmetic and Geometric Returns @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video: Effective Annual Rate @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video: Effective Annual Rate @ &lt;!-- raw HTML omitted --&gt;Khan Academy&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: Arithmetic and Geometric Returns @ &lt;a href=&#34;https://youtu.be/e-C_QwBl3-8&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: Effective Annual Rate @ &lt;a href=&#34;https://youtu.be/Fy8Zd6QvwnU&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: Effective Annual Rate @ &lt;a href=&#34;https://youtu.be/RuPMsK0mQC8&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Portfolio Theory</title>
-      <link>https://stephenrush.org/courses/investments/portfoliotheory/</link>
+      <link>https://www.stephenrush.org/courses/investments/portfoliotheory/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/portfoliotheory/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/portfoliotheory/</guid>
       <description>&lt;h2 id=&#34;guest-lectures&#34;&gt;Guest Lectures&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Portfolio Theory: Robert Shiller @ &lt;!-- raw HTML omitted --&gt;Yale&lt;!-- raw HTML omitted --&gt; in 2011&lt;/li&gt;
-&lt;li&gt;Portfolio Theory: Andrew Lo @ &lt;!-- raw HTML omitted --&gt;MIT&lt;!-- raw HTML omitted --&gt; in 2008&lt;/li&gt;
-&lt;li&gt;Portfolio Theory: CAPM, &amp;amp; APT: Andrew Lo @ &lt;!-- raw HTML omitted --&gt;MIT&lt;!-- raw HTML omitted --&gt; in 2008&lt;/li&gt;
-&lt;li&gt;Portfolio Management: Jake Xia @ &lt;!-- raw HTML omitted --&gt;MIT&lt;!-- raw HTML omitted --&gt; in 2013&lt;/li&gt;
-&lt;li&gt;Portfolio Theory: Peter Kempthorne @ &lt;!-- raw HTML omitted --&gt;MIT&lt;!-- raw HTML omitted --&gt; in 2013&lt;/li&gt;
+&lt;li&gt;Portfolio Theory: Robert Shiller @ &lt;a href=&#34;https://youtu.be/_B_24GUWdSM&#34;&gt;Yale&lt;/a&gt; in 2011&lt;/li&gt;
+&lt;li&gt;Portfolio Theory: Andrew Lo @ &lt;a href=&#34;https://youtu.be/J7d3vcaS9-o&#34;&gt;MIT&lt;/a&gt; in 2008&lt;/li&gt;
+&lt;li&gt;Portfolio Theory: CAPM, &amp;amp; APT: Andrew Lo @ [MIT](&amp;lt;a href=&amp;quot;https://youtu.be/z2oQe6B1Qa4) in 2008&lt;/li&gt;
+&lt;li&gt;Portfolio Management: Jake Xia @ &lt;a href=&#34;https://youtu.be/8TJQhQ2GZ0Y&#34;&gt;MIT&lt;/a&gt; in 2013&lt;/li&gt;
+&lt;li&gt;Portfolio Theory: Peter Kempthorne @ &lt;a href=&#34;https://youtu.be/ywl3pq6yc54&#34;&gt;MIT&lt;/a&gt; in 2013&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;efficient-portfolios&#34;&gt;Efficient Portfolios&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Video: &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/oAvx-l053Tk&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;portfolio-optimization&#34;&gt;Portfolio Optimization&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Review: Intro to Matrices @ &lt;!-- raw HTML omitted --&gt;Khan Academy&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Review: Matrix Multiplication @ &lt;!-- raw HTML omitted --&gt;Khan Academy&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Review: Intro to Matrices @ &lt;a href=&#34;https://youtu.be/xyAuNHPsq-g&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Review: Matrix Multiplication @ &lt;a href=&#34;https://youtu.be/aKhhYguY0DQ&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;portfolio-calculations-using-linear-algebra&#34;&gt;Portfolio Calculations using Linear Algebra&lt;/h2&gt;
 &lt;ul&gt;
@@ -100,9 +100,9 @@
     
     <item>
       <title>CAPM and Factor Models</title>
-      <link>https://stephenrush.org/courses/investments/capm_factors/</link>
+      <link>https://www.stephenrush.org/courses/investments/capm_factors/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/capm_factors/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/capm_factors/</guid>
       <description>&lt;h2 id=&#34;guest-lecture&#34;&gt;Guest Lecture&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;CAPM and APT: Andrew Lo @ &lt;a href=&#34;https://youtu.be/N8gtnbJuMoo&#34;&gt;MIT&lt;/a&gt; in 2008&lt;/li&gt;
@@ -117,7 +117,7 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;estimate-beta&#34;&gt;Estimate Beta:&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Video Example: &lt;!-- raw HTML omitted --&gt;CAPM Regression&lt;!-- raw HTML omitted --&gt; and &lt;!-- raw HTML omitted --&gt;Regression Results&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Video Example: &lt;a href=&#34;https://youtu.be/b4FsppHu3rE&#34;&gt;CAPM Regression&lt;/a&gt; and &lt;a href=&#34;https://youtu.be/ZfyYjC1Tcks&#34;&gt;Regression Results&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;equity-risk-premium&#34;&gt;Equity Risk Premium&lt;/h2&gt;
 &lt;ul&gt;
@@ -132,7 +132,7 @@
 &lt;ul&gt;
 &lt;li&gt;Multifactor Models
 &lt;ul&gt;
-&lt;li&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/lJCvxrj-YtA&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -148,9 +148,9 @@
     
     <item>
       <title>Efficient Markets and Behavioral Finance</title>
-      <link>https://stephenrush.org/courses/investments/emh/</link>
+      <link>https://www.stephenrush.org/courses/investments/emh/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/emh/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/emh/</guid>
       <description>&lt;h2 id=&#34;guest-lectures&#34;&gt;Guest Lectures&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Efficient Markets - Robert Shiller @ &lt;a href=&#34;https://youtu.be/3EzdvkRgToY?list=PL8FB14A2200B87185&#34;&gt;Yale&lt;/a&gt; in 2011&lt;/li&gt;
@@ -176,9 +176,9 @@
     
     <item>
       <title>Macroeconomic &amp; Industry Analysis</title>
-      <link>https://stephenrush.org/courses/investments/macro_industry/</link>
+      <link>https://www.stephenrush.org/courses/investments/macro_industry/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/macro_industry/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/macro_industry/</guid>
       <description>&lt;h2 id=&#34;macroeconomic-metrics&#34;&gt;Macroeconomic Metrics&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Review: Gross Domestric Product (GDP) @ &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
@@ -195,12 +195,12 @@
 &lt;/li&gt;
 &lt;li&gt;Foreign Exchange
 &lt;ul&gt;
-&lt;li&gt;Video: &lt;!-- raw HTML omitted --&gt;Khan Academy&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/currency-tutorial/v/currency-exchange-introduction&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Balance of Payments
 &lt;ul&gt;
-&lt;li&gt;Video: &lt;!-- raw HTML omitted --&gt;Khan Academy&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/forex-trade-topic/current-capital-account/v/balance-of-payments-current-account&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -230,56 +230,56 @@
     
     <item>
       <title>Financial Statement Analysis</title>
-      <link>https://stephenrush.org/courses/investments/fsa/</link>
+      <link>https://www.stephenrush.org/courses/investments/fsa/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/fsa/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/fsa/</guid>
       <description>&lt;h2 id=&#34;accounting-review&#34;&gt;Accounting Review&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Review: Additional Paid-in Capital @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Review: Altman Z score @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Review: Net Working Capital @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Review: Additional Paid-in Capital @ &lt;a href=&#34;https://youtu.be/8GSdrqrbp8A&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Review: Altman Z score @ &lt;a href=&#34;https://youtu.be/zKR0IKWcHNw&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Review: Net Working Capital @ &lt;a href=&#34;https://youtu.be/EovKfDwRt9Q&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;dupont-analysis&#34;&gt;DuPont Analysis&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;ATM&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/YgZ4FnApo58&#34;&gt;ATM&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;earnings-management&#34;&gt;Earnings Management&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/JmC7uW0-9M8&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;earnings-quality&#34;&gt;Earnings Quality&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/FaY17jAD29Y&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Equity Valuation</title>
-      <link>https://stephenrush.org/courses/investments/equityvaluation/</link>
+      <link>https://www.stephenrush.org/courses/investments/equityvaluation/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/equityvaluation/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/equityvaluation/</guid>
       <description>&lt;h2 id=&#34;relative-valuation&#34;&gt;Relative Valuation&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Guest Video: Aswath Damodaran @ &lt;a href=&#34;https://youtu.be/8N69eLBLTvA?list=PLUkh9m2BorqnDenjSLZ2DHIXrdxoN4Bn_&#34;&gt;NYU&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/Q3w3IqgC8sY&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Video Example: &lt;!-- raw HTML omitted --&gt;Dr. Rush&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Video Example: &lt;a href=&#34;https://youtu.be/9rOeDOuvTUw&#34;&gt;Dr. Rush&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;the-dividend-discount-model&#34;&gt;The Dividend Discount Model&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/TlH3_iOHX3s&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Video Example: &lt;!-- raw HTML omitted --&gt;Dr. Rush&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Video Example: &lt;a href=&#34;https://youtu.be/XNFkOavBBmg&#34;&gt;Dr. Rush&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;discounted-cash-flow-valuation&#34;&gt;Discounted Cash Flow Valuation&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Review: Sources vs Uses of Cash @ &lt;a href=&#34;https://youtu.be/Fsj6EFXvMUc&#34;&gt;ATM&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Review: Net Working Capital @ &lt;a href=&#34;https://youtu.be/EovKfDwRt9Q&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Review: The Weighted Average Cost of Capital (WACC) @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video: Free Cash Flow to the Firm @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video: DCF using FCFF @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Review: The Weighted Average Cost of Capital (WACC) @ &lt;a href=&#34;https://youtu.be/46oLXwClvkw&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: Free Cash Flow to the Firm @ &lt;a href=&#34;https://youtu.be/F5-VsVcbmCQ&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: DCF using FCFF @ &lt;a href=&#34;https://youtu.be/7PpWneOBJls&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;DCF using Free Cash Flow to Equity
 &lt;ul&gt;
-&lt;li&gt;Guest Video: Sustainable Growth Rate @ &lt;!-- raw HTML omitted --&gt;ATM&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: Sustainable Growth Rate @ &lt;a href=&#34;https://youtu.be/2HD4e1jYulU&#34;&gt;ATM&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -294,9 +294,9 @@
     
     <item>
       <title>Options</title>
-      <link>https://stephenrush.org/courses/investments/options/</link>
+      <link>https://www.stephenrush.org/courses/investments/options/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/options/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/options/</guid>
       <description>&lt;h2 id=&#34;guest-lecture&#34;&gt;Guest Lecture&lt;/h2&gt;
 &lt;p&gt;Robert Schiller @ &lt;a href=&#34;https://youtu.be/VkUEWUxI6u0?list=PL8FB14A2200B87185&#34;&gt;Yale&lt;/a&gt; in 2011&lt;/p&gt;
 &lt;ul&gt;
@@ -313,11 +313,11 @@
 &lt;h2 id=&#34;what-is-a-derivative&#34;&gt;What is a Derivative?&lt;/h2&gt;
 &lt;h2 id=&#34;option-terminology&#34;&gt;Option Terminology&lt;/h2&gt;
 &lt;h2 id=&#34;put-and-call-options&#34;&gt;Put and Call Options&lt;/h2&gt;
-&lt;p&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;Khan Academy&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;Guest Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities/put-call-options/v/american-call-options&#34;&gt;Khan Academy&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;the-binomial-option-pricing-model&#34;&gt;The Binomial Option Pricing Model&lt;/h2&gt;
 &lt;p&gt;Video Example: &lt;a href=&#34;https://youtu.be/k_dCeLV_ilE&#34;&gt;Dr.Rush&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;the-black-scholes-option-pricing-model&#34;&gt;The Black-Scholes Option Pricing Model&lt;/h2&gt;
-&lt;p&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;Khan Academy&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;Guest Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities/black-scholes/v/introduction-to-the-black-scholes-formula&#34;&gt;Khan Academy&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;option-strategies&#34;&gt;Option Strategies&lt;/h2&gt;
 &lt;p&gt;Guest Video: What is a Collar? @ &lt;a href=&#34;https://youtu.be/snDXzRdbYJM?list=PLA33D9F40D19C5320&#34;&gt;APM&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;portfolio-insurance&#34;&gt;Portfolio Insurance&lt;/h2&gt;
@@ -326,13 +326,13 @@
     
     <item>
       <title>Futures and Commodities</title>
-      <link>https://stephenrush.org/courses/investments/futures/</link>
+      <link>https://www.stephenrush.org/courses/investments/futures/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/futures/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/futures/</guid>
       <description>&lt;h2 id=&#34;history-of-forward-and-futures-contracts&#34;&gt;History of Forward and Futures Contracts&lt;/h2&gt;
 &lt;h2 id=&#34;futures-overview&#34;&gt;Futures Overview&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Video: &lt;!-- raw HTML omitted --&gt;Khan Academy&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities/forward-futures-contracts/v/forward-contract-introduction&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;mark-to-market&#34;&gt;Mark-to-Market&lt;/h2&gt;
 &lt;h2 id=&#34;spot-futures-parity&#34;&gt;Spot-Futures Parity&lt;/h2&gt;

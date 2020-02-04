@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr. Stephen Rush, CFA</title>
-    <link>https://stephenrush.org/</link>
-      <atom:link href="https://stephenrush.org/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.stephenrush.org/</link>
+      <atom:link href="https://www.stephenrush.org/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Stephen Rush, CFA</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://stephenrush.org/img/icon-192.png</url>
+      <url>https://www.stephenrush.org/img/icon-192.png</url>
       <title>Dr. Stephen Rush, CFA</title>
-      <link>https://stephenrush.org/</link>
+      <link>https://www.stephenrush.org/</link>
     </image>
     
     <item>
       <title>Books</title>
-      <link>https://stephenrush.org/portal/library/books/</link>
+      <link>https://www.stephenrush.org/portal/library/books/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/portal/library/books/</guid>
+      <guid>https://www.stephenrush.org/portal/library/books/</guid>
       <description>&lt;p&gt;This book list is rather short because I only add books that I have read personally and I think are worth taking time away from something else to read. Where possible, I include links to freely accessible materials.&lt;/p&gt;
 &lt;h2 id=&#34;general-finance&#34;&gt;General Finance&lt;/h2&gt;
 &lt;ul&gt;
@@ -24,7 +24,7 @@
 &lt;li&gt;Investments by Bodie, Kane, and Marcus&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.core-econ.org/the-economy/&#34;&gt;The Economy&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Introductory Econometrics: A Modern Approach by Wooldridge&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.mostlyharmlesseconometrics.com/&#34;&gt;Mostly Harmless Econometrics: An Empiricist&amp;rsquo;s Companion&lt;/a&gt; by Angrist and Pischke&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mostlyharmlesseconometrics.com/&#34;&gt;Mostly Harmless Econometrics: An Empiricist&#39;s Companion&lt;/a&gt; by Angrist and Pischke&lt;/li&gt;
 &lt;li&gt;The Misbehavior of Markets: A Fractal View of Financial Turbulence by Benoit Mandelbrot&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;investing&#34;&gt;Investing&lt;/h2&gt;
@@ -62,16 +62,16 @@
     
     <item>
       <title>Coding</title>
-      <link>https://stephenrush.org/portal/library/code/</link>
+      <link>https://www.stephenrush.org/portal/library/code/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/portal/library/code/</guid>
-      <description>&lt;p&gt;My favorite tool for data analysis is the &lt;!-- raw HTML omitted --&gt;R&lt;!-- raw HTML omitted --&gt; programming language because it has a great community, it is free, and it works on Windows, Mac, and Linux. I also highly recommend &lt;!-- raw HTML omitted --&gt;RStudio&lt;!-- raw HTML omitted --&gt; if you&amp;rsquo;re not into using &lt;!-- raw HTML omitted --&gt;ESS&lt;!-- raw HTML omitted --&gt; with &lt;!-- raw HTML omitted --&gt;Emacs&lt;!-- raw HTML omitted --&gt;. RStudio is great for academics because it also serves as a &lt;!-- raw HTML omitted --&gt;LaTeX&lt;!-- raw HTML omitted --&gt; editor so you can use one tool for your entire research project soup to nuts. Microsoft offers a paid support option for commercial use but there is a free and open source version.&lt;/p&gt;
-&lt;p&gt;I learned R on my own but I could not have done it without the help of sites like &lt;!-- raw HTML omitted --&gt;Stack Overflow&lt;!-- raw HTML omitted --&gt; and the outstanding R community. Before posting any questions on the web, please attempt to work the problem yourself so that people don&amp;rsquo;t waste their time answering questions that have already been explained. More succinct: &lt;!-- raw HTML omitted --&gt;RTFM&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+      <guid>https://www.stephenrush.org/portal/library/code/</guid>
+      <description>&lt;p&gt;My favorite tool for data analysis is the &lt;!-- raw HTML omitted --&gt;R&lt;!-- raw HTML omitted --&gt; programming language because it has a great community, it is free, and it works on Windows, Mac, and Linux. I also highly recommend &lt;!-- raw HTML omitted --&gt;RStudio&lt;!-- raw HTML omitted --&gt; if you&#39;re not into using &lt;!-- raw HTML omitted --&gt;ESS&lt;!-- raw HTML omitted --&gt; with &lt;!-- raw HTML omitted --&gt;Emacs&lt;!-- raw HTML omitted --&gt;. RStudio is great for academics because it also serves as a &lt;!-- raw HTML omitted --&gt;LaTeX&lt;!-- raw HTML omitted --&gt; editor so you can use one tool for your entire research project soup to nuts. Microsoft offers a paid support option for commercial use but there is a free and open source version.&lt;/p&gt;
+&lt;p&gt;I learned R on my own but I could not have done it without the help of sites like &lt;!-- raw HTML omitted --&gt;Stack Overflow&lt;!-- raw HTML omitted --&gt; and the outstanding R community. Before posting any questions on the web, please attempt to work the problem yourself so that people don&#39;t waste their time answering questions that have already been explained. More succinct: &lt;!-- raw HTML omitted --&gt;RTFM&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Students&lt;/strong&gt;: Download the pdf booklet &lt;!-- raw HTML omitted --&gt;PDQ Finance&lt;!-- raw HTML omitted --&gt; and follow the directions to install R and RStudio.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Non-Students&lt;/strong&gt;: For minimal time investment, I suggest following some examples in the &lt;!-- raw HTML omitted --&gt;Getting Started in R&lt;!-- raw HTML omitted --&gt; (tinyverse edition) guide by Saghir Bashir and Dirk Eddelbuettel. I also suggest creating a free account at &lt;!-- raw HTML omitted --&gt;RStudio Cloud&lt;!-- raw HTML omitted --&gt; to get started without needing to install anything.&lt;/p&gt;
 &lt;h2 id=&#34;installation-and-introduction&#34;&gt;Installation and Introduction&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://stephenrush.org/portal/library/cli/&#34;&gt;Command Line&lt;/a&gt; - some problems are best solved with command line tools rather than a programming language&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.stephenrush.org/portal/library/cli/&#34;&gt;Command Line&lt;/a&gt; - some problems are best solved with command line tools rather than a programming language&lt;/li&gt;
 &lt;li&gt;&lt;!-- raw HTML omitted --&gt;Emacs and ESS&lt;!-- raw HTML omitted --&gt; on Mac&lt;/li&gt;
 &lt;li&gt;&lt;!-- raw HTML omitted --&gt;Pandas&lt;!-- raw HTML omitted --&gt; - financial data analysis in Python&lt;/li&gt;
 &lt;/ul&gt;
@@ -103,9 +103,9 @@
     
     <item>
       <title>Data Sources</title>
-      <link>https://stephenrush.org/portal/library/data/</link>
+      <link>https://www.stephenrush.org/portal/library/data/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/portal/library/data/</guid>
+      <guid>https://www.stephenrush.org/portal/library/data/</guid>
       <description>&lt;p&gt;There are many sources of data available but in my class and in your job, you must use primary sources. This means original data that has as little filtering as possible. This page includes other sources that are of comparable quality and reliability. They are free to access as you move from the university to your career.&lt;/p&gt;
 &lt;h2 id=&#34;macroeconomic-data&#34;&gt;Macroeconomic Data&lt;/h2&gt;
 &lt;ul&gt;
@@ -151,35 +151,35 @@
     
     <item>
       <title>Ethics</title>
-      <link>https://stephenrush.org/courses/intro-markets/ethics/</link>
+      <link>https://www.stephenrush.org/courses/intro-markets/ethics/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/intro-markets/ethics/</guid>
+      <guid>https://www.stephenrush.org/courses/intro-markets/ethics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://stephenrush.org/courses/managerial-finance/introduction/</link>
+      <link>https://www.stephenrush.org/courses/managerial-finance/introduction/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/managerial-finance/introduction/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial-finance/introduction/</guid>
       <description>&lt;h2 id=&#34;financial-markets&#34;&gt;Financial Markets&lt;/h2&gt;
 &lt;h2 id=&#34;the-firm&#34;&gt;The Firm&lt;/h2&gt;
 &lt;h2 id=&#34;the-principle-agent-problem&#34;&gt;The Principle-Agent Problem&lt;/h2&gt;
 &lt;h2 id=&#34;adverse-selection&#34;&gt;Adverse Selection&lt;/h2&gt;
 &lt;h2 id=&#34;asymmetric-information&#34;&gt;Asymmetric Information&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;MRUniversity&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/sXPXpJ5vMnU&#34;&gt;MRUniversity&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Media Sources</title>
-      <link>https://stephenrush.org/portal/library/media/</link>
+      <link>https://www.stephenrush.org/portal/library/media/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/portal/library/media/</guid>
+      <guid>https://www.stephenrush.org/portal/library/media/</guid>
       <description>&lt;h2 id=&#34;television-news&#34;&gt;Television News&lt;/h2&gt;
-&lt;p&gt;In my opinion, news should have as little commentary as possible and focus on matters of importance rather than entertainment value. I also don&amp;rsquo;t think you should pay for a cable package to receive decent news. These sources keep you informed without attempting to elicit an emotional reaction.&lt;/p&gt;
+&lt;p&gt;In my opinion, news should have as little commentary as possible and focus on matters of importance rather than entertainment value. I also don&#39;t think you should pay for a cable package to receive decent news. These sources keep you informed without attempting to elicit an emotional reaction.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;!-- raw HTML omitted --&gt;PBS Newshour&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.pbs.org/wgbh/frontline/&#34;&gt;Frontline&lt;/a&gt;&lt;/li&gt;
@@ -207,17 +207,17 @@
     
     <item>
       <title>Corporate Methods</title>
-      <link>https://stephenrush.org/courses/seminar-corporatefinance/methods/</link>
+      <link>https://www.stephenrush.org/courses/seminar-corporatefinance/methods/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/seminar-corporatefinance/methods/</guid>
+      <guid>https://www.stephenrush.org/courses/seminar-corporatefinance/methods/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Movies</title>
-      <link>https://stephenrush.org/portal/library/movies/</link>
+      <link>https://www.stephenrush.org/portal/library/movies/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/portal/library/movies/</guid>
+      <guid>https://www.stephenrush.org/portal/library/movies/</guid>
       <description>&lt;p&gt;These are movies that are important to finance culture or have some interesting finance content. Plenty of other movies take place around finance but have little relevant content.&lt;/p&gt;
 &lt;h2 id=&#34;finance-movies&#34;&gt;Finance Movies&lt;/h2&gt;
 &lt;ul&gt;
@@ -229,7 +229,7 @@
 &lt;li&gt;Enron: The Smartest Guys in the Room (2005) Documentary about the fall of energy trading firm Enron&lt;/li&gt;
 &lt;li&gt;Boiler Room (2000) Portrays a &amp;ldquo;pump-and-dump&amp;rdquo; brokerage firm&lt;/li&gt;
 &lt;li&gt;Rogue Trader (1999) Based on the true story of Nick Leeson who brought down &lt;a href=&#34;http://en.wikipedia.org/wiki/Barings_Bank&#34;&gt;Barings Bank&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Other People&amp;rsquo;s Money (1991) Comedy about a corporate raid in the 1980&amp;rsquo;s&lt;/li&gt;
+&lt;li&gt;Other People&#39;s Money (1991) Comedy about a corporate raid in the 1980&#39;s&lt;/li&gt;
 &lt;li&gt;Wall Street (1987) Portrays insider trading and corporate takeover; includes the famous &amp;ldquo;Greed is Good&amp;rdquo; speech&lt;/li&gt;
 &lt;li&gt;Trading Places (1983) classic comedy that involves futures trading on the Chicago Mercantile Exchange&lt;/li&gt;
 &lt;/ul&gt;
@@ -242,9 +242,9 @@
     
     <item>
       <title>Outline</title>
-      <link>https://stephenrush.org/courses/markets-institutions/outline/</link>
+      <link>https://www.stephenrush.org/courses/markets-institutions/outline/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/markets-institutions/outline/</guid>
+      <guid>https://www.stephenrush.org/courses/markets-institutions/outline/</guid>
       <description>&lt;h2 id=&#34;bonds&#34;&gt;Bonds&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Overview&lt;/li&gt;
@@ -269,9 +269,9 @@
     
     <item>
       <title>Podcasts</title>
-      <link>https://stephenrush.org/portal/library/podcasts/</link>
+      <link>https://www.stephenrush.org/portal/library/podcasts/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/portal/library/podcasts/</guid>
+      <guid>https://www.stephenrush.org/portal/library/podcasts/</guid>
       <description>&lt;p&gt;These are conversations and news stories that supplement my course content. Most are about 60 minutes long and will play in any web browser.&lt;/p&gt;
 &lt;h2 id=&#34;econtalk-podcasts&#34;&gt;EconTalk Podcasts&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.econtalk.org/&#34;&gt;EconTalk&lt;/a&gt; is a great resource for long-form conversations related to economics. The website often contains additional information for those interested in the weekly episodes. I have listed the episodes that I have found most useful for teaching.&lt;/p&gt;
@@ -303,7 +303,7 @@ EconTalk: &lt;!-- raw HTML omitted --&gt;Friedman on Capitalism and Freedom&lt;!
 &lt;li&gt;Bloomberg: &lt;!-- raw HTML omitted --&gt;Eugene Fama and Cliff Asness Discuss Efficient Markets&lt;!-- raw HTML omitted --&gt; (15 April 2016)&lt;!-- raw HTML omitted --&gt;
 Only 11 minutes 30 seconds&lt;/li&gt;
 &lt;li&gt;CNBC: &lt;!-- raw HTML omitted --&gt;Market Microstructure Issues&lt;!-- raw HTML omitted --&gt; (1 April 2014)&lt;!-- raw HTML omitted --&gt;
-William O&amp;rsquo;Brien, Brad Katsuyama, and Michael Lewis&lt;/li&gt;
+William O&#39;Brien, Brad Katsuyama, and Michael Lewis&lt;/li&gt;
 &lt;li&gt;VPRO International: &lt;!-- raw HTML omitted --&gt;The Wall Street Code&lt;!-- raw HTML omitted --&gt; (4 November 2013)&lt;/li&gt;
 &lt;li&gt;VPRO International: &lt;!-- raw HTML omitted --&gt;Money and Speed: Inside the Black Box&lt;!-- raw HTML omitted --&gt; (31 January 2011)&lt;/li&gt;
 &lt;li&gt;Nova: &lt;!-- raw HTML omitted --&gt;The Trillion Dollar Bet&lt;!-- raw HTML omitted --&gt; (8 February 2000)&lt;/li&gt;
@@ -326,9 +326,9 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
     
     <item>
       <title>Review</title>
-      <link>https://stephenrush.org/courses/portfolio-management/review/</link>
+      <link>https://www.stephenrush.org/courses/portfolio-management/review/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/portfolio-management/review/</guid>
+      <guid>https://www.stephenrush.org/courses/portfolio-management/review/</guid>
       <description>&lt;h2 id=&#34;accounting-review&#34;&gt;Accounting Review&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Video: Additional Paid-in Capital @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
@@ -397,21 +397,21 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
     
     <item>
       <title>University-Specific Resources</title>
-      <link>https://stephenrush.org/portal/library/university-resources/</link>
+      <link>https://www.stephenrush.org/portal/library/university-resources/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/portal/library/university-resources/</guid>
+      <guid>https://www.stephenrush.org/portal/library/university-resources/</guid>
       <description>&lt;h2 id=&#34;bowling-green-state-university&#34;&gt;Bowling Green State University&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Bloomberg - only accessible from the terminal in the Finance Trading Lab in Room 2004 of the College of Business. Open the Bloomberg application; not the website.&lt;/li&gt;
 &lt;li&gt;The Economist magazine - &lt;!-- raw HTML omitted --&gt;print edition&lt;!-- raw HTML omitted --&gt; only available in the library&lt;/li&gt;
 &lt;li&gt;Foreign Affairs magazine&lt;!-- raw HTML omitted --&gt; – &lt;!-- raw HTML omitted --&gt;online access&lt;!-- raw HTML omitted --&gt; through the library&lt;/li&gt;
 &lt;li&gt;&lt;!-- raw HTML omitted --&gt;Laptop Loan&lt;!-- raw HTML omitted --&gt; - students with financial aid can receive a laptop for an academic year&lt;/li&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Standard and Poor&amp;rsquo;s Capital IQ NetAdvantage&lt;!-- raw HTML omitted --&gt; - available online through the library&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Standard and Poor&#39;s Capital IQ NetAdvantage&lt;!-- raw HTML omitted --&gt; - available online through the library&lt;/li&gt;
 &lt;li&gt;&lt;!-- raw HTML omitted --&gt;Tutors&lt;!-- raw HTML omitted --&gt; - available for free with request through the Learning Commons&lt;/li&gt;
 &lt;li&gt;The Wall Street Journal - &lt;!-- raw HTML omitted --&gt;online access&lt;!-- raw HTML omitted --&gt; through the library&lt;/li&gt;
 &lt;li&gt;&lt;!-- raw HTML omitted --&gt;Wordpress&lt;!-- raw HTML omitted --&gt; - free blog platform with no ads for students and faculty&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;tianjin-polytechnic-university-天津工业大学&#34;&gt;Tianjin Polytechnic University, 天津工业大学&lt;/h2&gt;
+&lt;h2 id=&#34;tianjin-polytechnic-university-&#34;&gt;Tianjin Polytechnic University, 天津工业大学&lt;/h2&gt;
 &lt;h2 id=&#34;university-of-connecticut&#34;&gt;University of Connecticut&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Bloomberg - top floor of the Business School&lt;/li&gt;
@@ -429,9 +429,9 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
     
     <item>
       <title>Investment Policy Statement</title>
-      <link>https://stephenrush.org/courses/portfolio-management/ips/</link>
+      <link>https://www.stephenrush.org/courses/portfolio-management/ips/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/portfolio-management/ips/</guid>
+      <guid>https://www.stephenrush.org/courses/portfolio-management/ips/</guid>
       <description>&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
 &lt;h2 id=&#34;absolute-vs-relative-return&#34;&gt;Absolute vs Relative Return&lt;/h2&gt;
 &lt;h2 id=&#34;risk-tolerance&#34;&gt;Risk Tolerance&lt;/h2&gt;
@@ -448,9 +448,9 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
     
     <item>
       <title>Macroeconomic &amp; Industry Analysis</title>
-      <link>https://stephenrush.org/courses/portfolio-management/macro_industry/</link>
+      <link>https://www.stephenrush.org/courses/portfolio-management/macro_industry/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/portfolio-management/macro_industry/</guid>
+      <guid>https://www.stephenrush.org/courses/portfolio-management/macro_industry/</guid>
       <description>&lt;h2 id=&#34;macroeconomic-metrics&#34;&gt;Macroeconomic Metrics&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Gross Domestric Product (GDP)
@@ -490,23 +490,23 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
     
     <item>
       <title>Market Efficiency</title>
-      <link>https://stephenrush.org/courses/seminar-corporatefinance/market_efficiency/</link>
+      <link>https://www.stephenrush.org/courses/seminar-corporatefinance/market_efficiency/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/seminar-corporatefinance/market_efficiency/</guid>
+      <guid>https://www.stephenrush.org/courses/seminar-corporatefinance/market_efficiency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal Finance</title>
-      <link>https://stephenrush.org/portal/library/personal-finance/</link>
+      <link>https://www.stephenrush.org/portal/library/personal-finance/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/portal/library/personal-finance/</guid>
+      <guid>https://www.stephenrush.org/portal/library/personal-finance/</guid>
       <description>&lt;p&gt;I teach investments, portfolio management, and corporate finance but many people are more interested in personal finance. Here are some thoughts on budgets, using debt, paying off debt, student loans/college, and investing.&lt;/p&gt;
 &lt;h2 id=&#34;budgeting&#34;&gt;Budgeting&lt;/h2&gt;
 &lt;p&gt;Budgeting combines so many personal priorities that one set of guidelines will not work for everyone. I can offer some principles that would benefit most people.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Adjust anything necessary to save 3 months of income as soon as possible. This allows you to deal with emergencies that might interfere with your normal income or provide time to search for another job in the event of a layoff.&lt;/li&gt;
-&lt;li&gt;Max out your 401k plan if offered at your company. Company matching funds are lost forever if you don&amp;rsquo;t qualify and your contributions lower your taxable income. Saving early is more important than paying off your debt because your rate of return will likely be higher on your retirement savings than on your long-term debt.&lt;/li&gt;
+&lt;li&gt;Max out your 401k plan if offered at your company. Company matching funds are lost forever if you don&#39;t qualify and your contributions lower your taxable income. Saving early is more important than paying off your debt because your rate of return will likely be higher on your retirement savings than on your long-term debt.&lt;/li&gt;
 &lt;li&gt;Now we focus on paying off debt. Take a look at my suggestions below. There are no shortcuts but there are more efficient and less efficient ways of getting it done.&lt;/li&gt;
 &lt;li&gt;Identify your life priorities. While steps 1-3 are universal, what comes next depends on what you value. Maybe charitable giving or church tithing is important. Maybe traveling to visit friends and family is essential to your life. Be honest with yourself about &amp;ldquo;needs&amp;rdquo; and &amp;ldquo;wants&amp;rdquo;. Everyone would prefer not to have a roommate. Maybe this is a sacrifice necessary to afford to visit your family.&lt;/li&gt;
 &lt;li&gt;I find that eliminating &amp;ldquo;aspirational purchases&amp;rdquo; is a good start. Do not buy anything where you would change to incorporate the purchase into your life. Only purchase things that fit into your current schedule/priorities. Find self-improvement opportunities that do not require more resources.&lt;/li&gt;
@@ -521,14 +521,14 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
 &lt;h2 id=&#34;paying-off-debt&#34;&gt;Paying off Debt&lt;/h2&gt;
 &lt;p&gt;There are two dominant factors in finance. One is the mathematics that maximizes your wealth while the other is the psychology that allows you to make good financial decisions. Paying down debt puts these two factors at odds with each other.&lt;/p&gt;
 &lt;p&gt;Mathematically, the fastest way to pay off debt is to start with the highest after tax interest and longest term debt first and work down to the lowest after tax debt and shortest term debt. This is sometimes referred to as the debt avalanche and it works because of a concept called amortization. Your payments contain both principle and interest but the proportions change over the life of the loan. Early payments are mostly interest with a little bit of principle while the last payments are almost entirely principle with a small amount of interest. Making additional early payments has a larger decrease in the total amount you will pay on the loan because it reduces principle much faster than the amortization schedule.&lt;/p&gt;
-&lt;p&gt;Psychologically, people need to maintain their motivation over long periods of time to pay off debt. It is easy to become mentally fatigued and to question whether the sacrifices to your quality of life are actually benefiting you. Dave Ramsey has built a massive following by promoting his &amp;ldquo;debt snowball&amp;rdquo; which involves paying off small debts first. Many people find this approach useful because of the psychological feedback that provides you with more motivation to continue to sacrifice now for longer-term gain. These two approaches may not even be in conflict if the small debts are credit card debts that usually have the highest interest rates. The problem is that everyone&amp;rsquo;s finances are different and one approach is not necessarily correct for everyone. Furthermore, using all of your discretionary income to pay off debt may cause you to overlook other financial opportunities such as networking events and the ability to move that can lead to better jobs or promotions.&lt;/p&gt;
+&lt;p&gt;Psychologically, people need to maintain their motivation over long periods of time to pay off debt. It is easy to become mentally fatigued and to question whether the sacrifices to your quality of life are actually benefiting you. Dave Ramsey has built a massive following by promoting his &amp;ldquo;debt snowball&amp;rdquo; which involves paying off small debts first. Many people find this approach useful because of the psychological feedback that provides you with more motivation to continue to sacrifice now for longer-term gain. These two approaches may not even be in conflict if the small debts are credit card debts that usually have the highest interest rates. The problem is that everyone&#39;s finances are different and one approach is not necessarily correct for everyone. Furthermore, using all of your discretionary income to pay off debt may cause you to overlook other financial opportunities such as networking events and the ability to move that can lead to better jobs or promotions.&lt;/p&gt;
 &lt;h2 id=&#34;student-loans&#34;&gt;Student Loans&lt;/h2&gt;
 &lt;p&gt;Let me first explain my college experience and then offer some general advice. I could not afford college after high school. I joined the Marine Corps initially to get money for college and stayed for an additional few years to increase my savings. When I was ready to leave active duty and go to school, the government involuntarily extended my contract due to the 9 / 11 terrorist attacks and subsequent war in Afghanistan. Nearly two years later, I was permitted to leave active duty. I joined the reserves, used my weekend reserve paycheck, my G.I. Bill benefits (before the revised G.I. Bill), and got a part-time job at Starbucks in order to receive healthcare. (At the time, Starbucks was one of the few companies offering healthcare to employees working at least 20 hours per week.) This allowed me to afford to attend Rhode Island College on a full-time basis.&lt;/p&gt;
-&lt;p&gt;I decided to study finance rather than music because I knew I needed to support myself after school and I didn&amp;rsquo;t have the option to go live with my parents. I attended the state college for 3 semesters and I took as many general education classes and introduction classes as I could that would easily transfer to another university. I maintained a 3.95 / 4 GPA which I used to apply to the local private business school, Bryant University. Bryant offered a $10,000/year scholarship and I was able to graduate after 4 semesters at Bryant with a double major in finance and economics in the honors program while taking two years of Chinese.&lt;/p&gt;
+&lt;p&gt;I decided to study finance rather than music because I knew I needed to support myself after school and I didn&#39;t have the option to go live with my parents. I attended the state college for 3 semesters and I took as many general education classes and introduction classes as I could that would easily transfer to another university. I maintained a 3.95 / 4 GPA which I used to apply to the local private business school, Bryant University. Bryant offered a $10,000/year scholarship and I was able to graduate after 4 semesters at Bryant with a double major in finance and economics in the honors program while taking two years of Chinese.&lt;/p&gt;
 &lt;p&gt;Despite the academic scholarship from Bryant, I used my entire G.I. Bill, Marine Corps Reserve paycheck, my Starbucks paycheck, and still needed student loans. I understand that I was lucky to have those opportunities and everyone cannot possibly repeat my experience simply by working harder. I should also note that despite my academic achievement, many companies did not want to hire me because they were concerned that I would be deployed. I received many opportunities to interview but my peers that I had tutored received multiple offers while my first offer only came after I separated from the reserves. I believe that the attitude towards veterans has improved in corporate America but there is a substantial difference between the &amp;ldquo;Thank You for Your Service&amp;rdquo; platitudes and the actual hiring practices.&lt;/p&gt;
 &lt;p&gt;I could have decided to stay at Rhode Island College although the opportunities and quality of education were not equivalent to Bryant University. Opportunities are only valuable if used and I believe many other students at Bryant would be better off going to the state college. At the time I did not intend to get a masters degree. A better path would have been to graduate from the state college and go to a better university for my masters program although it is uncertain whether I would have been accepted in the same masters program.&lt;/p&gt;
 &lt;p&gt;What should you do? First, identify whether you simply want a college degree or whether you need a marketable skill to survive. Americans do not like to talk about class because it conflicts with our ideal of equal opportunity and meritocracy. Be honest with yourself about what you need to survive and what you are willing to sacrifice when you choose a college major. Every program at every college has alumni that they can use as examples of success. What you need is hard data on the percentage of students for a given program that get entry level jobs that pay enough to pay off student loans in a few years (not 10 years) and provide a minimal standard of living. Unfortunately, this eliminates many liberal arts programs at non-prestigious universities. You should also utilize data such as the &lt;!-- raw HTML omitted --&gt;U.S. Department of Education College Scorecard&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;
-&lt;p&gt;As a college professor, I would also suggest that you consider not going to college. Watch &lt;!-- raw HTML omitted --&gt;this video&lt;!-- raw HTML omitted --&gt; by &amp;ldquo;Dirty Jobs&amp;rdquo; host, Mike Rowe. I don&amp;rsquo;t mean to in any way minimize the value of learning but universities are not the only places to learn. Get a library card and read. Consider certificate programs but only if they have a proven career benefit. (There are lots of useless certificates and online programs out there.) Professors do not have a monopoly on knowledge but they usually know the best sources of knowledge and the most efficient way to acquire knowledge. Search for syllabi (course outlines) on subjects that interest you and read the book on your own. A well-read tradesman (electrician, plumber, etc&amp;hellip;) may be wealthier and more knowledgeable than a college graduate.&lt;/p&gt;
+&lt;p&gt;As a college professor, I would also suggest that you consider not going to college. Watch &lt;!-- raw HTML omitted --&gt;this video&lt;!-- raw HTML omitted --&gt; by &amp;ldquo;Dirty Jobs&amp;rdquo; host, Mike Rowe. I don&#39;t mean to in any way minimize the value of learning but universities are not the only places to learn. Get a library card and read. Consider certificate programs but only if they have a proven career benefit. (There are lots of useless certificates and online programs out there.) Professors do not have a monopoly on knowledge but they usually know the best sources of knowledge and the most efficient way to acquire knowledge. Search for syllabi (course outlines) on subjects that interest you and read the book on your own. A well-read tradesman (electrician, plumber, etc&amp;hellip;) may be wealthier and more knowledgeable than a college graduate.&lt;/p&gt;
 &lt;h2 id=&#34;personal-investing&#34;&gt;Personal Investing&lt;/h2&gt;
 &lt;p&gt;The goals of investing (more return, less risk) are same for everyone but the tools are different for various levels of wealth. Someone with $1m to invest should not be doing the same things as someone with $100k to invest. Investing is a scale business which means that some expenses are worthwhile for large portfolio and a waste of money for small portfolios. I suggest using a robo-advisor like Wealthfront or Betterment unless you have more than $100k. The reason is that the fees are low and lowering expenses is more likely to benefit you than hiring a personal financial adviser. You should not be buying any fund with an expense ratio greater than 0.25% (Yes, that is a quarter of 1%). Most people should be investing in index funds and these types of businesses make the process relatively cheap and simple. They also automate the process of rebalancing your portfolio which minimizes your interaction with the portfolio. Behavioral Finance is an entire field dedicated to studying why people make foolish financial decisions. In long-term investing, most people are better off doing as little as possible.&lt;/p&gt;
 &lt;p&gt;For the ultimate in cheap, DIY investing, I recommend using a pair of Vanguard funds like the Total World Stock ETF (ticker: VT) and the Total International Bond ETF (ticker: BNDX). For those that want to stay within the U.S., you can use Total Stock Market ETF (ticker: VTI) and Total Bond Market ETF (ticker: BND). The proportion of stocks and bonds depends on your level of risk. If you have more than a decade to invest, hold all stocks. Something less, or if market changes concern you, hold more bonds. You only need a pair of mutual funds or ETFs.&lt;/p&gt;
@@ -538,9 +538,9 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
     
     <item>
       <title>Securities Analysis</title>
-      <link>https://stephenrush.org/portal/library/securities-analysis/</link>
+      <link>https://www.stephenrush.org/portal/library/securities-analysis/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/portal/library/securities-analysis/</guid>
+      <guid>https://www.stephenrush.org/portal/library/securities-analysis/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;I created this page to introduce students to securities analysis. The information provided on this page is not intended to be comprehensive but is intended to provide students with enough information to start learning on their own. There are many perspectives on investment analysis but this page will be limited to fundamental analysis which is best suited to long time horizons. This approach can also be used to evaluate projects in corporate finance.&lt;/p&gt;
 &lt;p&gt;An investment recommendation needs a minimum of three components: a specific security, the price of that security, and a specific time. The first two are self explanatory but the third is a proxy for a particular information set. This means that buying a particular security at a particular price may or may not be a good idea depending on what we know about the state of the world at any given time. (I will discuss this more under the Process section.)&lt;/p&gt;
@@ -569,7 +569,7 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
 &lt;p&gt;Management: quality, reliability, accounting standards, strategy, public relations, ethics&lt;/p&gt;
 &lt;h2 id=&#34;getting-information&#34;&gt;Getting Information&lt;/h2&gt;
 &lt;p&gt;Financial websites have a good presentation of the superficial information about a company. A small sample would include Bloomberg, Google, MarketWatch, Reuters, Seeking Alpha, and Yahoo. Transcripts of earnings calls may be obtained from the company investor relations website or from other investor websites. There may be some well written blog posts that are useful for background but for a bottom up fundamental analysis of a company, you need to use primary sources.&lt;/p&gt;
-&lt;p&gt;The Securities and Exchange Commission (SEC) maintains a database of company filings called the &lt;!-- raw HTML omitted --&gt;EDGAR&lt;!-- raw HTML omitted --&gt; database. The most relevant form is the annual 10-K statement which includes the three financial statements (income statement, balance sheet, and statement of cash flows) as well as all the background information needed to understand the business. The 10-Q statement is the shorter version released on a quarterly basis. International firms file 6-K forms with similar information. On the top of the search results for a particular company&amp;rsquo;s filings is a link to the RSS feed. Copy this link and paste it into an RSS reader. Email applications like Outlook and Mac Mail also have RSS reader capabilities. When a company releases new information, the filing will appear similar to an email in your RSS reader. Press releases can be obtained from business news aggregator sites like Business Wire.&lt;/p&gt;
+&lt;p&gt;The Securities and Exchange Commission (SEC) maintains a database of company filings called the &lt;!-- raw HTML omitted --&gt;EDGAR&lt;!-- raw HTML omitted --&gt; database. The most relevant form is the annual 10-K statement which includes the three financial statements (income statement, balance sheet, and statement of cash flows) as well as all the background information needed to understand the business. The 10-Q statement is the shorter version released on a quarterly basis. International firms file 6-K forms with similar information. On the top of the search results for a particular company&#39;s filings is a link to the RSS feed. Copy this link and paste it into an RSS reader. Email applications like Outlook and Mac Mail also have RSS reader capabilities. When a company releases new information, the filing will appear similar to an email in your RSS reader. Press releases can be obtained from business news aggregator sites like Business Wire.&lt;/p&gt;
 &lt;p&gt;For economic information, the Federal Reserve maintains the &lt;!-- raw HTML omitted --&gt;FRED&lt;!-- raw HTML omitted --&gt; database. This is a good source for interest rates, GDP, inflation data, international trade, and other macroeconomic variables. The one year constant maturity treasury bill series DGS1 is a good series to use as the risk free rate.&lt;/p&gt;
 &lt;h2 id=&#34;final-notes&#34;&gt;Final Notes&lt;/h2&gt;
 &lt;p&gt;I suggest using a forecast period of five years (current year plus four) for discounted cash flow models. The terminal value should use very conservative assumptions such as a growth rate in line with long term GDP growth rather than historic firm growth. Check the library for additional books, blogs, magazines, and movie recommendations.&lt;/p&gt;
@@ -578,9 +578,9 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
     
     <item>
       <title>Student Advice</title>
-      <link>https://stephenrush.org/portal/library/advising/</link>
+      <link>https://www.stephenrush.org/portal/library/advising/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/portal/library/advising/</guid>
+      <guid>https://www.stephenrush.org/portal/library/advising/</guid>
       <description>&lt;p&gt;Everyone has constraints on their time, money, and attention. My recommendations represent what I believe a competitive student should do to prepare for a career in finance but everyone has to make trade-offs.&lt;/p&gt;
 &lt;h2 id=&#34;university-selection&#34;&gt;University Selection&lt;/h2&gt;
 &lt;p&gt;The most valuable aspects of a college education are: degree, personal network, learning from peers, and coursework. When considering universities with different tuition rates, consider whether the higher tuition comes with a substantial increase in one of those factors. While there are substantial differences in the marketability of an Ivy League degree relative to a state college degree, most of the differences in outcomes from similar colleges are determined by individual factors.&lt;/p&gt;
@@ -588,32 +588,32 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
 &lt;h2 id=&#34;course-selection&#34;&gt;Course Selection&lt;/h2&gt;
 &lt;p&gt;Take the required finance course for business majors as soon as possible. (This is usually called Financial Management.) It is a prerequisite to almost every finance course at every university. After that, take Investments as soon as possible. It will help with the second internship if you want to work in capital markets. Next, take a modeling class and an international finance class. Finally, take the Financial Markets and Institutions class and any other required classes for your program. If you want to work in capital markets, get into the student managed fund.&lt;/p&gt;
 &lt;p&gt;Finance is a interdisciplinary field. Without accounting, economics, and statistics, you cannot understand finance. The qualitative coursework in marketing and management will help you evaluate the strategies of potential investments as well as the strategy of your own organization.&lt;/p&gt;
-&lt;p&gt;If you are not a finance major, consider your alternatives carefully. In general, more quantitative skills lead to higher salaries. Don&amp;rsquo;t expect to have a job in the arts or humanities and own a house without support from a spouse or parents. Even within the business school, there are substantial differences between more quantitative majors versus qualitative majors. Consider the median salary and lifestyle rather than a few stories of students that &amp;ldquo;made it&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;If possible, do a semester abroad in the first 2 years. It is better to do it early than to miss an internship opportunity later. Pick a country where you do not feel comfortable. Studying abroad in a less developed country may be cheaper than a state college in the U.S. and provides a much more valuable experience. Don&amp;rsquo;t limit yourself to the programs that the university promotes.&lt;/p&gt;
-&lt;p&gt;Pick a class you like with a project that interests you. Work harder on the project than is required and publish the results. This is not as difficult as you might imagine and is marketable even if you don&amp;rsquo;t go to grad school. Your professor knows places that will publish student work.&lt;/p&gt;
+&lt;p&gt;If you are not a finance major, consider your alternatives carefully. In general, more quantitative skills lead to higher salaries. Don&#39;t expect to have a job in the arts or humanities and own a house without support from a spouse or parents. Even within the business school, there are substantial differences between more quantitative majors versus qualitative majors. Consider the median salary and lifestyle rather than a few stories of students that &amp;ldquo;made it&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;If possible, do a semester abroad in the first 2 years. It is better to do it early than to miss an internship opportunity later. Pick a country where you do not feel comfortable. Studying abroad in a less developed country may be cheaper than a state college in the U.S. and provides a much more valuable experience. Don&#39;t limit yourself to the programs that the university promotes.&lt;/p&gt;
+&lt;p&gt;Pick a class you like with a project that interests you. Work harder on the project than is required and publish the results. This is not as difficult as you might imagine and is marketable even if you don&#39;t go to grad school. Your professor knows places that will publish student work.&lt;/p&gt;
 &lt;h2 id=&#34;internships&#34;&gt;Internships&lt;/h2&gt;
 &lt;p&gt;Get an internship at the end of your sophomore year and junior year. Even if you have never taken a class in your discipline, get an internship. Companies expect you to be motivated and interested in your field. They do not expect you to know how to do the job. Many companies will make full time offers to a few of their top performers in the summer internship. Do not accept unpaid internships. Everyone believes their experience is valuable but very rarely is it worth going into debt.&lt;/p&gt;
 &lt;h2 id=&#34;academic-and-career-standards&#34;&gt;Academic and Career Standards&lt;/h2&gt;
-&lt;p&gt;Assume that you need to do twice as much as what other people have done to achieve the same level of success. Being above average doesn&amp;rsquo;t cut it in finance. Many people reached their position by some combination of luck and skill. Don&amp;rsquo;t assume that you can replicate someone else&amp;rsquo;s luck.&lt;/p&gt;
+&lt;p&gt;Assume that you need to do twice as much as what other people have done to achieve the same level of success. Being above average doesn&#39;t cut it in finance. Many people reached their position by some combination of luck and skill. Don&#39;t assume that you can replicate someone else&#39;s luck.&lt;/p&gt;
 &lt;h2 id=&#34;marketable-skills&#34;&gt;Marketable Skills&lt;/h2&gt;
 &lt;p&gt;You can never know Excel well enough. You can never network enough. Do not accept labels such as qualitative or quantitative. Finance requires both.&lt;/p&gt;
 &lt;p&gt;Start learning to stand in front of people and explain difficult ideas. This is necessary for most jobs in finance.&lt;/p&gt;
 &lt;p&gt;It is better to ask stupid questions than to not ask questions.&lt;/p&gt;
-&lt;p&gt;Learn some programming. R, Python, Matlab, SAS, or even VBA are good choices. Pick a project to learn on your own. This is more efficient than taking a general introduction to programming class. Someone has probably solved a problem similar to your&amp;rsquo;s on free sites like &lt;!-- raw HTML omitted --&gt;Stack Overflow&lt;!-- raw HTML omitted --&gt;. Break down your project into the most simple components and search for how to complete each step.&lt;/p&gt;
+&lt;p&gt;Learn some programming. R, Python, Matlab, SAS, or even VBA are good choices. Pick a project to learn on your own. This is more efficient than taking a general introduction to programming class. Someone has probably solved a problem similar to your&#39;s on free sites like &lt;!-- raw HTML omitted --&gt;Stack Overflow&lt;!-- raw HTML omitted --&gt;. Break down your project into the most simple components and search for how to complete each step.&lt;/p&gt;
 &lt;h2 id=&#34;resume-hacks&#34;&gt;Resume Hacks&lt;/h2&gt;
 &lt;p&gt;Identify extracurricular activities that have measurable outcomes to list on your resume such as: organized 20 presentations or raised $10,000 for charity.&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&amp;quot;Don&amp;rsquo;t Follow Your Passion&amp;rdquo; - Mike Rowe&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&amp;quot;Don&#39;t Follow Your Passion&amp;rdquo; - Mike Rowe&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;Get a hobby. Find something that is not finance that makes you happy. This will help you deal with the times when finance will be boring, frustrating, or too difficult. Talk about your hobby in an interview.&lt;/p&gt;
 &lt;p&gt;The best jobs are usually not around the university and are not advertised at the career center. Be prepared to move and find your own job.
-&lt;img src=&#34;https://stephenrush.org/img/pics/Shark_Mondays.jpg&#34; alt=&#34;Shark&#34; title=&#34;Be the shark&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://www.stephenrush.org/img/pics/Shark_Mondays.jpg&#34; alt=&#34;Shark&#34; title=&#34;Be the shark&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Time Value of Money</title>
-      <link>https://stephenrush.org/courses/managerial-finance/tvm/</link>
+      <link>https://www.stephenrush.org/courses/managerial-finance/tvm/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/managerial-finance/tvm/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial-finance/tvm/</guid>
       <description>&lt;h2 id=&#34;time-value-of-money&#34;&gt;Time Value of Money&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Guest Video - Time Value of Money @ &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/interest-tutorial/present-value/v/time-value-of-money&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
@@ -639,9 +639,9 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
     
     <item>
       <title>Capital Budgeting I</title>
-      <link>https://stephenrush.org/courses/managerial-finance/capital_budgeting_i/</link>
+      <link>https://www.stephenrush.org/courses/managerial-finance/capital_budgeting_i/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/managerial-finance/capital_budgeting_i/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial-finance/capital_budgeting_i/</guid>
       <description>&lt;h2 id=&#34;net-present-value-npv&#34;&gt;Net Present Value (NPV)&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Guest Video - Net Present Value @ &lt;a href=&#34;https://youtu.be/HFFkFMfotT0&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
@@ -672,9 +672,9 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
     
     <item>
       <title>Command Line Interface</title>
-      <link>https://stephenrush.org/portal/library/cli/</link>
+      <link>https://www.stephenrush.org/portal/library/cli/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/portal/library/cli/</guid>
+      <guid>https://www.stephenrush.org/portal/library/cli/</guid>
       <description>&lt;p&gt;I have become enamored with the idea of minimalist computing. The primary reason is that I like substituting intellectual capital for financial capital or to put it another way, using cheap computers more effectively. My secondary reason is that I have reached a point in my work where the electrical usage and heat production from my research needs to be considered both in terms of monetary costs and environmental impact.&lt;/p&gt;
 &lt;p&gt;The bottom line is that minimal computing allows for the same productivity with older or cheaper machines. When you need cutting edge computation that is expensive and sucks power, either rent from a cloud provider where they can manage the hardware and operate at a more efficient scale than your home or keep your own servers at the most efficient power provider like the office. At a minimum, you can avoid both paying for power and the marginal increase in cooling costs. Second hand servers can be found/purchased/built cheap but are still expensive to operate. Keeping operating costs as low as possible helps you get the biggest bang for your buck.&lt;/p&gt;
 &lt;p&gt;For those interested in moving away from the GUI world, I suggest a gradual shift while continuing to work on the operating system of your choice. If you are on Windows 10, Ubuntu and other Linux distributions are available on the app store via the Windows Subsystem for Linux (WSL). Mac users can install MacPorts to get the standard versions of some command line programs. Eventually you will want to transition to a free open source operating system like Ubuntu Linux but baby steps for now.&lt;/p&gt;
@@ -696,7 +696,7 @@ Use Ctrl as the meta key so Ctrl-x exits the program.&lt;/p&gt;
 &lt;p&gt;tmux: use multiple command line sessions in a single terminal
 I love monitors but they suck power and take up too much space. Using a terminal multiplexer like tmux allows you to cram more info into a smaller amount of real estate. Use Ctrl-b to issue commands. Add resurrect and continuum through the plug-in manager to make your tmux session more robust.&lt;/p&gt;
 &lt;p&gt;mosh: make your sessions robust to network disruptions
-Do you like closing your laptop for a while and then resuming exactly where you left off? Mosh does this for secure shell sessions so you don&amp;rsquo;t need to reestablish your connections manually. Mosh requires that UDP ports 60000-60100 as well as the secure shell port is open. Some network environments may block traffic to these ports. One of the great tools that &amp;ldquo;just works&amp;rdquo; in most network environments.&lt;/p&gt;
+Do you like closing your laptop for a while and then resuming exactly where you left off? Mosh does this for secure shell sessions so you don&#39;t need to reestablish your connections manually. Mosh requires that UDP ports 60000-60100 as well as the secure shell port is open. Some network environments may block traffic to these ports. One of the great tools that &amp;ldquo;just works&amp;rdquo; in most network environments.&lt;/p&gt;
 &lt;p&gt;rsync: quickly copy large amounts of files
 wget: fetch files from the Internet
 curl: more advanced Internet functionality
@@ -708,42 +708,42 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Ethics</title>
-      <link>https://stephenrush.org/courses/portfolio-management/ethics/</link>
+      <link>https://www.stephenrush.org/courses/portfolio-management/ethics/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/portfolio-management/ethics/</guid>
+      <guid>https://www.stephenrush.org/courses/portfolio-management/ethics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Market Frictions</title>
-      <link>https://stephenrush.org/courses/seminar-corporatefinance/market_frictions/</link>
+      <link>https://www.stephenrush.org/courses/seminar-corporatefinance/market_frictions/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/seminar-corporatefinance/market_frictions/</guid>
+      <guid>https://www.stephenrush.org/courses/seminar-corporatefinance/market_frictions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trade Execution</title>
-      <link>https://stephenrush.org/courses/portfolio-management/trading/</link>
+      <link>https://www.stephenrush.org/courses/portfolio-management/trading/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/portfolio-management/trading/</guid>
-      <description>&lt;p&gt;We will be using Chebyshev&amp;rsquo;s Theorem to set limits on trades. This is appropriate because financial returns (and prices) are not normally distributed but the distribution is generally assumed to have a mean and standard deviation. Find the volume-weighted average prices (VWAP) from no more than one month in the past. For buys, calculate two standard deviations below the last VWAP price to use as the limit. This will balance price improvement with our goal of execution within a week. Use the same guide for sell limit orders. Add two standard deviations to the last VWAP to get the limit sell price which is likely to be executed within a week.&lt;/p&gt;
+      <guid>https://www.stephenrush.org/courses/portfolio-management/trading/</guid>
+      <description>&lt;p&gt;We will be using Chebyshev&#39;s Theorem to set limits on trades. This is appropriate because financial returns (and prices) are not normally distributed but the distribution is generally assumed to have a mean and standard deviation. Find the volume-weighted average prices (VWAP) from no more than one month in the past. For buys, calculate two standard deviations below the last VWAP price to use as the limit. This will balance price improvement with our goal of execution within a week. Use the same guide for sell limit orders. Add two standard deviations to the last VWAP to get the limit sell price which is likely to be executed within a week.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Behavioral Finance</title>
-      <link>https://stephenrush.org/courses/seminar-corporatefinance/behavioral_finance/</link>
+      <link>https://www.stephenrush.org/courses/seminar-corporatefinance/behavioral_finance/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/seminar-corporatefinance/behavioral_finance/</guid>
+      <guid>https://www.stephenrush.org/courses/seminar-corporatefinance/behavioral_finance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Equity Valuation</title>
-      <link>https://stephenrush.org/courses/portfolio-management/equityvaluation/</link>
+      <link>https://www.stephenrush.org/courses/portfolio-management/equityvaluation/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/portfolio-management/equityvaluation/</guid>
+      <guid>https://www.stephenrush.org/courses/portfolio-management/equityvaluation/</guid>
       <description>&lt;h2 id=&#34;relative-valuation&#34;&gt;Relative Valuation&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Video: &lt;!-- raw HTML omitted --&gt;Rush&lt;!-- raw HTML omitted --&gt; | &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
@@ -775,9 +775,9 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Bonds and Interest Rates</title>
-      <link>https://stephenrush.org/courses/managerial-finance/interest_rates/</link>
+      <link>https://www.stephenrush.org/courses/managerial-finance/interest_rates/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/managerial-finance/interest_rates/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial-finance/interest_rates/</guid>
       <description>&lt;h2 id=&#34;interest-rates&#34;&gt;Interest Rates&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Guest Video: Why do Interest Rates Matter? @ &lt;a href=&#34;https://youtu.be/Rx-8NkKO0tw?list=PLA33D9F40D19C5320&#34;&gt;APM&lt;/a&gt;&lt;/li&gt;
@@ -824,9 +824,9 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Market Microstructure</title>
-      <link>https://stephenrush.org/portal/library/microstructure/</link>
+      <link>https://www.stephenrush.org/portal/library/microstructure/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/portal/library/microstructure/</guid>
+      <guid>https://www.stephenrush.org/portal/library/microstructure/</guid>
       <description>&lt;p&gt;Many of the issues in market microstructure are difficult to address due to the cost and availability of large data sets. Even special academic pricing is usually too expensive for all but the most prominent universities. For these reasons, prior literature is sparse, has small samples, or is not conducted in an unbiased manner. I encourage anyone with access to relevant data to make it available to researchers so policy makers can make data-driven decisions that will improve the quality of markets.&lt;/p&gt;
 &lt;h2 id=&#34;issues-in-microstructure&#34;&gt;Issues in Microstructure&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Order Type Controversy&lt;/em&gt; - Do some exchange or ATS clients have access to order types that other clients do not? Is the reason due to client favoritism or technical sophistication?&lt;/p&gt;
@@ -851,7 +851,7 @@ irssi: text based IRC client&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;microstructure-media&#34;&gt;Microstructure Media&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;CNBC: &lt;!-- raw HTML omitted --&gt;Market Microstructure Issues&lt;!-- raw HTML omitted --&gt; (1 April 2014) &lt;!-- raw HTML omitted --&gt;William O&amp;rsquo;Brien, Brad Katsuyama, and Michael Lewis&lt;/li&gt;
+&lt;li&gt;CNBC: &lt;!-- raw HTML omitted --&gt;Market Microstructure Issues&lt;!-- raw HTML omitted --&gt; (1 April 2014) &lt;!-- raw HTML omitted --&gt;William O&#39;Brien, Brad Katsuyama, and Michael Lewis&lt;/li&gt;
 &lt;li&gt;VPRO International: &lt;!-- raw HTML omitted --&gt;The Wall Street Code&lt;!-- raw HTML omitted --&gt; (4 November 2013)&lt;/li&gt;
 &lt;li&gt;VPRO International: &lt;!-- raw HTML omitted --&gt;Money and Speed: Inside the Black Box&lt;!-- raw HTML omitted --&gt; (31 January 2011)&lt;/li&gt;
 &lt;/ul&gt;
@@ -896,9 +896,9 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Portfolio Optimization</title>
-      <link>https://stephenrush.org/courses/portfolio-management/portfoliooptimization/</link>
+      <link>https://www.stephenrush.org/courses/portfolio-management/portfoliooptimization/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/portfolio-management/portfoliooptimization/</guid>
+      <guid>https://www.stephenrush.org/courses/portfolio-management/portfoliooptimization/</guid>
       <description>&lt;h2 id=&#34;constrained-mean-variance-portfolio-optimization&#34;&gt;Constrained Mean-Variance Portfolio Optimization&lt;/h2&gt;
 &lt;h2 id=&#34;risk-parity-portfolios&#34;&gt;Risk Parity Portfolios&lt;/h2&gt;
 &lt;p&gt;Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/master/Portfolio/Risk_Parity.R&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
@@ -907,9 +907,9 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Risk and Return</title>
-      <link>https://stephenrush.org/courses/managerial-finance/risk_return/</link>
+      <link>https://www.stephenrush.org/courses/managerial-finance/risk_return/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/managerial-finance/risk_return/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial-finance/risk_return/</guid>
       <description>&lt;h2 id=&#34;arithmetic-and-geometric-returns&#34;&gt;Arithmetic and Geometric Returns&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
@@ -935,9 +935,9 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Performance Measurement</title>
-      <link>https://stephenrush.org/courses/portfolio-management/performance/</link>
+      <link>https://www.stephenrush.org/courses/portfolio-management/performance/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/portfolio-management/performance/</guid>
+      <guid>https://www.stephenrush.org/courses/portfolio-management/performance/</guid>
       <description>&lt;h2 id=&#34;benchmark&#34;&gt;Benchmark&lt;/h2&gt;
 &lt;h2 id=&#34;treynor-measure&#34;&gt;Treynor Measure&lt;/h2&gt;
 &lt;h2 id=&#34;sharpe-ratio--information-ratio&#34;&gt;Sharpe Ratio / Information Ratio&lt;/h2&gt;
@@ -958,25 +958,25 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>The Capital Asset Pricing Model</title>
-      <link>https://stephenrush.org/courses/managerial-finance/capm/</link>
+      <link>https://www.stephenrush.org/courses/managerial-finance/capm/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/managerial-finance/capm/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial-finance/capm/</guid>
       <description>&lt;h2 id=&#34;the-capital-asset-pricing-model&#34;&gt;The Capital Asset Pricing Model&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/fDz_DgDJD5g&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;systematic-vs-idiosyncratic-risk&#34;&gt;Systematic vs Idiosyncratic Risk&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/qPu4TEGIDYI&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;beta&#34;&gt;Beta&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Guest Video: What is Beta? @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: What is Beta? @ &lt;a href=&#34;https://youtu.be/sYu8E8kjCT0&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Guest Video: Portfolio Beta @ &lt;a href=&#34;https://youtu.be/nRRhzsiVT9s&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;estimate-beta&#34;&gt;Estimate Beta:&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Video: &lt;!-- raw HTML omitted --&gt;CAPM Regression&lt;!-- raw HTML omitted --&gt; and &lt;!-- raw HTML omitted --&gt;Regression Results&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/b4FsppHu3rE&#34;&gt;CAPM Regression&lt;/a&gt; and &lt;a href=&#34;https://youtu.be/ZfyYjC1Tcks&#34;&gt;Regression Results&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;the-equity-risk-premium&#34;&gt;The Equity Risk Premium&lt;/h2&gt;
 &lt;ul&gt;
@@ -984,11 +984,11 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
 &lt;/ul&gt;
 &lt;h2 id=&#34;security-market-line&#34;&gt;Security Market Line&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/QtScOojh5z8&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;capital-market-line&#34;&gt;Capital Market Line&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/wOaKzthMUQ0&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;advanced&#34;&gt;Advanced&lt;/h2&gt;
 &lt;ul&gt;
@@ -999,9 +999,9 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>Capital Budgeting II</title>
-      <link>https://stephenrush.org/courses/managerial-finance/capital_budgeting_ii/</link>
+      <link>https://www.stephenrush.org/courses/managerial-finance/capital_budgeting_ii/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/managerial-finance/capital_budgeting_ii/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial-finance/capital_budgeting_ii/</guid>
       <description>&lt;h2 id=&#34;optional&#34;&gt;Optional&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Corporate Inversions @ &lt;a href=&#34;https://youtu.be/iSwdsWjC9VQ?list=PLA33D9F40D19C5320&#34;&gt;APM&lt;/a&gt;&lt;/li&gt;
@@ -1012,9 +1012,9 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>Financial Statement Analysis</title>
-      <link>https://stephenrush.org/courses/managerial-finance/fsa/</link>
+      <link>https://www.stephenrush.org/courses/managerial-finance/fsa/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/managerial-finance/fsa/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial-finance/fsa/</guid>
       <description>&lt;h2 id=&#34;accounting-review&#34;&gt;Accounting Review&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Review Video: Balance Sheet and Income Statement @ &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/accounting-and-financial-stateme/financial-statements-tutorial/v/balance-sheet-and-income-statement-relationship&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
@@ -1023,8 +1023,8 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
 &lt;li&gt;Review Video: Double Declining Balance Depreciation @ &lt;a href=&#34;https://youtu.be/ziayge17w6g&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Review Video: Deferred Tax Asset @ &lt;a href=&#34;https://youtu.be/KOcx8vPvjlQ&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Review Video: Deferred Tax Liability @ &lt;a href=&#34;https://youtu.be/664LVAcI4Fc&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Review Video: Additional Paid-in Capital @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Review Video: Altman Z score @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Review Video: Additional Paid-in Capital @ &lt;a href=&#34;https://youtu.be/8GSdrqrbp8A&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Review Video: Altman Z score @ &lt;a href=&#34;https://youtu.be/zKR0IKWcHNw&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;dupont-analysis&#34;&gt;DuPont Analysis&lt;/h2&gt;
 &lt;ul&gt;
@@ -1032,24 +1032,24 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
 &lt;/ul&gt;
 &lt;h2 id=&#34;earnings-management&#34;&gt;Earnings Management&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/JmC7uW0-9M8&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;earnings-quality&#34;&gt;Earnings Quality&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/FaY17jAD29Y&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;discounted-cash-flow-valuation&#34;&gt;Discounted Cash Flow Valuation&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Guest Video: The Weighted Average Cost of Capital (WACC) @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video: Free Cash Flow to the Firm @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video: Sources and Uses of Cash @ &lt;!-- raw HTML omitted --&gt;ATM&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video: Net Working Capital @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video: DCF using FCFF @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: The Weighted Average Cost of Capital (WACC) @ &lt;a href=&#34;https://youtu.be/46oLXwClvkw&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: Free Cash Flow to the Firm @ &lt;a href=&#34;https://youtu.be/F5-VsVcbmCQ&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: Sources and Uses of Cash @ &lt;a href=&#34;https://youtu.be/Fsj6EFXvMUc&#34;&gt;ATM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: Net Working Capital @ &lt;a href=&#34;https://youtu.be/EovKfDwRt9Q&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: DCF using FCFF @ &lt;a href=&#34;https://youtu.be/7PpWneOBJls&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;DCF using Free Cash Flow to Equity&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;sustainable-growth-rate&#34;&gt;Sustainable Growth Rate&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Guest Video @ &lt;!-- raw HTML omitted --&gt;ATM&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video @ &lt;a href=&#34;https://youtu.be/2HD4e1jYulU&#34;&gt;ATM&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;optional&#34;&gt;Optional&lt;/h2&gt;
 &lt;ul&gt;
@@ -1060,9 +1060,9 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>Ratios and Relative Value</title>
-      <link>https://stephenrush.org/courses/managerial-finance/ratios_rv/</link>
+      <link>https://www.stephenrush.org/courses/managerial-finance/ratios_rv/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/managerial-finance/ratios_rv/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial-finance/ratios_rv/</guid>
       <description>&lt;h2 id=&#34;relative-valuation&#34;&gt;Relative Valuation&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Guest Video: Relative Value - Aswath Damodoran @ &lt;a href=&#34;https://youtu.be/8N69eLBLTvA?list=PLUkh9m2BorqnDenjSLZ2DHIXrdxoN4Bn_&#34;&gt;NYU&lt;/a&gt;&lt;/li&gt;
@@ -1080,9 +1080,9 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>Capital Structure</title>
-      <link>https://stephenrush.org/courses/managerial-finance/capital_structure/</link>
+      <link>https://www.stephenrush.org/courses/managerial-finance/capital_structure/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/managerial-finance/capital_structure/</guid>
+      <guid>https://www.stephenrush.org/courses/managerial-finance/capital_structure/</guid>
       <description>&lt;h2 id=&#34;modigliani-and-miller&#34;&gt;Modigliani and Miller&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Guest Video - Capital Structure @ &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds/company-statements-capital-struc/v/basic-capital-structure-differences&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
@@ -1101,45 +1101,45 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>Securities Markets</title>
-      <link>https://stephenrush.org/courses/investments/securities_markets/</link>
+      <link>https://www.stephenrush.org/courses/investments/securities_markets/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/securities_markets/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/securities_markets/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Guest Video: Role of the Financial Analyst @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video: Sellside vs Buyside Analysts &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video: Market Capitalization @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video: What is an ETF? @ &lt;!-- raw HTML omitted --&gt;APM&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: Role of the Financial Analyst @ &lt;a href=&#34;https://youtu.be/SZj8tYNgIJ4&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: Sellside vs Buyside Analysts @ &lt;a href=&#34;https://youtu.be/dObgCdfP2Sc&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: Market Capitalization @ &lt;a href=&#34;https://youtu.be/KPDMn0gES44&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: What is an ETF? @ &lt;a href=&#34;https://youtu.be/83DoOBBsKYk?list=PLA33D9F40D19C5320&#34;&gt;ATM&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;market-failures&#34;&gt;Market Failures&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;The Principle-Agent Problem&lt;/li&gt;
 &lt;li&gt;Adverse Selection&lt;/li&gt;
 &lt;li&gt;Asymmetric Information&lt;/li&gt;
-&lt;li&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;MRUniversity&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/sXPXpJ5vMnU&#34;&gt;MRUniversity&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;short-selling-a-stock&#34;&gt;Short Selling a Stock&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;Khan Academy&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds/shorting-stock/v/shorting-stock&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/AVXW95MyD54&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;initial-public-offering-ipo&#34;&gt;Initial Public Offering (IPO)&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;Khan Academy&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds/venture-capital-and-capital-markets/v/raising-money-for-a-startup&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Risk, Returns, and History</title>
-      <link>https://stephenrush.org/courses/investments/risk_returns_history/</link>
+      <link>https://www.stephenrush.org/courses/investments/risk_returns_history/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/risk_returns_history/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/risk_returns_history/</guid>
       <description>&lt;h2 id=&#34;guest-lectures&#34;&gt;Guest Lectures&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Diversification and Portfolio Calculations: Andrew Lo @ &lt;!-- raw HTML omitted --&gt;MIT&lt;!-- raw HTML omitted --&gt; in 2008&lt;/li&gt;
-&lt;li&gt;Value at Risk: Kenneth Abbott @ &lt;!-- raw HTML omitted --&gt;MIT&lt;!-- raw HTML omitted --&gt; in 2013&lt;/li&gt;
-&lt;li&gt;Quantifying Uncertainty &amp;amp; Risk: &lt;!-- raw HTML omitted --&gt;Yale&lt;!-- raw HTML omitted --&gt; in 2009&lt;/li&gt;
+&lt;li&gt;Diversification and Portfolio Calculations: Andrew Lo @ &lt;a href=&#34;https://youtu.be/tL7Lcl90Sc0&#34;&gt;MIT&lt;/a&gt; in 2008&lt;/li&gt;
+&lt;li&gt;Value at Risk: Kenneth Abbott @ &lt;a href=&#34;https://youtu.be/92WaNz9mPeY&#34;&gt;MIT&lt;/a&gt; in 2013&lt;/li&gt;
+&lt;li&gt;Quantifying Uncertainty &amp;amp; Risk: &lt;a href=&#34;https://youtu.be/yvcg_WE5O-o&#34;&gt;Yale&lt;/a&gt; in 2009&lt;/li&gt;
 &lt;li&gt;00:00 - Expectation, Variance, and Covariance&lt;/li&gt;
 &lt;li&gt;19:06 - Diversification and Risk Exposure&lt;/li&gt;
 &lt;li&gt;33:54 - Conditional Expectation&lt;/li&gt;
@@ -1147,34 +1147,34 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
 &lt;/ul&gt;
 &lt;h2 id=&#34;measuring-returns&#34;&gt;Measuring Returns&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Guest Video: Arithmetic and Geometric Returns @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video: Effective Annual Rate @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video: Effective Annual Rate @ &lt;!-- raw HTML omitted --&gt;Khan Academy&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: Arithmetic and Geometric Returns @ &lt;a href=&#34;https://youtu.be/e-C_QwBl3-8&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: Effective Annual Rate @ &lt;a href=&#34;https://youtu.be/Fy8Zd6QvwnU&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: Effective Annual Rate @ &lt;a href=&#34;https://youtu.be/RuPMsK0mQC8&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Portfolio Theory</title>
-      <link>https://stephenrush.org/courses/investments/portfoliotheory/</link>
+      <link>https://www.stephenrush.org/courses/investments/portfoliotheory/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/portfoliotheory/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/portfoliotheory/</guid>
       <description>&lt;h2 id=&#34;guest-lectures&#34;&gt;Guest Lectures&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Portfolio Theory: Robert Shiller @ &lt;!-- raw HTML omitted --&gt;Yale&lt;!-- raw HTML omitted --&gt; in 2011&lt;/li&gt;
-&lt;li&gt;Portfolio Theory: Andrew Lo @ &lt;!-- raw HTML omitted --&gt;MIT&lt;!-- raw HTML omitted --&gt; in 2008&lt;/li&gt;
-&lt;li&gt;Portfolio Theory: CAPM, &amp;amp; APT: Andrew Lo @ &lt;!-- raw HTML omitted --&gt;MIT&lt;!-- raw HTML omitted --&gt; in 2008&lt;/li&gt;
-&lt;li&gt;Portfolio Management: Jake Xia @ &lt;!-- raw HTML omitted --&gt;MIT&lt;!-- raw HTML omitted --&gt; in 2013&lt;/li&gt;
-&lt;li&gt;Portfolio Theory: Peter Kempthorne @ &lt;!-- raw HTML omitted --&gt;MIT&lt;!-- raw HTML omitted --&gt; in 2013&lt;/li&gt;
+&lt;li&gt;Portfolio Theory: Robert Shiller @ &lt;a href=&#34;https://youtu.be/_B_24GUWdSM&#34;&gt;Yale&lt;/a&gt; in 2011&lt;/li&gt;
+&lt;li&gt;Portfolio Theory: Andrew Lo @ &lt;a href=&#34;https://youtu.be/J7d3vcaS9-o&#34;&gt;MIT&lt;/a&gt; in 2008&lt;/li&gt;
+&lt;li&gt;Portfolio Theory: CAPM, &amp;amp; APT: Andrew Lo @ [MIT](&amp;lt;a href=&amp;quot;https://youtu.be/z2oQe6B1Qa4) in 2008&lt;/li&gt;
+&lt;li&gt;Portfolio Management: Jake Xia @ &lt;a href=&#34;https://youtu.be/8TJQhQ2GZ0Y&#34;&gt;MIT&lt;/a&gt; in 2013&lt;/li&gt;
+&lt;li&gt;Portfolio Theory: Peter Kempthorne @ &lt;a href=&#34;https://youtu.be/ywl3pq6yc54&#34;&gt;MIT&lt;/a&gt; in 2013&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;efficient-portfolios&#34;&gt;Efficient Portfolios&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Video: &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/oAvx-l053Tk&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;portfolio-optimization&#34;&gt;Portfolio Optimization&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Review: Intro to Matrices @ &lt;!-- raw HTML omitted --&gt;Khan Academy&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Review: Matrix Multiplication @ &lt;!-- raw HTML omitted --&gt;Khan Academy&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Review: Intro to Matrices @ &lt;a href=&#34;https://youtu.be/xyAuNHPsq-g&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Review: Matrix Multiplication @ &lt;a href=&#34;https://youtu.be/aKhhYguY0DQ&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;portfolio-calculations-using-linear-algebra&#34;&gt;Portfolio Calculations using Linear Algebra&lt;/h2&gt;
 &lt;ul&gt;
@@ -1187,9 +1187,9 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>CAPM and Factor Models</title>
-      <link>https://stephenrush.org/courses/investments/capm_factors/</link>
+      <link>https://www.stephenrush.org/courses/investments/capm_factors/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/capm_factors/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/capm_factors/</guid>
       <description>&lt;h2 id=&#34;guest-lecture&#34;&gt;Guest Lecture&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;CAPM and APT: Andrew Lo @ &lt;a href=&#34;https://youtu.be/N8gtnbJuMoo&#34;&gt;MIT&lt;/a&gt; in 2008&lt;/li&gt;
@@ -1204,7 +1204,7 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
 &lt;/ul&gt;
 &lt;h2 id=&#34;estimate-beta&#34;&gt;Estimate Beta:&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Video Example: &lt;!-- raw HTML omitted --&gt;CAPM Regression&lt;!-- raw HTML omitted --&gt; and &lt;!-- raw HTML omitted --&gt;Regression Results&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Video Example: &lt;a href=&#34;https://youtu.be/b4FsppHu3rE&#34;&gt;CAPM Regression&lt;/a&gt; and &lt;a href=&#34;https://youtu.be/ZfyYjC1Tcks&#34;&gt;Regression Results&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;equity-risk-premium&#34;&gt;Equity Risk Premium&lt;/h2&gt;
 &lt;ul&gt;
@@ -1219,7 +1219,7 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
 &lt;ul&gt;
 &lt;li&gt;Multifactor Models
 &lt;ul&gt;
-&lt;li&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/lJCvxrj-YtA&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -1235,9 +1235,9 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>Efficient Markets and Behavioral Finance</title>
-      <link>https://stephenrush.org/courses/investments/emh/</link>
+      <link>https://www.stephenrush.org/courses/investments/emh/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/emh/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/emh/</guid>
       <description>&lt;h2 id=&#34;guest-lectures&#34;&gt;Guest Lectures&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Efficient Markets - Robert Shiller @ &lt;a href=&#34;https://youtu.be/3EzdvkRgToY?list=PL8FB14A2200B87185&#34;&gt;Yale&lt;/a&gt; in 2011&lt;/li&gt;
@@ -1263,9 +1263,9 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>Macroeconomic &amp; Industry Analysis</title>
-      <link>https://stephenrush.org/courses/investments/macro_industry/</link>
+      <link>https://www.stephenrush.org/courses/investments/macro_industry/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/macro_industry/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/macro_industry/</guid>
       <description>&lt;h2 id=&#34;macroeconomic-metrics&#34;&gt;Macroeconomic Metrics&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Review: Gross Domestric Product (GDP) @ &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
@@ -1282,12 +1282,12 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
 &lt;/li&gt;
 &lt;li&gt;Foreign Exchange
 &lt;ul&gt;
-&lt;li&gt;Video: &lt;!-- raw HTML omitted --&gt;Khan Academy&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/currency-tutorial/v/currency-exchange-introduction&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Balance of Payments
 &lt;ul&gt;
-&lt;li&gt;Video: &lt;!-- raw HTML omitted --&gt;Khan Academy&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/forex-trade-topic/current-capital-account/v/balance-of-payments-current-account&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -1317,56 +1317,56 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>Financial Statement Analysis</title>
-      <link>https://stephenrush.org/courses/investments/fsa/</link>
+      <link>https://www.stephenrush.org/courses/investments/fsa/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/fsa/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/fsa/</guid>
       <description>&lt;h2 id=&#34;accounting-review&#34;&gt;Accounting Review&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Review: Additional Paid-in Capital @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Review: Altman Z score @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Review: Net Working Capital @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Review: Additional Paid-in Capital @ &lt;a href=&#34;https://youtu.be/8GSdrqrbp8A&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Review: Altman Z score @ &lt;a href=&#34;https://youtu.be/zKR0IKWcHNw&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Review: Net Working Capital @ &lt;a href=&#34;https://youtu.be/EovKfDwRt9Q&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;dupont-analysis&#34;&gt;DuPont Analysis&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;ATM&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/YgZ4FnApo58&#34;&gt;ATM&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;earnings-management&#34;&gt;Earnings Management&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/JmC7uW0-9M8&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;earnings-quality&#34;&gt;Earnings Quality&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/FaY17jAD29Y&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Equity Valuation</title>
-      <link>https://stephenrush.org/courses/investments/equityvaluation/</link>
+      <link>https://www.stephenrush.org/courses/investments/equityvaluation/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/equityvaluation/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/equityvaluation/</guid>
       <description>&lt;h2 id=&#34;relative-valuation&#34;&gt;Relative Valuation&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Guest Video: Aswath Damodaran @ &lt;a href=&#34;https://youtu.be/8N69eLBLTvA?list=PLUkh9m2BorqnDenjSLZ2DHIXrdxoN4Bn_&#34;&gt;NYU&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/Q3w3IqgC8sY&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Video Example: &lt;!-- raw HTML omitted --&gt;Dr. Rush&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Video Example: &lt;a href=&#34;https://youtu.be/9rOeDOuvTUw&#34;&gt;Dr. Rush&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;the-dividend-discount-model&#34;&gt;The Dividend Discount Model&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/TlH3_iOHX3s&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Video Example: &lt;!-- raw HTML omitted --&gt;Dr. Rush&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Video Example: &lt;a href=&#34;https://youtu.be/XNFkOavBBmg&#34;&gt;Dr. Rush&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;discounted-cash-flow-valuation&#34;&gt;Discounted Cash Flow Valuation&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Review: Sources vs Uses of Cash @ &lt;a href=&#34;https://youtu.be/Fsj6EFXvMUc&#34;&gt;ATM&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Review: Net Working Capital @ &lt;a href=&#34;https://youtu.be/EovKfDwRt9Q&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Review: The Weighted Average Cost of Capital (WACC) @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video: Free Cash Flow to the Firm @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video: DCF using FCFF @ &lt;!-- raw HTML omitted --&gt;Edspira&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Review: The Weighted Average Cost of Capital (WACC) @ &lt;a href=&#34;https://youtu.be/46oLXwClvkw&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: Free Cash Flow to the Firm @ &lt;a href=&#34;https://youtu.be/F5-VsVcbmCQ&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: DCF using FCFF @ &lt;a href=&#34;https://youtu.be/7PpWneOBJls&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;DCF using Free Cash Flow to Equity
 &lt;ul&gt;
-&lt;li&gt;Guest Video: Sustainable Growth Rate @ &lt;!-- raw HTML omitted --&gt;ATM&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video: Sustainable Growth Rate @ &lt;a href=&#34;https://youtu.be/2HD4e1jYulU&#34;&gt;ATM&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -1381,9 +1381,9 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>Options</title>
-      <link>https://stephenrush.org/courses/investments/options/</link>
+      <link>https://www.stephenrush.org/courses/investments/options/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/options/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/options/</guid>
       <description>&lt;h2 id=&#34;guest-lecture&#34;&gt;Guest Lecture&lt;/h2&gt;
 &lt;p&gt;Robert Schiller @ &lt;a href=&#34;https://youtu.be/VkUEWUxI6u0?list=PL8FB14A2200B87185&#34;&gt;Yale&lt;/a&gt; in 2011&lt;/p&gt;
 &lt;ul&gt;
@@ -1400,11 +1400,11 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
 &lt;h2 id=&#34;what-is-a-derivative&#34;&gt;What is a Derivative?&lt;/h2&gt;
 &lt;h2 id=&#34;option-terminology&#34;&gt;Option Terminology&lt;/h2&gt;
 &lt;h2 id=&#34;put-and-call-options&#34;&gt;Put and Call Options&lt;/h2&gt;
-&lt;p&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;Khan Academy&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;Guest Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities/put-call-options/v/american-call-options&#34;&gt;Khan Academy&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;the-binomial-option-pricing-model&#34;&gt;The Binomial Option Pricing Model&lt;/h2&gt;
 &lt;p&gt;Video Example: &lt;a href=&#34;https://youtu.be/k_dCeLV_ilE&#34;&gt;Dr.Rush&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;the-black-scholes-option-pricing-model&#34;&gt;The Black-Scholes Option Pricing Model&lt;/h2&gt;
-&lt;p&gt;Guest Video: &lt;!-- raw HTML omitted --&gt;Khan Academy&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;Guest Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities/black-scholes/v/introduction-to-the-black-scholes-formula&#34;&gt;Khan Academy&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;option-strategies&#34;&gt;Option Strategies&lt;/h2&gt;
 &lt;p&gt;Guest Video: What is a Collar? @ &lt;a href=&#34;https://youtu.be/snDXzRdbYJM?list=PLA33D9F40D19C5320&#34;&gt;APM&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;portfolio-insurance&#34;&gt;Portfolio Insurance&lt;/h2&gt;
@@ -1413,13 +1413,13 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>Futures and Commodities</title>
-      <link>https://stephenrush.org/courses/investments/futures/</link>
+      <link>https://www.stephenrush.org/courses/investments/futures/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/futures/</guid>
+      <guid>https://www.stephenrush.org/courses/investments/futures/</guid>
       <description>&lt;h2 id=&#34;history-of-forward-and-futures-contracts&#34;&gt;History of Forward and Futures Contracts&lt;/h2&gt;
 &lt;h2 id=&#34;futures-overview&#34;&gt;Futures Overview&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Video: &lt;!-- raw HTML omitted --&gt;Khan Academy&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities/forward-futures-contracts/v/forward-contract-introduction&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;mark-to-market&#34;&gt;Mark-to-Market&lt;/h2&gt;
 &lt;h2 id=&#34;spot-futures-parity&#34;&gt;Spot-Futures Parity&lt;/h2&gt;
@@ -1436,9 +1436,9 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>Library of Babel</title>
-      <link>https://stephenrush.org/portal/library/babel/</link>
+      <link>https://www.stephenrush.org/portal/library/babel/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/portal/library/babel/</guid>
+      <guid>https://www.stephenrush.org/portal/library/babel/</guid>
       <description>&lt;h2 id=&#34;search-the-library&#34;&gt;Search the Library&lt;/h2&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
@@ -1446,17 +1446,17 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>Setec Astronomy</title>
-      <link>https://stephenrush.org/portal/library/setec/</link>
+      <link>https://www.stephenrush.org/portal/library/setec/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/portal/library/setec/</guid>
+      <guid>https://www.stephenrush.org/portal/library/setec/</guid>
       <description>&lt;h2 id=&#34;security-tools&#34;&gt;Security Tools&lt;/h2&gt;
-&lt;p&gt;These are some of the great free and open source software tools available particularly for my friends who live in less free societies. Unless you are a cryptographer, I don&amp;rsquo;t recommend the &lt;!-- raw HTML omitted --&gt;Security through Obscurity&lt;!-- raw HTML omitted --&gt; strategy. Also, consider some of the tools recommended by the Electronic Frontier Foundation (EFF) &lt;!-- raw HTML omitted --&gt;Surveillance Self-Defense&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;
+&lt;p&gt;These are some of the great free and open source software tools available particularly for my friends who live in less free societies. Unless you are a cryptographer, I don&#39;t recommend the &lt;!-- raw HTML omitted --&gt;Security through Obscurity&lt;!-- raw HTML omitted --&gt; strategy. Also, consider some of the tools recommended by the Electronic Frontier Foundation (EFF) &lt;!-- raw HTML omitted --&gt;Surveillance Self-Defense&lt;!-- raw HTML omitted --&gt;.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;!-- raw HTML omitted --&gt;DuckDuckGo&lt;!-- raw HTML omitted --&gt; - web search without tracking&lt;/li&gt;
 &lt;li&gt;&lt;!-- raw HTML omitted --&gt;FireChat&lt;!-- raw HTML omitted --&gt; - decentralized chat for high density events&lt;/li&gt;
 &lt;li&gt;&lt;!-- raw HTML omitted --&gt;Gnu Privacy Guard&lt;!-- raw HTML omitted --&gt; (GPG) - open source version of PGP&lt;/li&gt;
 &lt;li&gt;&lt;!-- raw HTML omitted --&gt;Keybase&lt;!-- raw HTML omitted --&gt; - site that links social media identities with an encryption key&lt;/li&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Keyserver&lt;!-- raw HTML omitted --&gt; - MIT&amp;rsquo;s PGP keyserver (one of many available)&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;Keyserver&lt;!-- raw HTML omitted --&gt; - MIT&#39;s PGP keyserver (one of many available)&lt;/li&gt;
 &lt;li&gt;&lt;!-- raw HTML omitted --&gt;Mailvelope&lt;!-- raw HTML omitted --&gt; - browser extension for PGP use in webmail&lt;/li&gt;
 &lt;li&gt;&lt;!-- raw HTML omitted --&gt;Mega&lt;!-- raw HTML omitted --&gt; - encrypted cloud storage&lt;/li&gt;
 &lt;li&gt;&lt;!-- raw HTML omitted --&gt;OpenVPN&lt;!-- raw HTML omitted --&gt; - run your own VPN on Windows, OS X, or Linux&lt;/li&gt;
@@ -1482,33 +1482,33 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>A Network Analysis of Information Diffusion in the Financial Sector</title>
-      <link>https://stephenrush.org/publication/preprint/networkfinancial/</link>
+      <link>https://www.stephenrush.org/publication/preprint/networkfinancial/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/preprint/networkfinancial/</guid>
+      <guid>https://www.stephenrush.org/publication/preprint/networkfinancial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Currency Risk and Information Diffusion</title>
-      <link>https://stephenrush.org/publication/preprint/currencyrisk/</link>
+      <link>https://www.stephenrush.org/publication/preprint/currencyrisk/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/preprint/currencyrisk/</guid>
+      <guid>https://www.stephenrush.org/publication/preprint/currencyrisk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identifying and Pricing Adverse Selection Risk with VPIN</title>
-      <link>https://stephenrush.org/publication/preprint/pricingvpin/</link>
+      <link>https://www.stephenrush.org/publication/preprint/pricingvpin/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/preprint/pricingvpin/</guid>
+      <guid>https://www.stephenrush.org/publication/preprint/pricingvpin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>https://stephenrush.org/post/writing-technical-content/</link>
+      <link>https://www.stephenrush.org/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/post/writing-technical-content/</guid>
+      <guid>https://www.stephenrush.org/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
@@ -1678,9 +1678,9 @@ gantt
     
     <item>
       <title>Coursera</title>
-      <link>https://stephenrush.org/courses/extra-credit/outline/</link>
+      <link>https://www.stephenrush.org/courses/extra-credit/outline/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/extra-credit/outline/</guid>
+      <guid>https://www.stephenrush.org/courses/extra-credit/outline/</guid>
       <description>&lt;p&gt;In order to receive extra credit, make sure you print out the completion statement at the end of the course.&lt;/p&gt;
 &lt;h2 id=&#34;financial-engineering--risk-management-i&#34;&gt;Financial Engineering &amp;amp; Risk Management I&lt;/h2&gt;
 &lt;p&gt;Coursera class offered by Columbia University (self-paced)
@@ -1693,9 +1693,9 @@ gantt
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://stephenrush.org/post/jupyter/</link>
+      <link>https://www.stephenrush.org/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/post/jupyter/</guid>
+      <guid>https://www.stephenrush.org/post/jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;from&lt;/span&gt; IPython.core.display &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; Image
 Image(&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&lt;/span&gt;)
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
@@ -1721,7 +1721,7 @@ date: 2019-09-01
 # Put any other Academic metadata here...
 ---
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Edit the metadata of your post, using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
-&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
+&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&#39;s folder.&lt;/p&gt;
 &lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;.
@@ -1732,9 +1732,9 @@ date: 2019-09-01
     
     <item>
       <title>Slides</title>
-      <link>https://stephenrush.org/slides/example/</link>
+      <link>https://www.stephenrush.org/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/slides/example/</guid>
+      <guid>https://www.stephenrush.org/slides/example/</guid>
       <description>&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -1839,7 +1839,7 @@ Three
 {{&amp;lt; slide class=&amp;#34;my-style&amp;#34; &amp;gt;}}
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Let&#39;s make headers navy colored.&lt;/p&gt;
 &lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;reveal&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;
 .&lt;span style=&#34;color:#a6e22e&#34;&gt;reveal&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;h2&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;
@@ -1855,25 +1855,25 @@ Three
     
     <item>
       <title>The Bond Coupon’s Impact on Liquidity</title>
-      <link>https://stephenrush.org/publication/journal-article/bonds/</link>
+      <link>https://www.stephenrush.org/publication/journal-article/bonds/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/journal-article/bonds/</guid>
+      <guid>https://www.stephenrush.org/publication/journal-article/bonds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>https://stephenrush.org/project/external-project/</link>
+      <link>https://www.stephenrush.org/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/project/external-project/</guid>
+      <guid>https://www.stephenrush.org/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>https://stephenrush.org/project/internal-project/</link>
+      <link>https://www.stephenrush.org/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/project/internal-project/</guid>
+      <guid>https://www.stephenrush.org/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -1884,11 +1884,11 @@ Three
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>https://stephenrush.org/post/getting-started/</link>
+      <link>https://www.stephenrush.org/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/post/getting-started/</guid>
+      <guid>https://www.stephenrush.org/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&#39;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;👉 &lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;📚 &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34;&gt;View the &lt;strong&gt;documentation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
@@ -1982,9 +1982,9 @@ Three
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://stephenrush.org/post/2015-07-23-r-rmarkdown/</link>
+      <link>https://www.stephenrush.org/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>https://stephenrush.org/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://www.stephenrush.org/post/2015-07-23-r-rmarkdown/</guid>
       <description>
 
 
@@ -2021,7 +2021,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://stephenrush.org/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://www.stephenrush.org/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -2032,17 +2032,17 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Tactical asset allocation for US pension investors: How tactical should the plan be?</title>
-      <link>https://stephenrush.org/publication/journal-article/taa/</link>
+      <link>https://www.stephenrush.org/publication/journal-article/taa/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/journal-article/taa/</guid>
+      <guid>https://www.stephenrush.org/publication/journal-article/taa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can Increased Trade Prevent Conflict with China?</title>
-      <link>https://stephenrush.org/publication/journal-article/chinatrade/</link>
+      <link>https://www.stephenrush.org/publication/journal-article/chinatrade/</link>
       <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/journal-article/chinatrade/</guid>
+      <guid>https://www.stephenrush.org/publication/journal-article/chinatrade/</guid>
       <description></description>
     </item>
     
