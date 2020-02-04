@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Managerial Finance | Dr. Stephen Rush, CFA</title>
-    <link>https://www.stephenrush.org/courses/managerial-finance/</link>
-      <atom:link href="https://www.stephenrush.org/courses/managerial-finance/index.xml" rel="self" type="application/rss+xml" />
+    <link>/courses/managerial-finance/</link>
+      <atom:link href="/courses/managerial-finance/index.xml" rel="self" type="application/rss+xml" />
     <description>Managerial Finance</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.stephenrush.org/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Managerial Finance</title>
-      <link>https://www.stephenrush.org/courses/managerial-finance/</link>
+      <link>/courses/managerial-finance/</link>
     </image>
     
     <item>
       <title>Introduction</title>
-      <link>https://www.stephenrush.org/courses/managerial-finance/introduction/</link>
+      <link>/courses/managerial-finance/introduction/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/managerial-finance/introduction/</guid>
+      <guid>/courses/managerial-finance/introduction/</guid>
       <description>&lt;h2 id=&#34;financial-markets&#34;&gt;Financial Markets&lt;/h2&gt;
 &lt;h2 id=&#34;the-firm&#34;&gt;The Firm&lt;/h2&gt;
 &lt;h2 id=&#34;the-principle-agent-problem&#34;&gt;The Principle-Agent Problem&lt;/h2&gt;
@@ -30,9 +30,9 @@
     
     <item>
       <title>The Time Value of Money</title>
-      <link>https://www.stephenrush.org/courses/managerial-finance/tvm/</link>
+      <link>/courses/managerial-finance/tvm/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/managerial-finance/tvm/</guid>
+      <guid>/courses/managerial-finance/tvm/</guid>
       <description>&lt;h2 id=&#34;time-value-of-money&#34;&gt;Time Value of Money&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Guest Video - Time Value of Money @ &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/interest-tutorial/present-value/v/time-value-of-money&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
@@ -58,9 +58,9 @@
     
     <item>
       <title>Capital Budgeting I</title>
-      <link>https://www.stephenrush.org/courses/managerial-finance/capital_budgeting_i/</link>
+      <link>/courses/managerial-finance/capital_budgeting_i/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/managerial-finance/capital_budgeting_i/</guid>
+      <guid>/courses/managerial-finance/capital_budgeting_i/</guid>
       <description>&lt;h2 id=&#34;net-present-value-npv&#34;&gt;Net Present Value (NPV)&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Guest Video - Net Present Value @ &lt;a href=&#34;https://youtu.be/HFFkFMfotT0&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
@@ -91,9 +91,9 @@
     
     <item>
       <title>Bonds and Interest Rates</title>
-      <link>https://www.stephenrush.org/courses/managerial-finance/interest_rates/</link>
+      <link>/courses/managerial-finance/interest_rates/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/managerial-finance/interest_rates/</guid>
+      <guid>/courses/managerial-finance/interest_rates/</guid>
       <description>&lt;h2 id=&#34;interest-rates&#34;&gt;Interest Rates&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Guest Video: Why do Interest Rates Matter? @ &lt;a href=&#34;https://youtu.be/Rx-8NkKO0tw?list=PLA33D9F40D19C5320&#34;&gt;APM&lt;/a&gt;&lt;/li&gt;
@@ -140,9 +140,9 @@
     
     <item>
       <title>Risk and Return</title>
-      <link>https://www.stephenrush.org/courses/managerial-finance/risk_return/</link>
+      <link>/courses/managerial-finance/risk_return/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/managerial-finance/risk_return/</guid>
+      <guid>/courses/managerial-finance/risk_return/</guid>
       <description>&lt;h2 id=&#34;arithmetic-and-geometric-returns&#34;&gt;Arithmetic and Geometric Returns&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/e-C_QwBl3-8&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
@@ -168,9 +168,9 @@
     
     <item>
       <title>The Capital Asset Pricing Model</title>
-      <link>https://www.stephenrush.org/courses/managerial-finance/capm/</link>
+      <link>/courses/managerial-finance/capm/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/managerial-finance/capm/</guid>
+      <guid>/courses/managerial-finance/capm/</guid>
       <description>&lt;h2 id=&#34;the-capital-asset-pricing-model&#34;&gt;The Capital Asset Pricing Model&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/fDz_DgDJD5g&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
@@ -209,9 +209,9 @@
     
     <item>
       <title>Capital Budgeting II</title>
-      <link>https://www.stephenrush.org/courses/managerial-finance/capital_budgeting_ii/</link>
+      <link>/courses/managerial-finance/capital_budgeting_ii/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/managerial-finance/capital_budgeting_ii/</guid>
+      <guid>/courses/managerial-finance/capital_budgeting_ii/</guid>
       <description>&lt;h2 id=&#34;optional&#34;&gt;Optional&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Corporate Inversions @ &lt;a href=&#34;https://youtu.be/iSwdsWjC9VQ?list=PLA33D9F40D19C5320&#34;&gt;APM&lt;/a&gt;&lt;/li&gt;
@@ -222,9 +222,9 @@
     
     <item>
       <title>Financial Statement Analysis</title>
-      <link>https://www.stephenrush.org/courses/managerial-finance/fsa/</link>
+      <link>/courses/managerial-finance/fsa/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/managerial-finance/fsa/</guid>
+      <guid>/courses/managerial-finance/fsa/</guid>
       <description>&lt;h2 id=&#34;accounting-review&#34;&gt;Accounting Review&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Review Video: Balance Sheet and Income Statement @ &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/accounting-and-financial-stateme/financial-statements-tutorial/v/balance-sheet-and-income-statement-relationship&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
@@ -270,9 +270,9 @@
     
     <item>
       <title>Ratios and Relative Value</title>
-      <link>https://www.stephenrush.org/courses/managerial-finance/ratios_rv/</link>
+      <link>/courses/managerial-finance/ratios_rv/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/managerial-finance/ratios_rv/</guid>
+      <guid>/courses/managerial-finance/ratios_rv/</guid>
       <description>&lt;h2 id=&#34;relative-valuation&#34;&gt;Relative Valuation&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Guest Video: Relative Value - Aswath Damodoran @ &lt;a href=&#34;https://youtu.be/8N69eLBLTvA?list=PLUkh9m2BorqnDenjSLZ2DHIXrdxoN4Bn_&#34;&gt;NYU&lt;/a&gt;&lt;/li&gt;
@@ -290,9 +290,9 @@
     
     <item>
       <title>Capital Structure</title>
-      <link>https://www.stephenrush.org/courses/managerial-finance/capital_structure/</link>
+      <link>/courses/managerial-finance/capital_structure/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/managerial-finance/capital_structure/</guid>
+      <guid>/courses/managerial-finance/capital_structure/</guid>
       <description>&lt;h2 id=&#34;modigliani-and-miller&#34;&gt;Modigliani and Miller&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Guest Video - Capital Structure @ &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds/company-statements-capital-struc/v/basic-capital-structure-differences&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;

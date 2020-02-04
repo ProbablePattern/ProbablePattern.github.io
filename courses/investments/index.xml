@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Investments | Dr. Stephen Rush, CFA</title>
-    <link>https://www.stephenrush.org/courses/investments/</link>
-      <atom:link href="https://www.stephenrush.org/courses/investments/index.xml" rel="self" type="application/rss+xml" />
+    <link>/courses/investments/</link>
+      <atom:link href="/courses/investments/index.xml" rel="self" type="application/rss+xml" />
     <description>Investments</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.stephenrush.org/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Investments</title>
-      <link>https://www.stephenrush.org/courses/investments/</link>
+      <link>/courses/investments/</link>
     </image>
     
     <item>
       <title>Securities Markets</title>
-      <link>https://www.stephenrush.org/courses/investments/securities_markets/</link>
+      <link>/courses/investments/securities_markets/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/investments/securities_markets/</guid>
+      <guid>/courses/investments/securities_markets/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Guest Video: Role of the Financial Analyst @ &lt;a href=&#34;https://youtu.be/SZj8tYNgIJ4&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
@@ -45,9 +45,9 @@
     
     <item>
       <title>Risk, Returns, and History</title>
-      <link>https://www.stephenrush.org/courses/investments/risk_returns_history/</link>
+      <link>/courses/investments/risk_returns_history/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/investments/risk_returns_history/</guid>
+      <guid>/courses/investments/risk_returns_history/</guid>
       <description>&lt;h2 id=&#34;guest-lectures&#34;&gt;Guest Lectures&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Diversification and Portfolio Calculations: Andrew Lo @ &lt;a href=&#34;https://youtu.be/tL7Lcl90Sc0&#34;&gt;MIT&lt;/a&gt; in 2008&lt;/li&gt;
@@ -69,9 +69,9 @@
     
     <item>
       <title>Portfolio Theory</title>
-      <link>https://www.stephenrush.org/courses/investments/portfoliotheory/</link>
+      <link>/courses/investments/portfoliotheory/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/investments/portfoliotheory/</guid>
+      <guid>/courses/investments/portfoliotheory/</guid>
       <description>&lt;h2 id=&#34;guest-lectures&#34;&gt;Guest Lectures&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Portfolio Theory: Robert Shiller @ &lt;a href=&#34;https://youtu.be/_B_24GUWdSM&#34;&gt;Yale&lt;/a&gt; in 2011&lt;/li&gt;
@@ -100,9 +100,9 @@
     
     <item>
       <title>CAPM and Factor Models</title>
-      <link>https://www.stephenrush.org/courses/investments/capm_factors/</link>
+      <link>/courses/investments/capm_factors/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/investments/capm_factors/</guid>
+      <guid>/courses/investments/capm_factors/</guid>
       <description>&lt;h2 id=&#34;guest-lecture&#34;&gt;Guest Lecture&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;CAPM and APT: Andrew Lo @ &lt;a href=&#34;https://youtu.be/N8gtnbJuMoo&#34;&gt;MIT&lt;/a&gt; in 2008&lt;/li&gt;
@@ -148,9 +148,9 @@
     
     <item>
       <title>Efficient Markets and Behavioral Finance</title>
-      <link>https://www.stephenrush.org/courses/investments/emh/</link>
+      <link>/courses/investments/emh/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/investments/emh/</guid>
+      <guid>/courses/investments/emh/</guid>
       <description>&lt;h2 id=&#34;guest-lectures&#34;&gt;Guest Lectures&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Efficient Markets - Robert Shiller @ &lt;a href=&#34;https://youtu.be/3EzdvkRgToY?list=PL8FB14A2200B87185&#34;&gt;Yale&lt;/a&gt; in 2011&lt;/li&gt;
@@ -176,9 +176,9 @@
     
     <item>
       <title>Macroeconomic &amp; Industry Analysis</title>
-      <link>https://www.stephenrush.org/courses/investments/macro_industry/</link>
+      <link>/courses/investments/macro_industry/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/investments/macro_industry/</guid>
+      <guid>/courses/investments/macro_industry/</guid>
       <description>&lt;h2 id=&#34;macroeconomic-metrics&#34;&gt;Macroeconomic Metrics&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Review: Gross Domestric Product (GDP) @ &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
@@ -230,9 +230,9 @@
     
     <item>
       <title>Financial Statement Analysis</title>
-      <link>https://www.stephenrush.org/courses/investments/fsa/</link>
+      <link>/courses/investments/fsa/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/investments/fsa/</guid>
+      <guid>/courses/investments/fsa/</guid>
       <description>&lt;h2 id=&#34;accounting-review&#34;&gt;Accounting Review&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Review: Additional Paid-in Capital @ &lt;a href=&#34;https://youtu.be/8GSdrqrbp8A&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
@@ -256,9 +256,9 @@
     
     <item>
       <title>Equity Valuation</title>
-      <link>https://www.stephenrush.org/courses/investments/equityvaluation/</link>
+      <link>/courses/investments/equityvaluation/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/investments/equityvaluation/</guid>
+      <guid>/courses/investments/equityvaluation/</guid>
       <description>&lt;h2 id=&#34;relative-valuation&#34;&gt;Relative Valuation&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Guest Video: Aswath Damodaran @ &lt;a href=&#34;https://youtu.be/8N69eLBLTvA?list=PLUkh9m2BorqnDenjSLZ2DHIXrdxoN4Bn_&#34;&gt;NYU&lt;/a&gt;&lt;/li&gt;
@@ -294,9 +294,9 @@
     
     <item>
       <title>Options</title>
-      <link>https://www.stephenrush.org/courses/investments/options/</link>
+      <link>/courses/investments/options/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/investments/options/</guid>
+      <guid>/courses/investments/options/</guid>
       <description>&lt;h2 id=&#34;guest-lecture&#34;&gt;Guest Lecture&lt;/h2&gt;
 &lt;p&gt;Robert Schiller @ &lt;a href=&#34;https://youtu.be/VkUEWUxI6u0?list=PL8FB14A2200B87185&#34;&gt;Yale&lt;/a&gt; in 2011&lt;/p&gt;
 &lt;ul&gt;
@@ -326,9 +326,9 @@
     
     <item>
       <title>Futures and Commodities</title>
-      <link>https://www.stephenrush.org/courses/investments/futures/</link>
+      <link>/courses/investments/futures/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/investments/futures/</guid>
+      <guid>/courses/investments/futures/</guid>
       <description>&lt;h2 id=&#34;history-of-forward-and-futures-contracts&#34;&gt;History of Forward and Futures Contracts&lt;/h2&gt;
 &lt;h2 id=&#34;futures-overview&#34;&gt;Futures Overview&lt;/h2&gt;
 &lt;ul&gt;

@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr. Stephen Rush, CFA</title>
-    <link>https://www.stephenrush.org/authors/admin/</link>
-      <atom:link href="https://www.stephenrush.org/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/admin/</link>
+      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Stephen Rush, CFA</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <item>
       <title>A Network Analysis of Information Diffusion in the Financial Sector</title>
-      <link>https://www.stephenrush.org/publication/preprint/networkfinancial/</link>
+      <link>/publication/preprint/networkfinancial/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.stephenrush.org/publication/preprint/networkfinancial/</guid>
+      <guid>/publication/preprint/networkfinancial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Currency Risk and Information Diffusion</title>
-      <link>https://www.stephenrush.org/publication/preprint/currencyrisk/</link>
+      <link>/publication/preprint/currencyrisk/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.stephenrush.org/publication/preprint/currencyrisk/</guid>
+      <guid>/publication/preprint/currencyrisk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identifying and Pricing Adverse Selection Risk with VPIN</title>
-      <link>https://www.stephenrush.org/publication/preprint/pricingvpin/</link>
+      <link>/publication/preprint/pricingvpin/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.stephenrush.org/publication/preprint/pricingvpin/</guid>
+      <guid>/publication/preprint/pricingvpin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://www.stephenrush.org/post/jupyter/</link>
+      <link>/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.stephenrush.org/post/jupyter/</guid>
+      <guid>/post/jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;from&lt;/span&gt; IPython.core.display &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; Image
 Image(&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&lt;/span&gt;)
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
@@ -71,17 +71,17 @@ date: 2019-09-01
     
     <item>
       <title>The Bond Coupon’s Impact on Liquidity</title>
-      <link>https://www.stephenrush.org/publication/journal-article/bonds/</link>
+      <link>/publication/journal-article/bonds/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.stephenrush.org/publication/journal-article/bonds/</guid>
+      <guid>/publication/journal-article/bonds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>https://www.stephenrush.org/post/getting-started/</link>
+      <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.stephenrush.org/post/getting-started/</guid>
+      <guid>/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
 &lt;ul&gt;
@@ -177,17 +177,17 @@ date: 2019-09-01
     
     <item>
       <title>Tactical asset allocation for US pension investors: How tactical should the plan be?</title>
-      <link>https://www.stephenrush.org/publication/journal-article/taa/</link>
+      <link>/publication/journal-article/taa/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://www.stephenrush.org/publication/journal-article/taa/</guid>
+      <guid>/publication/journal-article/taa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can Increased Trade Prevent Conflict with China?</title>
-      <link>https://www.stephenrush.org/publication/journal-article/chinatrade/</link>
+      <link>/publication/journal-article/chinatrade/</link>
       <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
-      <guid>https://www.stephenrush.org/publication/journal-article/chinatrade/</guid>
+      <guid>/publication/journal-article/chinatrade/</guid>
       <description></description>
     </item>
     

@@ -2,15 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Games | Dr. Stephen Rush, CFA</title>
-    <link>https://www.stephenrush.org/portal/games/</link>
-      <atom:link href="https://www.stephenrush.org/portal/games/index.xml" rel="self" type="application/rss+xml" />
+    <link>/portal/games/</link>
+      <atom:link href="/portal/games/index.xml" rel="self" type="application/rss+xml" />
     <description>Games</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.stephenrush.org/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Games</title>
-      <link>https://www.stephenrush.org/portal/games/</link>
+      <link>/portal/games/</link>
     </image>
+    
+    <item>
+      <title>Beneath Floes</title>
+      <link>/portal/games/beneath-floes/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/portal/games/beneath-floes/</guid>
+      <description>&lt;iframe src=&#34;/games/beneath-floes/index.html&#34; width=&#34;100%&#34; height=&#34;850&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>I Told You This Was a Bad Idea</title>
+      <link>/portal/games/i-told-you/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/portal/games/i-told-you/</guid>
+      <description>&lt;iframe src=&#34;/games/i-told-you/index.html&#34; width=&#34;100%&#34; height=&#34;750&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
     
   </channel>
 </rss>
