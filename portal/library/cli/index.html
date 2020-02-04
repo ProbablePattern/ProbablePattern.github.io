@@ -606,9 +606,9 @@
 <p>For those interested in moving away from the GUI world, I suggest a gradual shift while continuing to work on the operating system of your choice. If you are on Windows 10, Ubuntu and other Linux distributions are available on the app store via the Windows Subsystem for Linux (WSL). Mac users can install MacPorts to get the standard versions of some command line programs. Eventually you will want to transition to a free open source operating system like Ubuntu Linux but baby steps for now.</p>
 <h2 id="install">Install</h2>
 <p>Windows - find the Ubuntu Linux distribution in the App store and install it using the Windows Subsystem for Linux (WSL) available starting with Windows 10.</p>
-<p><!-- raw HTML omitted -->Windows - Cygwin: select the packages during the Cygwin install. If you need to add something, just run the installer again.<!-- raw HTML omitted --></p>
+<p><del>Windows - Cygwin: select the packages during the Cygwin install. If you need to add something, just run the installer again.</del></p>
 <p>Mac OS X - <a href="https://www.macports.org/">MacPorts</a>: the syntax here to install gawk is</p>
-<!-- raw HTML omitted -->
+<pre>sudo port install gawk</pre>
 <h2 id="where-do-i-begin">Where Do I Begin?</h2>
 <p>I suggest learning the following tools in this order:</p>
 <p>File Operations: ls (list), cp (copy), mv (move), rm (remove)
@@ -622,7 +622,7 @@ Use Ctrl as the meta key so Ctrl-x exits the program.</p>
 <p>tmux: use multiple command line sessions in a single terminal
 I love monitors but they suck power and take up too much space. Using a terminal multiplexer like tmux allows you to cram more info into a smaller amount of real estate. Use Ctrl-b to issue commands. Add resurrect and continuum through the plug-in manager to make your tmux session more robust.</p>
 <p>mosh: make your sessions robust to network disruptions
-Do you like closing your laptop for a while and then resuming exactly where you left off? Mosh does this for secure shell sessions so you don't need to reestablish your connections manually. Mosh requires that UDP ports 60000-60100 as well as the secure shell port is open. Some network environments may block traffic to these ports. One of the great tools that &ldquo;just works&rdquo; in most network environments.</p>
+Do you like closing your laptop for a while and then resuming exactly where you left off? Mosh does this for secure shell sessions so you don&rsquo;t need to reestablish your connections manually. Mosh requires that UDP ports 60000-60100 as well as the secure shell port is open. Some network environments may block traffic to these ports. One of the great tools that &ldquo;just works&rdquo; in most network environments.</p>
 <p>rsync: quickly copy large amounts of files
 wget: fetch files from the Internet
 curl: more advanced Internet functionality
