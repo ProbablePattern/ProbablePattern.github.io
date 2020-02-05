@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/books/</loc>
+    <loc>https://www.stephenrush.org/library/books/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/code/</loc>
+    <loc>https://www.stephenrush.org/library/code/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/data/</loc>
+    <loc>https://www.stephenrush.org/library/data/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -28,7 +28,7 @@
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/media/</loc>
+    <loc>https://www.stephenrush.org/library/media/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/movies/</loc>
+    <loc>https://www.stephenrush.org/library/movies/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -48,7 +48,7 @@
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/podcasts/</loc>
+    <loc>https://www.stephenrush.org/library/podcasts/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -58,7 +58,7 @@
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/university-resources/</loc>
+    <loc>https://www.stephenrush.org/library/university-resources/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -83,17 +83,17 @@
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/personal-finance/</loc>
+    <loc>https://www.stephenrush.org/library/personal-finance/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/securities-analysis/</loc>
+    <loc>https://www.stephenrush.org/library/securities-analysis/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/advising/</loc>
+    <loc>https://www.stephenrush.org/library/advising/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -113,7 +113,7 @@
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/cli/</loc>
+    <loc>https://www.stephenrush.org/library/cli/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -158,7 +158,7 @@
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/microstructure/</loc>
+    <loc>https://www.stephenrush.org/library/microstructure/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -268,17 +268,17 @@
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/babel/</loc>
+    <loc>https://www.stephenrush.org/library/babel/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/setec/</loc>
+    <loc>https://www.stephenrush.org/library/setec/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/music/</loc>
+    <loc>https://www.stephenrush.org/library/music/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -403,12 +403,12 @@
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/games/</loc>
+    <loc>https://www.stephenrush.org/games/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/library/</loc>
+    <loc>https://www.stephenrush.org/library/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -455,51 +455,6 @@
   <url>
     <loc>https://www.stephenrush.org/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.stephenrush.org/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.stephenrush.org/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.stephenrush.org/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.stephenrush.org/categories/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.stephenrush.org/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.stephenrush.org/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.stephenrush.org/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.stephenrush.org/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.stephenrush.org/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
@@ -563,11 +518,15 @@
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/</loc>
+    <loc>https://www.stephenrush.org/blog/</loc>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/portal/</loc>
+    <loc>https://www.stephenrush.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.stephenrush.org/courses/</loc>
   </url>
   
 </urlset>
