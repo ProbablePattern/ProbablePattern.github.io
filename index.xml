@@ -466,23 +466,40 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
       <guid>https://www.stephenrush.org/courses/portfolio-management/macro_industry/</guid>
       <description>&lt;h2 id=&#34;macroeconomic-metrics&#34;&gt;Macroeconomic Metrics&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Gross Domestric Product (GDP)
+&lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/GDP&#34;&gt;Gross Domestric Product (GDP)&lt;/a&gt;
 &lt;ul&gt;
 &lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Unemployment
+&lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/UNRATE&#34;&gt;Unemployment&lt;/a&gt;
 &lt;ul&gt;
 &lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/current-economics/unemployment-tutorial/v/unemployment&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Consumer Sentiment&lt;/li&gt;
-&lt;li&gt;Industrial Production&lt;/li&gt;
-&lt;li&gt;Interest Rates&lt;/li&gt;
-&lt;li&gt;Inflation&lt;/li&gt;
-&lt;li&gt;The Money Supply
+&lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/UMCSENT&#34;&gt;Consumer Sentiment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/INDPRO&#34;&gt;Industrial Production&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/monetary-system-topic/money-supply-tutorial/v/money-supply-m0-m1-and-m2&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/ISRATIO&#34;&gt;Inventories to Sales&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Interest Rates
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/USD1MTD156N&#34;&gt;1 month LIBOR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/DGS1MO&#34;&gt;1 month US Treasury&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/USD12MD156N&#34;&gt;1 year LIBOR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/DGS1&#34;&gt;1 year US Treasury&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/DGS5&#34;&gt;5 year US Treasury&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/DFII5&#34;&gt;5 year TIPS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/DGS30&#34;&gt;30 year US Treasury&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/MORTGAGE30US&#34;&gt;30 year Fixed Rate Mortgage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/AAA&#34;&gt;Moody&amp;rsquo;s Aaa Corporate Bonds&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/BAA&#34;&gt;Moody&amp;rsquo;s Baa Corporate Bonds&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Inflation
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/CPIAUCSL&#34;&gt;Consumer Price Index (CPI)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The Money Supply @ &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/monetary-system-topic/money-supply-tutorial/v/money-supply-m0-m1-and-m2&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Foreign Exchange
