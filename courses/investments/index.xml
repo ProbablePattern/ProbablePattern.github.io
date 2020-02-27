@@ -179,16 +179,25 @@ Guest Video: Effective Annual Rate @ &lt;a href=&#34;https://youtu.be/RuPMsK0mQC
       <guid>https://www.stephenrush.org/courses/investments/macro_industry/</guid>
       <description>&lt;h2 id=&#34;macroeconomic-metrics&#34;&gt;Macroeconomic Metrics&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Review: Gross Domestric Product (GDP) @ &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Review: Unemployment @ &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/current-economics/unemployment-tutorial/v/unemployment&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Consumer Sentiment&lt;/li&gt;
-&lt;li&gt;Industrial Production&lt;/li&gt;
-&lt;li&gt;Interest Rates&lt;/li&gt;
-&lt;li&gt;Review: Inflation @ &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/inflation-tutorial/inflation-basics-tutorial/v/inflation-overview&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;The Money Supply
+&lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/GDP&#34;&gt;Gross Domestric Product (GDP)&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;Review: The Money Supply @ &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/monetary-system-topic/money-supply-tutorial/v/money-supply-m0-m1-and-m2&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Review: The Quantity Theory of Money @ &lt;a href=&#34;https://youtu.be/q59tZKP0HME&#34;&gt;MRUniversity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Review Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/UNRATE&#34;&gt;Unemployment&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Review Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/current-economics/unemployment-tutorial/v/unemployment&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/UMCSENT&#34;&gt;Consumer Sentiment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/INDPRO&#34;&gt;Industrial Production&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Interest Rates&lt;/li&gt;
+&lt;li&gt;Inflation
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/CPIAUCSL&#34;&gt;Consumer Price Index (CPI)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Review: Inflation @ &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/inflation-tutorial/inflation-basics-tutorial/v/inflation-overview&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Review Video: The Money Supply @ &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/monetary-system-topic/money-supply-tutorial/v/money-supply-m0-m1-and-m2&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Review Video: The Quantity Theory of Money @ &lt;a href=&#34;https://youtu.be/q59tZKP0HME&#34;&gt;MRUniversity&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Foreign Exchange

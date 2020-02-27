@@ -5,12 +5,20 @@
     <link>https://www.stephenrush.org/talk/</link>
       <atom:link href="https://www.stephenrush.org/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 14 Feb 2020 16:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.stephenrush.org/img/pics/HaveSpoken.jpg</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://www.stephenrush.org/talk/</link>
     </image>
+    
+    <item>
+      <title>Information Diffusion in Korean Equity Markets</title>
+      <link>https://www.stephenrush.org/talk/20200605-rfin/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.stephenrush.org/talk/20200605-rfin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Measuring Information Asymmetry in Event Time</title>

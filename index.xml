@@ -5,7 +5,7 @@
     <link>https://www.stephenrush.org/</link>
       <atom:link href="https://www.stephenrush.org/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Stephen Rush, CFA</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 14 Feb 2020 16:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.stephenrush.org/img/icon-192.png</url>
       <title>Dr. Stephen Rush, CFA</title>
@@ -468,12 +468,12 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/GDP&#34;&gt;Gross Domestric Product (GDP)&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Review Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/UNRATE&#34;&gt;Unemployment&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/current-economics/unemployment-tutorial/v/unemployment&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Review Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/current-economics/unemployment-tutorial/v/unemployment&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/UMCSENT&#34;&gt;Consumer Sentiment&lt;/a&gt;&lt;/li&gt;
@@ -484,6 +484,7 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
 &lt;/li&gt;
 &lt;li&gt;Interest Rates
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html&#34;&gt;FedWatch Tool&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/USD1MTD156N&#34;&gt;1 month LIBOR&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/DGS1MO&#34;&gt;1 month US Treasury&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/USD12MD156N&#34;&gt;1 year LIBOR&lt;/a&gt;&lt;/li&gt;
@@ -499,7 +500,8 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
 &lt;li&gt;Inflation
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/CPIAUCSL&#34;&gt;Consumer Price Index (CPI)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;The Money Supply @ &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/monetary-system-topic/money-supply-tutorial/v/money-supply-m0-m1-and-m2&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Review Video: The Money Supply @ &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/monetary-system-topic/money-supply-tutorial/v/money-supply-m0-m1-and-m2&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Review Video: The Quantity Theory of Money @ &lt;a href=&#34;https://youtu.be/q59tZKP0HME&#34;&gt;MRUniversity&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Foreign Exchange
@@ -514,7 +516,19 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;business-cycle-theory&#34;&gt;Business Cycle Theory&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Guest Video - Keynesians @ &lt;a href=&#34;https://youtu.be/cYNVB5iqydk&#34;&gt;MRUniversity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video - Monetarists @ &lt;a href=&#34;https://youtu.be/YWrWQ4TUVW0&#34;&gt;MRUniversity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video - Real Business Cycle Theory @ &lt;a href=&#34;https://youtu.be/ndit6jedwKo&#34;&gt;MRUniversity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guest Video - Austrians @ &lt;a href=&#34;https://youtu.be/jrFZgvYFrbQ&#34;&gt;MRUniversity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;industrial-organization&#34;&gt;Industrial Organization&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Monopoly / Monopsony&lt;/li&gt;
+&lt;li&gt;Oligopoly&lt;/li&gt;
+&lt;li&gt;Monopolistic Competition&lt;/li&gt;
+&lt;li&gt;Perfect Competition&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -1304,16 +1318,25 @@ Guest Video: Effective Annual Rate @ &lt;a href=&#34;https://youtu.be/RuPMsK0mQC
       <guid>https://www.stephenrush.org/courses/investments/macro_industry/</guid>
       <description>&lt;h2 id=&#34;macroeconomic-metrics&#34;&gt;Macroeconomic Metrics&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Review: Gross Domestric Product (GDP) @ &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Review: Unemployment @ &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/current-economics/unemployment-tutorial/v/unemployment&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Consumer Sentiment&lt;/li&gt;
-&lt;li&gt;Industrial Production&lt;/li&gt;
-&lt;li&gt;Interest Rates&lt;/li&gt;
-&lt;li&gt;Review: Inflation @ &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/inflation-tutorial/inflation-basics-tutorial/v/inflation-overview&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;The Money Supply
+&lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/GDP&#34;&gt;Gross Domestric Product (GDP)&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;Review: The Money Supply @ &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/monetary-system-topic/money-supply-tutorial/v/money-supply-m0-m1-and-m2&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Review: The Quantity Theory of Money @ &lt;a href=&#34;https://youtu.be/q59tZKP0HME&#34;&gt;MRUniversity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Review Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/UNRATE&#34;&gt;Unemployment&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Review Video: &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/current-economics/unemployment-tutorial/v/unemployment&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/UMCSENT&#34;&gt;Consumer Sentiment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/INDPRO&#34;&gt;Industrial Production&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Interest Rates&lt;/li&gt;
+&lt;li&gt;Inflation
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/CPIAUCSL&#34;&gt;Consumer Price Index (CPI)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Review: Inflation @ &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/inflation-tutorial/inflation-basics-tutorial/v/inflation-overview&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Review Video: The Money Supply @ &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/macroeconomics/monetary-system-topic/money-supply-tutorial/v/money-supply-m0-m1-and-m2&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Review Video: The Quantity Theory of Money @ &lt;a href=&#34;https://youtu.be/q59tZKP0HME&#34;&gt;MRUniversity&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Foreign Exchange
@@ -1535,6 +1558,14 @@ Guest Video: Effective Annual Rate @ &lt;a href=&#34;https://youtu.be/RuPMsK0mQC
 &lt;h2 id=&#34;flyover-country&#34;&gt;Flyover Country&lt;/h2&gt;
 &lt;p&gt;Coming to terms with life in the midwest.&lt;/p&gt;
 &lt;figure class=&#34;wp-block-audio&#34;&gt;&lt;audio controls src=&#34;https://stephenrush.files.wordpress.com/2018/09/flyover-country.m4a&#34;&gt;&lt;/audio&gt;&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>Information Diffusion in Korean Equity Markets</title>
+      <link>https://www.stephenrush.org/talk/20200605-rfin/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.stephenrush.org/talk/20200605-rfin/</guid>
+      <description></description>
     </item>
     
     <item>
