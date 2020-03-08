@@ -110,6 +110,12 @@
 &lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qeOT&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
 &lt;h2 id=&#34;the-sp-500-index&#34;&gt;The S&amp;amp;P 500 Index&lt;/h2&gt;
 &lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qePb&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+&lt;h2 id=&#34;interest-rates&#34;&gt;Interest Rates&lt;/h2&gt;
+&lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qiVg&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+&lt;h2 id=&#34;gdp&#34;&gt;GDP&lt;/h2&gt;
+&lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qiWg&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+&lt;h2 id=&#34;unemployment-rate-and-changes-in-industrial-production&#34;&gt;Unemployment Rate and Changes in Industrial Production&lt;/h2&gt;
+&lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qiVd&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
 </description>
     </item>
     
@@ -201,11 +207,9 @@
 &lt;p&gt;These magazines and blogs are not unbiased and may publish bad information but there is enough relevant content for me to recommend them here. Clearly, some should be taken more seriously than others. Many of the traditional print media sources here can be accessed with an RSS reader rather than paying for a print subscription.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.bloomberg.com/radio/&#34;&gt;Bloomberg Radio&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://research.gluskinsheff.com/&#34;&gt;Breakfast with Dave&lt;/a&gt; by David Rosenberg - daily macro economic analysis newsletter&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.econtalk.org/&#34;&gt;EconTalk&lt;/a&gt; - Blog and Podcast&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.foreignaffairs.com/&#34;&gt;Foreign Affairs&lt;/a&gt; - If you want to know what key policy makers think about foreign policy, read this one.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.foreignaffairs.com/&#34;&gt;Foreign Affairs&lt;/a&gt; - opionions by key policy makers about foreign policy&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.foreignpolicy.com/&#34;&gt;Foreign Policy&lt;/a&gt; - excellent global coverage&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://fortune.com/gettermsheet/&#34;&gt;Fortune Term Sheet&lt;/a&gt; by Dan Primack - daily email about financial deals&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.economist.com/blogs/freeexchange&#34;&gt;Free Exchange&lt;/a&gt; - additional shorter form articles from The Economist for free&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://lunwen.im/&#34;&gt;Lùn wén 论文&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.npr.org/blogs/money/&#34;&gt;Planet Money&lt;/a&gt; on NPR&lt;/li&gt;
@@ -214,7 +218,6 @@
 &lt;li&gt;&lt;a href=&#34;http://www.economist.com/&#34;&gt;The Economist&lt;/a&gt; - If you only read one news source, this is the one to read. Most university libraries provide The Economist for free although a personal subscription is more convenient.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://online.wsj.com&#34;&gt;The Wall Street Journal&lt;/a&gt; - This is still the newspaper of record for U.S. business although I would not recommend reading it on a regular basis.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCpwosulQ7IOBHCCnl7kWYwA&#34;&gt;YouTube&lt;/a&gt; - there are some really great lectures available for free. I have links to a few on my channel.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.zerohedge.com/&#34;&gt;Zero Hedge&lt;/a&gt; - more entertainment than serious analysis (be very skeptical of content posted here)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
