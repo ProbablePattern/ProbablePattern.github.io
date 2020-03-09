@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dr. Stephen Rush, CFA</title>
+    <title>admin | Dr. Stephen Rush, CFA</title>
     <link>https://www.stephenrush.org/authors/admin/</link>
       <atom:link href="https://www.stephenrush.org/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Dr. Stephen Rush, CFA</description>
+    <description>admin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <item>
       <title>A Network Analysis of Information Diffusion in the Financial Sector</title>
