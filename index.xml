@@ -1596,8 +1596,19 @@ Guest Video: Effective Annual Rate @ &lt;a href=&#34;https://youtu.be/RuPMsK0mQC
 &lt;li&gt;&lt;a href=&#34;http://portableapps.com/&#34;&gt;Portable Apps&lt;/a&gt; - you can even get by without your own machine or relying on cloud services&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; - generate static websites that can be hosted anywhere&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://plex.tv/&#34;&gt;Plex&lt;/a&gt; - the best media server&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://obsproject.com/&#34;&gt;OBS Studio&lt;/a&gt; - Open Broadcaster Software Studio&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://musescore.org&#34;&gt;Muse Score&lt;/a&gt; - open source music notation software&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.qubes-os.org/&#34;&gt;Qubes OS&lt;/a&gt; - operating system for those who are tired of repeatedly wiping their system&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;analytical-tools&#34;&gt;Analytical Tools&lt;/h2&gt;
+&lt;p&gt;These are some numerical analysis tools that I find useful. They may or may not be useful for what you do.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cran.r-project.org/&#34;&gt;R&lt;/a&gt; - statistical analysis language that competes with SAS and SPSS&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rstudio.com/&#34;&gt;RStudio&lt;/a&gt; - IDE for R&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gnu.org/software/octave/&#34;&gt;Octave&lt;/a&gt; - open source version of MATLAB&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.python.org/&#34;&gt;python&lt;/a&gt; - general purpose programming language&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jupyter.org/&#34;&gt;Jupyter Lab&lt;/a&gt; - interactive computing platform&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://grass.osgeo.org/&#34;&gt;GRASS&lt;/a&gt; - Geographic Information System that competes with ArcGIS&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
