@@ -195,14 +195,17 @@
       <link>https://www.stephenrush.org/courses/managerial-finance/introduction/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/courses/managerial-finance/introduction/</guid>
-      <description>&lt;h2 id=&#34;financial-markets&#34;&gt;Financial Markets&lt;/h2&gt;
-&lt;h2 id=&#34;the-firm&#34;&gt;The Firm&lt;/h2&gt;
-&lt;h2 id=&#34;the-principle-agent-problem&#34;&gt;The Principle-Agent Problem&lt;/h2&gt;
-&lt;h2 id=&#34;adverse-selection&#34;&gt;Adverse Selection&lt;/h2&gt;
-&lt;h2 id=&#34;asymmetric-information&#34;&gt;Asymmetric Information&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/sXPXpJ5vMnU&#34;&gt;MRUniversity&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+      <description>&lt;h3 id=&#34;financial-markets&#34;&gt;Financial Markets&lt;/h3&gt;
+&lt;h3 id=&#34;the-firm&#34;&gt;The Firm&lt;/h3&gt;
+&lt;h3 id=&#34;the-principle-agent-problem&#34;&gt;The Principle-Agent Problem&lt;/h3&gt;
+&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/DEX-w31q6U0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;the-market-for-lemonshttpsenwikipediaorgwikithe_market_for_lemons-by-george-akerlof&#34;&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Market_for_Lemons&#34;&gt;The Market for Lemons&lt;/a&gt; by George Akerlof&lt;/h3&gt;
+&lt;h3 id=&#34;asymmetric-information&#34;&gt;Asymmetric Information&lt;/h3&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Asymmetric Information and Used Cars&#34; src=&#34;https://www.youtube.com/embed/sXPXpJ5vMnU?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3 id=&#34;adverse-selection&#34;&gt;Adverse Selection&lt;/h3&gt;
+&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/sXPXpJ5vMnU&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;moral-hazard&#34;&gt;Moral Hazard&lt;/h3&gt;
+&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/5v7TWKlYoN0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
     
@@ -737,8 +740,7 @@ Each video lasts about 15 minutes&lt;br&gt;
       <link>https://www.stephenrush.org/courses/managerial-finance/tvm/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/courses/managerial-finance/tvm/</guid>
-      <description>&lt;h2 id=&#34;time-value-of-money&#34;&gt;Time Value of Money&lt;/h2&gt;
-&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
 &lt;h3&gt;Time Value of Money @ Khan Academy&lt;/h3&gt;
 &lt;p&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/733mgqrzNKs&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3&gt;Time Value of Money Concept @ Edspira&lt;/h3&gt;
@@ -1092,39 +1094,24 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
       <link>https://www.stephenrush.org/courses/managerial-finance/capm/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/courses/managerial-finance/capm/</guid>
-      <description>&lt;h2 id=&#34;the-capital-asset-pricing-model&#34;&gt;The Capital Asset Pricing Model&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/fDz_DgDJD5g&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;systematic-vs-idiosyncratic-risk&#34;&gt;Systematic vs Idiosyncratic Risk&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/qPu4TEGIDYI&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;beta&#34;&gt;Beta&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Guest Video: What is Beta? @ &lt;a href=&#34;https://youtu.be/sYu8E8kjCT0&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video: Portfolio Beta @ &lt;a href=&#34;https://youtu.be/nRRhzsiVT9s&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;estimate-beta&#34;&gt;Estimate Beta:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/b4FsppHu3rE&#34;&gt;CAPM Regression&lt;/a&gt; and &lt;a href=&#34;https://youtu.be/ZfyYjC1Tcks&#34;&gt;Regression Results&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;the-equity-risk-premium&#34;&gt;The Equity Risk Premium&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Guest Video: Equity Risk Premium @ &lt;a href=&#34;https://youtu.be/laJkrov4nqk?list=PLUkh9m2BorqnDenjSLZ2DHIXrdxoN4Bn_&#34;&gt;NYU&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;security-market-line&#34;&gt;Security Market Line&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/QtScOojh5z8&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;capital-market-line&#34;&gt;Capital Market Line&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/wOaKzthMUQ0&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+      <description>&lt;h3&gt;CAPM Introduction @ Edspira&lt;/h3&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Capital Asset Pricing Model&#34; src=&#34;https://www.youtube.com/embed/fDz_DgDJD5g?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3&gt;Systematic vs Idiosyncratic Risk @ Edspira&lt;/h3&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Systematic Risk vs Unsystematic Risk&#34; src=&#34;https://www.youtube.com/embed/qPu4TEGIDYI?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3&gt;What is Beta? @ Edspira&lt;/h3&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Introduction to Beta in Corporate Finance&#34; src=&#34;https://www.youtube.com/embed/sYu8E8kjCT0?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3&gt;Portfolio Beta @ Edspira&lt;/h3&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;How to Calculate the Beta of a Portfolio&#34; src=&#34;https://www.youtube.com/embed/nRRhzsiVT9s?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3&gt;Security Market Line @ Edspira&lt;/h3&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;The Security Market Line&#34; src=&#34;https://www.youtube.com/embed/QtScOojh5z8?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3&gt;Capital Market Line @ Edspira&lt;/h3&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;The Capital Market Line&#34; src=&#34;https://www.youtube.com/embed/wOaKzthMUQ0?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3&gt;Equity Risk Premium @ NYU&lt;/h3&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Session 6: Estimating Hurdle Rates - Equity Risk Premiums - Historical &amp;amp; Survey&#34; src=&#34;https://www.youtube.com/embed/laJkrov4nqk?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h2 id=&#34;advanced&#34;&gt;Advanced&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Guest Lecture: CAPM and APT @ &lt;a href=&#34;https://youtu.be/N8gtnbJuMoo&#34;&gt;MIT&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3 id=&#34;capm-and-apt-lecture&#34;&gt;CAPM and APT Lecture&lt;/h3&gt;
+&lt;p&gt;Andrew Lo @ MIT&lt;/p&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Ses 16: The CAPM and APT II&#34; src=&#34;https://www.youtube.com/embed/N8gtnbJuMoo?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1133,11 +1120,22 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
       <link>https://www.stephenrush.org/courses/managerial-finance/capital_budgeting_ii/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/courses/managerial-finance/capital_budgeting_ii/</guid>
-      <description>&lt;h2 id=&#34;optional&#34;&gt;Optional&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Corporate Inversions @ &lt;a href=&#34;https://youtu.be/iSwdsWjC9VQ?list=PLA33D9F40D19C5320&#34;&gt;APM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Corporate Consolidation @ &lt;a href=&#34;https://youtu.be/00wQYmvfhn4&#34;&gt;Last Week Tonight&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+      <description>&lt;h2 id=&#34;probability-review&#34;&gt;Probability Review&lt;/h2&gt;
+&lt;h3&gt;Probability of Independent Events @ Khan Academy&lt;/h3&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Compound probability of independent events | Probability and Statistics | Khan Academy&#34; src=&#34;https://www.youtube.com/embed/xSc4oLA9e8o?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3&gt;Probability of Dependent Events @ Khan Academy&lt;/h3&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;An Introduction to Conditional Probability&#34; src=&#34;https://www.youtube.com/embed/bgCMjHzXTXs?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3&gt;Conditional Probability Example @ Khan Academy&lt;/h3&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Conditional probability tree diagram example | Probability | AP Statistics | Khan Academy&#34; src=&#34;https://www.youtube.com/embed/hxEdXUB_IdQ?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3&gt;An Introduction to Conditional Probability @ JB Statistics&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/bgCMjHzXTXs&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h2 id=&#34;optional&#34;&gt;Optional&lt;/h2&gt;
+&lt;h3&gt;Hostile Takeovers @ APM&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/lJ2XZn9sD2k&#34; width=&#34;560&#34; height=&#34;315&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3&gt;Corporate Inversions @ APM&lt;/h3&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Corporate Inversions&#34; src=&#34;https://www.youtube.com/embed/iSwdsWjC9VQ?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3&gt;Corporate Consolidation @ LastWeekTonight&lt;/h3&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Corporate Consolidation: Last Week Tonight with John Oliver (HBO)&#34; src=&#34;https://www.youtube.com/embed/00wQYmvfhn4?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1146,50 +1144,47 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
       <link>https://www.stephenrush.org/courses/managerial-finance/fsa/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/courses/managerial-finance/fsa/</guid>
-      <description>&lt;h2 id=&#34;accounting-review&#34;&gt;Accounting Review&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Review Video: Balance Sheet and Income Statement @ &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/accounting-and-financial-stateme/financial-statements-tutorial/v/balance-sheet-and-income-statement-relationship&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Review Video: Financial Statements @ &lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds/valuation-and-investing/v/price-and-market-capitalization&#34;&gt;Khan Academy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Review Video: Straight Line Depreciation @ &lt;a href=&#34;https://youtu.be/RHo_3kWaIJo&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Review Video: Double Declining Balance Depreciation @ &lt;a href=&#34;https://youtu.be/ziayge17w6g&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Review Video: Deferred Tax Asset @ &lt;a href=&#34;https://youtu.be/KOcx8vPvjlQ&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Review Video: Deferred Tax Liability @ &lt;a href=&#34;https://youtu.be/664LVAcI4Fc&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Review Video: Additional Paid-in Capital @ &lt;a href=&#34;https://youtu.be/8GSdrqrbp8A&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Review Video: Altman Z score @ &lt;a href=&#34;https://youtu.be/zKR0IKWcHNw&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;common-size-financial-statements&#34;&gt;Common Size Financial Statements&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/i9TSWb1gxl4&#34;&gt;Video Example&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;dupont-analysis&#34;&gt;DuPont Analysis&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/YgZ4FnApo58&#34;&gt;ATM&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;earnings-management&#34;&gt;Earnings Management&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/JmC7uW0-9M8&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;earnings-quality&#34;&gt;Earnings Quality&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/FaY17jAD29Y&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+      <description>&lt;h3 id=&#34;common-size-financial-statements&#34;&gt;Common Size Financial Statements&lt;/h3&gt;
+&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/i9TSWb1gxl4&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;dupont-analysis&#34;&gt;DuPont Analysis&lt;/h3&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;FIN 300 - Dupont Identity Overview - Ryerson University&#34; src=&#34;https://www.youtube.com/embed/YgZ4FnApo58?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3 id=&#34;earnings-management&#34;&gt;Earnings Management&lt;/h3&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Earnings Management&#34; src=&#34;https://www.youtube.com/embed/JmC7uW0-9M8?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3 id=&#34;earnings-quality&#34;&gt;Earnings Quality&lt;/h3&gt;
+&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/FaY17jAD29Y&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;discounted-cash-flow-valuation&#34;&gt;Discounted Cash Flow Valuation&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Guest Video: The Weighted Average Cost of Capital (WACC) @ &lt;a href=&#34;https://youtu.be/46oLXwClvkw&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video: Free Cash Flow to the Firm @ &lt;a href=&#34;https://youtu.be/F5-VsVcbmCQ&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video: Sources and Uses of Cash @ &lt;a href=&#34;https://youtu.be/Fsj6EFXvMUc&#34;&gt;ATM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video: Net Working Capital @ &lt;a href=&#34;https://youtu.be/EovKfDwRt9Q&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video: DCF using FCFF @ &lt;a href=&#34;https://youtu.be/7PpWneOBJls&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;DCF using Free Cash Flow to Equity&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;sustainable-growth-rate&#34;&gt;Sustainable Growth Rate&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Guest Video @ &lt;a href=&#34;https://youtu.be/2HD4e1jYulU&#34;&gt;ATM&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3 id=&#34;the-weighted-average-cost-of-capital-wacc&#34;&gt;The Weighted Average Cost of Capital (WACC)&lt;/h3&gt;
+&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/46oLXwClvkw&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;free-cash-flow-to-the-firm&#34;&gt;Free Cash Flow to the Firm&lt;/h3&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Free Cash Flow&#34; src=&#34;https://www.youtube.com/embed/F5-VsVcbmCQ?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3 id=&#34;sources-and-uses-of-cash&#34;&gt;Sources and Uses of Cash&lt;/h3&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;FIN 300 - Sources vs Uses of Cash - Ryerson University&#34; src=&#34;https://www.youtube.com/embed/Fsj6EFXvMUc?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3 id=&#34;net-working-capital&#34;&gt;Net Working Capital&lt;/h3&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Net Working Capital&#34; src=&#34;https://www.youtube.com/embed/EovKfDwRt9Q?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3 id=&#34;dcf-using-fcff&#34;&gt;DCF using FCFF&lt;/h3&gt;
+&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/7PpWneOBJls&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;sustainable-growth-rate&#34;&gt;Sustainable Growth Rate&lt;/h3&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;FIN 300 - Sustainable Growth Rate Overview - Ryerson University&#34; src=&#34;https://www.youtube.com/embed/2HD4e1jYulU?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h2 id=&#34;accounting-review&#34;&gt;Accounting Review&lt;/h2&gt;
+&lt;h3 id=&#34;balance-sheet-and-income-statement&#34;&gt;Balance Sheet and Income Statement&lt;/h3&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Balance sheet and income statement relationship | Finance &amp;amp; Capital Markets | Khan Academy&#34; src=&#34;https://www.youtube.com/embed/hZvjH3Az87A?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3 id=&#34;financial-statements&#34;&gt;Financial Statements&lt;/h3&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Price and market capitalization | Stocks and bonds | Finance &amp;amp; Capital Markets | Khan Academy&#34; src=&#34;https://www.youtube.com/embed/fa-VZ-SDxgY?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3 id=&#34;straight-line-depreciation&#34;&gt;Straight Line Depreciation&lt;/h3&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Straight Line Depreciation Method&#34; src=&#34;https://www.youtube.com/embed/RHo_3kWaIJo?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3 id=&#34;double-declining-balance-depreciation&#34;&gt;Double Declining Balance Depreciation&lt;/h3&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Double Declining Balance Depreciation Method&#34; src=&#34;https://www.youtube.com/embed/ziayge17w6g?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3 id=&#34;deferred-tax-asset&#34;&gt;Deferred Tax Asset&lt;/h3&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Deferred Tax Assets in Financial Accounting&#34; src=&#34;https://www.youtube.com/embed/KOcx8vPvjlQ?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3 id=&#34;deferred-tax-liability&#34;&gt;Deferred Tax Liability&lt;/h3&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Deferred Tax Liabilities in Financial Accounting&#34; src=&#34;https://www.youtube.com/embed/664LVAcI4Fc?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3 id=&#34;additional-paid-in-capital&#34;&gt;Additional Paid-in Capital&lt;/h3&gt;
+&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/8GSdrqrbp8A&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;altman-z-score&#34;&gt;Altman Z score&lt;/h3&gt;
+&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/zKR0IKWcHNw&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;optional&#34;&gt;Optional&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Optional Video: What is Factoring? @ &lt;a href=&#34;https://youtu.be/zNxALT0w14U&#34;&gt;APM&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3 id=&#34;what-is-factoring&#34;&gt;What is Factoring?&lt;/h3&gt;
+&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/zNxALT0w14U&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
     
@@ -1198,18 +1193,15 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
       <link>https://www.stephenrush.org/courses/managerial-finance/ratios_rv/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/courses/managerial-finance/ratios_rv/</guid>
-      <description>&lt;h2 id=&#34;relative-valuation&#34;&gt;Relative Valuation&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Guest Video: Relative Value - Aswath Damodoran @ &lt;a href=&#34;https://youtu.be/8N69eLBLTvA?list=PLUkh9m2BorqnDenjSLZ2DHIXrdxoN4Bn_&#34;&gt;NYU&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Video Example @ &lt;a href=&#34;https://youtu.be/9rOeDOuvTUw&#34;&gt;Dr. Rush&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video @ &lt;a href=&#34;https://youtu.be/Q3w3IqgC8sY&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video: Price to Earnings Ratio @ &lt;a href=&#34;https://youtu.be/tQFGSfK4iZQ&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+      <description>&lt;h3 id=&#34;relative-value&#34;&gt;Relative Value&lt;/h3&gt;
+&lt;p&gt;Aswath Damodoran @ NYU&lt;/p&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Session 35: Relative Valuation&#34; src=&#34;https://www.youtube.com/embed/8N69eLBLTvA?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3 id=&#34;using-multiples&#34;&gt;Using Multiples&lt;/h3&gt;
+&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/Q3w3IqgC8sY&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;price-to-earnings-ratio&#34;&gt;Price to Earnings Ratio&lt;/h3&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Price Earnings (P/E) Ratio&#34; src=&#34;https://www.youtube.com/embed/tQFGSfK4iZQ?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h2 id=&#34;the-dividend-discount-model&#34;&gt;The Dividend Discount Model&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Video Example @ &lt;a href=&#34;https://youtu.be/XNFkOavBBmg&#34;&gt;Dr. Rush&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Guest Video @ &lt;a href=&#34;https://youtu.be/TlH3_iOHX3s&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Dividend Discount Model (DDM)&#34; src=&#34;https://www.youtube.com/embed/TlH3_iOHX3s?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
