@@ -60,11 +60,11 @@ Government&lt;/p&gt;
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/courses/investments/risk_returns_history/</guid>
       <description>&lt;h2 id=&#34;quantifying-uncertainty--risk&#34;&gt;Quantifying Uncertainty &amp;amp; Risk&lt;/h2&gt;
-&lt;p&gt;Lecture @ Yale in 2009&lt;br&gt;
-00:00 - Expectation, Variance, and Covariance&lt;br&gt;
-19:06 - Diversification and Risk Exposure&lt;br&gt;
-33:54 - Conditional Expectation&lt;br&gt;
-53:39 - Uncertainty in Interest Rates&lt;/p&gt;
+&lt;p&gt;Lecture @ Yale in 2009 &lt;br&gt;
+00:00 - Expectation, Variance, and Covariance &lt;br&gt;
+19:06 - Diversification and Risk Exposure &lt;br&gt;
+33:54 - Conditional Expectation &lt;br&gt;
+53:39 - Uncertainty in Interest Rates &lt;br&gt;&lt;/p&gt;
 &lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/yvcg_WE5O-o&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;measuring-returns&#34;&gt;Measuring Returns&lt;/h2&gt;
 &lt;h3&gt; Arithmetic and Geometric Returns &lt;/h3&gt;
@@ -221,7 +221,10 @@ John Cochrane @ UChicago
       <link>https://www.stephenrush.org/courses/investments/macro_industry/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/courses/investments/macro_industry/</guid>
-      <description>&lt;h2 id=&#34;macro-metrics&#34;&gt;Macro Metrics&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;reading&#34;&gt;Reading&lt;/h2&gt;
+&lt;p&gt;Slumps that Shaped Modern Finance @ &lt;a href=&#34;https://drive.google.com/open?id=1vb3gCLnNNXueaifi49q75e9NoXT88_O6&#34;&gt;The Economist&lt;/a&gt;
+&lt;a href=&#34;https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html&#34;&gt;FedWatch Tool&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;macro-metrics&#34;&gt;Macro Metrics&lt;/h2&gt;
 &lt;h3&gt; Gross Domestric Product (GDP) &lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/GDP&#34;&gt;See the Data&lt;/a&gt;&lt;/li&gt;
@@ -349,20 +352,19 @@ John Cochrane @ UChicago
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/courses/investments/options/</guid>
       <description>&lt;h2 id=&#34;guest-lecture&#34;&gt;Guest Lecture&lt;/h2&gt;
-&lt;p&gt;Robert Schiller @ Yale in 2011&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;00:00 - Examples of Options Markets and Core Terms&lt;/li&gt;
-&lt;li&gt;07:11 - Purposes of Option Contracts&lt;/li&gt;
-&lt;li&gt;17:11 - Quoted Prices and the Role of Derivatives Markets&lt;/li&gt;
-&lt;li&gt;24:54 - Call and Put Options and the Put-Call Parity&lt;/li&gt;
-&lt;li&gt;34:56 - Boundaries on the Price of a Call Option&lt;/li&gt;
-&lt;li&gt;39:07 - Pricing Options with the Binomial Asset Pricing Model&lt;/li&gt;
-&lt;li&gt;51:02 - The Black-Scholes Option Pricing Formula&lt;/li&gt;
-&lt;li&gt;55:49 - The VIX Index in Comparison to Actual Market Volatility&lt;/li&gt;
-&lt;li&gt;69:33 - The Potential for Options in the Housing Market&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Robert Schiller @ Yale in 2011&lt;br&gt;
+&lt;small&gt;00:00 - Examples of Options Markets and Core Terms &lt;br&gt;
+07:11 - Purposes of Option Contracts &lt;br&gt;
+17:11 - Quoted Prices and the Role of Derivatives Markets &lt;br&gt;
+24:54 - Call and Put Options and the Put-Call Parity &lt;br&gt;
+34:56 - Boundaries on the Price of a Call Option &lt;br&gt;
+39:07 - Pricing Options with the Binomial Asset Pricing Model &lt;br&gt;
+51:02 - The Black-Scholes Option Pricing Formula &lt;br&gt;
+55:49 - The VIX Index in Comparison to Actual Market Volatility &lt;br&gt;
+69:33 - The Potential for Options in the Housing Market &lt;br&gt;&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;17. Options Markets&#34; src=&#34;https://www.youtube.com/embed/VkUEWUxI6u0?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h2 id=&#34;what-is-a-derivative&#34;&gt;What is a Derivative?&lt;/h2&gt;
+&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/m3im-iJdhv4&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;option-terminology&#34;&gt;Option Terminology&lt;/h2&gt;
 &lt;h2 id=&#34;put-and-call-options&#34;&gt;Put and Call Options&lt;/h2&gt;
 &lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;American call options | Finance &amp;amp; Capital Markets | Khan Academy&#34; src=&#34;https://www.youtube.com/embed/nnl3x1wo25g?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
@@ -382,7 +384,9 @@ John Cochrane @ UChicago
       <link>https://www.stephenrush.org/courses/investments/futures/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/courses/investments/futures/</guid>
-      <description>&lt;h2 id=&#34;history-of-forward-and-futures-contracts&#34;&gt;History of Forward and Futures Contracts&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;reading&#34;&gt;Reading&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cmegroup.com/market-data.html&#34;&gt;CME Market Data&lt;/a&gt;: Learn about commodity contracts and current prices&lt;/p&gt;
+&lt;h2 id=&#34;history-of-forward-and-futures-contracts&#34;&gt;History of Forward and Futures Contracts&lt;/h2&gt;
 &lt;h2 id=&#34;futures-overview&#34;&gt;Futures Overview&lt;/h2&gt;
 &lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Forward contract introduction | Finance &amp;amp; Capital Markets | Khan Academy&#34; src=&#34;https://www.youtube.com/embed/H9UEZdAnnt8?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h2 id=&#34;mark-to-market&#34;&gt;Mark-to-Market&lt;/h2&gt;
