@@ -81,7 +81,16 @@
       <link>https://www.stephenrush.org/courses/managerial-finance/capital_budgeting_i/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/courses/managerial-finance/capital_budgeting_i/</guid>
-      <description>&lt;h2 id=&#34;net-present-value-npv&#34;&gt;Net Present Value (NPV)&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Determine which projects add value to the firm&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;reading&#34;&gt;Reading&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Chapter 4: A First Encounter with Capital-Budgeting Rules&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;net-present-value-npv&#34;&gt;Net Present Value (NPV)&lt;/h2&gt;
 &lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Net Present Value (NPV)&#34; src=&#34;https://www.youtube.com/embed/HFFkFMfotT0?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h2 id=&#34;internal-rate-of-return-irr&#34;&gt;Internal Rate of Return (IRR)&lt;/h2&gt;
 &lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;IRR (Internal Rate of Return)&#34; src=&#34;https://www.youtube.com/embed/OSDDrZZaV8E?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
@@ -102,7 +111,20 @@
       <link>https://www.stephenrush.org/courses/managerial-finance/interest_rates/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/courses/managerial-finance/interest_rates/</guid>
-      <description>&lt;h2 id=&#34;interest-rates&#34;&gt;Interest Rates&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand interest rate risk premia&lt;/li&gt;
+&lt;li&gt;Calculate forward rates&lt;/li&gt;
+&lt;li&gt;Interpret the yield curve&lt;/li&gt;
+&lt;li&gt;Understand the bankruptcy process&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;reading&#34;&gt;Reading&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Chapter 5: Interest Rates and the Yield Curve&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html&#34;&gt;FedWatch Tool&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;interest-rates&#34;&gt;Interest Rates&lt;/h2&gt;
 &lt;h3&gt; Why do Interest Rates Matter? &lt;/h3&gt;
 &lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Interest rates explained&#34; src=&#34;https://www.youtube.com/embed/Rx-8NkKO0tw?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3&gt; APR vs Effective Annual Rate &lt;/h3&gt;
@@ -140,7 +162,6 @@
 &lt;h3&gt; Example &lt;/h3&gt;
 &lt;p&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/tSXx_Ci8i2U&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h2 id=&#34;optional-topics&#34;&gt;Optional Topics&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html&#34;&gt;FedWatch Tool&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;Consumer Credit Reports @ Last Week Tonight&lt;/h3&gt;
 &lt;p&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/aRrDsbUdY_k&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3&gt;Consumer Debt Buyers @ Last Week Tonight&lt;/h3&gt;
@@ -153,7 +174,17 @@
       <link>https://www.stephenrush.org/courses/managerial-finance/risk_return/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/courses/managerial-finance/risk_return/</guid>
-      <description>&lt;h3&gt;Risk, Return, and the CAPM&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;objective&#34;&gt;Objective&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Define and calculate measures of risk and return&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;reading&#34;&gt;Reading&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Chapter 7: A First Look at Investments&lt;/li&gt;
+&lt;li&gt;Chapter 8: Investor Choice: Risk and Reward&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h3&gt;Risk, Return, and the CAPM&lt;/h3&gt;
 &lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Finance Lecture - Risk, Return and CAPM&#34; src=&#34;https://www.youtube.com/embed/3BIIiUyr3-w?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3&gt;Arithmetic and Geometric Returns&lt;/h3&gt;
 &lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Arithmetic vs. Geometric Return&#34; src=&#34;https://www.youtube.com/embed/e-C_QwBl3-8?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
@@ -170,7 +201,22 @@ Aswath Damodoran @ NYU
       <link>https://www.stephenrush.org/courses/managerial-finance/capm/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/courses/managerial-finance/capm/</guid>
-      <description>&lt;h3&gt;CAPM Introduction @ Edspira&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;objective&#34;&gt;Objective&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Explain risk in the CAPM context&lt;/li&gt;
+&lt;li&gt;Explain market efficiency in a CAPM context&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;reading&#34;&gt;Reading&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Chapter 9: Benchmarked Costs of Capital&lt;/li&gt;
+&lt;li&gt;Chapter 10: The Capital Asset Pricing Model&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;assignment&#34;&gt;Assignment&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Estimate Beta&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h3&gt;CAPM Introduction @ Edspira&lt;/h3&gt;
 &lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Capital Asset Pricing Model&#34; src=&#34;https://www.youtube.com/embed/fDz_DgDJD5g?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3&gt;Systematic vs Idiosyncratic Risk @ Edspira&lt;/h3&gt;
 &lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Systematic Risk vs Unsystematic Risk&#34; src=&#34;https://www.youtube.com/embed/qPu4TEGIDYI?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
@@ -196,7 +242,16 @@ Andrew Lo @ MIT
       <link>https://www.stephenrush.org/courses/managerial-finance/capital_budgeting_ii/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/courses/managerial-finance/capital_budgeting_ii/</guid>
-      <description>&lt;h2 id=&#34;probability-review&#34;&gt;Probability Review&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Apply capital budgeting rules to uncertain outcomes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;reading&#34;&gt;Reading&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Chapter 13: Capital Budgeting Applications and Pitfalls&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;probability-review&#34;&gt;Probability Review&lt;/h2&gt;
 &lt;h3&gt;Probability of Independent Events @ Khan Academy&lt;/h3&gt;
 &lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Compound probability of independent events | Probability and Statistics | Khan Academy&#34; src=&#34;https://www.youtube.com/embed/xSc4oLA9e8o?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3&gt;Probability of Dependent Events @ Khan Academy&lt;/h3&gt;
