@@ -107,25 +107,49 @@
     </item>
     
     <item>
-      <title>Commonly Used Data</title>
-      <link>https://www.stephenrush.org/library/commondata/</link>
+      <title>Daily Data</title>
+      <link>https://www.stephenrush.org/library/data-daily/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/library/commondata/</guid>
-      <description>&lt;h2 id=&#34;the-risk-free-rate&#34;&gt;The Risk-Free Rate&lt;/h2&gt;
-&lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qeOT&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
-&lt;h2 id=&#34;the-sp-500-index&#34;&gt;The S&amp;amp;P 500 Index&lt;/h2&gt;
+      <guid>https://www.stephenrush.org/library/data-daily/</guid>
+      <description>&lt;h2 id=&#34;the-sp-500-index&#34;&gt;The S&amp;amp;P 500 Index&lt;/h2&gt;
 &lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qePb&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
-&lt;h2 id=&#34;sp-500-yield-curve-and-vix&#34;&gt;S&amp;amp;P 500, Yield Curve, and VIX&lt;/h2&gt;
-&lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qiXU&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+&lt;h2 id=&#34;the-risk-free-rate&#34;&gt;The Risk-Free Rate&lt;/h2&gt;
+&lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qeOT&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
 &lt;h2 id=&#34;interest-rates&#34;&gt;Interest Rates&lt;/h2&gt;
-&lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qiVg&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+&lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qNxP&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+&lt;h2 id=&#34;yield-curve-and-vix&#34;&gt;Yield Curve and VIX&lt;/h2&gt;
+&lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qNxj&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
 &lt;h2 id=&#34;expected-inflation&#34;&gt;Expected Inflation&lt;/h2&gt;
-&lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qiY5&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
-&lt;h2 id=&#34;gdp&#34;&gt;GDP&lt;/h2&gt;
-&lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qiWg&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+&lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qNx5&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+&lt;h2 id=&#34;us-dollar-and-gold&#34;&gt;U.S. Dollar and Gold&lt;/h2&gt;
+&lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qNwW&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Monthly Data</title>
+      <link>https://www.stephenrush.org/library/data-monthly/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://www.stephenrush.org/library/data-monthly/</guid>
+      <description>&lt;h1 id=&#34;monthly&#34;&gt;Monthly&lt;/h1&gt;
 &lt;h2 id=&#34;unemployment-and-industrial-production&#34;&gt;Unemployment and Industrial Production&lt;/h2&gt;
 &lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qiVd&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
-&lt;h2 id=&#34;us-dollar&#34;&gt;U.S. Dollar&lt;/h2&gt;
+&lt;h1 id=&#34;quarterly&#34;&gt;Quarterly&lt;/h1&gt;
+&lt;h2 id=&#34;gdp&#34;&gt;GDP&lt;/h2&gt;
+&lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qiWg&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Weekly Data</title>
+      <link>https://www.stephenrush.org/library/data-weekly/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://www.stephenrush.org/library/data-weekly/</guid>
+      <description>&lt;h2 id=&#34;advance-unemployment&#34;&gt;Advance Unemployment&lt;/h2&gt;
+&lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qNwm&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+&lt;h2 id=&#34;30yr-fixed-rate-mortgage-and-us-treasury-bond&#34;&gt;30yr Fixed Rate Mortgage and US Treasury Bond&lt;/h2&gt;
+&lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qNxH&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+&lt;h2 id=&#34;us-dollar-gold-and-bitcoin&#34;&gt;U.S. Dollar, Gold, and Bitcoin&lt;/h2&gt;
 &lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qj0f&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
 </description>
     </item>

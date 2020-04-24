@@ -18,7 +18,17 @@
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/library/commondata/</loc>
+    <loc>https://www.stephenrush.org/library/data-daily/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.stephenrush.org/library/data-monthly/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.stephenrush.org/library/data-weekly/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
