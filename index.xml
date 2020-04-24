@@ -890,14 +890,27 @@ irssi: text based IRC client&lt;/p&gt;
       <description>&lt;h2 id=&#34;relative-valuation&#34;&gt;Relative Valuation&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/9rOeDOuvTUw&#34;&gt;Rush&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/Q3w3IqgC8sY&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Aswath Damodaran @ NYU in 2014&lt;/li&gt;
 &lt;/ul&gt;
+&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/WDZwqSierZ4&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/42iyR6Geqiw&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/xI-KTlxfNDU&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/O8KojGTlz-E&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/_ECSqmEppqA&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;the-dividend-discount-model&#34;&gt;The Dividend Discount Model&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Video Example: &lt;a href=&#34;https://youtu.be/XNFkOavBBmg&#34;&gt;Rush&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/TlH3_iOHX3s&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;discounted-cash-flow-valuation&#34;&gt;Discounted Cash Flow Valuation&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Video: The Weighted Average Cost of Capital (WACC) @ &lt;a href=&#34;https://youtu.be/46oLXwClvkw&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Aswath Damodaran @ NYU in 2014&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/N_FH89DCdGs&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/8gYT3Xgs6NE&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/fRNcP9xjk-8&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/83yR6EFEl5Y&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;Video: WACC @ &lt;a href=&#34;https://youtu.be/46oLXwClvkw&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Video: Free Cash Flow to the Firm @ &lt;a href=&#34;https://youtu.be/F5-VsVcbmCQ&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Video: Sources and Uses of Cash @ &lt;a href=&#34;https://youtu.be/Fsj6EFXvMUc&#34;&gt;ATM&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Video: DCF using FCFF @ &lt;a href=&#34;https://youtu.be/7PpWneOBJls&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
@@ -1057,9 +1070,41 @@ William O&amp;rsquo;Brien, Brad Katsuyama, and Michael Lewis&lt;/li&gt;
       <link>https://www.stephenrush.org/courses/portfolio-management/portfoliooptimization/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       <guid>https://www.stephenrush.org/courses/portfolio-management/portfoliooptimization/</guid>
-      <description>&lt;h2 id=&#34;constrained-mean-variance-portfolio-optimization&#34;&gt;Constrained Mean-Variance Portfolio Optimization&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;portfolio-optimization-lecture&#34;&gt;Portfolio Optimization Lecture&lt;/h2&gt;
+&lt;p&gt;$r=w^\prime r$ and  $\sigma^2 = w^\prime \Sigma w$&lt;/p&gt;
+&lt;h2 id=&#34;constrained-optimization&#34;&gt;Constrained Optimization&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Objective&lt;/li&gt;
+&lt;li&gt;Constraints
+&lt;ul&gt;
+&lt;li&gt;Leverage&lt;/li&gt;
+&lt;li&gt;Concentration&lt;/li&gt;
+&lt;li&gt;Tracking Error&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Challenges
+&lt;ul&gt;
+&lt;li&gt;Relative returns&lt;/li&gt;
+&lt;li&gt;Covariance Matrix&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;kelly-criterion&#34;&gt;Kelly Criterion&lt;/h2&gt;
+&lt;p&gt;$K=p-\frac{(1-p)}{r}$&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Betting Odds vs Returns&lt;/li&gt;
+&lt;li&gt;Assumptions&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;risk-parity-portfolios&#34;&gt;Risk Parity Portfolios&lt;/h2&gt;
 &lt;p&gt;Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/master/Portfolio/Risk_Parity.R&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Challenges
+&lt;ul&gt;
+&lt;li&gt;Leverage&lt;/li&gt;
+&lt;li&gt;Asset Class Correlations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -1363,8 +1408,11 @@ Government&lt;/p&gt;
 &lt;a href=&#34;https://youtu.be/AVXW95MyD54&#34;&gt;Edspira&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt; Long vs Short &lt;/h3&gt;
 &lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;The difference between Long and Short&#34; src=&#34;https://www.youtube.com/embed/J996qjQ0ut8?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h2 id=&#34;aggregating-savings&#34;&gt;Aggregating Savings&lt;/h2&gt;
+&lt;h2 id=&#34;aggregating-savings-and-securitization&#34;&gt;Aggregating Savings and Securitization&lt;/h2&gt;
 &lt;h3&gt; Mutual Funds &lt;/h3&gt;
+&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/tMAIzXe81fI&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3&gt; Characteristics of Mutual Funds &lt;/h3&gt;
+&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/9pNR3GSTlBM&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;h3&gt; What is an ETF? &lt;/h3&gt;
 &lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;ETFs explained&#34; src=&#34;https://www.youtube.com/embed/83DoOBBsKYk?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3&gt; Private Equity &lt;/h3&gt;
