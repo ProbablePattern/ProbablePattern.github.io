@@ -193,6 +193,7 @@
 &lt;li&gt;&lt;a href=&#34;http://www.cmegroup.com/&#34;&gt;Chicago Mercantile Exchange&lt;/a&gt; (CME) – delayed quotes on commodities&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://finra-markets.morningstar.com/MarketData&#34;&gt;FINRA Market Data&lt;/a&gt; – hosted by Morningstar&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.quandl.com/&#34;&gt;Quandl&lt;/a&gt; - platform for distributing free and proprietary data sets&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nasdaq.com/market-activity&#34;&gt;NASDAQ&lt;/a&gt; - almost as good as FINRA but nicer design&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.sec.gov/edgar.shtml&#34;&gt;Securities and Exchange Commission&lt;/a&gt; (SEC) – EDGAR database of company filings / start with the 10-K for annual data and the 10-Q for quarterly data&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;reseach-data&#34;&gt;Reseach Data&lt;/h2&gt;
@@ -1939,6 +1940,7 @@ John Cochrane @ UChicago
 &lt;li&gt;&lt;a href=&#34;https://www.libreoffice.org/&#34;&gt;Libre Office&lt;/a&gt; - free replacement for Microsoft Office&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.ubuntu.com/&#34;&gt;Ubuntu Linux&lt;/a&gt; - complete replacement for Windows / running the variant of Ubuntu called &lt;a href=&#34;http://xubuntu.org/&#34;&gt;Xubuntu&lt;/a&gt; enables you to run a modern operating system and applications on minimal hardware such as a 10 year old computer that you can get virtually for free. If you need a graphical interface but want to run at ludicrous speed, check out &lt;a href=&#34;https://i3wm.org/&#34;&gt;i3&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://portableapps.com/&#34;&gt;Portable Apps&lt;/a&gt; - you can even get by without your own machine or relying on cloud services&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.zotero.org/&#34;&gt;Zotero&lt;/a&gt; - organize papers and manage citations&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; - generate static websites that can be hosted anywhere&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://plex.tv/&#34;&gt;Plex&lt;/a&gt; - the best media server&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://obsproject.com/&#34;&gt;OBS Studio&lt;/a&gt; - Open Broadcaster Software Studio&lt;/li&gt;
