@@ -56,6 +56,11 @@
 &lt;li&gt;&lt;a href=&#34;http://statweb.stanford.edu/~tibs/ElemStatLearn/&#34;&gt;Elements of Statistical Learning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.stat.pitt.edu/stoffer/tsa4/&#34;&gt;Time Series Analysis and Its Applications: With R Examples&lt;/a&gt; by Shumway and Stoffer&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;data-visualization&#34;&gt;Data Visualization&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://docs.ggplot2.org/current/&#34;&gt;ggplot2 Documentation&lt;/a&gt; by Hadley Wickham&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mastering-shiny.org/&#34;&gt;Mastering Shiny&lt;/a&gt; by Hadley Wickham&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;advanced-finance&#34;&gt;Advanced Finance&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://faculty.chicagobooth.edu/john.cochrane/teaching/asset_pricing.htm&#34;&gt;Asset Pricing&lt;/a&gt; by Cochrane&lt;/li&gt;
