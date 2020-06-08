@@ -233,6 +233,11 @@
   </url>
   
   <url>
+    <loc>https://www.stephenrush.org/courses/markets-institutions/bonds/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.stephenrush.org/courses/investments/securities_markets/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
@@ -249,6 +254,11 @@
   
   <url>
     <loc>https://www.stephenrush.org/courses/investments/capm_factors/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.stephenrush.org/courses/markets-institutions/duration/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -283,6 +293,21 @@
   </url>
   
   <url>
+    <loc>https://www.stephenrush.org/courses/markets-institutions/interestrates/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.stephenrush.org/courses/markets-institutions/institutions/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.stephenrush.org/courses/markets-institutions/swaps/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.stephenrush.org/library/babel/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
@@ -299,16 +324,21 @@
   
   <url>
     <loc>https://www.stephenrush.org/</loc>
-    <lastmod>2020-02-14T16:00:00+00:00</lastmod>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/talk/20200214-ut/</loc>
-    <lastmod>2020-02-14T16:00:00+00:00</lastmod>
+    <loc>https://www.stephenrush.org/talk/20200605-rfin/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.stephenrush.org/talk/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.stephenrush.org/talk/20200214-ut/</loc>
     <lastmod>2020-02-14T16:00:00+00:00</lastmod>
   </url>
   
