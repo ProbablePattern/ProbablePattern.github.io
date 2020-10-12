@@ -438,11 +438,6 @@
   </url>
   
   <url>
-    <loc>https://www.stephenrush.org/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.stephenrush.org/games/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
@@ -594,6 +589,10 @@
   
   <url>
     <loc>https://www.stephenrush.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.stephenrush.org/courses/</loc>
   </url>
   
 </urlset>
