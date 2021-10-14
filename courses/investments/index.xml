@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Investments | Dr. Stephen Rush, CFA</title>
-    <link>https://www.stephenrush.org/courses/investments/</link>
-      <atom:link href="https://www.stephenrush.org/courses/investments/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://stephenrush.org/courses/investments/</link>
+      <atom:link href="https://stephenrush.org/courses/investments/index.xml" rel="self" type="application/rss+xml" />
     <description>Investments</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.stephenrush.org/img/icon-192.png</url>
+      <url>https://stephenrush.org/img/icon-192.png</url>
       <title>Investments</title>
-      <link>https://www.stephenrush.org/courses/investments/</link>
+      <link>https://stephenrush.org/courses/investments/</link>
     </image>
     
     <item>
       <title>Securities Markets</title>
-      <link>https://www.stephenrush.org/courses/investments/securities_markets/</link>
+      <link>https://stephenrush.org/courses/investments/securities_markets/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/investments/securities_markets/</guid>
+      <guid>https://stephenrush.org/courses/investments/securities_markets/</guid>
       <description>&lt;h2 id=&#34;reading&#34;&gt;Reading&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Chapter 3: Securities Markets&lt;/li&gt;
@@ -75,9 +75,9 @@ Government&lt;/p&gt;
     
     <item>
       <title>Risk, Returns, and History</title>
-      <link>https://www.stephenrush.org/courses/investments/risk_returns_history/</link>
+      <link>https://stephenrush.org/courses/investments/risk_returns_history/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/investments/risk_returns_history/</guid>
+      <guid>https://stephenrush.org/courses/investments/risk_returns_history/</guid>
       <description>&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Calculate returns and identify measures of risk.&lt;/li&gt;
@@ -122,9 +122,9 @@ John Cochrane @ UChicago
     
     <item>
       <title>Portfolio Theory</title>
-      <link>https://www.stephenrush.org/courses/investments/portfoliotheory/</link>
+      <link>https://stephenrush.org/courses/investments/portfoliotheory/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/investments/portfoliotheory/</guid>
+      <guid>https://stephenrush.org/courses/investments/portfoliotheory/</guid>
       <description>&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Construct Efficient Portfolios&lt;/li&gt;
@@ -174,9 +174,9 @@ John Cochrane @ UChicago
     
     <item>
       <title>CAPM and Factor Models</title>
-      <link>https://www.stephenrush.org/courses/investments/capm_factors/</link>
+      <link>https://stephenrush.org/courses/investments/capm_factors/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/investments/capm_factors/</guid>
+      <guid>https://stephenrush.org/courses/investments/capm_factors/</guid>
       <description>&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Describe risk and return in an empirical asset pricing setting&lt;/li&gt;
@@ -239,9 +239,9 @@ John Cochrane @ UChicago
     
     <item>
       <title>Efficient Markets and Behavioral Finance</title>
-      <link>https://www.stephenrush.org/courses/investments/emh/</link>
+      <link>https://stephenrush.org/courses/investments/emh/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/investments/emh/</guid>
+      <guid>https://stephenrush.org/courses/investments/emh/</guid>
       <description>&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Describe how risk and return relate to market efficiency&lt;/li&gt;
@@ -273,7 +273,7 @@ John Cochrane @ UChicago
 &lt;p&gt;Robert Shiller @ Yale in 2011&lt;/p&gt;
 &lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;11. Behavioral Finance and the Role of Psychology&#34; src=&#34;https://www.youtube.com/embed/chSHqogx2CI?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3&gt; Behavioral Biases &lt;/h3&gt;
-&lt;img src=&#34;https://www.stephenrush.org/img/pics/Everytime.jpg&#34; align=&#34;right&#34; width=&#34;30%&#34; style=&#34;margin: 0px 10px 0px 0px;&#34;/&gt;
+&lt;img src=&#34;https://stephenrush.org/img/pics/Everytime.jpg&#34; align=&#34;right&#34; width=&#34;30%&#34; style=&#34;margin: 0px 10px 0px 0px;&#34;/&gt;
 &lt;h3&gt; Technical Analysis &lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Market Breadth&lt;/li&gt;
@@ -291,9 +291,9 @@ The Stock Market Doesn&#39;t Care How Hard You Try
     
     <item>
       <title>Macroeconomic &amp; Industry Analysis</title>
-      <link>https://www.stephenrush.org/courses/investments/macro_industry/</link>
+      <link>https://stephenrush.org/courses/investments/macro_industry/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/investments/macro_industry/</guid>
+      <guid>https://stephenrush.org/courses/investments/macro_industry/</guid>
       <description>&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Understand risk in the context of firm performance and industry environment&lt;/li&gt;
@@ -374,9 +374,9 @@ The Stock Market Doesn&#39;t Care How Hard You Try
     
     <item>
       <title>Financial Statement Analysis</title>
-      <link>https://www.stephenrush.org/courses/investments/fsa/</link>
+      <link>https://stephenrush.org/courses/investments/fsa/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/investments/fsa/</guid>
+      <guid>https://stephenrush.org/courses/investments/fsa/</guid>
       <description>&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Evaluate the financial performance of a firm or project&lt;/li&gt;
@@ -409,9 +409,9 @@ The Stock Market Doesn&#39;t Care How Hard You Try
     
     <item>
       <title>Equity Valuation</title>
-      <link>https://www.stephenrush.org/courses/investments/equityvaluation/</link>
+      <link>https://stephenrush.org/courses/investments/equityvaluation/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/investments/equityvaluation/</guid>
+      <guid>https://stephenrush.org/courses/investments/equityvaluation/</guid>
       <description>&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Value the equity of a firm or project&lt;/li&gt;
@@ -464,9 +464,9 @@ The Stock Market Doesn&#39;t Care How Hard You Try
     
     <item>
       <title>Options</title>
-      <link>https://www.stephenrush.org/courses/investments/options/</link>
+      <link>https://stephenrush.org/courses/investments/options/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/investments/options/</guid>
+      <guid>https://stephenrush.org/courses/investments/options/</guid>
       <description>&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Value equity options using the Binomial Option Pricing Model&lt;/li&gt;
@@ -508,9 +508,9 @@ The Stock Market Doesn&#39;t Care How Hard You Try
     
     <item>
       <title>Futures and Commodities</title>
-      <link>https://www.stephenrush.org/courses/investments/futures/</link>
+      <link>https://stephenrush.org/courses/investments/futures/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://www.stephenrush.org/courses/investments/futures/</guid>
+      <guid>https://stephenrush.org/courses/investments/futures/</guid>
       <description>&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Understand and price futures contracts&lt;/li&gt;
