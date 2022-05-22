@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Library | Dr. Stephen Rush, CFA</title>
-    <link>https://stephenrush.org/library/</link>
-      <atom:link href="https://stephenrush.org/library/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://stephenrush.me/library/</link>
+      <atom:link href="https://stephenrush.me/library/index.xml" rel="self" type="application/rss+xml" />
     <description>Library</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://stephenrush.org/img/icon-192.png</url>
+      <url>https://stephenrush.me/img/icon-192.png</url>
       <title>Library</title>
-      <link>https://stephenrush.org/library/</link>
+      <link>https://stephenrush.me/library/</link>
     </image>
     
     <item>
       <title>Books</title>
-      <link>https://stephenrush.org/library/books/</link>
+      <link>https://stephenrush.me/library/books/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/books/</guid>
+      <guid>https://stephenrush.me/library/books/</guid>
       <description>&lt;h2 id=&#34;ebook-sources&#34;&gt;eBook Sources&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://archive.org/details/texts&#34;&gt;Internet Archive&lt;/a&gt;: aggregation of public repositories&lt;/li&gt;
@@ -72,16 +72,16 @@
     
     <item>
       <title>Coding</title>
-      <link>https://stephenrush.org/library/code/</link>
+      <link>https://stephenrush.me/library/code/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/code/</guid>
+      <guid>https://stephenrush.me/library/code/</guid>
       <description>&lt;p&gt;My favorite tool for data analysis is the &lt;a href=&#34;http://www.r-project.org/&#34;&gt;R&lt;/a&gt; programming language because it has a great community, it is free, and it works on Windows, Mac, and Linux. I also highly recommend &lt;a href=&#34;http://www.rstudio.com/&#34;&gt;RStudio&lt;/a&gt; if you&amp;rsquo;re not into using &lt;a href=&#34;http://ess.r-project.org/&#34;&gt;ESS&lt;/a&gt; with &lt;a href=&#34;http://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt;. RStudio is great for academics because it also serves as a &lt;a href=&#34;http://www.latex-project.org/&#34;&gt;LaTeX&lt;/a&gt; editor so you can use one tool for your entire research project soup to nuts. Microsoft offers a paid support option for commercial use but there is a free and open source version.&lt;/p&gt;
 &lt;p&gt;I learned R on my own but I could not have done it without the help of sites like &lt;a href=&#34;http://stackoverflow.com/&#34;&gt;Stack Overflow&lt;/a&gt; and the outstanding R community. Before posting any questions on the web, please attempt to work the problem yourself so that people don&amp;rsquo;t waste their time answering questions that have already been explained. More succinct: &lt;a href=&#34;https://en.wikipedia.org/wiki/RTFM&#34;&gt;RTFM&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Students&lt;/strong&gt;: Download the pdf booklet &lt;a href=&#34;https://drive.google.com/open?id=1SkCbS24pVkJkVzZ2IjcT3E-RIV7WPXMd&#34;&gt;PDQ Finance&lt;/a&gt; and follow the directions to install R and RStudio.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Non-Students&lt;/strong&gt;: For minimal time investment, I suggest following some examples in the &lt;a href=&#34;https://eddelbuettel.github.io/gsir-te/Getting-Started-in-R.pdf&#34;&gt;Getting Started in R&lt;/a&gt; (tinyverse edition) guide by Saghir Bashir and Dirk Eddelbuettel. I also suggest creating a free account at &lt;a href=&#34;https://rstudio.cloud&#34;&gt;RStudio Cloud&lt;/a&gt; to get started without needing to install anything.&lt;/p&gt;
 &lt;h2 id=&#34;installation-and-introduction&#34;&gt;Installation and Introduction&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://stephenrush.org/library/cli/&#34;&gt;Command Line&lt;/a&gt; - some problems are best solved with command line tools rather than a programming language&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stephenrush.me/library/cli/&#34;&gt;Command Line&lt;/a&gt; - some problems are best solved with command line tools rather than a programming language&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://stephenrush.wordpress.com/blog/emacs/&#34;&gt;Emacs and ESS on OS X for Beginners&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://pandas.pydata.org/&#34;&gt;Pandas&lt;/a&gt; - financial data analysis in Python&lt;/li&gt;
 &lt;/ul&gt;
@@ -113,9 +113,9 @@
     
     <item>
       <title>Daily Data</title>
-      <link>https://stephenrush.org/library/data-daily/</link>
+      <link>https://stephenrush.me/library/data-daily/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/data-daily/</guid>
+      <guid>https://stephenrush.me/library/data-daily/</guid>
       <description>&lt;h2 id=&#34;the-sp-500-index&#34;&gt;The S&amp;amp;P 500 Index&lt;/h2&gt;
 &lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qePb&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
 &lt;h2 id=&#34;the-risk-free-rate&#34;&gt;The Risk-Free Rate&lt;/h2&gt;
@@ -133,9 +133,9 @@
     
     <item>
       <title>Monthly Data</title>
-      <link>https://stephenrush.org/library/data-monthly/</link>
+      <link>https://stephenrush.me/library/data-monthly/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/data-monthly/</guid>
+      <guid>https://stephenrush.me/library/data-monthly/</guid>
       <description>&lt;h1 id=&#34;monthly&#34;&gt;Monthly&lt;/h1&gt;
 &lt;h2 id=&#34;unemployment-and-industrial-production&#34;&gt;Unemployment and Industrial Production&lt;/h2&gt;
 &lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qiVd&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
@@ -147,9 +147,9 @@
     
     <item>
       <title>Weekly Data</title>
-      <link>https://stephenrush.org/library/data-weekly/</link>
+      <link>https://stephenrush.me/library/data-weekly/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/data-weekly/</guid>
+      <guid>https://stephenrush.me/library/data-weekly/</guid>
       <description>&lt;h2 id=&#34;advance-unemployment&#34;&gt;Advance Unemployment&lt;/h2&gt;
 &lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qNwm&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
 &lt;h2 id=&#34;30yr-fixed-rate-mortgage-and-us-treasury-bond&#34;&gt;30yr Fixed Rate Mortgage and US Treasury Bond&lt;/h2&gt;
@@ -161,9 +161,9 @@
     
     <item>
       <title>Data Sources</title>
-      <link>https://stephenrush.org/library/data/</link>
+      <link>https://stephenrush.me/library/data/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/data/</guid>
+      <guid>https://stephenrush.me/library/data/</guid>
       <description>&lt;p&gt;There are many sources of data available but in my class and in your job, you must use primary sources. This means original data that has as little filtering as possible. This page includes other sources that are of comparable quality and reliability. They are free to access as you move from the university to your career.&lt;/p&gt;
 &lt;h2 id=&#34;macroeconomic-data&#34;&gt;Macroeconomic Data&lt;/h2&gt;
 &lt;ul&gt;
@@ -211,9 +211,9 @@
     
     <item>
       <title>Media Sources</title>
-      <link>https://stephenrush.org/library/media/</link>
+      <link>https://stephenrush.me/library/media/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/media/</guid>
+      <guid>https://stephenrush.me/library/media/</guid>
       <description>&lt;h2 id=&#34;television-and-video-news&#34;&gt;Television and Video News&lt;/h2&gt;
 &lt;p&gt;In my opinion, news should have as little commentary as possible and focus on matters of importance rather than entertainment value. I also don&amp;rsquo;t think you should pay for a cable package to receive decent news. These sources keep you informed without attempting to elicit an emotional reaction.&lt;/p&gt;
 &lt;ul&gt;
@@ -244,9 +244,9 @@
     
     <item>
       <title>Movies</title>
-      <link>https://stephenrush.org/library/movies/</link>
+      <link>https://stephenrush.me/library/movies/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/movies/</guid>
+      <guid>https://stephenrush.me/library/movies/</guid>
       <description>&lt;p&gt;These are movies that are important to finance culture or have some interesting business content. Plenty of other movies take place around finance but have little relevant content.&lt;/p&gt;
 &lt;h2 id=&#34;documentaries&#34;&gt;Documentaries&lt;/h2&gt;
 &lt;ul&gt;
@@ -277,9 +277,9 @@
     
     <item>
       <title>Podcasts</title>
-      <link>https://stephenrush.org/library/podcasts/</link>
+      <link>https://stephenrush.me/library/podcasts/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/podcasts/</guid>
+      <guid>https://stephenrush.me/library/podcasts/</guid>
       <description>&lt;p&gt;These are conversations and news stories that supplement my course content. Most are about 60 minutes long and will play in any web browser.&lt;/p&gt;
 &lt;h2 id=&#34;econtalk-podcasts&#34;&gt;EconTalk Podcasts&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.econtalk.org/&#34;&gt;EconTalk&lt;/a&gt; is a great resource for long-form conversations related to economics. The website often contains additional information for those interested in the weekly episodes. I have listed the episodes that I have found most useful for teaching.&lt;/p&gt;
@@ -334,9 +334,9 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
     
     <item>
       <title>University-Specific Resources</title>
-      <link>https://stephenrush.org/library/university-resources/</link>
+      <link>https://stephenrush.me/library/university-resources/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/university-resources/</guid>
+      <guid>https://stephenrush.me/library/university-resources/</guid>
       <description>&lt;h2 id=&#34;bowling-green-state-university&#34;&gt;Bowling Green State University&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Bloomberg - only accessible from the terminal in the Finance Trading Lab in Room 2004 of the College of Business. Open the Bloomberg application; not the website.&lt;/li&gt;
@@ -366,9 +366,9 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
     
     <item>
       <title>Personal Finance</title>
-      <link>https://stephenrush.org/library/personal-finance/</link>
+      <link>https://stephenrush.me/library/personal-finance/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/personal-finance/</guid>
+      <guid>https://stephenrush.me/library/personal-finance/</guid>
       <description>&lt;p&gt;I teach investments, portfolio management, and corporate finance but many people are more interested in personal finance. Here are some thoughts on budgets, using debt, paying off debt, student loans/college, and investing.&lt;/p&gt;
 &lt;h2 id=&#34;budgeting&#34;&gt;Budgeting&lt;/h2&gt;
 &lt;p&gt;Budgeting combines so many personal priorities that one set of guidelines will not work for everyone. I can offer some principles that would benefit most people.&lt;/p&gt;
@@ -406,9 +406,9 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
     
     <item>
       <title>Securities Analysis</title>
-      <link>https://stephenrush.org/library/securities-analysis/</link>
+      <link>https://stephenrush.me/library/securities-analysis/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/securities-analysis/</guid>
+      <guid>https://stephenrush.me/library/securities-analysis/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;I created this page to introduce students to securities analysis. The information provided on this page is not intended to be comprehensive but is intended to provide students with enough information to start learning on their own. There are many perspectives on investment analysis but this page will be limited to fundamental analysis which is best suited to long time horizons. This approach can also be used to evaluate projects in corporate finance.&lt;/p&gt;
 &lt;p&gt;An investment recommendation needs a minimum of three components: a specific security, the price of that security, and a specific time. The first two are self explanatory but the third is a proxy for a particular information set. This means that buying a particular security at a particular price may or may not be a good idea depending on what we know about the state of the world at any given time. (I will discuss this more under the Process section.)&lt;/p&gt;
@@ -448,9 +448,9 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
     
     <item>
       <title>Student Advice</title>
-      <link>https://stephenrush.org/library/advising/</link>
+      <link>https://stephenrush.me/library/advising/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/advising/</guid>
+      <guid>https://stephenrush.me/library/advising/</guid>
       <description>&lt;p&gt;Everyone has constraints on their time, money, and attention. My recommendations represent what I believe a competitive student should do to prepare for a career in finance but everyone has to make trade-offs.&lt;/p&gt;
 &lt;h2 id=&#34;university-selection&#34;&gt;University Selection&lt;/h2&gt;
 &lt;p&gt;The most valuable aspects of a college education are: degree, personal network, learning from peers, and coursework. When considering universities with different tuition rates, consider whether the higher tuition comes with a substantial increase in one of those factors. While there are substantial differences in the marketability of an Ivy League degree relative to a state college degree, most of the differences in outcomes from similar colleges are determined by individual factors.&lt;/p&gt;
@@ -475,15 +475,15 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
 &lt;p&gt;&lt;a href=&#34;https://youtu.be/CVEuPmVAb8o&#34;&gt;&amp;ldquo;Don&amp;rsquo;t Follow Your Passion&amp;rdquo; - Mike Rowe&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Get a hobby. Find something that is not finance that makes you happy. This will help you deal with the times when finance will be boring, frustrating, or too difficult. Talk about your hobby in an interview.&lt;/p&gt;
 &lt;p&gt;The best jobs are usually not around the university and are not advertised at the career center. Be prepared to move and find your own job.
-&lt;img src=&#34;https://stephenrush.org/img/pics/Shark_Mondays.jpg&#34; alt=&#34;Shark&#34; title=&#34;Be the shark&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://stephenrush.me/img/pics/Shark_Mondays.jpg&#34; alt=&#34;Shark&#34; title=&#34;Be the shark&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Command Line Interface</title>
-      <link>https://stephenrush.org/library/cli/</link>
+      <link>https://stephenrush.me/library/cli/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/cli/</guid>
+      <guid>https://stephenrush.me/library/cli/</guid>
       <description>&lt;p&gt;I have become enamored with the idea of minimalist computing. The primary reason is that I like substituting intellectual capital for financial capital or to put it another way, using cheap computers more effectively. My secondary reason is that I have reached a point in my work where the electrical usage and heat production from my research needs to be considered both in terms of monetary costs and environmental impact.&lt;/p&gt;
 &lt;p&gt;The bottom line is that minimal computing allows for the same productivity with older or cheaper machines. When you need cutting edge computation that is expensive and sucks power, either rent from a cloud provider where they can manage the hardware and operate at a more efficient scale than your home or keep your own servers at the most efficient power provider like the office. At a minimum, you can avoid both paying for power and the marginal increase in cooling costs. Second hand servers can be found/purchased/built cheap but are still expensive to operate. Keeping operating costs as low as possible helps you get the biggest bang for your buck.&lt;/p&gt;
 &lt;p&gt;For those interested in moving away from the GUI world, I suggest a gradual shift while continuing to work on the operating system of your choice. If you are on Windows 10, Ubuntu and other Linux distributions are available on the app store via the Windows Subsystem for Linux (WSL). Mac users can install MacPorts to get the standard versions of some command line programs. Eventually you will want to transition to a free open source operating system like Ubuntu Linux but baby steps for now.&lt;/p&gt;
@@ -517,9 +517,9 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Market Microstructure</title>
-      <link>https://stephenrush.org/library/microstructure/</link>
+      <link>https://stephenrush.me/library/microstructure/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/microstructure/</guid>
+      <guid>https://stephenrush.me/library/microstructure/</guid>
       <description>&lt;p&gt;Many of the issues in market microstructure are difficult to address due to the cost and availability of large data sets. Even special academic pricing is usually too expensive for all but the most prominent universities. For these reasons, prior literature is sparse, has small samples, or is not conducted in an unbiased manner. I encourage anyone with access to relevant data to make it available to researchers so policy makers can make data-driven decisions that will improve the quality of markets.&lt;/p&gt;
 &lt;h2 id=&#34;issues-in-microstructure&#34;&gt;Issues in Microstructure&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Order Type Controversy&lt;/em&gt; - Do some exchange or ATS clients have access to order types that other clients do not? Is the reason due to client favoritism or technical sophistication?&lt;/p&gt;
@@ -590,9 +590,9 @@ William O&amp;rsquo;Brien, Brad Katsuyama, and Michael Lewis&lt;/li&gt;
     
     <item>
       <title>Library of Babel</title>
-      <link>https://stephenrush.org/library/babel/</link>
+      <link>https://stephenrush.me/library/babel/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/babel/</guid>
+      <guid>https://stephenrush.me/library/babel/</guid>
       <description>&lt;h2 id=&#34;search-the-library&#34;&gt;Search the Library&lt;/h2&gt;
 &lt;!--&lt;iframe src=&#34;https://libraryofbabel.info/search.html&#34; width=&#34;100%&#34; height=&#34;500&#34;&gt;&lt;/iframe&gt;--&gt;
 &lt;embed type=&#34;text/html&#34; src=&#34;https://libraryofbabel.info/search.html&#34; width=&#34;100%&#34; height=&#34;600&#34;&gt;</description>
@@ -600,9 +600,9 @@ William O&amp;rsquo;Brien, Brad Katsuyama, and Michael Lewis&lt;/li&gt;
     
     <item>
       <title>Setec Astronomy</title>
-      <link>https://stephenrush.org/library/setec/</link>
+      <link>https://stephenrush.me/library/setec/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/setec/</guid>
+      <guid>https://stephenrush.me/library/setec/</guid>
       <description>&lt;h2 id=&#34;security-tools&#34;&gt;Security Tools&lt;/h2&gt;
 &lt;p&gt;These are some of the great free and open source software tools available particularly for my friends who live in less free societies. Unless you are a cryptographer, I don&amp;rsquo;t recommend the &lt;a href=&#34;https://en.wikipedia.org/wiki/Security_through_obscurity&#34;&gt;Security through Obscurity&lt;/a&gt; strategy. Also, consider some of the tools recommended by the Electronic Frontier Foundation (EFF) &lt;a href=&#34;https://ssd.eff.org/&#34;&gt;Surveillance Self-Defense&lt;/a&gt;.&lt;/p&gt;
 &lt;ul&gt;
@@ -649,9 +649,9 @@ William O&amp;rsquo;Brien, Brad Katsuyama, and Michael Lewis&lt;/li&gt;
     
     <item>
       <title>Music</title>
-      <link>https://stephenrush.org/library/music/</link>
+      <link>https://stephenrush.me/library/music/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/music/</guid>
+      <guid>https://stephenrush.me/library/music/</guid>
       <description>&lt;p&gt;This page is mostly for friends and family that have taken an interest in my compositions and arrangements.&lt;/p&gt;
 &lt;h2 id=&#34;psalm&#34;&gt;Psalm&lt;/h2&gt;
 &lt;p&gt;This is the chorus of a piece I envisioned as a psalm but never got around to writing the lyrics. It is a simple solo piano arrangement with an unusual chord progression. These are characteristics I found lacking in modern liturgical music.&lt;/p&gt;

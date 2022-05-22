@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio Management | Dr. Stephen Rush, CFA</title>
-    <link>https://stephenrush.org/courses/portfolio-management/</link>
-      <atom:link href="https://stephenrush.org/courses/portfolio-management/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://stephenrush.me/courses/portfolio-management/</link>
+      <atom:link href="https://stephenrush.me/courses/portfolio-management/index.xml" rel="self" type="application/rss+xml" />
     <description>Portfolio Management</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://stephenrush.org/img/icon-192.png</url>
+      <url>https://stephenrush.me/img/icon-192.png</url>
       <title>Portfolio Management</title>
-      <link>https://stephenrush.org/courses/portfolio-management/</link>
+      <link>https://stephenrush.me/courses/portfolio-management/</link>
     </image>
     
     <item>
       <title>Review</title>
-      <link>https://stephenrush.org/courses/portfolio-management/review/</link>
+      <link>https://stephenrush.me/courses/portfolio-management/review/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/portfolio-management/review/</guid>
+      <guid>https://stephenrush.me/courses/portfolio-management/review/</guid>
       <description>&lt;h2 id=&#34;accounting-review&#34;&gt;Accounting Review&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Video: Additional Paid-in Capital @ &lt;a href=&#34;https://youtu.be/8GSdrqrbp8A&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
@@ -85,9 +85,9 @@
     
     <item>
       <title>Investment Policy Statement</title>
-      <link>https://stephenrush.org/courses/portfolio-management/ips/</link>
+      <link>https://stephenrush.me/courses/portfolio-management/ips/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/portfolio-management/ips/</guid>
+      <guid>https://stephenrush.me/courses/portfolio-management/ips/</guid>
       <description>&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
 &lt;h2 id=&#34;absolute-vs-relative-return&#34;&gt;Absolute vs Relative Return&lt;/h2&gt;
 &lt;h2 id=&#34;risk-tolerance&#34;&gt;Risk Tolerance&lt;/h2&gt;
@@ -104,9 +104,9 @@
     
     <item>
       <title>Macroeconomic &amp; Industry Analysis</title>
-      <link>https://stephenrush.org/courses/portfolio-management/macro_industry/</link>
+      <link>https://stephenrush.me/courses/portfolio-management/macro_industry/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/portfolio-management/macro_industry/</guid>
+      <guid>https://stephenrush.me/courses/portfolio-management/macro_industry/</guid>
       <description>&lt;h2 id=&#34;macroeconomic-metrics&#34;&gt;Macroeconomic Metrics&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/GDP&#34;&gt;Gross Domestric Product (GDP)&lt;/a&gt;
@@ -177,9 +177,9 @@
     
     <item>
       <title>Ethics</title>
-      <link>https://stephenrush.org/courses/portfolio-management/ethics/</link>
+      <link>https://stephenrush.me/courses/portfolio-management/ethics/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/portfolio-management/ethics/</guid>
+      <guid>https://stephenrush.me/courses/portfolio-management/ethics/</guid>
       <description>&lt;h3&gt;Introduction Video&lt;/h3&gt;
 &lt;p&gt;&lt;iframe src=&#34;//players.brightcove.net/1183701590001/S1pWTjxJM_default/index.html?videoId=5748136794001&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;22-part Video Series&lt;br /&gt;&lt;a href=&#34;https://www.cfainstitute.org/ethics-standards/codes/code-of-ethics-standards-of-professional-conduct-videos&#34;&gt;https://www.cfainstitute.org/ethics-standards/codes/code-of-ethics-standards-of-professional-conduct-videos&lt;/a&gt;&lt;/p&gt;
@@ -188,18 +188,18 @@
     
     <item>
       <title>Trade Execution</title>
-      <link>https://stephenrush.org/courses/portfolio-management/trading/</link>
+      <link>https://stephenrush.me/courses/portfolio-management/trading/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/portfolio-management/trading/</guid>
+      <guid>https://stephenrush.me/courses/portfolio-management/trading/</guid>
       <description>&lt;p&gt;We will be using Chebyshev&amp;rsquo;s Theorem to set limits on trades. This is appropriate because financial returns (and prices) are not normally distributed but the distribution is generally assumed to have a mean and standard deviation. Find the volume-weighted average prices (VWAP) from no more than one month in the past. For buys, calculate two standard deviations below the last VWAP price to use as the limit. This will balance price improvement with our goal of execution within a week. Use the same guide for sell limit orders. Add two standard deviations to the last VWAP to get the limit sell price which is likely to be executed within a week.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Equity Valuation</title>
-      <link>https://stephenrush.org/courses/portfolio-management/equityvaluation/</link>
+      <link>https://stephenrush.me/courses/portfolio-management/equityvaluation/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/portfolio-management/equityvaluation/</guid>
+      <guid>https://stephenrush.me/courses/portfolio-management/equityvaluation/</guid>
       <description>&lt;h2 id=&#34;relative-valuation&#34;&gt;Relative Valuation&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/9rOeDOuvTUw&#34;&gt;Rush&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/Q3w3IqgC8sY&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
@@ -244,9 +244,9 @@
     
     <item>
       <title>Portfolio Optimization</title>
-      <link>https://stephenrush.org/courses/portfolio-management/portfoliooptimization/</link>
+      <link>https://stephenrush.me/courses/portfolio-management/portfoliooptimization/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/portfolio-management/portfoliooptimization/</guid>
+      <guid>https://stephenrush.me/courses/portfolio-management/portfoliooptimization/</guid>
       <description>&lt;h2 id=&#34;portfolio-optimization-lecture&#34;&gt;Portfolio Optimization Lecture&lt;/h2&gt;
 &lt;p&gt;$r=w^\prime r$ and  $\sigma^2 = w^\prime \Sigma w$&lt;/p&gt;
 &lt;h2 id=&#34;constrained-optimization&#34;&gt;Constrained Optimization&lt;/h2&gt;
@@ -288,9 +288,9 @@
     
     <item>
       <title>Performance Measurement</title>
-      <link>https://stephenrush.org/courses/portfolio-management/performance/</link>
+      <link>https://stephenrush.me/courses/portfolio-management/performance/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/portfolio-management/performance/</guid>
+      <guid>https://stephenrush.me/courses/portfolio-management/performance/</guid>
       <description>&lt;h2 id=&#34;benchmark&#34;&gt;Benchmark&lt;/h2&gt;
 &lt;h2 id=&#34;treynor-measure&#34;&gt;Treynor Measure&lt;/h2&gt;
 &lt;h2 id=&#34;sharpe-ratio--information-ratio&#34;&gt;Sharpe Ratio / Information Ratio&lt;/h2&gt;

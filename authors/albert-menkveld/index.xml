@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Albert Menkveld | Dr. Stephen Rush, CFA</title>
+    <link>https://stephenrush.me/authors/albert-menkveld/</link>
+      <atom:link href="https://stephenrush.me/authors/albert-menkveld/index.xml" rel="self" type="application/rss+xml" />
+    <description>Albert Menkveld</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stephenrush.me/img/icon-192.png</url>
+      <title>Albert Menkveld</title>
+      <link>https://stephenrush.me/authors/albert-menkveld/</link>
+    </image>
+    
+    <item>
+      <title>Non-Standard Errors</title>
+      <link>https://stephenrush.me/publication/preprint/nonstandarderrors/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://stephenrush.me/publication/preprint/nonstandarderrors/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

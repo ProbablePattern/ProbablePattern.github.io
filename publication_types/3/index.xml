@@ -2,61 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Dr. Stephen Rush, CFA</title>
-    <link>https://stephenrush.org/publication_types/3/</link>
-      <atom:link href="https://stephenrush.org/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://stephenrush.me/publication_types/3/</link>
+      <atom:link href="https://stephenrush.me/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sun, 10 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://stephenrush.org/img/icon-192.png</url>
+      <url>https://stephenrush.me/img/icon-192.png</url>
       <title>3</title>
-      <link>https://stephenrush.org/publication_types/3/</link>
+      <link>https://stephenrush.me/publication_types/3/</link>
     </image>
     
     <item>
+      <title>Non-Standard Errors</title>
+      <link>https://stephenrush.me/publication/preprint/nonstandarderrors/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://stephenrush.me/publication/preprint/nonstandarderrors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Conditional Correlation Network Data from the Financial Sector</title>
-      <link>https://stephenrush.org/publication/preprint/networks/</link>
+      <link>https://stephenrush.me/publication/preprint/networks/</link>
       <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/preprint/networks/</guid>
+      <guid>https://stephenrush.me/publication/preprint/networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Asset Pricing and the Merton Model</title>
-      <link>https://stephenrush.org/publication/preprint/merton1/</link>
+      <link>https://stephenrush.me/publication/preprint/merton1/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/preprint/merton1/</guid>
+      <guid>https://stephenrush.me/publication/preprint/merton1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Value Regimes</title>
-      <link>https://stephenrush.org/publication/preprint/valueregimes/</link>
+      <link>https://stephenrush.me/publication/preprint/valueregimes/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/preprint/valueregimes/</guid>
+      <guid>https://stephenrush.me/publication/preprint/valueregimes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pandemic Effects on Robinhood Trading</title>
-      <link>https://stephenrush.org/publication/preprint/robinhoodpandemic/</link>
+      <link>https://stephenrush.me/publication/preprint/robinhoodpandemic/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/preprint/robinhoodpandemic/</guid>
+      <guid>https://stephenrush.me/publication/preprint/robinhoodpandemic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Currency Risk and Information Diffusion</title>
-      <link>https://stephenrush.org/publication/preprint/currencyrisk/</link>
+      <link>https://stephenrush.me/publication/preprint/currencyrisk/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/preprint/currencyrisk/</guid>
+      <guid>https://stephenrush.me/publication/preprint/currencyrisk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identifying and Pricing Adverse Selection Risk with VPIN</title>
-      <link>https://stephenrush.org/publication/preprint/pricingvpin/</link>
+      <link>https://stephenrush.me/publication/preprint/pricingvpin/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/preprint/pricingvpin/</guid>
+      <guid>https://stephenrush.me/publication/preprint/pricingvpin/</guid>
       <description></description>
     </item>
     

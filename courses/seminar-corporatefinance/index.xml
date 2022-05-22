@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Doctoral Seminar in Corporate Finance | Dr. Stephen Rush, CFA</title>
-    <link>https://stephenrush.org/courses/seminar-corporatefinance/</link>
-      <atom:link href="https://stephenrush.org/courses/seminar-corporatefinance/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://stephenrush.me/courses/seminar-corporatefinance/</link>
+      <atom:link href="https://stephenrush.me/courses/seminar-corporatefinance/index.xml" rel="self" type="application/rss+xml" />
     <description>Doctoral Seminar in Corporate Finance</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://stephenrush.org/img/icon-192.png</url>
+      <url>https://stephenrush.me/img/icon-192.png</url>
       <title>Doctoral Seminar in Corporate Finance</title>
-      <link>https://stephenrush.org/courses/seminar-corporatefinance/</link>
+      <link>https://stephenrush.me/courses/seminar-corporatefinance/</link>
     </image>
     
     <item>
       <title>Corporate Methods</title>
-      <link>https://stephenrush.org/courses/seminar-corporatefinance/methods/</link>
+      <link>https://stephenrush.me/courses/seminar-corporatefinance/methods/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/seminar-corporatefinance/methods/</guid>
+      <guid>https://stephenrush.me/courses/seminar-corporatefinance/methods/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Market Efficiency</title>
-      <link>https://stephenrush.org/courses/seminar-corporatefinance/market_efficiency/</link>
+      <link>https://stephenrush.me/courses/seminar-corporatefinance/market_efficiency/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/seminar-corporatefinance/market_efficiency/</guid>
+      <guid>https://stephenrush.me/courses/seminar-corporatefinance/market_efficiency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Market Frictions</title>
-      <link>https://stephenrush.org/courses/seminar-corporatefinance/market_frictions/</link>
+      <link>https://stephenrush.me/courses/seminar-corporatefinance/market_frictions/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/seminar-corporatefinance/market_frictions/</guid>
+      <guid>https://stephenrush.me/courses/seminar-corporatefinance/market_frictions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Behavioral Finance</title>
-      <link>https://stephenrush.org/courses/seminar-corporatefinance/behavioral_finance/</link>
+      <link>https://stephenrush.me/courses/seminar-corporatefinance/behavioral_finance/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/seminar-corporatefinance/behavioral_finance/</guid>
+      <guid>https://stephenrush.me/courses/seminar-corporatefinance/behavioral_finance/</guid>
       <description></description>
     </item>
     
