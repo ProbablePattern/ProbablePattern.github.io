@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Financial Markets and Institutions | Dr. Stephen Rush, CFA</title>
-    <link>https://stephenrush.org/courses/markets-institutions/</link>
-      <atom:link href="https://stephenrush.org/courses/markets-institutions/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://stephenrush.me/courses/markets-institutions/</link>
+      <atom:link href="https://stephenrush.me/courses/markets-institutions/index.xml" rel="self" type="application/rss+xml" />
     <description>Financial Markets and Institutions</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://stephenrush.org/img/icon-192.png</url>
+      <url>https://stephenrush.me/img/icon-192.png</url>
       <title>Financial Markets and Institutions</title>
-      <link>https://stephenrush.org/courses/markets-institutions/</link>
+      <link>https://stephenrush.me/courses/markets-institutions/</link>
     </image>
     
     <item>
       <title>Outline</title>
-      <link>https://stephenrush.org/courses/markets-institutions/outline/</link>
+      <link>https://stephenrush.me/courses/markets-institutions/outline/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/markets-institutions/outline/</guid>
+      <guid>https://stephenrush.me/courses/markets-institutions/outline/</guid>
       <description>&lt;h2 id=&#34;bonds&#34;&gt;Bonds&lt;/h2&gt;
-&lt;p&gt;Overview&lt;br&gt;
-Sovereign Debt&lt;br&gt;
-Municipal Bonds&lt;br&gt;
+&lt;p&gt;Overview &lt;br&gt;
+Sovereign Debt &lt;br&gt;
+Municipal Bonds &lt;br&gt;
 Mortgage Backed Securities&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Agency&lt;/li&gt;
@@ -41,14 +41,14 @@ Mortgage Backed Securities&lt;/p&gt;
 &lt;p&gt;Convexity&lt;/p&gt;
 &lt;h2 id=&#34;interest-rates&#34;&gt;Interest Rates&lt;/h2&gt;
 &lt;h2 id=&#34;the-federal-reserve&#34;&gt;The Federal Reserve&lt;/h2&gt;
-&lt;p&gt;Structure&lt;br&gt;
+&lt;p&gt;Structure &lt;br&gt;
 Policy&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Time Inconsistency&lt;/li&gt;
 &lt;li&gt;Nominal anchor&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Operations&lt;br&gt;
-Open Market Operations&lt;br&gt;
+&lt;p&gt;Operations &lt;br&gt;
+Open Market Operations &lt;br&gt;
 Regulation&lt;/p&gt;
 &lt;h2 id=&#34;institutions&#34;&gt;Institutions&lt;/h2&gt;
 &lt;p&gt;Commercial Banks&lt;/p&gt;
@@ -76,16 +76,16 @@ Regulation&lt;/p&gt;
 &lt;h2 id=&#34;bank-balance-sheet&#34;&gt;Bank Balance Sheet&lt;/h2&gt;
 &lt;h2 id=&#34;loan-performance&#34;&gt;Loan Performance&lt;/h2&gt;
 &lt;h2 id=&#34;gap-analysis&#34;&gt;Gap Analysis&lt;/h2&gt;
-&lt;p&gt;Interest Rate Gap&lt;br&gt;
+&lt;p&gt;Interest Rate Gap &lt;br&gt;
 Duration Gap&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bonds</title>
-      <link>https://stephenrush.org/courses/markets-institutions/bonds/</link>
+      <link>https://stephenrush.me/courses/markets-institutions/bonds/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/markets-institutions/bonds/</guid>
+      <guid>https://stephenrush.me/courses/markets-institutions/bonds/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;h3&gt; Types of Bonds @ Edspira &lt;/h3&gt;
 &lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/Jj0V01Arebk&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -97,9 +97,9 @@ Duration Gap&lt;/p&gt;
     
     <item>
       <title>Duration</title>
-      <link>https://stephenrush.org/courses/markets-institutions/duration/</link>
+      <link>https://stephenrush.me/courses/markets-institutions/duration/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/markets-institutions/duration/</guid>
+      <guid>https://stephenrush.me/courses/markets-institutions/duration/</guid>
       <description>&lt;h3&gt; Macaulay Duration @ Edspira &lt;/h3&gt;
 &lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/F7XnR7sKWiE&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;h3&gt; Modified Duration @ Edspira &lt;/h3&gt;
@@ -108,9 +108,9 @@ Duration Gap&lt;/p&gt;
     
     <item>
       <title>Interest Rates</title>
-      <link>https://stephenrush.org/courses/markets-institutions/interestrates/</link>
+      <link>https://stephenrush.me/courses/markets-institutions/interestrates/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/markets-institutions/interestrates/</guid>
+      <guid>https://stephenrush.me/courses/markets-institutions/interestrates/</guid>
       <description>&lt;h3&gt; What is Yield? @ APM &lt;/h3&gt;
 &lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/ti1LoNcgJ_0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;h3&gt; Yield Curve @ APM &lt;/h3&gt;
@@ -119,9 +119,9 @@ Duration Gap&lt;/p&gt;
     
     <item>
       <title>Institutions</title>
-      <link>https://stephenrush.org/courses/markets-institutions/institutions/</link>
+      <link>https://stephenrush.me/courses/markets-institutions/institutions/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/markets-institutions/institutions/</guid>
+      <guid>https://stephenrush.me/courses/markets-institutions/institutions/</guid>
       <description>&lt;h2 id=&#34;depository-insurance&#34;&gt;Depository Insurance&lt;/h2&gt;
 &lt;h3&gt; FDIC @ APM &lt;/h3&gt;
 &lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/s7Oh64n1XVQ&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -131,9 +131,9 @@ Duration Gap&lt;/p&gt;
     
     <item>
       <title>Swaps</title>
-      <link>https://stephenrush.org/courses/markets-institutions/swaps/</link>
+      <link>https://stephenrush.me/courses/markets-institutions/swaps/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/markets-institutions/swaps/</guid>
+      <guid>https://stephenrush.me/courses/markets-institutions/swaps/</guid>
       <description>&lt;h3&gt; Swaps @ APM &lt;/h3&gt;
 &lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/-aXRZ6xN3bk&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>

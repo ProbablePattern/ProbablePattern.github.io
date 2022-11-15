@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Games | Dr. Stephen Rush, CFA</title>
-    <link>https://stephenrush.org/games/</link>
-      <atom:link href="https://stephenrush.org/games/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://stephenrush.me/games/</link>
+      <atom:link href="https://stephenrush.me/games/index.xml" rel="self" type="application/rss+xml" />
     <description>Games</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://stephenrush.org/img/icon-192.png</url>
+      <url>https://stephenrush.me/img/icon-192.png</url>
       <title>Games</title>
-      <link>https://stephenrush.org/games/</link>
+      <link>https://stephenrush.me/games/</link>
     </image>
     
   </channel>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr. Stephen Rush, CFA</title>
-    <link>https://stephenrush.org/</link>
-      <atom:link href="https://stephenrush.org/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://stephenrush.me/</link>
+      <atom:link href="https://stephenrush.me/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr. Stephen Rush, CFA</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://stephenrush.org/img/icon-192.png</url>
+      <url>https://stephenrush.me/img/icon-192.png</url>
       <title>Dr. Stephen Rush, CFA</title>
-      <link>https://stephenrush.org/</link>
+      <link>https://stephenrush.me/</link>
     </image>
     
     <item>
       <title>Books</title>
-      <link>https://stephenrush.org/library/books/</link>
+      <link>https://stephenrush.me/library/books/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/books/</guid>
+      <guid>https://stephenrush.me/library/books/</guid>
       <description>&lt;h2 id=&#34;ebook-sources&#34;&gt;eBook Sources&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://archive.org/details/texts&#34;&gt;Internet Archive&lt;/a&gt;: aggregation of public repositories&lt;/li&gt;
@@ -72,9 +72,9 @@
     
     <item>
       <title>Business Boot Camp</title>
-      <link>https://stephenrush.org/courses/intro-markets/bootcamp/</link>
+      <link>https://stephenrush.me/courses/intro-markets/bootcamp/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/intro-markets/bootcamp/</guid>
+      <guid>https://stephenrush.me/courses/intro-markets/bootcamp/</guid>
       <description>&lt;h2 id=&#34;introduction-to-business&#34;&gt;Introduction to Business&lt;/h2&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/WEDIj9JBTC8&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;introduction-to-economics&#34;&gt;Introduction to Economics&lt;/h2&gt;
@@ -83,16 +83,16 @@
     
     <item>
       <title>Coding</title>
-      <link>https://stephenrush.org/library/code/</link>
+      <link>https://stephenrush.me/library/code/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/code/</guid>
+      <guid>https://stephenrush.me/library/code/</guid>
       <description>&lt;p&gt;My favorite tool for data analysis is the &lt;a href=&#34;http://www.r-project.org/&#34;&gt;R&lt;/a&gt; programming language because it has a great community, it is free, and it works on Windows, Mac, and Linux. I also highly recommend &lt;a href=&#34;http://www.rstudio.com/&#34;&gt;RStudio&lt;/a&gt; if you&amp;rsquo;re not into using &lt;a href=&#34;http://ess.r-project.org/&#34;&gt;ESS&lt;/a&gt; with &lt;a href=&#34;http://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt;. RStudio is great for academics because it also serves as a &lt;a href=&#34;http://www.latex-project.org/&#34;&gt;LaTeX&lt;/a&gt; editor so you can use one tool for your entire research project soup to nuts. Microsoft offers a paid support option for commercial use but there is a free and open source version.&lt;/p&gt;
 &lt;p&gt;I learned R on my own but I could not have done it without the help of sites like &lt;a href=&#34;http://stackoverflow.com/&#34;&gt;Stack Overflow&lt;/a&gt; and the outstanding R community. Before posting any questions on the web, please attempt to work the problem yourself so that people don&amp;rsquo;t waste their time answering questions that have already been explained. More succinct: &lt;a href=&#34;https://en.wikipedia.org/wiki/RTFM&#34;&gt;RTFM&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Students&lt;/strong&gt;: Download the pdf booklet &lt;a href=&#34;https://drive.google.com/open?id=1SkCbS24pVkJkVzZ2IjcT3E-RIV7WPXMd&#34;&gt;PDQ Finance&lt;/a&gt; and follow the directions to install R and RStudio.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Non-Students&lt;/strong&gt;: For minimal time investment, I suggest following some examples in the &lt;a href=&#34;https://eddelbuettel.github.io/gsir-te/Getting-Started-in-R.pdf&#34;&gt;Getting Started in R&lt;/a&gt; (tinyverse edition) guide by Saghir Bashir and Dirk Eddelbuettel. I also suggest creating a free account at &lt;a href=&#34;https://rstudio.cloud&#34;&gt;RStudio Cloud&lt;/a&gt; to get started without needing to install anything.&lt;/p&gt;
 &lt;h2 id=&#34;installation-and-introduction&#34;&gt;Installation and Introduction&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://stephenrush.org/library/cli/&#34;&gt;Command Line&lt;/a&gt; - some problems are best solved with command line tools rather than a programming language&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stephenrush.me/library/cli/&#34;&gt;Command Line&lt;/a&gt; - some problems are best solved with command line tools rather than a programming language&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://stephenrush.wordpress.com/blog/emacs/&#34;&gt;Emacs and ESS on OS X for Beginners&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://pandas.pydata.org/&#34;&gt;Pandas&lt;/a&gt; - financial data analysis in Python&lt;/li&gt;
 &lt;/ul&gt;
@@ -124,9 +124,9 @@
     
     <item>
       <title>Daily Data</title>
-      <link>https://stephenrush.org/library/data-daily/</link>
+      <link>https://stephenrush.me/library/data-daily/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/data-daily/</guid>
+      <guid>https://stephenrush.me/library/data-daily/</guid>
       <description>&lt;h2 id=&#34;the-sp-500-index&#34;&gt;The S&amp;amp;P 500 Index&lt;/h2&gt;
 &lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qePb&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
 &lt;h2 id=&#34;the-risk-free-rate&#34;&gt;The Risk-Free Rate&lt;/h2&gt;
@@ -144,9 +144,9 @@
     
     <item>
       <title>Monthly Data</title>
-      <link>https://stephenrush.org/library/data-monthly/</link>
+      <link>https://stephenrush.me/library/data-monthly/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/data-monthly/</guid>
+      <guid>https://stephenrush.me/library/data-monthly/</guid>
       <description>&lt;h1 id=&#34;monthly&#34;&gt;Monthly&lt;/h1&gt;
 &lt;h2 id=&#34;unemployment-and-industrial-production&#34;&gt;Unemployment and Industrial Production&lt;/h2&gt;
 &lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qiVd&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
@@ -158,9 +158,9 @@
     
     <item>
       <title>Weekly Data</title>
-      <link>https://stephenrush.org/library/data-weekly/</link>
+      <link>https://stephenrush.me/library/data-weekly/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/data-weekly/</guid>
+      <guid>https://stephenrush.me/library/data-weekly/</guid>
       <description>&lt;h2 id=&#34;advance-unemployment&#34;&gt;Advance Unemployment&lt;/h2&gt;
 &lt;div class=&#34;embed-container&#34;&gt;&lt;iframe src=&#34;https://fred.stlouisfed.org/graph/graph-landing.php?g=qNwm&amp;width=670&amp;height=475&#34; scrolling=&#34;no&#34; frameborder=&#34;0&#34; style=&#34;overflow:hidden;&#34; allowTransparency=&#34;true&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;script src=&#34;https://fred.stlouisfed.org/graph/js/embed.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
 &lt;h2 id=&#34;30yr-fixed-rate-mortgage-and-us-treasury-bond&#34;&gt;30yr Fixed Rate Mortgage and US Treasury Bond&lt;/h2&gt;
@@ -172,9 +172,9 @@
     
     <item>
       <title>Data Sources</title>
-      <link>https://stephenrush.org/library/data/</link>
+      <link>https://stephenrush.me/library/data/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/data/</guid>
+      <guid>https://stephenrush.me/library/data/</guid>
       <description>&lt;p&gt;There are many sources of data available but in my class and in your job, you must use primary sources. This means original data that has as little filtering as possible. This page includes other sources that are of comparable quality and reliability. They are free to access as you move from the university to your career.&lt;/p&gt;
 &lt;h2 id=&#34;macroeconomic-data&#34;&gt;Macroeconomic Data&lt;/h2&gt;
 &lt;ul&gt;
@@ -222,9 +222,9 @@
     
     <item>
       <title>Introduction</title>
-      <link>https://stephenrush.org/courses/managerial-finance/introduction/</link>
+      <link>https://stephenrush.me/courses/managerial-finance/introduction/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/managerial-finance/introduction/</guid>
+      <guid>https://stephenrush.me/courses/managerial-finance/introduction/</guid>
       <description>&lt;h3 id=&#34;financial-markets&#34;&gt;Financial Markets&lt;/h3&gt;
 &lt;h3 id=&#34;the-firm&#34;&gt;The Firm&lt;/h3&gt;
 &lt;h3 id=&#34;the-principle-agent-problem&#34;&gt;The Principle-Agent Problem&lt;/h3&gt;
@@ -241,9 +241,9 @@
     
     <item>
       <title>Media Sources</title>
-      <link>https://stephenrush.org/library/media/</link>
+      <link>https://stephenrush.me/library/media/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/media/</guid>
+      <guid>https://stephenrush.me/library/media/</guid>
       <description>&lt;h2 id=&#34;television-and-video-news&#34;&gt;Television and Video News&lt;/h2&gt;
 &lt;p&gt;In my opinion, news should have as little commentary as possible and focus on matters of importance rather than entertainment value. I also don&amp;rsquo;t think you should pay for a cable package to receive decent news. These sources keep you informed without attempting to elicit an emotional reaction.&lt;/p&gt;
 &lt;ul&gt;
@@ -274,17 +274,17 @@
     
     <item>
       <title>Corporate Methods</title>
-      <link>https://stephenrush.org/courses/seminar-corporatefinance/methods/</link>
+      <link>https://stephenrush.me/courses/seminar-corporatefinance/methods/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/seminar-corporatefinance/methods/</guid>
+      <guid>https://stephenrush.me/courses/seminar-corporatefinance/methods/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Movies</title>
-      <link>https://stephenrush.org/library/movies/</link>
+      <link>https://stephenrush.me/library/movies/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/movies/</guid>
+      <guid>https://stephenrush.me/library/movies/</guid>
       <description>&lt;p&gt;These are movies that are important to finance culture or have some interesting business content. Plenty of other movies take place around finance but have little relevant content.&lt;/p&gt;
 &lt;h2 id=&#34;documentaries&#34;&gt;Documentaries&lt;/h2&gt;
 &lt;ul&gt;
@@ -315,13 +315,13 @@
     
     <item>
       <title>Outline</title>
-      <link>https://stephenrush.org/courses/markets-institutions/outline/</link>
+      <link>https://stephenrush.me/courses/markets-institutions/outline/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/markets-institutions/outline/</guid>
+      <guid>https://stephenrush.me/courses/markets-institutions/outline/</guid>
       <description>&lt;h2 id=&#34;bonds&#34;&gt;Bonds&lt;/h2&gt;
-&lt;p&gt;Overview&lt;br&gt;
-Sovereign Debt&lt;br&gt;
-Municipal Bonds&lt;br&gt;
+&lt;p&gt;Overview &lt;br&gt;
+Sovereign Debt &lt;br&gt;
+Municipal Bonds &lt;br&gt;
 Mortgage Backed Securities&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Agency&lt;/li&gt;
@@ -342,14 +342,14 @@ Mortgage Backed Securities&lt;/p&gt;
 &lt;p&gt;Convexity&lt;/p&gt;
 &lt;h2 id=&#34;interest-rates&#34;&gt;Interest Rates&lt;/h2&gt;
 &lt;h2 id=&#34;the-federal-reserve&#34;&gt;The Federal Reserve&lt;/h2&gt;
-&lt;p&gt;Structure&lt;br&gt;
+&lt;p&gt;Structure &lt;br&gt;
 Policy&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Time Inconsistency&lt;/li&gt;
 &lt;li&gt;Nominal anchor&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Operations&lt;br&gt;
-Open Market Operations&lt;br&gt;
+&lt;p&gt;Operations &lt;br&gt;
+Open Market Operations &lt;br&gt;
 Regulation&lt;/p&gt;
 &lt;h2 id=&#34;institutions&#34;&gt;Institutions&lt;/h2&gt;
 &lt;p&gt;Commercial Banks&lt;/p&gt;
@@ -377,16 +377,16 @@ Regulation&lt;/p&gt;
 &lt;h2 id=&#34;bank-balance-sheet&#34;&gt;Bank Balance Sheet&lt;/h2&gt;
 &lt;h2 id=&#34;loan-performance&#34;&gt;Loan Performance&lt;/h2&gt;
 &lt;h2 id=&#34;gap-analysis&#34;&gt;Gap Analysis&lt;/h2&gt;
-&lt;p&gt;Interest Rate Gap&lt;br&gt;
+&lt;p&gt;Interest Rate Gap &lt;br&gt;
 Duration Gap&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Podcasts</title>
-      <link>https://stephenrush.org/library/podcasts/</link>
+      <link>https://stephenrush.me/library/podcasts/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/podcasts/</guid>
+      <guid>https://stephenrush.me/library/podcasts/</guid>
       <description>&lt;p&gt;These are conversations and news stories that supplement my course content. Most are about 60 minutes long and will play in any web browser.&lt;/p&gt;
 &lt;h2 id=&#34;econtalk-podcasts&#34;&gt;EconTalk Podcasts&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.econtalk.org/&#34;&gt;EconTalk&lt;/a&gt; is a great resource for long-form conversations related to economics. The website often contains additional information for those interested in the weekly episodes. I have listed the episodes that I have found most useful for teaching.&lt;/p&gt;
@@ -395,7 +395,7 @@ Duration Gap&lt;/p&gt;
 &lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2014/05/gavin_andresen.html&#34;&gt;The Present and Future of Bitcoin&lt;/a&gt; (5 May 2014)&lt;br&gt;
 Gavin Andresen: Chief Scientist of the BitCoin Foundation&lt;/li&gt;
 &lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2013/10/calvo_on_the_cr.html&#34;&gt;Calvo on the Crisis, Money, and Macro&lt;/a&gt; (21 October 2013)&lt;/li&gt;
-&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2013/04/admati_on_bank.html&#34;&gt;Admati on Bank Regulation and the Bankers&#39; New Clothes&lt;/a&gt; (8 April 2013)&lt;br&gt;
+&lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2013/04/admati_on_bank.html&#34;&gt;Admati on Bank Regulation and the Bankers&amp;rsquo; New Clothes&lt;/a&gt; (8 April 2013)&lt;br&gt;
 A brief description of how banks work and the incentives that promote the use of debt.&lt;/li&gt;
 &lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2012/03/calomiris_on_ca.html&#34;&gt;Calomiris on Capital Requirements, Leverage, and Financial Regulation&lt;/a&gt; (5 March 2012)&lt;/li&gt;
 &lt;li&gt;EconTalk: &lt;a href=&#34;http://www.econtalk.org/archives/2012/01/fama_on_finance.html&#34;&gt;Fama on Finance&lt;/a&gt; (30 January 2012)&lt;/li&gt;
@@ -441,9 +441,9 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
     
     <item>
       <title>Review</title>
-      <link>https://stephenrush.org/courses/portfolio-management/review/</link>
+      <link>https://stephenrush.me/courses/portfolio-management/review/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/portfolio-management/review/</guid>
+      <guid>https://stephenrush.me/courses/portfolio-management/review/</guid>
       <description>&lt;h2 id=&#34;accounting-review&#34;&gt;Accounting Review&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Video: Additional Paid-in Capital @ &lt;a href=&#34;https://youtu.be/8GSdrqrbp8A&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
@@ -512,9 +512,9 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
     
     <item>
       <title>University-Specific Resources</title>
-      <link>https://stephenrush.org/library/university-resources/</link>
+      <link>https://stephenrush.me/library/university-resources/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/university-resources/</guid>
+      <guid>https://stephenrush.me/library/university-resources/</guid>
       <description>&lt;h2 id=&#34;bowling-green-state-university&#34;&gt;Bowling Green State University&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Bloomberg - only accessible from the terminal in the Finance Trading Lab in Room 2004 of the College of Business. Open the Bloomberg application; not the website.&lt;/li&gt;
@@ -544,23 +544,23 @@ The story of Alan Greenspan, Brooksley Born, and Long Term Capital Management&lt
     
     <item>
       <title>Ethics</title>
-      <link>https://stephenrush.org/courses/intro-markets/ethics/</link>
+      <link>https://stephenrush.me/courses/intro-markets/ethics/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/intro-markets/ethics/</guid>
+      <guid>https://stephenrush.me/courses/intro-markets/ethics/</guid>
       <description>&lt;h2 id=&#34;introduction-video&#34;&gt;Introduction Video&lt;/h2&gt;
 &lt;p&gt;&lt;iframe src=&#34;//players.brightcove.net/1183701590001/S1pWTjxJM_default/index.html?videoId=5748136794001&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h2 id=&#34;video-series&#34;&gt;Video Series&lt;/h2&gt;
-&lt;p&gt;22-part series&lt;br&gt;
-Each video lasts about 15 minutes&lt;br&gt;
+&lt;p&gt;22-part series &lt;br&gt;
+Each video lasts about 15 minutes &lt;br&gt;
 &lt;a href=&#34;https://www.cfainstitute.org/ethics-standards/codes/code-of-ethics-standards-of-professional-conduct-videos&#34;&gt;&lt;a href=&#34;https://www.cfainstitute.org/ethics-standards/codes/code-of-ethics-standards-of-professional-conduct-videos&#34;&gt;https://www.cfainstitute.org/ethics-standards/codes/code-of-ethics-standards-of-professional-conduct-videos&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Investment Policy Statement</title>
-      <link>https://stephenrush.org/courses/portfolio-management/ips/</link>
+      <link>https://stephenrush.me/courses/portfolio-management/ips/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/portfolio-management/ips/</guid>
+      <guid>https://stephenrush.me/courses/portfolio-management/ips/</guid>
       <description>&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
 &lt;h2 id=&#34;absolute-vs-relative-return&#34;&gt;Absolute vs Relative Return&lt;/h2&gt;
 &lt;h2 id=&#34;risk-tolerance&#34;&gt;Risk Tolerance&lt;/h2&gt;
@@ -577,9 +577,9 @@ Each video lasts about 15 minutes&lt;br&gt;
     
     <item>
       <title>Macroeconomic &amp; Industry Analysis</title>
-      <link>https://stephenrush.org/courses/portfolio-management/macro_industry/</link>
+      <link>https://stephenrush.me/courses/portfolio-management/macro_industry/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/portfolio-management/macro_industry/</guid>
+      <guid>https://stephenrush.me/courses/portfolio-management/macro_industry/</guid>
       <description>&lt;h2 id=&#34;macroeconomic-metrics&#34;&gt;Macroeconomic Metrics&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://fred.stlouisfed.org/series/GDP&#34;&gt;Gross Domestric Product (GDP)&lt;/a&gt;
@@ -650,17 +650,17 @@ Each video lasts about 15 minutes&lt;br&gt;
     
     <item>
       <title>Market Efficiency</title>
-      <link>https://stephenrush.org/courses/seminar-corporatefinance/market_efficiency/</link>
+      <link>https://stephenrush.me/courses/seminar-corporatefinance/market_efficiency/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/seminar-corporatefinance/market_efficiency/</guid>
+      <guid>https://stephenrush.me/courses/seminar-corporatefinance/market_efficiency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal Finance</title>
-      <link>https://stephenrush.org/library/personal-finance/</link>
+      <link>https://stephenrush.me/library/personal-finance/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/personal-finance/</guid>
+      <guid>https://stephenrush.me/library/personal-finance/</guid>
       <description>&lt;p&gt;I teach investments, portfolio management, and corporate finance but many people are more interested in personal finance. Here are some thoughts on budgets, using debt, paying off debt, student loans/college, and investing.&lt;/p&gt;
 &lt;h2 id=&#34;budgeting&#34;&gt;Budgeting&lt;/h2&gt;
 &lt;p&gt;Budgeting combines so many personal priorities that one set of guidelines will not work for everyone. I can offer some principles that would benefit most people.&lt;/p&gt;
@@ -698,9 +698,9 @@ Each video lasts about 15 minutes&lt;br&gt;
     
     <item>
       <title>Securities Analysis</title>
-      <link>https://stephenrush.org/library/securities-analysis/</link>
+      <link>https://stephenrush.me/library/securities-analysis/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/securities-analysis/</guid>
+      <guid>https://stephenrush.me/library/securities-analysis/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;I created this page to introduce students to securities analysis. The information provided on this page is not intended to be comprehensive but is intended to provide students with enough information to start learning on their own. There are many perspectives on investment analysis but this page will be limited to fundamental analysis which is best suited to long time horizons. This approach can also be used to evaluate projects in corporate finance.&lt;/p&gt;
 &lt;p&gt;An investment recommendation needs a minimum of three components: a specific security, the price of that security, and a specific time. The first two are self explanatory but the third is a proxy for a particular information set. This means that buying a particular security at a particular price may or may not be a good idea depending on what we know about the state of the world at any given time. (I will discuss this more under the Process section.)&lt;/p&gt;
@@ -740,9 +740,9 @@ Each video lasts about 15 minutes&lt;br&gt;
     
     <item>
       <title>Student Advice</title>
-      <link>https://stephenrush.org/library/advising/</link>
+      <link>https://stephenrush.me/library/advising/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/advising/</guid>
+      <guid>https://stephenrush.me/library/advising/</guid>
       <description>&lt;p&gt;Everyone has constraints on their time, money, and attention. My recommendations represent what I believe a competitive student should do to prepare for a career in finance but everyone has to make trade-offs.&lt;/p&gt;
 &lt;h2 id=&#34;university-selection&#34;&gt;University Selection&lt;/h2&gt;
 &lt;p&gt;The most valuable aspects of a college education are: degree, personal network, learning from peers, and coursework. When considering universities with different tuition rates, consider whether the higher tuition comes with a substantial increase in one of those factors. While there are substantial differences in the marketability of an Ivy League degree relative to a state college degree, most of the differences in outcomes from similar colleges are determined by individual factors.&lt;/p&gt;
@@ -767,15 +767,15 @@ Each video lasts about 15 minutes&lt;br&gt;
 &lt;p&gt;&lt;a href=&#34;https://youtu.be/CVEuPmVAb8o&#34;&gt;&amp;ldquo;Don&amp;rsquo;t Follow Your Passion&amp;rdquo; - Mike Rowe&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Get a hobby. Find something that is not finance that makes you happy. This will help you deal with the times when finance will be boring, frustrating, or too difficult. Talk about your hobby in an interview.&lt;/p&gt;
 &lt;p&gt;The best jobs are usually not around the university and are not advertised at the career center. Be prepared to move and find your own job.
-&lt;img src=&#34;https://stephenrush.org/img/pics/Shark_Mondays.jpg&#34; alt=&#34;Shark&#34; title=&#34;Be the shark&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://stephenrush.me/img/pics/Shark_Mondays.jpg&#34; alt=&#34;Shark&#34; title=&#34;Be the shark&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Time Value of Money</title>
-      <link>https://stephenrush.org/courses/managerial-finance/tvm/</link>
+      <link>https://stephenrush.me/courses/managerial-finance/tvm/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/managerial-finance/tvm/</guid>
+      <guid>https://stephenrush.me/courses/managerial-finance/tvm/</guid>
       <description>&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Utilize the time value of money to analyze financial problems&lt;/li&gt;
@@ -818,9 +818,9 @@ Each video lasts about 15 minutes&lt;br&gt;
     
     <item>
       <title>Capital Budgeting I</title>
-      <link>https://stephenrush.org/courses/managerial-finance/capital_budgeting_i/</link>
+      <link>https://stephenrush.me/courses/managerial-finance/capital_budgeting_i/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/managerial-finance/capital_budgeting_i/</guid>
+      <guid>https://stephenrush.me/courses/managerial-finance/capital_budgeting_i/</guid>
       <description>&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Determine which projects add value to the firm&lt;/li&gt;
@@ -848,9 +848,9 @@ Each video lasts about 15 minutes&lt;br&gt;
     
     <item>
       <title>Command Line Interface</title>
-      <link>https://stephenrush.org/library/cli/</link>
+      <link>https://stephenrush.me/library/cli/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/cli/</guid>
+      <guid>https://stephenrush.me/library/cli/</guid>
       <description>&lt;p&gt;I have become enamored with the idea of minimalist computing. The primary reason is that I like substituting intellectual capital for financial capital or to put it another way, using cheap computers more effectively. My secondary reason is that I have reached a point in my work where the electrical usage and heat production from my research needs to be considered both in terms of monetary costs and environmental impact.&lt;/p&gt;
 &lt;p&gt;The bottom line is that minimal computing allows for the same productivity with older or cheaper machines. When you need cutting edge computation that is expensive and sucks power, either rent from a cloud provider where they can manage the hardware and operate at a more efficient scale than your home or keep your own servers at the most efficient power provider like the office. At a minimum, you can avoid both paying for power and the marginal increase in cooling costs. Second hand servers can be found/purchased/built cheap but are still expensive to operate. Keeping operating costs as low as possible helps you get the biggest bang for your buck.&lt;/p&gt;
 &lt;p&gt;For those interested in moving away from the GUI world, I suggest a gradual shift while continuing to work on the operating system of your choice. If you are on Windows 10, Ubuntu and other Linux distributions are available on the app store via the Windows Subsystem for Linux (WSL). Mac users can install MacPorts to get the standard versions of some command line programs. Eventually you will want to transition to a free open source operating system like Ubuntu Linux but baby steps for now.&lt;/p&gt;
@@ -884,9 +884,9 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Ethics</title>
-      <link>https://stephenrush.org/courses/portfolio-management/ethics/</link>
+      <link>https://stephenrush.me/courses/portfolio-management/ethics/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/portfolio-management/ethics/</guid>
+      <guid>https://stephenrush.me/courses/portfolio-management/ethics/</guid>
       <description>&lt;h3&gt;Introduction Video&lt;/h3&gt;
 &lt;p&gt;&lt;iframe src=&#34;//players.brightcove.net/1183701590001/S1pWTjxJM_default/index.html?videoId=5748136794001&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;22-part Video Series&lt;br /&gt;&lt;a href=&#34;https://www.cfainstitute.org/ethics-standards/codes/code-of-ethics-standards-of-professional-conduct-videos&#34;&gt;https://www.cfainstitute.org/ethics-standards/codes/code-of-ethics-standards-of-professional-conduct-videos&lt;/a&gt;&lt;/p&gt;
@@ -895,34 +895,34 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Market Frictions</title>
-      <link>https://stephenrush.org/courses/seminar-corporatefinance/market_frictions/</link>
+      <link>https://stephenrush.me/courses/seminar-corporatefinance/market_frictions/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/seminar-corporatefinance/market_frictions/</guid>
+      <guid>https://stephenrush.me/courses/seminar-corporatefinance/market_frictions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trade Execution</title>
-      <link>https://stephenrush.org/courses/portfolio-management/trading/</link>
+      <link>https://stephenrush.me/courses/portfolio-management/trading/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/portfolio-management/trading/</guid>
+      <guid>https://stephenrush.me/courses/portfolio-management/trading/</guid>
       <description>&lt;p&gt;We will be using Chebyshev&amp;rsquo;s Theorem to set limits on trades. This is appropriate because financial returns (and prices) are not normally distributed but the distribution is generally assumed to have a mean and standard deviation. Find the volume-weighted average prices (VWAP) from no more than one month in the past. For buys, calculate two standard deviations below the last VWAP price to use as the limit. This will balance price improvement with our goal of execution within a week. Use the same guide for sell limit orders. Add two standard deviations to the last VWAP to get the limit sell price which is likely to be executed within a week.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Behavioral Finance</title>
-      <link>https://stephenrush.org/courses/seminar-corporatefinance/behavioral_finance/</link>
+      <link>https://stephenrush.me/courses/seminar-corporatefinance/behavioral_finance/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/seminar-corporatefinance/behavioral_finance/</guid>
+      <guid>https://stephenrush.me/courses/seminar-corporatefinance/behavioral_finance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Equity Valuation</title>
-      <link>https://stephenrush.org/courses/portfolio-management/equityvaluation/</link>
+      <link>https://stephenrush.me/courses/portfolio-management/equityvaluation/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/portfolio-management/equityvaluation/</guid>
+      <guid>https://stephenrush.me/courses/portfolio-management/equityvaluation/</guid>
       <description>&lt;h2 id=&#34;relative-valuation&#34;&gt;Relative Valuation&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/9rOeDOuvTUw&#34;&gt;Rush&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/Q3w3IqgC8sY&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
@@ -967,9 +967,9 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Bonds and Interest Rates</title>
-      <link>https://stephenrush.org/courses/managerial-finance/interest_rates/</link>
+      <link>https://stephenrush.me/courses/managerial-finance/interest_rates/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/managerial-finance/interest_rates/</guid>
+      <guid>https://stephenrush.me/courses/managerial-finance/interest_rates/</guid>
       <description>&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Understand interest rate risk premia&lt;/li&gt;
@@ -1006,11 +1006,11 @@ irssi: text based IRC client&lt;/p&gt;
 &lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Introduction to the yield curve | Stocks and bonds | Finance &amp;amp; Capital Markets | Khan Academy&#34; src=&#34;https://www.youtube.com/embed/b_cAxh44aNQ?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3&gt; Understanding the Yield Curve &lt;/h3&gt;
 &lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Understanding the yield curve&#34; src=&#34;https://www.youtube.com/embed/I9HWjoryguU?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;The Yield Curve @ Yale in 2009&lt;br&gt;
-00:00 - Defining Yield&lt;br&gt;
-09:07 - Assessing Market Interest Rate from Treasury Bonds&lt;br&gt;
-35:46 - Zero Coupon Bonds and the Principle of Duality&lt;br&gt;
-50:31 - Forward Interest Rate&lt;br&gt;
+&lt;p&gt;The Yield Curve @ Yale in 2009 &lt;br&gt;
+00:00 - Defining Yield &lt;br&gt;
+09:07 - Assessing Market Interest Rate from Treasury Bonds &lt;br&gt;
+35:46 - Zero Coupon Bonds and the Principle of Duality &lt;br&gt;
+50:31 - Forward Interest Rate &lt;br&gt;
 70:05 - Calculating Prices in the Future and Conclusion&lt;/p&gt;
 &lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;9. Yield Curve Arbitrage&#34; src=&#34;https://www.youtube.com/embed/5SHYky2ddp4?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h2 id=&#34;bankruptcy&#34;&gt;Bankruptcy&lt;/h2&gt;
@@ -1030,9 +1030,9 @@ irssi: text based IRC client&lt;/p&gt;
     
     <item>
       <title>Market Microstructure</title>
-      <link>https://stephenrush.org/library/microstructure/</link>
+      <link>https://stephenrush.me/library/microstructure/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/microstructure/</guid>
+      <guid>https://stephenrush.me/library/microstructure/</guid>
       <description>&lt;p&gt;Many of the issues in market microstructure are difficult to address due to the cost and availability of large data sets. Even special academic pricing is usually too expensive for all but the most prominent universities. For these reasons, prior literature is sparse, has small samples, or is not conducted in an unbiased manner. I encourage anyone with access to relevant data to make it available to researchers so policy makers can make data-driven decisions that will improve the quality of markets.&lt;/p&gt;
 &lt;h2 id=&#34;issues-in-microstructure&#34;&gt;Issues in Microstructure&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Order Type Controversy&lt;/em&gt; - Do some exchange or ATS clients have access to order types that other clients do not? Is the reason due to client favoritism or technical sophistication?&lt;/p&gt;
@@ -1103,9 +1103,9 @@ William O&amp;rsquo;Brien, Brad Katsuyama, and Michael Lewis&lt;/li&gt;
     
     <item>
       <title>Portfolio Optimization</title>
-      <link>https://stephenrush.org/courses/portfolio-management/portfoliooptimization/</link>
+      <link>https://stephenrush.me/courses/portfolio-management/portfoliooptimization/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/portfolio-management/portfoliooptimization/</guid>
+      <guid>https://stephenrush.me/courses/portfolio-management/portfoliooptimization/</guid>
       <description>&lt;h2 id=&#34;portfolio-optimization-lecture&#34;&gt;Portfolio Optimization Lecture&lt;/h2&gt;
 &lt;p&gt;$r=w^\prime r$ and  $\sigma^2 = w^\prime \Sigma w$&lt;/p&gt;
 &lt;h2 id=&#34;constrained-optimization&#34;&gt;Constrained Optimization&lt;/h2&gt;
@@ -1147,9 +1147,9 @@ William O&amp;rsquo;Brien, Brad Katsuyama, and Michael Lewis&lt;/li&gt;
     
     <item>
       <title>Risk and Return</title>
-      <link>https://stephenrush.org/courses/managerial-finance/risk_return/</link>
+      <link>https://stephenrush.me/courses/managerial-finance/risk_return/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/managerial-finance/risk_return/</guid>
+      <guid>https://stephenrush.me/courses/managerial-finance/risk_return/</guid>
       <description>&lt;h3 id=&#34;objective&#34;&gt;Objective&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Define and calculate measures of risk and return&lt;/li&gt;
@@ -1174,9 +1174,9 @@ Aswath Damodoran @ NYU
     
     <item>
       <title>Performance Measurement</title>
-      <link>https://stephenrush.org/courses/portfolio-management/performance/</link>
+      <link>https://stephenrush.me/courses/portfolio-management/performance/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/portfolio-management/performance/</guid>
+      <guid>https://stephenrush.me/courses/portfolio-management/performance/</guid>
       <description>&lt;h2 id=&#34;benchmark&#34;&gt;Benchmark&lt;/h2&gt;
 &lt;h2 id=&#34;treynor-measure&#34;&gt;Treynor Measure&lt;/h2&gt;
 &lt;h2 id=&#34;sharpe-ratio--information-ratio&#34;&gt;Sharpe Ratio / Information Ratio&lt;/h2&gt;
@@ -1197,9 +1197,9 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
     
     <item>
       <title>The Capital Asset Pricing Model</title>
-      <link>https://stephenrush.org/courses/managerial-finance/capm/</link>
+      <link>https://stephenrush.me/courses/managerial-finance/capm/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/managerial-finance/capm/</guid>
+      <guid>https://stephenrush.me/courses/managerial-finance/capm/</guid>
       <description>&lt;h3 id=&#34;objective&#34;&gt;Objective&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Explain risk in the CAPM context&lt;/li&gt;
@@ -1238,9 +1238,9 @@ Andrew Lo @ MIT
     
     <item>
       <title>Capital Budgeting II</title>
-      <link>https://stephenrush.org/courses/managerial-finance/capital_budgeting_ii/</link>
+      <link>https://stephenrush.me/courses/managerial-finance/capital_budgeting_ii/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/managerial-finance/capital_budgeting_ii/</guid>
+      <guid>https://stephenrush.me/courses/managerial-finance/capital_budgeting_ii/</guid>
       <description>&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Apply capital budgeting rules to uncertain outcomes&lt;/li&gt;
@@ -1271,9 +1271,9 @@ Andrew Lo @ MIT
     
     <item>
       <title>Financial Statement Analysis</title>
-      <link>https://stephenrush.org/courses/managerial-finance/fsa/</link>
+      <link>https://stephenrush.me/courses/managerial-finance/fsa/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/managerial-finance/fsa/</guid>
+      <guid>https://stephenrush.me/courses/managerial-finance/fsa/</guid>
       <description>&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Understand key financial ratios&lt;/li&gt;
@@ -1337,9 +1337,9 @@ Andrew Lo @ MIT
     
     <item>
       <title>Ratios and Relative Value</title>
-      <link>https://stephenrush.org/courses/managerial-finance/ratios_rv/</link>
+      <link>https://stephenrush.me/courses/managerial-finance/ratios_rv/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/managerial-finance/ratios_rv/</guid>
+      <guid>https://stephenrush.me/courses/managerial-finance/ratios_rv/</guid>
       <description>&lt;h3 id=&#34;objectives&#34;&gt;Objectives&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Calculate the value of equity of a firm or project&lt;/li&gt;
@@ -1363,9 +1363,9 @@ Andrew Lo @ MIT
     
     <item>
       <title>Capital Structure</title>
-      <link>https://stephenrush.org/courses/managerial-finance/capital_structure/</link>
+      <link>https://stephenrush.me/courses/managerial-finance/capital_structure/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/managerial-finance/capital_structure/</guid>
+      <guid>https://stephenrush.me/courses/managerial-finance/capital_structure/</guid>
       <description>&lt;h3 id=&#34;objective&#34;&gt;Objective&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Calculate the impact of capital structure changes on firm value&lt;/li&gt;
@@ -1405,9 +1405,9 @@ Aswath Damodaran @ NYU in 2014
     
     <item>
       <title>Bonds</title>
-      <link>https://stephenrush.org/courses/markets-institutions/bonds/</link>
+      <link>https://stephenrush.me/courses/markets-institutions/bonds/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/markets-institutions/bonds/</guid>
+      <guid>https://stephenrush.me/courses/markets-institutions/bonds/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;h3&gt; Types of Bonds @ Edspira &lt;/h3&gt;
 &lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/Jj0V01Arebk&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -1419,9 +1419,9 @@ Aswath Damodaran @ NYU in 2014
     
     <item>
       <title>Securities Markets</title>
-      <link>https://stephenrush.org/courses/investments/securities_markets/</link>
+      <link>https://stephenrush.me/courses/investments/securities_markets/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/securities_markets/</guid>
+      <guid>https://stephenrush.me/courses/investments/securities_markets/</guid>
       <description>&lt;h2 id=&#34;reading&#34;&gt;Reading&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Chapter 3: Securities Markets&lt;/li&gt;
@@ -1454,13 +1454,13 @@ For those on campus, Bloomberg laptops are available in the Maurer Center. &lt;b
 &lt;h3&gt; Moral Hazard &lt;/h3&gt;
 &lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/5v7TWKlYoN0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;borrowers-and-savers&#34;&gt;Borrowers and Savers&lt;/h2&gt;
-&lt;p&gt;Businesses&lt;br&gt;
-Households&lt;br&gt;
+&lt;p&gt;Businesses &lt;br&gt;
+Households &lt;br&gt;
 Government&lt;/p&gt;
 &lt;h3&gt; Financial Intermediaries &lt;/h3&gt;
 &lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/L-GouzQaAno&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;buying-and-selling-on-margin&#34;&gt;Buying and Selling on Margin&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds/shorting-stock/v/shorting-stock&#34;&gt;Khan Academy&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds/shorting-stock/v/shorting-stock&#34;&gt;Khan Academy&lt;/a&gt; &lt;br&gt;
 &lt;a href=&#34;https://youtu.be/AVXW95MyD54&#34;&gt;Edspira&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt; Long vs Short &lt;/h3&gt;
 &lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;The difference between Long and Short&#34; src=&#34;https://www.youtube.com/embed/J996qjQ0ut8?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
@@ -1480,9 +1480,9 @@ Government&lt;/p&gt;
     
     <item>
       <title>Risk, Returns, and History</title>
-      <link>https://stephenrush.org/courses/investments/risk_returns_history/</link>
+      <link>https://stephenrush.me/courses/investments/risk_returns_history/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/risk_returns_history/</guid>
+      <guid>https://stephenrush.me/courses/investments/risk_returns_history/</guid>
       <description>&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Calculate returns and identify measures of risk.&lt;/li&gt;
@@ -1527,9 +1527,9 @@ John Cochrane @ UChicago
     
     <item>
       <title>Portfolio Theory</title>
-      <link>https://stephenrush.org/courses/investments/portfoliotheory/</link>
+      <link>https://stephenrush.me/courses/investments/portfoliotheory/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/portfoliotheory/</guid>
+      <guid>https://stephenrush.me/courses/investments/portfoliotheory/</guid>
       <description>&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Construct Efficient Portfolios&lt;/li&gt;
@@ -1579,9 +1579,9 @@ John Cochrane @ UChicago
     
     <item>
       <title>CAPM and Factor Models</title>
-      <link>https://stephenrush.org/courses/investments/capm_factors/</link>
+      <link>https://stephenrush.me/courses/investments/capm_factors/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/capm_factors/</guid>
+      <guid>https://stephenrush.me/courses/investments/capm_factors/</guid>
       <description>&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Describe risk and return in an empirical asset pricing setting&lt;/li&gt;
@@ -1644,9 +1644,9 @@ John Cochrane @ UChicago
     
     <item>
       <title>Duration</title>
-      <link>https://stephenrush.org/courses/markets-institutions/duration/</link>
+      <link>https://stephenrush.me/courses/markets-institutions/duration/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/markets-institutions/duration/</guid>
+      <guid>https://stephenrush.me/courses/markets-institutions/duration/</guid>
       <description>&lt;h3&gt; Macaulay Duration @ Edspira &lt;/h3&gt;
 &lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/F7XnR7sKWiE&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;h3&gt; Modified Duration @ Edspira &lt;/h3&gt;
@@ -1655,9 +1655,9 @@ John Cochrane @ UChicago
     
     <item>
       <title>Efficient Markets and Behavioral Finance</title>
-      <link>https://stephenrush.org/courses/investments/emh/</link>
+      <link>https://stephenrush.me/courses/investments/emh/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/emh/</guid>
+      <guid>https://stephenrush.me/courses/investments/emh/</guid>
       <description>&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Describe how risk and return relate to market efficiency&lt;/li&gt;
@@ -1689,7 +1689,7 @@ John Cochrane @ UChicago
 &lt;p&gt;Robert Shiller @ Yale in 2011&lt;/p&gt;
 &lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;11. Behavioral Finance and the Role of Psychology&#34; src=&#34;https://www.youtube.com/embed/chSHqogx2CI?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3&gt; Behavioral Biases &lt;/h3&gt;
-&lt;img src=&#34;https://stephenrush.org/img/pics/Everytime.jpg&#34; align=&#34;right&#34; width=&#34;30%&#34; style=&#34;margin: 0px 10px 0px 0px;&#34;/&gt;
+&lt;img src=&#34;https://stephenrush.me/img/pics/Everytime.jpg&#34; align=&#34;right&#34; width=&#34;30%&#34; style=&#34;margin: 0px 10px 0px 0px;&#34;/&gt;
 &lt;h3&gt; Technical Analysis &lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Market Breadth&lt;/li&gt;
@@ -1707,9 +1707,9 @@ The Stock Market Doesn&#39;t Care How Hard You Try
     
     <item>
       <title>Macroeconomic &amp; Industry Analysis</title>
-      <link>https://stephenrush.org/courses/investments/macro_industry/</link>
+      <link>https://stephenrush.me/courses/investments/macro_industry/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/macro_industry/</guid>
+      <guid>https://stephenrush.me/courses/investments/macro_industry/</guid>
       <description>&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Understand risk in the context of firm performance and industry environment&lt;/li&gt;
@@ -1790,9 +1790,9 @@ The Stock Market Doesn&#39;t Care How Hard You Try
     
     <item>
       <title>Financial Statement Analysis</title>
-      <link>https://stephenrush.org/courses/investments/fsa/</link>
+      <link>https://stephenrush.me/courses/investments/fsa/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/fsa/</guid>
+      <guid>https://stephenrush.me/courses/investments/fsa/</guid>
       <description>&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Evaluate the financial performance of a firm or project&lt;/li&gt;
@@ -1825,9 +1825,9 @@ The Stock Market Doesn&#39;t Care How Hard You Try
     
     <item>
       <title>Equity Valuation</title>
-      <link>https://stephenrush.org/courses/investments/equityvaluation/</link>
+      <link>https://stephenrush.me/courses/investments/equityvaluation/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/equityvaluation/</guid>
+      <guid>https://stephenrush.me/courses/investments/equityvaluation/</guid>
       <description>&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Value the equity of a firm or project&lt;/li&gt;
@@ -1880,9 +1880,9 @@ The Stock Market Doesn&#39;t Care How Hard You Try
     
     <item>
       <title>Options</title>
-      <link>https://stephenrush.org/courses/investments/options/</link>
+      <link>https://stephenrush.me/courses/investments/options/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/options/</guid>
+      <guid>https://stephenrush.me/courses/investments/options/</guid>
       <description>&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Value equity options using the Binomial Option Pricing Model&lt;/li&gt;
@@ -1924,9 +1924,9 @@ The Stock Market Doesn&#39;t Care How Hard You Try
     
     <item>
       <title>Futures and Commodities</title>
-      <link>https://stephenrush.org/courses/investments/futures/</link>
+      <link>https://stephenrush.me/courses/investments/futures/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/investments/futures/</guid>
+      <guid>https://stephenrush.me/courses/investments/futures/</guid>
       <description>&lt;h2 id=&#34;objective&#34;&gt;Objective&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Understand and price futures contracts&lt;/li&gt;
@@ -1954,9 +1954,9 @@ The Stock Market Doesn&#39;t Care How Hard You Try
     
     <item>
       <title>Interest Rates</title>
-      <link>https://stephenrush.org/courses/markets-institutions/interestrates/</link>
+      <link>https://stephenrush.me/courses/markets-institutions/interestrates/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/markets-institutions/interestrates/</guid>
+      <guid>https://stephenrush.me/courses/markets-institutions/interestrates/</guid>
       <description>&lt;h3&gt; What is Yield? @ APM &lt;/h3&gt;
 &lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/ti1LoNcgJ_0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;h3&gt; Yield Curve @ APM &lt;/h3&gt;
@@ -1965,9 +1965,9 @@ The Stock Market Doesn&#39;t Care How Hard You Try
     
     <item>
       <title>Institutions</title>
-      <link>https://stephenrush.org/courses/markets-institutions/institutions/</link>
+      <link>https://stephenrush.me/courses/markets-institutions/institutions/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/markets-institutions/institutions/</guid>
+      <guid>https://stephenrush.me/courses/markets-institutions/institutions/</guid>
       <description>&lt;h2 id=&#34;depository-insurance&#34;&gt;Depository Insurance&lt;/h2&gt;
 &lt;h3&gt; FDIC @ APM &lt;/h3&gt;
 &lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/s7Oh64n1XVQ&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -1977,18 +1977,18 @@ The Stock Market Doesn&#39;t Care How Hard You Try
     
     <item>
       <title>Swaps</title>
-      <link>https://stephenrush.org/courses/markets-institutions/swaps/</link>
+      <link>https://stephenrush.me/courses/markets-institutions/swaps/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/courses/markets-institutions/swaps/</guid>
+      <guid>https://stephenrush.me/courses/markets-institutions/swaps/</guid>
       <description>&lt;h3&gt; Swaps @ APM &lt;/h3&gt;
 &lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/-aXRZ6xN3bk&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
     
     <item>
       <title>Library of Babel</title>
-      <link>https://stephenrush.org/library/babel/</link>
+      <link>https://stephenrush.me/library/babel/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/babel/</guid>
+      <guid>https://stephenrush.me/library/babel/</guid>
       <description>&lt;h2 id=&#34;search-the-library&#34;&gt;Search the Library&lt;/h2&gt;
 &lt;!--&lt;iframe src=&#34;https://libraryofbabel.info/search.html&#34; width=&#34;100%&#34; height=&#34;500&#34;&gt;&lt;/iframe&gt;--&gt;
 &lt;embed type=&#34;text/html&#34; src=&#34;https://libraryofbabel.info/search.html&#34; width=&#34;100%&#34; height=&#34;600&#34;&gt;</description>
@@ -1996,26 +1996,25 @@ The Stock Market Doesn&#39;t Care How Hard You Try
     
     <item>
       <title>Setec Astronomy</title>
-      <link>https://stephenrush.org/library/setec/</link>
+      <link>https://stephenrush.me/library/setec/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/setec/</guid>
+      <guid>https://stephenrush.me/library/setec/</guid>
       <description>&lt;h2 id=&#34;security-tools&#34;&gt;Security Tools&lt;/h2&gt;
 &lt;p&gt;These are some of the great free and open source software tools available particularly for my friends who live in less free societies. Unless you are a cryptographer, I don&amp;rsquo;t recommend the &lt;a href=&#34;https://en.wikipedia.org/wiki/Security_through_obscurity&#34;&gt;Security through Obscurity&lt;/a&gt; strategy. Also, consider some of the tools recommended by the Electronic Frontier Foundation (EFF) &lt;a href=&#34;https://ssd.eff.org/&#34;&gt;Surveillance Self-Defense&lt;/a&gt;.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://duckduckgo.com/&#34;&gt;DuckDuckGo&lt;/a&gt; - web search without tracking&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.opengarden.com/firechat/&#34;&gt;FireChat&lt;/a&gt; - decentralized chat for high density events&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.gnupg.org/&#34;&gt;GNU Privacy Guard&lt;/a&gt; (GPG) - open source version of PGP&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://keybase.io/&#34;&gt;Keybase&lt;/a&gt; - site that links social media identities with an encryption key&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://pgp.mit.edu/&#34;&gt;Keyserver&lt;/a&gt; - MIT&amp;rsquo;s PGP keyserver (one of many available)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.mailvelope.com/&#34;&gt;Mailvelope&lt;/a&gt; - browser extension for PGP use in webmail&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://mega.co.nz&#34;&gt;Mega&lt;/a&gt; - encrypted cloud storage&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://openvpn.net&#34;&gt;OpenVPN&lt;/a&gt; - run your own VPN on Windows, OS X, or Linux&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://whispersystems.org/&#34;&gt;Signal Private Messenger&lt;/a&gt; - encrypted SMS, MMS, and voice by Open Whisper Systems for iOS and Android&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://whispersystems.org/&#34;&gt;Signal Private Messenger&lt;/a&gt; - US-based encrypted SMS, MMS, and voice&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://syncthing.net/&#34;&gt;Syncthing&lt;/a&gt; - synchronized storage without disk limits using BitTorrent technology&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.telegram.org/&#34;&gt;Telegram&lt;/a&gt; - This is not secure but many people still use it for the convenience&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://termux.com&#34;&gt;Termux&lt;/a&gt; - terminal for Android devices&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://threema.ch/en/home&#34;&gt;Threema&lt;/a&gt; - Swiss-based encrypted SMS and voice&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.torproject.org/&#34;&gt;The TOR Project&lt;/a&gt; - a more private method of accessing the Internet&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.mywickr.com&#34;&gt;Wickr&lt;/a&gt; - encrypted messaging for iOS, Android, Windows, OS X, and Linux&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mywickr.com&#34;&gt;Wickr&lt;/a&gt; - encrypted messaging for iOS, Android, Windows, OS X, and Linux with US government support&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;productivity&#34;&gt;Productivity&lt;/h2&gt;
 &lt;p&gt;For those that just want to work with free and open source software, check out these alternatives to common applications. They are also useful for living a first world lifestyle on a third world salary.&lt;/p&gt;
@@ -2045,9 +2044,9 @@ The Stock Market Doesn&#39;t Care How Hard You Try
     
     <item>
       <title>Music</title>
-      <link>https://stephenrush.org/library/music/</link>
+      <link>https://stephenrush.me/library/music/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://stephenrush.org/library/music/</guid>
+      <guid>https://stephenrush.me/library/music/</guid>
       <description>&lt;p&gt;This page is mostly for friends and family that have taken an interest in my compositions and arrangements.&lt;/p&gt;
 &lt;h2 id=&#34;psalm&#34;&gt;Psalm&lt;/h2&gt;
 &lt;p&gt;This is the chorus of a piece I envisioned as a psalm but never got around to writing the lyrics. It is a simple solo piano arrangement with an unusual chord progression. These are characteristics I found lacking in modern liturgical music.&lt;/p&gt;
@@ -2065,209 +2064,217 @@ The Stock Market Doesn&#39;t Care How Hard You Try
     
     <item>
       <title>Information Networks in the Financial Sector and Systemic Risk</title>
-      <link>https://stephenrush.org/publication/journal-article/networkfinancial/</link>
+      <link>https://stephenrush.me/publication/journal-article/networkfinancial/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/journal-article/networkfinancial/</guid>
+      <guid>https://stephenrush.me/publication/journal-article/networkfinancial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Standard Errors</title>
+      <link>https://stephenrush.me/publication/preprint/nonstandarderrors/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://stephenrush.me/publication/preprint/nonstandarderrors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conditional Correlation Network Data from the Financial Sector</title>
-      <link>https://stephenrush.org/publication/preprint/networks/</link>
+      <link>https://stephenrush.me/publication/preprint/networks/</link>
       <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/preprint/networks/</guid>
+      <guid>https://stephenrush.me/publication/preprint/networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Asset Pricing and the Merton Model</title>
-      <link>https://stephenrush.org/publication/preprint/merton1/</link>
+      <link>https://stephenrush.me/publication/preprint/merton1/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/preprint/merton1/</guid>
+      <guid>https://stephenrush.me/publication/preprint/merton1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Value Regimes</title>
-      <link>https://stephenrush.org/publication/preprint/valueregimes/</link>
+      <link>https://stephenrush.me/publication/preprint/valueregimes/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/preprint/valueregimes/</guid>
+      <guid>https://stephenrush.me/publication/preprint/valueregimes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pandemic Effects on Robinhood Trading</title>
-      <link>https://stephenrush.org/publication/preprint/robinhoodpandemic/</link>
+      <link>https://stephenrush.me/publication/preprint/robinhoodpandemic/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/preprint/robinhoodpandemic/</guid>
+      <guid>https://stephenrush.me/publication/preprint/robinhoodpandemic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information Diffusion in Korean Equity Markets</title>
-      <link>https://stephenrush.org/talk/20200605-rfin/</link>
+      <link>https://stephenrush.me/talk/20200605-rfin/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20200605-rfin/</guid>
+      <guid>https://stephenrush.me/talk/20200605-rfin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring Information Asymmetry in Event Time</title>
-      <link>https://stephenrush.org/talk/20200214-ut/</link>
+      <link>https://stephenrush.me/talk/20200214-ut/</link>
       <pubDate>Fri, 14 Feb 2020 16:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20200214-ut/</guid>
+      <guid>https://stephenrush.me/talk/20200214-ut/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Currency Risk and Information Diffusion</title>
-      <link>https://stephenrush.org/publication/preprint/currencyrisk/</link>
+      <link>https://stephenrush.me/publication/preprint/currencyrisk/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/preprint/currencyrisk/</guid>
+      <guid>https://stephenrush.me/publication/preprint/currencyrisk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identifying and Pricing Adverse Selection Risk with VPIN</title>
-      <link>https://stephenrush.org/publication/preprint/pricingvpin/</link>
+      <link>https://stephenrush.me/publication/preprint/pricingvpin/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/preprint/pricingvpin/</guid>
+      <guid>https://stephenrush.me/publication/preprint/pricingvpin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Network Analysis of Information Diffusion in the Financial Sector</title>
-      <link>https://stephenrush.org/talk/20191025-fma/</link>
+      <link>https://stephenrush.me/talk/20191025-fma/</link>
       <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20191025-fma/</guid>
+      <guid>https://stephenrush.me/talk/20191025-fma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The U.S. - China Trade Relationship</title>
-      <link>https://stephenrush.org/talk/20190606-shandong/</link>
+      <link>https://stephenrush.me/talk/20190606-shandong/</link>
       <pubDate>Thu, 06 Jun 2019 14:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20190606-shandong/</guid>
+      <guid>https://stephenrush.me/talk/20190606-shandong/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Currency Risk and Information Diffusion</title>
-      <link>https://stephenrush.org/talk/20180602-rfin/</link>
+      <link>https://stephenrush.me/talk/20180602-rfin/</link>
       <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20180602-rfin/</guid>
+      <guid>https://stephenrush.me/talk/20180602-rfin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Bond Coupon’s Impact on Liquidity</title>
-      <link>https://stephenrush.org/publication/journal-article/bonds/</link>
+      <link>https://stephenrush.me/publication/journal-article/bonds/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/journal-article/bonds/</guid>
+      <guid>https://stephenrush.me/publication/journal-article/bonds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VPIN and Market Microstructure</title>
-      <link>https://stephenrush.org/talk/20180131-bgsu/</link>
+      <link>https://stephenrush.me/talk/20180131-bgsu/</link>
       <pubDate>Wed, 31 Jan 2018 11:30:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20180131-bgsu/</guid>
+      <guid>https://stephenrush.me/talk/20180131-bgsu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Empiral Asset Pricing</title>
-      <link>https://stephenrush.org/talk/20171222-tdtu/</link>
+      <link>https://stephenrush.me/talk/20171222-tdtu/</link>
       <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20171222-tdtu/</guid>
+      <guid>https://stephenrush.me/talk/20171222-tdtu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adverse Selection and Broker Execution</title>
-      <link>https://stephenrush.org/talk/20170519-rfin/</link>
+      <link>https://stephenrush.me/talk/20170519-rfin/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20170519-rfin/</guid>
+      <guid>https://stephenrush.me/talk/20170519-rfin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identifying and Pricing Adverse Selection Risk with VPIN</title>
-      <link>https://stephenrush.org/talk/20160408-efa/</link>
+      <link>https://stephenrush.me/talk/20160408-efa/</link>
       <pubDate>Fri, 08 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20160408-efa/</guid>
+      <guid>https://stephenrush.me/talk/20160408-efa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identifying and Pricing Adverse Selection Risk with VPIN</title>
-      <link>https://stephenrush.org/talk/20151204-morganstate/</link>
+      <link>https://stephenrush.me/talk/20151204-morganstate/</link>
       <pubDate>Fri, 04 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20151204-morganstate/</guid>
+      <guid>https://stephenrush.me/talk/20151204-morganstate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identifying and Pricing Adverse Selection Risk with VPIN</title>
-      <link>https://stephenrush.org/talk/20151113-beruit/</link>
+      <link>https://stephenrush.me/talk/20151113-beruit/</link>
       <pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20151113-beruit/</guid>
+      <guid>https://stephenrush.me/talk/20151113-beruit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Bond Coupon’s Impact on Liquidity</title>
-      <link>https://stephenrush.org/talk/20190604-vicif/</link>
+      <link>https://stephenrush.me/talk/20190604-vicif/</link>
       <pubDate>Thu, 04 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20190604-vicif/</guid>
+      <guid>https://stephenrush.me/talk/20190604-vicif/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information Diffusion in Equity Markets</title>
-      <link>https://stephenrush.org/talk/20150529-rfin/</link>
+      <link>https://stephenrush.me/talk/20150529-rfin/</link>
       <pubDate>Fri, 29 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20150529-rfin/</guid>
+      <guid>https://stephenrush.me/talk/20150529-rfin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Twenty Years of VPIN</title>
-      <link>https://stephenrush.org/talk/20140517-rfin/</link>
+      <link>https://stephenrush.me/talk/20140517-rfin/</link>
       <pubDate>Sat, 17 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20140517-rfin/</guid>
+      <guid>https://stephenrush.me/talk/20140517-rfin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Bond Coupon&#39;s Impact on Liquidity</title>
-      <link>https://stephenrush.org/talk/20130518-rfin/</link>
+      <link>https://stephenrush.me/talk/20130518-rfin/</link>
       <pubDate>Sat, 18 May 2013 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20130518-rfin/</guid>
+      <guid>https://stephenrush.me/talk/20130518-rfin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Relative Return Momentum in Asset Allocation</title>
-      <link>https://stephenrush.org/talk/20120511-rfin/</link>
+      <link>https://stephenrush.me/talk/20120511-rfin/</link>
       <pubDate>Fri, 11 May 2012 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20120511-rfin/</guid>
+      <guid>https://stephenrush.me/talk/20120511-rfin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tactical asset allocation for US pension investors: How tactical should the plan be?</title>
-      <link>https://stephenrush.org/publication/journal-article/taa/</link>
+      <link>https://stephenrush.me/publication/journal-article/taa/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/journal-article/taa/</guid>
+      <guid>https://stephenrush.me/publication/journal-article/taa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can Increased Trade Prevent Conflict with China?</title>
-      <link>https://stephenrush.org/publication/journal-article/chinatrade/</link>
+      <link>https://stephenrush.me/publication/journal-article/chinatrade/</link>
       <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/journal-article/chinatrade/</guid>
+      <guid>https://stephenrush.me/publication/journal-article/chinatrade/</guid>
       <description></description>
     </item>
     

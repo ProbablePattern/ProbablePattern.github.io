@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VPIN | Dr. Stephen Rush, CFA</title>
-    <link>https://stephenrush.org/tags/vpin/</link>
-      <atom:link href="https://stephenrush.org/tags/vpin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://stephenrush.me/tags/vpin/</link>
+      <atom:link href="https://stephenrush.me/tags/vpin/index.xml" rel="self" type="application/rss+xml" />
     <description>VPIN</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://stephenrush.org/img/icon-192.png</url>
+      <url>https://stephenrush.me/img/icon-192.png</url>
       <title>VPIN</title>
-      <link>https://stephenrush.org/tags/vpin/</link>
+      <link>https://stephenrush.me/tags/vpin/</link>
     </image>
     
     <item>
       <title>Information Networks in the Financial Sector and Systemic Risk</title>
-      <link>https://stephenrush.org/publication/journal-article/networkfinancial/</link>
+      <link>https://stephenrush.me/publication/journal-article/networkfinancial/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/journal-article/networkfinancial/</guid>
+      <guid>https://stephenrush.me/publication/journal-article/networkfinancial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conditional Correlation Network Data from the Financial Sector</title>
-      <link>https://stephenrush.org/publication/preprint/networks/</link>
+      <link>https://stephenrush.me/publication/preprint/networks/</link>
       <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/preprint/networks/</guid>
+      <guid>https://stephenrush.me/publication/preprint/networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Currency Risk and Information Diffusion</title>
-      <link>https://stephenrush.org/publication/preprint/currencyrisk/</link>
+      <link>https://stephenrush.me/publication/preprint/currencyrisk/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/preprint/currencyrisk/</guid>
+      <guid>https://stephenrush.me/publication/preprint/currencyrisk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identifying and Pricing Adverse Selection Risk with VPIN</title>
-      <link>https://stephenrush.org/publication/preprint/pricingvpin/</link>
+      <link>https://stephenrush.me/publication/preprint/pricingvpin/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/publication/preprint/pricingvpin/</guid>
+      <guid>https://stephenrush.me/publication/preprint/pricingvpin/</guid>
       <description></description>
     </item>
     

@@ -2,141 +2,141 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Dr. Stephen Rush, CFA</title>
-    <link>https://stephenrush.org/talk/</link>
-      <atom:link href="https://stephenrush.org/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://stephenrush.me/talk/</link>
+      <atom:link href="https://stephenrush.me/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://stephenrush.org/img/icon-192.png</url>
+      <url>https://stephenrush.me/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://stephenrush.org/talk/</link>
+      <link>https://stephenrush.me/talk/</link>
     </image>
     
     <item>
       <title>Information Diffusion in Korean Equity Markets</title>
-      <link>https://stephenrush.org/talk/20200605-rfin/</link>
+      <link>https://stephenrush.me/talk/20200605-rfin/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20200605-rfin/</guid>
+      <guid>https://stephenrush.me/talk/20200605-rfin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring Information Asymmetry in Event Time</title>
-      <link>https://stephenrush.org/talk/20200214-ut/</link>
+      <link>https://stephenrush.me/talk/20200214-ut/</link>
       <pubDate>Fri, 14 Feb 2020 16:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20200214-ut/</guid>
+      <guid>https://stephenrush.me/talk/20200214-ut/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Network Analysis of Information Diffusion in the Financial Sector</title>
-      <link>https://stephenrush.org/talk/20191025-fma/</link>
+      <link>https://stephenrush.me/talk/20191025-fma/</link>
       <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20191025-fma/</guid>
+      <guid>https://stephenrush.me/talk/20191025-fma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The U.S. - China Trade Relationship</title>
-      <link>https://stephenrush.org/talk/20190606-shandong/</link>
+      <link>https://stephenrush.me/talk/20190606-shandong/</link>
       <pubDate>Thu, 06 Jun 2019 14:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20190606-shandong/</guid>
+      <guid>https://stephenrush.me/talk/20190606-shandong/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Currency Risk and Information Diffusion</title>
-      <link>https://stephenrush.org/talk/20180602-rfin/</link>
+      <link>https://stephenrush.me/talk/20180602-rfin/</link>
       <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20180602-rfin/</guid>
+      <guid>https://stephenrush.me/talk/20180602-rfin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VPIN and Market Microstructure</title>
-      <link>https://stephenrush.org/talk/20180131-bgsu/</link>
+      <link>https://stephenrush.me/talk/20180131-bgsu/</link>
       <pubDate>Wed, 31 Jan 2018 11:30:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20180131-bgsu/</guid>
+      <guid>https://stephenrush.me/talk/20180131-bgsu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Empiral Asset Pricing</title>
-      <link>https://stephenrush.org/talk/20171222-tdtu/</link>
+      <link>https://stephenrush.me/talk/20171222-tdtu/</link>
       <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20171222-tdtu/</guid>
+      <guid>https://stephenrush.me/talk/20171222-tdtu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adverse Selection and Broker Execution</title>
-      <link>https://stephenrush.org/talk/20170519-rfin/</link>
+      <link>https://stephenrush.me/talk/20170519-rfin/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20170519-rfin/</guid>
+      <guid>https://stephenrush.me/talk/20170519-rfin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identifying and Pricing Adverse Selection Risk with VPIN</title>
-      <link>https://stephenrush.org/talk/20160408-efa/</link>
+      <link>https://stephenrush.me/talk/20160408-efa/</link>
       <pubDate>Fri, 08 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20160408-efa/</guid>
+      <guid>https://stephenrush.me/talk/20160408-efa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identifying and Pricing Adverse Selection Risk with VPIN</title>
-      <link>https://stephenrush.org/talk/20151204-morganstate/</link>
+      <link>https://stephenrush.me/talk/20151204-morganstate/</link>
       <pubDate>Fri, 04 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20151204-morganstate/</guid>
+      <guid>https://stephenrush.me/talk/20151204-morganstate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identifying and Pricing Adverse Selection Risk with VPIN</title>
-      <link>https://stephenrush.org/talk/20151113-beruit/</link>
+      <link>https://stephenrush.me/talk/20151113-beruit/</link>
       <pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20151113-beruit/</guid>
+      <guid>https://stephenrush.me/talk/20151113-beruit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Bond Coupon’s Impact on Liquidity</title>
-      <link>https://stephenrush.org/talk/20190604-vicif/</link>
+      <link>https://stephenrush.me/talk/20190604-vicif/</link>
       <pubDate>Thu, 04 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20190604-vicif/</guid>
+      <guid>https://stephenrush.me/talk/20190604-vicif/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information Diffusion in Equity Markets</title>
-      <link>https://stephenrush.org/talk/20150529-rfin/</link>
+      <link>https://stephenrush.me/talk/20150529-rfin/</link>
       <pubDate>Fri, 29 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20150529-rfin/</guid>
+      <guid>https://stephenrush.me/talk/20150529-rfin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Twenty Years of VPIN</title>
-      <link>https://stephenrush.org/talk/20140517-rfin/</link>
+      <link>https://stephenrush.me/talk/20140517-rfin/</link>
       <pubDate>Sat, 17 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20140517-rfin/</guid>
+      <guid>https://stephenrush.me/talk/20140517-rfin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Bond Coupon&#39;s Impact on Liquidity</title>
-      <link>https://stephenrush.org/talk/20130518-rfin/</link>
+      <link>https://stephenrush.me/talk/20130518-rfin/</link>
       <pubDate>Sat, 18 May 2013 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20130518-rfin/</guid>
+      <guid>https://stephenrush.me/talk/20130518-rfin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Relative Return Momentum in Asset Allocation</title>
-      <link>https://stephenrush.org/talk/20120511-rfin/</link>
+      <link>https://stephenrush.me/talk/20120511-rfin/</link>
       <pubDate>Fri, 11 May 2012 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.org/talk/20120511-rfin/</guid>
+      <guid>https://stephenrush.me/talk/20120511-rfin/</guid>
       <description></description>
     </item>
     
