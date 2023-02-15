@@ -5,7 +5,7 @@
     <link>https://stephenrush.me/tags/market-microstructure/</link>
       <atom:link href="https://stephenrush.me/tags/market-microstructure/index.xml" rel="self" type="application/rss+xml" />
     <description>Market Microstructure</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://stephenrush.me/img/icon-192.png</url>
       <title>Market Microstructure</title>
@@ -13,26 +13,18 @@
     </image>
     
     <item>
+      <title>Conditional Correlation Network Data from the Financial Sector</title>
+      <link>https://stephenrush.me/publication/journal-article/networks/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://stephenrush.me/publication/journal-article/networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Information Networks in the Financial Sector and Systemic Risk</title>
       <link>https://stephenrush.me/publication/journal-article/networkfinancial/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://stephenrush.me/publication/journal-article/networkfinancial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Non-Standard Errors</title>
-      <link>https://stephenrush.me/publication/preprint/nonstandarderrors/</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.me/publication/preprint/nonstandarderrors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conditional Correlation Network Data from the Financial Sector</title>
-      <link>https://stephenrush.me/publication/preprint/networks/</link>
-      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://stephenrush.me/publication/preprint/networks/</guid>
       <description></description>
     </item>
     

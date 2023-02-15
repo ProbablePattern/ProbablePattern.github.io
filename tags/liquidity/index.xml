@@ -5,12 +5,20 @@
     <link>https://stephenrush.me/tags/liquidity/</link>
       <atom:link href="https://stephenrush.me/tags/liquidity/index.xml" rel="self" type="application/rss+xml" />
     <description>Liquidity</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023</copyright><lastBuildDate>Tue, 14 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://stephenrush.me/img/icon-192.png</url>
       <title>Liquidity</title>
       <link>https://stephenrush.me/tags/liquidity/</link>
     </image>
+    
+    <item>
+      <title>Non-Standard Errors</title>
+      <link>https://stephenrush.me/publication/journal-article/nonstandarderrors/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://stephenrush.me/publication/journal-article/nonstandarderrors/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Bond Coupon’s Impact on Liquidity</title>
