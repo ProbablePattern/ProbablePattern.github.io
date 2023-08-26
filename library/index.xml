@@ -185,7 +185,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.cboe.com/MktQuote/default.aspx&#34;&gt;Chicago Board Options Exchange&lt;/a&gt; (CBOE)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.cmegroup.com/&#34;&gt;Chicago Mercantile Exchange&lt;/a&gt; (CME) – delayed quotes on commodities&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html&#34;&gt;CME FedWatch Tool&lt;/a&gt; - probability of FOMC rates changes&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html&#34;&gt;CME FedWatch Tool&lt;/a&gt; - market-implied probability of FOMC rate changes&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.federalreserve.gov/releases/H10/hist/&#34;&gt;Federal Reserve Foreign Exchange Rates&lt;/a&gt; - daily FX for major currencies&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://finra-markets.morningstar.com/MarketData&#34;&gt;FINRA Market Data&lt;/a&gt; – hosted by Morningstar (&lt;a href=&#34;https://youtu.be/NKBOLl0Fjxg&#34;&gt;Video&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.quandl.com/&#34;&gt;Quandl&lt;/a&gt; - platform for distributing free and proprietary data sets&lt;/li&gt;
