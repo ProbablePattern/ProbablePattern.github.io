@@ -1545,9 +1545,11 @@ John Cochrane @ UChicago
 &lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Efficient vs Inefficient Portfolios&#34; src=&#34;https://www.youtube.com/embed/oAvx-l053Tk?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h2 id=&#34;portfolio-optimization&#34;&gt;Portfolio Optimization&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Example: Portfolio Optimization in Excel &lt;a href=&#34;https://youtu.be/PgVlgyR7x3M&#34;&gt;(Beginner)&lt;/a&gt; (Intermediate)&lt;/li&gt;
+&lt;li&gt;Example: &lt;a href=&#34;https://youtu.be/PCiqHFIQzpY&#34;&gt;Data Preparation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Example: &lt;a href=&#34;https://youtu.be/_bJuBe6TQKQ&#34;&gt;Covariance Matrix&lt;/a&gt; in Excel&lt;/li&gt;
+&lt;li&gt;Example: Portfolio Optimization in Excel &lt;a href=&#34;https://youtu.be/yBHFgO4zwSc&#34;&gt;(Beginner)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Example: Portfolio Optimization in R (Intermediate) (Advanced)&lt;/li&gt;
-&lt;li&gt;Example: &lt;a href=&#34;https://youtu.be/uBs_DsWzspk&#34;&gt;Graph the Efficient Frontier in Excel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Example: &lt;a href=&#34;https://youtu.be/UK8PIiVr0v4&#34;&gt;Graph the Efficient Frontier in Excel using Random Portfolios&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;linear-algebra-review&#34;&gt;Linear Algebra Review&lt;/h2&gt;
 &lt;h3&gt;Intro to Matrices @ Khan Academy&lt;/h3&gt;
@@ -1835,7 +1837,7 @@ The Stock Market Doesn&#39;t Care How Hard You Try
 &lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/Q3w3IqgC8sY&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Video Example by Dr. Rush&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/L5A5DuTsnJg&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe title=&#34;YouTube video player&#34; src=&#34;https://www.youtube.com/embed/D8e-_o1oM_U?si=ctg_dSI43CHgQANB&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h2 id=&#34;the-dividend-discount-model&#34;&gt;The Dividend Discount Model&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Guest Video: &lt;a href=&#34;https://youtu.be/TlH3_iOHX3s&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
