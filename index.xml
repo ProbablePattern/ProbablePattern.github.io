@@ -912,7 +912,7 @@ irssi: text based IRC client&lt;/p&gt;
       <guid>https://stephenrush.me/courses/portfolio-management/equityvaluation/</guid>
       <description>&lt;h2 id=&#34;relative-valuation&#34;&gt;Relative Valuation&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/9rOeDOuvTUw&#34;&gt;Rush&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/Q3w3IqgC8sY&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video: &lt;a href=&#34;https://youtu.be/D8e-_o1oM_U&#34;&gt;Rush&lt;/a&gt; | &lt;a href=&#34;https://youtu.be/Q3w3IqgC8sY&#34;&gt;Edspira&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Aswath Damodaran @ NYU in 2014&lt;/li&gt;
 &lt;/ul&gt;
 &lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/WDZwqSierZ4&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -1202,6 +1202,12 @@ Example on &lt;a href=&#34;https://github.com/ProbablePattern/Teaching/blob/mast
 &lt;li&gt;Estimate Beta&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr /&gt;
+&lt;h3 id=&#34;getting-data&#34;&gt;Getting Data&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Example: &lt;a href=&#34;https://youtu.be/gA_cNrHm_rI&#34;&gt;Stock Returns from FINRA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Example: &lt;a href=&#34;https://youtu.be/yRSjSnVSSwo&#34;&gt;Stock Returns from Bloomberg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Example: &lt;a href=&#34;https://youtu.be/PCiqHFIQzpY&#34;&gt;Data Preparation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3&gt;CAPM Introduction @ Edspira&lt;/h3&gt;
 &lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Capital Asset Pricing Model&#34; src=&#34;https://www.youtube.com/embed/fDz_DgDJD5g?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3&gt;Systematic vs Idiosyncratic Risk @ Edspira&lt;/h3&gt;
@@ -1276,8 +1282,10 @@ Andrew Lo @ MIT
 &lt;/ul&gt;
 &lt;hr /&gt;
 &lt;h2 id=&#34;financial-statements-and-cash-flows&#34;&gt;Financial Statements and Cash Flows&lt;/h2&gt;
+&lt;h3&gt; Accessing Financial Statements of Public Companies &lt;/h3&gt;
+&lt;p&gt;&lt;iframe title=&#34;YouTube video player&#34; src=&#34;https://www.youtube.com/embed/mW5pdx1ypEs?si=EozGE9PDPPrP5Gpf&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3&gt; Common Size Financial Statements &lt;/h3&gt;
-&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/i9TSWb1gxl4&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/i9TSWb1gxl4&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3&gt;Cash Flows and Financial Statements&lt;/h3&gt;
 &lt;p&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/k7qCl7axx2E&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3&gt; DuPont Analysis &lt;/h3&gt;
@@ -1536,15 +1544,17 @@ John Cochrane @ UChicago
 &lt;p&gt;Andrew Lo @ MIT in 2008&lt;/p&gt;
 &lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Ses 14: Portfolio Theory II&#34; src=&#34;https://www.youtube.com/embed/J7d3vcaS9-o?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Portfolio Theory: Robert Shiller @ &lt;a href=&#34;https://youtu.be/_B_24GUWdSM&#34;&gt;Yale&lt;/a&gt; in 2011&lt;/li&gt;
-&lt;li&gt;Portfolio Theory: CAPM, &amp;amp; APT: Andrew Lo @ &lt;a href=&#34;https://youtu.be/z2oQe6B1Qa4&#34;&gt;MIT&lt;/a&gt; in 2008&lt;/li&gt;
-&lt;li&gt;Portfolio Management: Jake Xia @ &lt;a href=&#34;https://youtu.be/8TJQhQ2GZ0Y&#34;&gt;MIT&lt;/a&gt; in 2013&lt;/li&gt;
-&lt;li&gt;Portfolio Theory: Peter Kempthorne @ &lt;a href=&#34;https://youtu.be/ywl3pq6yc54&#34;&gt;MIT&lt;/a&gt; in 2013&lt;/li&gt;
+&lt;li&gt;Portfolio Theory: &lt;a href=&#34;https://youtu.be/_B_24GUWdSM&#34;&gt;Robert Shiller&lt;/a&gt; @ Yale in 2011&lt;/li&gt;
+&lt;li&gt;Portfolio Theory: &lt;a href=&#34;https://youtu.be/z2oQe6B1Qa4&#34;&gt;CAPM, &amp;amp; APT: Andrew Lo&lt;/a&gt; @ MIT in 2008&lt;/li&gt;
+&lt;li&gt;Portfolio Management: &lt;a href=&#34;https://youtu.be/8TJQhQ2GZ0Y&#34;&gt;Jake Xia&lt;/a&gt; @ MIT in 2013&lt;/li&gt;
+&lt;li&gt;Portfolio Theory: &lt;a href=&#34;https://youtu.be/ywl3pq6yc54&#34;&gt;Peter Kempthorne&lt;/a&gt; @ MIT in 2013&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;efficient-portfolios&#34;&gt;Efficient Portfolios&lt;/h2&gt;
 &lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Efficient vs Inefficient Portfolios&#34; src=&#34;https://www.youtube.com/embed/oAvx-l053Tk?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h2 id=&#34;portfolio-optimization&#34;&gt;Portfolio Optimization&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;Example: &lt;a href=&#34;https://youtu.be/gA_cNrHm_rI&#34;&gt;Stock Returns from FINRA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Example: &lt;a href=&#34;https://youtu.be/yRSjSnVSSwo&#34;&gt;Stock Returns from Bloomberg&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Example: &lt;a href=&#34;https://youtu.be/PCiqHFIQzpY&#34;&gt;Data Preparation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Example: &lt;a href=&#34;https://youtu.be/_bJuBe6TQKQ&#34;&gt;Covariance Matrix&lt;/a&gt; in Excel&lt;/li&gt;
 &lt;li&gt;Example: Portfolio Optimization in Excel &lt;a href=&#34;https://youtu.be/XyM7zPoD6KU&#34;&gt;(Beginner)&lt;/a&gt;&lt;/li&gt;
@@ -1552,18 +1562,15 @@ John Cochrane @ UChicago
 &lt;li&gt;Example: &lt;a href=&#34;https://youtu.be/UK8PIiVr0v4&#34;&gt;Graph the Efficient Frontier in Excel using Random Portfolios&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;linear-algebra-review&#34;&gt;Linear Algebra Review&lt;/h2&gt;
-&lt;h3&gt;Intro to Matrices @ Khan Academy&lt;/h3&gt;
-&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Introduction to matrices&#34; src=&#34;https://www.youtube.com/embed/xyAuNHPsq-g?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h3&gt;Matrix Multiplication @ Khan Academy&lt;/h3&gt;
-&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Matrix multiplication (part 1)&#34; src=&#34;https://www.youtube.com/embed/aKhhYguY0DQ?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h3&gt;Linear Algebra @ 3Blue1Brown&lt;/h3&gt;
-&lt;p&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/kjBOesZCoqc&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h3&gt;What is a Vector? @ 3Blue1Brown&lt;/h3&gt;
-&lt;p&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/fNk_zzaMoSs&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h3&gt;Linear Transformations @ 3Blue1Brown&lt;/h3&gt;
-&lt;p&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/kYB8IZa5AuE&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h3&gt;Matrix Multiplication @ 3Blue1Brown&lt;/h3&gt;
-&lt;p&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/XkY2DOUCWMU&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;</description>
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/xyAuNHPsq-g?si=2FYuFQYlfNbduZhE&#34;&gt;Intro to Matrices&lt;/a&gt; @ Khan Academy&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/aKhhYguY0DQ?si=OyHb1wrrr-Qh4Lrs&#34;&gt;Matrix Multiplication&lt;/a&gt; @ Khan Academy&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/kjBOesZCoqc?si=q0Gf1aVScRXtFhPc&#34;&gt;Linear Algebra&lt;/a&gt; @ 3Blue1Brown&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/fNk_zzaMoSs?si=VCjCMMkOyexyE2sQ&#34;&gt;What is a Vector?&lt;/a&gt; @ 3Blue1Brown&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/kYB8IZa5AuE?si=pzKPsnwr2ay7a_9h&#34;&gt;Linear Transformations&lt;/a&gt; @ 3Blue1Brown&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/XkY2DOUCWMU?si=n_c5lWIUI5Vo6DgT&#34;&gt;Matrix Multiplication&lt;/a&gt; @ 3Blue1Brown&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -1795,8 +1802,10 @@ The Stock Market Doesn&#39;t Care How Hard You Try
 &lt;li&gt;Finish the financial statement analysis of the equity valuation project&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr /&gt;
-&lt;h3&gt;Bloomberg Company Information&lt;/h3&gt;
+&lt;h3&gt;Company Information on Bloomberg&lt;/h3&gt;
 &lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/rldrnp-2E1E&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3&gt; Accessing Financial Statements of Public Companies &lt;/h3&gt;
+&lt;p&gt;&lt;iframe title=&#34;YouTube video player&#34; src=&#34;https://www.youtube.com/embed/mW5pdx1ypEs?si=EozGE9PDPPrP5Gpf&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3&gt;Altman Z Score @ Edspira&lt;/h3&gt;
 &lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Altman Z score&#34; src=&#34;https://www.youtube.com/embed/zKR0IKWcHNw?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3&gt;Earnings Management @ Edspira&lt;/h3&gt;
@@ -1830,6 +1839,11 @@ The Stock Market Doesn&#39;t Care How Hard You Try
 &lt;li&gt;Equity Valuation&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr /&gt;
+&lt;h2 id=&#34;company-information&#34;&gt;Company Information&lt;/h2&gt;
+&lt;h2&gt;Company Information on Bloomberg&lt;/h2&gt;
+&lt;p&gt;&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/rldrnp-2E1E?si=lwv3TyRF83XgnxP8&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h2&gt; Accessing Financial Statements of Public Companies &lt;/h2&gt;
+&lt;p&gt;&lt;iframe title=&#34;YouTube video player&#34; src=&#34;https://www.youtube.com/embed/mW5pdx1ypEs?si=EozGE9PDPPrP5Gpf&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h2 id=&#34;relative-valuation&#34;&gt;Relative Valuation&lt;/h2&gt;
 &lt;p&gt;Aswath Damodaran @ NYU&lt;/p&gt;
 &lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Session 35: Relative Valuation&#34; src=&#34;https://www.youtube.com/embed/8N69eLBLTvA?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;

@@ -216,6 +216,12 @@ Aswath Damodoran @ NYU
 &lt;li&gt;Estimate Beta&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr /&gt;
+&lt;h3 id=&#34;getting-data&#34;&gt;Getting Data&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Example: &lt;a href=&#34;https://youtu.be/gA_cNrHm_rI&#34;&gt;Stock Returns from FINRA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Example: &lt;a href=&#34;https://youtu.be/yRSjSnVSSwo&#34;&gt;Stock Returns from Bloomberg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Example: &lt;a href=&#34;https://youtu.be/PCiqHFIQzpY&#34;&gt;Data Preparation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3&gt;CAPM Introduction @ Edspira&lt;/h3&gt;
 &lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Capital Asset Pricing Model&#34; src=&#34;https://www.youtube.com/embed/fDz_DgDJD5g?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3&gt;Systematic vs Idiosyncratic Risk @ Edspira&lt;/h3&gt;
@@ -290,8 +296,10 @@ Andrew Lo @ MIT
 &lt;/ul&gt;
 &lt;hr /&gt;
 &lt;h2 id=&#34;financial-statements-and-cash-flows&#34;&gt;Financial Statements and Cash Flows&lt;/h2&gt;
+&lt;h3&gt; Accessing Financial Statements of Public Companies &lt;/h3&gt;
+&lt;p&gt;&lt;iframe title=&#34;YouTube video player&#34; src=&#34;https://www.youtube.com/embed/mW5pdx1ypEs?si=EozGE9PDPPrP5Gpf&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3&gt; Common Size Financial Statements &lt;/h3&gt;
-&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/i9TSWb1gxl4&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/i9TSWb1gxl4&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3&gt;Cash Flows and Financial Statements&lt;/h3&gt;
 &lt;p&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/k7qCl7axx2E&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3&gt; DuPont Analysis &lt;/h3&gt;
