@@ -216,30 +216,37 @@ Aswath Damodoran @ NYU
 &lt;li&gt;Estimate Beta&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr /&gt;
-&lt;h3 id=&#34;getting-data&#34;&gt;Getting Data&lt;/h3&gt;
+&lt;h2 id=&#34;capital-asset-pricing-model&#34;&gt;Capital Asset Pricing Model&lt;/h2&gt;
+&lt;h3 id=&#34;beta&#34;&gt;Beta&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/fDz_DgDJD5g?si=136ihFlevjaApjYU&#34;&gt;CAPM Introduction&lt;/a&gt; by Michael McLaughlin @ Edspira&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/sYu8E8kjCT0?si=F_UdtucS8f4E_ERq&#34;&gt;What is Beta?&lt;/a&gt; by Michael McLaughlin @ Edspira&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/nRRhzsiVT9s?si=EvkBul3Cbzu9izY0&#34;&gt;Portfolio Beta&lt;/a&gt; by Michael McLaughlin @ Edspira&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;market-beta-as-risk&#34;&gt;Market Beta as Risk&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/qPu4TEGIDYI?si=JdvDO0jFX7u7fg6N&#34;&gt;Systematic vs Idiosyncratic Risk&lt;/a&gt; by Michael McLaughlin @ Edspira&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/QtScOojh5z8?si=2ZsdfbXsISVzrXTA&#34;&gt;Security Market Line&lt;/a&gt; by Michael McLaughlin @ Edspira&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/wOaKzthMUQ0?si=afguMHDFGZZtG7Nv&#34;&gt;Capital Market Line&lt;/a&gt; by Michael McLaughlin @ Edspira&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;equity-risk-premium&#34;&gt;Equity Risk Premium&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/laJkrov4nqk?si=q2sxGZWSkPrMGkcl&#34;&gt;Lecture&lt;/a&gt; by Aswath Damodaran @ NYU&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;estimate-beta&#34;&gt;Estimate Beta&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Example: &lt;a href=&#34;https://youtu.be/gA_cNrHm_rI&#34;&gt;Stock Returns from FINRA&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Example: &lt;a href=&#34;https://youtu.be/yRSjSnVSSwo&#34;&gt;Stock Returns from Bloomberg&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Example: &lt;a href=&#34;https://youtu.be/PCiqHFIQzpY&#34;&gt;Data Preparation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;CAPM Introduction @ Edspira&lt;/h3&gt;
-&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Capital Asset Pricing Model&#34; src=&#34;https://www.youtube.com/embed/fDz_DgDJD5g?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h3&gt;Systematic vs Idiosyncratic Risk @ Edspira&lt;/h3&gt;
-&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Systematic Risk vs Unsystematic Risk&#34; src=&#34;https://www.youtube.com/embed/qPu4TEGIDYI?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h3&gt;What is Beta? @ Edspira&lt;/h3&gt;
-&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Introduction to Beta in Corporate Finance&#34; src=&#34;https://www.youtube.com/embed/sYu8E8kjCT0?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h3&gt;Portfolio Beta @ Edspira&lt;/h3&gt;
-&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;How to Calculate the Beta of a Portfolio&#34; src=&#34;https://www.youtube.com/embed/nRRhzsiVT9s?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h3&gt;Security Market Line @ Edspira&lt;/h3&gt;
-&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;The Security Market Line&#34; src=&#34;https://www.youtube.com/embed/QtScOojh5z8?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h3&gt;Capital Market Line @ Edspira&lt;/h3&gt;
-&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;The Capital Market Line&#34; src=&#34;https://www.youtube.com/embed/wOaKzthMUQ0?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h3&gt;Equity Risk Premium @ NYU&lt;/h3&gt;
-&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Session 6: Estimating Hurdle Rates - Equity Risk Premiums - Historical &amp;amp; Survey&#34; src=&#34;https://www.youtube.com/embed/laJkrov4nqk?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h2 id=&#34;advanced&#34;&gt;Advanced&lt;/h2&gt;
-&lt;h3&gt; CAPM and APT Lecture &lt;/h3&gt;
-Andrew Lo @ MIT
-&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Ses 16: The CAPM and APT II&#34; src=&#34;https://www.youtube.com/embed/N8gtnbJuMoo?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3 id=&#34;example-capm-regression&#34;&gt;Example: CAPM Regression&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/b4FsppHu3rE&#34; width=&#34;560&#34; height=&#34;315&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3 id=&#34;example-regression-results&#34;&gt;Example: Regression Results&lt;/h3&gt;
+&lt;p&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/ZfyYjC1Tcks&#34; width=&#34;560&#34; height=&#34;315&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h2 id=&#34;optional-advanced-videos&#34;&gt;Optional Advanced Videos&lt;/h2&gt;
+&lt;h3 id=&#34;capm-and-apt-lecture&#34;&gt;CAPM and APT Lecture&lt;/h3&gt;
+&lt;p&gt;Andrew Lo @ MIT in 2008&lt;/p&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 560px; height: 315px;&#34; title=&#34;Ses 16: The CAPM and APT II&#34; src=&#34;https://www.youtube.com/embed/N8gtnbJuMoo?feature=oembed&amp;amp;rel=0&#34; width=&#34;560&#34; height=&#34;315&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -258,21 +265,26 @@ Andrew Lo @ MIT
 &lt;/ul&gt;
 &lt;hr /&gt;
 &lt;h2 id=&#34;probability-review&#34;&gt;Probability Review&lt;/h2&gt;
-&lt;h3&gt;Probability of Independent Events @ Khan Academy&lt;/h3&gt;
-&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Compound probability of independent events | Probability and Statistics | Khan Academy&#34; src=&#34;https://www.youtube.com/embed/xSc4oLA9e8o?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h3&gt;Probability of Dependent Events @ Khan Academy&lt;/h3&gt;
-&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;An Introduction to Conditional Probability&#34; src=&#34;https://www.youtube.com/embed/bgCMjHzXTXs?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h3&gt;Conditional Probability Example @ Khan Academy&lt;/h3&gt;
-&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Conditional probability tree diagram example | Probability | AP Statistics | Khan Academy&#34; src=&#34;https://www.youtube.com/embed/hxEdXUB_IdQ?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h3&gt;An Introduction to Conditional Probability @ JB Statistics&lt;/h3&gt;
-&lt;p&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/bgCMjHzXTXs&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h2 id=&#34;optional&#34;&gt;Optional&lt;/h2&gt;
-&lt;h3&gt;Hostile Takeovers @ APM&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/xSc4oLA9e8o?si=3C7gKdXs7uFX5d-x&#34;&gt;Probability of Independent Events&lt;/a&gt; @ Khan Academy&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/VjLEoo3hIoM?si=P7PYvo9kyQKwbXTK&#34;&gt;Probability of Dependent Events&lt;/a&gt; @ Khan Academy&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/hxEdXUB_IdQ?si=-RxTtUfIFWrpQNAo&#34;&gt;Conditional Probability Example&lt;/a&gt; @ Khan Academy&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/bgCMjHzXTXs?si=hN_704gtQ5Be7fdN&#34;&gt;Introduction to Conditional Probability&lt;/a&gt; by Jeremy Balka @ University of Guelph&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;applications&#34;&gt;Applications&lt;/h2&gt;
+&lt;h3 id=&#34;risky-bonds&#34;&gt;Risky Bonds&lt;/h3&gt;
+&lt;h3 id=&#34;projects-with-compnents-of-different-risk&#34;&gt;Projects with Compnents of Different Risk&lt;/h3&gt;
+&lt;h3 id=&#34;physical-loss-of-inventory&#34;&gt;Physical Loss of Inventory&lt;/h3&gt;
+&lt;h2 id=&#34;optional-topics&#34;&gt;Optional Topics&lt;/h2&gt;
+&lt;h3 id=&#34;hostile-takeovers&#34;&gt;Hostile Takeovers&lt;/h3&gt;
+&lt;p&gt;Marketplace @ APM&lt;/p&gt;
 &lt;p&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/lJ2XZn9sD2k&#34; width=&#34;560&#34; height=&#34;315&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h3&gt;Corporate Inversions @ APM&lt;/h3&gt;
-&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Corporate Inversions&#34; src=&#34;https://www.youtube.com/embed/iSwdsWjC9VQ?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h3&gt;Corporate Consolidation @ LastWeekTonight&lt;/h3&gt;
-&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Corporate Consolidation: Last Week Tonight with John Oliver (HBO)&#34; src=&#34;https://www.youtube.com/embed/00wQYmvfhn4?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3 id=&#34;corporate-inversions&#34;&gt;Corporate Inversions&lt;/h3&gt;
+&lt;p&gt;Marketplace @ APM&lt;/p&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 560px; height: 315px;&#34; title=&#34;Corporate Inversions&#34; src=&#34;https://www.youtube.com/embed/iSwdsWjC9VQ?feature=oembed&amp;amp;rel=0&#34; width=&#34;560&#34; height=&#34;315&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3 id=&#34;corporate-consolidation&#34;&gt;Corporate Consolidation&lt;/h3&gt;
+&lt;p&gt;LastWeekTonight&lt;/p&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 560px; height: 315px;&#34; title=&#34;Corporate Consolidation: Last Week Tonight with John Oliver (HBO)&#34; src=&#34;https://www.youtube.com/embed/00wQYmvfhn4?feature=oembed&amp;amp;rel=0&#34; width=&#34;560&#34; height=&#34;315&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -392,24 +404,23 @@ Andrew Lo @ MIT
 &lt;hr /&gt;
 &lt;h3 id=&#34;capital-structure-overview&#34;&gt;Capital Structure Overview&lt;/h3&gt;
 &lt;!---[Khan Academy](https://www.youtube.com/embed/YEZMReBbkP0?feature=oembed&amp;amp;rel=0)---&gt;
-&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;FIN 401 - Capital Structure Overview - Ryerson University&#34; src=&#34;https://www.youtube.com/embed/G-8d_rYha3Y?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 560px; height: 315px;&#34; title=&#34;FIN 401 - Capital Structure Overview - Ryerson University&#34; src=&#34;https://www.youtube.com/embed/G-8d_rYha3Y?feature=oembed&amp;amp;rel=0&#34; width=&#34;560&#34; height=&#34;315&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h3 id=&#34;modigliani-and-miller&#34;&gt;Modigliani and Miller&lt;/h3&gt;
-&lt;h3&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/0u6xsLFqRWk&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34;&gt;&lt;/iframe&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/0u6xsLFqRWk&#34; width=&#34;560&#34; height=&#34;315&#34; allowfullscreen=&#34;allowfullscreen&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34;&gt;&lt;/iframe&gt;&lt;/h3&gt;
 &lt;h3 id=&#34;optimal-financing&#34;&gt;Optimal Financing&lt;/h3&gt;
-&lt;h3&gt;The Trade-Off&lt;/h3&gt;
-Aswath Damodaran @ NYU in 2014
-&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/pQYRAt6Z7Gw&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;h3&gt;The Cost of Capital&lt;/h3&gt;
-Aswath Damodaran @ NYU in 2014
-&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/e1JVOluxr-M&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;h3&gt;Moving to the Optimal Financing Mix&lt;/h3&gt;
-Aswath Damodaran @ NYU in 2014
-&lt;iframe width=&#34;640&#34; height=&#34;480&#34; src=&#34;https://www.youtube.com/embed/nbLwsUUboy0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h4 id=&#34;the-trade-off-by-aswath-damodaran--nyu-in-2014&#34;&gt;The Trade-Off by Aswath Damodaran @ NYU in 2014&lt;/h4&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/pQYRAt6Z7Gw&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h4 id=&#34;the-cost-of-capital-by-aswath-damodaran--nyu-in-2014&#34;&gt;The Cost of Capital by Aswath Damodaran @ NYU in 2014&lt;/h4&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/e1JVOluxr-M&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h4 id=&#34;moving-to-the-optimal-financing-mix-by-aswath-damodaran--nyu-in-2014&#34;&gt;Moving to the Optimal Financing Mix by Aswath Damodaran @ NYU in 2014&lt;/h4&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/nbLwsUUboy0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;homemade-leverage&#34;&gt;Homemade Leverage&lt;/h2&gt;
-&lt;p&gt;Homemade Leverage Example (&lt;a href=&#34;https://www.youtube.com/embed/DYgkscj4ixc?feature=oembed&amp;amp;rel=0&#34;&gt;Part 1&lt;/a&gt;) (&lt;a href=&#34;https://www.youtube.com/embed/g2WM1mKrdfs?feature=oembed&amp;amp;rel=0&#34;&gt;Part 2&lt;/a&gt;) (&lt;a href=&#34;https://www.youtube.com/embed/KN66vi42st4?feature=oembed&amp;amp;rel=0&#34;&gt;Part 3&lt;/a&gt;)&lt;/p&gt;
-&lt;h2 id=&#34;optional&#34;&gt;Optional&lt;/h2&gt;
-&lt;h3&gt; Leveraged Buyout &lt;/h3&gt;
-&lt;p&gt;&lt;iframe style=&#34;width: 640px; height: 480px;&#34; title=&#34;Private equity explained&#34; src=&#34;https://www.youtube.com/embed/yca0A3B7Pqc?feature=oembed&amp;amp;rel=0&#34; width=&#34;640&#34; height=&#34;480&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;</description>
+&lt;p&gt;Homemade Leverage Example (&lt;a href=&#34;https://www.youtube.com/embed/DYgkscj4ixc?feature=oembed&amp;amp;rel=0&#34;&gt;Part 1&lt;/a&gt;) (&lt;a href=&#34;https://www.youtube.com/embed/g2WM1mKrdfs?feature=oembed&amp;amp;rel=0&#34;&gt;Part 2&lt;/a&gt;) (&lt;a href=&#34;https://www.youtube.com/embed/KN66vi42st4?feature=oembed&amp;amp;rel=0&#34;&gt;Part 3&lt;/a&gt;)
+by Patrick @ Ryerson University&lt;/p&gt;
+&lt;h2 id=&#34;optional-topics&#34;&gt;Optional Topics&lt;/h2&gt;
+&lt;h3 id=&#34;leveraged-buyout&#34;&gt;Leveraged Buyout&lt;/h3&gt;
+&lt;p&gt;Marketplace @ APM&lt;/p&gt;
+&lt;p&gt;&lt;iframe style=&#34;width: 560px; height: 315px;&#34; title=&#34;Private equity explained&#34; src=&#34;https://www.youtube.com/embed/yca0A3B7Pqc?feature=oembed&amp;amp;rel=0&#34; width=&#34;560&#34; height=&#34;315&#34; allowfullscreen=&#34;allowfullscreen&#34; webkitallowfullscreen=&#34;webkitallowfullscreen&#34; mozallowfullscreen=&#34;mozallowfullscreen&#34; allow=&#34;autoplay *&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
